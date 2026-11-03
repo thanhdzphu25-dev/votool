@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER247F91A31782488314",
+  "user_id": 7483972349,
+  "reason": "Bị mất pro rồi a",
+  "photo_file_id": "",
+  "created_time": "01:52:54 03/07/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "10:42:28 03/07/2026",
+      "sender": "admin:8101416491",
+      "text": "Nhắn riêng"
+    }
+  ]
+}

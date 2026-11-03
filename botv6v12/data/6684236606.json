@@ -1,0 +1,15 @@
+{
+  "id": 6684236606,
+  "username": "khoile231",
+  "full_name": "Khoi Le",
+  "created_at": "22/05/2026",
+  "last_seen": "21:19:55 17/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

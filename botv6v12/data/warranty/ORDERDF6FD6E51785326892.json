@@ -1,0 +1,22 @@
+{
+  "order_code": "ORDERDF6FD6E51785326892",
+  "user_id": 7257713481,
+  "reason": "Tài khoản bị khóa",
+  "photo_file_id": "AgACAgUAAxkBAAEG_dFqaiG2lmSZz-Y85-gR5gNtflNzigAC4xNrG-G6UVcXVVTPcKJlTQEAAwIAA3gAAz0E",
+  "created_time": "22:52:27 29/07/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "23:36:19 29/07/2026",
+      "sender": "admin:8101416491",
+      "text": "Nhắn mình"
+    },
+    {
+      "time": "00:33:23 30/07/2026",
+      "sender": "admin:8101416491",
+      "text": "b ib mình để check đổi"
+    }
+  ]
+}

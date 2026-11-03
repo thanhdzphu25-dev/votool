@@ -1,0 +1,15 @@
+{
+  "id": 5681142972,
+  "username": "realXmike",
+  "full_name": "Who? Xmike",
+  "created_at": "13/05/2026",
+  "last_seen": "08:40:33 17/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDERF3DCD4FF1778844503",
+  "user_id": 8192546845,
+  "reason": "Mất ccpr",
+  "photo_file_id": "AgACAgUAAxkBAAEDNa1qDrhDh66poGvNTvzCNbtJ_ilvJQACDhNrGy6LeFRLbXpbE6xp9AEAAwIAA3cAAzsE",
+  "created_time": "14:46:38 21/05/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "17:18:34 21/05/2026",
+      "sender": "admin:8101416491",
+      "text": "Đọc thông báo bot"
+    }
+  ]
+}

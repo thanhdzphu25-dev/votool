@@ -1,0 +1,33 @@
+{
+  "id": 5298797564,
+  "username": null,
+  "full_name": "Dat Tran Quoc",
+  "created_at": "07/07/2026",
+  "last_seen": "13:57:40 03/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 73600
+  },
+  "orders": [
+    {
+      "order_code": "ORDERF8623BB81788149055",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 2,
+      "total_money": 25600,
+      "created_time": "11:04:52 31/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDAD9C13E1783390992",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 2,
+      "total_money": 48000,
+      "created_time": "09:24:07 07/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

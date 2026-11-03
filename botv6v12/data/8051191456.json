@@ -1,0 +1,61 @@
+{
+  "id": 8051191456,
+  "username": null,
+  "full_name": "Z Ng",
+  "created_at": "01/07/2026",
+  "last_seen": "12:05:08 20/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 230800
+  },
+  "orders": [
+    {
+      "order_code": "ORDERD674153E1785675744",
+      "product_name": "CHATGPT PLUS 1 THÁNG BH7D - Trâu",
+      "quantity": 1,
+      "total_money": 59150,
+      "created_time": "20:02:24 02/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4F2829ED1785615891",
+      "product_name": "CHATGPT PLUS 1 THÁNG BH7D - Trâu",
+      "quantity": 1,
+      "total_money": 59150,
+      "created_time": "03:26:00 02/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1DD2392F1784870295",
+      "product_name": "ChatGpt Plus 1 Tháng BHF - Trâu",
+      "quantity": 1,
+      "total_money": 112500,
+      "created_time": "12:19:11 24/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "20:02:24 02/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 59150,
+      "before": 59150,
+      "after": 0,
+      "note": "Thanh toán 1 x CHATGPT PLUS 1 THÁNG BH7D - Trâu"
+    },
+    {
+      "time": "19:19:24 02/08/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 59150,
+      "delta": 59150,
+      "before": 0,
+      "after": 59150,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

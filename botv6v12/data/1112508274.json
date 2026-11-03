@@ -1,0 +1,16 @@
+{
+  "id": 1112508274,
+  "username": "Nan129",
+  "full_name": "Anh",
+  "created_at": "12/09/2026",
+  "last_seen": "10:36:26 12/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

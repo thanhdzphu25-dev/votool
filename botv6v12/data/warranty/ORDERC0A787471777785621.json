@@ -1,0 +1,22 @@
+{
+  "order_code": "ORDERC0A787471777785621",
+  "user_id": 8606468177,
+  "reason": "Tài khoản lỗi đăng nhập",
+  "photo_file_id": "AgACAgUAAxkBAAECfjlp-qWGiXGxC8Qy7VsHfOb0xtjPOgACew9rG7rO2Vc2Fgxh2KVWswEAAwIAA3kAAzsE",
+  "created_time": "09:23:37 06/05/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "09:51:12 06/05/2026",
+      "sender": "admin:8101416491",
+      "text": "nhắn cho ad b"
+    },
+    {
+      "time": "09:54:48 06/05/2026",
+      "sender": "user:8606468177",
+      "text": "tk bị lỗi deactive rồi nhờ bạn bảo hành nhen"
+    }
+  ]
+}

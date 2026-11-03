@@ -1,0 +1,25 @@
+{
+  "id": 6441710298,
+  "username": "phungtanXWorld",
+  "full_name": "phung tan",
+  "created_at": "13/08/2026",
+  "last_seen": "13:27:42 25/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18200
+  },
+  "orders": [
+    {
+      "order_code": "ORDER280E76F71787291643",
+      "product_name": "LINK GEMINI PRO 18 THÁNG BH6H",
+      "quantity": 1,
+      "total_money": 18200,
+      "created_time": "12:54:35 21/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 8249285568,
+  "username": null,
+  "full_name": "Duy Đào",
+  "created_at": "23/04/2026",
+  "last_seen": "22:25:38 10/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 13000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER2B8A33B61778506139",
+      "product_name": "CHATGPT PLUS 1M KBH",
+      "quantity": 2,
+      "total_money": 13000,
+      "created_time": "20:28:59 11/05/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "20:28:59 11/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 13000,
+      "before": 13000,
+      "after": 0,
+      "note": "Thanh toán 2 x CHATGPT PLUS 1M KBH"
+    },
+    {
+      "time": "20:28:51 11/05/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 13000,
+      "before": 0,
+      "after": 13000,
+      "txid": "FT26131300882667",
+      "note": "CUSTOMER NAP8249285568. TU: DAO LE DUY"
+    }
+  ],
+  "lang": "vi"
+}

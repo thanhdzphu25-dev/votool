@@ -1,0 +1,16 @@
+{
+  "id": 5530366810,
+  "username": "latiosthinh",
+  "full_name": "Thomas Nguyen",
+  "created_at": "12/08/2026",
+  "last_seen": "23:16:12 28/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

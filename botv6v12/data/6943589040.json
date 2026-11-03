@@ -1,0 +1,25 @@
+{
+  "id": 6943589040,
+  "username": "tnd0506",
+  "full_name": "Deng chan",
+  "created_at": "20/09/2026",
+  "last_seen": "18:44:25 20/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 19200
+  },
+  "orders": [
+    {
+      "order_code": "ORDER03C5A1841789904633",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 19200,
+      "created_time": "18:44:25 20/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

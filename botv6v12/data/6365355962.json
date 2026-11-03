@@ -1,0 +1,16 @@
+{
+  "id": 6365355962,
+  "username": null,
+  "full_name": "Hehe Hoho",
+  "created_at": "03/09/2026",
+  "last_seen": "09:53:16 21/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

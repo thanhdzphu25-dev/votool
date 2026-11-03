@@ -1,0 +1,41 @@
+{
+  "id": 8073124123,
+  "username": null,
+  "full_name": "Quang Luu",
+  "created_at": "12/09/2026",
+  "last_seen": "11:53:35 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 75000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERAE9A38B81789472276",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 3,
+      "total_money": 44100,
+      "created_time": "18:38:46 15/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER05ABC4171789405259",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "00:02:31 15/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1D872CDD1789231130",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 15900,
+      "created_time": "23:40:32 12/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

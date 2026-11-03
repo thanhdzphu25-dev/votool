@@ -1,0 +1,27 @@
+{
+  "id": 7212111530,
+  "username": null,
+  "full_name": null,
+  "created_at": "02/08/2026",
+  "last_seen": "19:19:09 02/08/2026",
+  "balance": 20000,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [
+    {
+      "time": "19:19:09 02/08/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 20000,
+      "delta": 20000,
+      "before": 0,
+      "after": 20000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1704590169,
+  "username": null,
+  "full_name": "Uet Nbk",
+  "created_at": "03/09/2026",
+  "last_seen": "00:56:37 17/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 46500
+  },
+  "orders": [
+    {
+      "order_code": "ORDERA090CF4C1789581368",
+      "product_name": "[BH30D] Capcut Team 30D",
+      "quantity": 1,
+      "total_money": 46500,
+      "created_time": "00:56:37 17/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

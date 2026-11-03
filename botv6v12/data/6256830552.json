@@ -1,0 +1,15 @@
+{
+  "id": 6256830552,
+  "username": null,
+  "full_name": "Loc Pham",
+  "created_at": "08/06/2026",
+  "last_seen": "18:41:09 24/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

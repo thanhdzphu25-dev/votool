@@ -1,0 +1,25 @@
+{
+  "id": 839819437,
+  "username": "minhduc17801",
+  "full_name": "Minh",
+  "created_at": "12/08/2026",
+  "last_seen": "18:06:05 12/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18400
+  },
+  "orders": [
+    {
+      "order_code": "ORDERCFF254A51786532678",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18400,
+      "created_time": "18:06:05 12/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

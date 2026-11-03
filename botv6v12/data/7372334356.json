@@ -1,0 +1,25 @@
+{
+  "id": 7372334356,
+  "username": "allgme",
+  "full_name": "Thanh Thắng",
+  "created_at": "27/04/2026",
+  "last_seen": "16:43:05 09/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 112500
+  },
+  "orders": [
+    {
+      "order_code": "ORDERCB4A6A4E1784608407",
+      "product_name": "ChatGpt Plus 1 Tháng BHF - Trâu",
+      "quantity": 1,
+      "total_money": 112500,
+      "created_time": "11:34:19 21/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6967422760,
+  "username": "dongnguyen981",
+  "full_name": "Sachin",
+  "created_at": "02/07/2026",
+  "last_seen": "16:55:09 09/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "en"
+}

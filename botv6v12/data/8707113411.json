@@ -1,0 +1,77 @@
+{
+  "id": 8707113411,
+  "username": null,
+  "full_name": "vua loài bò",
+  "created_at": "19/07/2026",
+  "last_seen": "20:47:46 24/09/2026",
+  "balance": 480,
+  "stats": {
+    "total_orders": 5,
+    "done_orders": 5,
+    "total_spent": 135670
+  },
+  "orders": [
+    {
+      "order_code": "ORDER3D32F5771790086265",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18600,
+      "created_time": "21:11:44 22/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4B9F54EE1785674540",
+      "product_name": "CHATGPT PLUS 1 THÁNG BH7D - Trâu",
+      "quantity": 1,
+      "total_money": 59150,
+      "created_time": "19:42:42 02/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB2E299711785527885",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 22400,
+      "created_time": "02:58:36 01/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFB3F7C511785167046",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "22:45:17 27/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERAF2661F21784537570",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 17520,
+      "created_time": "15:52:50 20/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "15:52:50 20/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 17520,
+      "before": 18000,
+      "after": 480,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "15:51:54 20/07/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 18000,
+      "before": 0,
+      "after": 18000,
+      "txid": "FT26201791292146",
+      "note": "CUSTOMER NAP8707113411. TU: TRAN TRONG QUYET"
+    }
+  ],
+  "lang": "vi"
+}

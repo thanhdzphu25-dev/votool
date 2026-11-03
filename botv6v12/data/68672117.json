@@ -1,0 +1,15 @@
+{
+  "id": 68672117,
+  "username": "huynhminhtuan",
+  "full_name": "Huỳnh Minh Tuấn",
+  "created_at": "08/05/2026",
+  "last_seen": "10:29:48 22/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

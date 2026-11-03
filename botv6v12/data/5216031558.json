@@ -1,0 +1,73 @@
+{
+  "id": 5216031558,
+  "username": "Colleague87",
+  "full_name": "Colleague",
+  "created_at": "17/09/2026",
+  "last_seen": "18:04:54 26/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 7,
+    "done_orders": 6,
+    "total_spent": 358000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERFC6B677F1790267913",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 5,
+      "total_money": 112500,
+      "created_time": "23:40:17 24/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER558C5EC51789914663",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 5,
+      "total_money": 94500,
+      "created_time": "21:31:32 20/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER91A89A1E1789695743",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 2,
+      "total_money": 50400,
+      "created_time": "08:42:44 18/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5A9BA75E1789689689",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 25200,
+      "created_time": "07:02:03 18/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER123C25DC1789689358",
+      "product_name": "YouTube Premium 1 Tháng (BH Full)",
+      "quantity": 1,
+      "total_money": 25000,
+      "created_time": "06:59:59 18/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER22F1EB281789689012",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 25200,
+      "created_time": "06:50:41 18/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE08499471789687385",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 25200,
+      "created_time": "06:24:04 18/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

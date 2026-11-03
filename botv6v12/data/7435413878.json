@@ -1,0 +1,15 @@
+{
+  "id": 7435413878,
+  "username": "RishadProX",
+  "full_name": "Rishad Hasan",
+  "created_at": "06/06/2026",
+  "last_seen": "21:02:48 06/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

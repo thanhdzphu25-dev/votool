@@ -1,0 +1,25 @@
+{
+  "id": 6536235954,
+  "username": "peter1004",
+  "full_name": "Hoang Hien",
+  "created_at": "13/07/2026",
+  "last_seen": "15:25:29 14/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 17520
+  },
+  "orders": [
+    {
+      "order_code": "ORDERCF18CF1C1784540196",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 17520,
+      "created_time": "16:38:13 20/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

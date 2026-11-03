@@ -1,0 +1,33 @@
+{
+  "id": 1210451361,
+  "username": "levub8386",
+  "full_name": "Mr G",
+  "created_at": "01/04/2026",
+  "last_seen": "08:25:19 05/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 53080
+  },
+  "orders": [
+    {
+      "order_code": "ORDER1FA43B041788405514",
+      "product_name": "Capcut Pro Acc Cấp 30D",
+      "quantity": 1,
+      "total_money": 46080,
+      "created_time": "10:19:03 03/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4AE644AC1776484954",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7000,
+      "created_time": "11:03:02 18/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

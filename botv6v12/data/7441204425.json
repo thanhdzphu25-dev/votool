@@ -1,0 +1,32 @@
+{
+  "id": 7441204425,
+  "username": "NA_Store1",
+  "full_name": "BDN",
+  "created_at": "03/05/2026",
+  "last_seen": "21:21:57 21/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 160000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERA79537C91778398478",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 80000,
+      "created_time": "14:35:04 10/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER810CD4531778354753",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 80000,
+      "created_time": "02:26:33 10/05/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": []
+}

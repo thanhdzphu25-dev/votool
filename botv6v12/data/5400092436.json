@@ -1,0 +1,41 @@
+{
+  "id": 5400092436,
+  "username": null,
+  "full_name": "Kai Quyen",
+  "created_at": "03/09/2026",
+  "last_seen": "05:55:45 26/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 2,
+    "total_spent": 60000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERA4CF9BB01789296798",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 15600,
+      "created_time": "17:54:11 13/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4C5501B81788528941",
+      "product_name": "YouTube Premium 1 Tháng (Không BH)",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "20:37:34 04/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCA32E66C1788448979",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 29400,
+      "created_time": "22:23:41 03/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

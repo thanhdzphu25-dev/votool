@@ -1,0 +1,77 @@
+{
+  "id": 6035281043,
+  "username": "eman_resu8",
+  "full_name": "a b",
+  "created_at": "02/07/2026",
+  "last_seen": "19:17:45 06/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 5,
+    "done_orders": 5,
+    "total_spent": 88500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER802FC1A11788644271",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 32400,
+      "created_time": "04:39:47 06/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER458EDC3E1787659109",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 15600,
+      "created_time": "18:59:34 25/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER696AB6AF1787657906",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 15600,
+      "created_time": "18:39:50 25/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6EDFDBC01787551553",
+      "product_name": "[KEY] HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "13:07:44 24/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD43C4DA51782988083",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 20400,
+      "created_time": "17:28:03 02/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "17:28:03 02/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 20400,
+      "before": 20400,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "17:27:42 02/07/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 20400,
+      "before": 0,
+      "after": 20400,
+      "txid": "FT26183414230045",
+      "note": "LE DUC MANHNAP6035281043 bJMVQIYA/025742"
+    }
+  ],
+  "lang": "vi"
+}

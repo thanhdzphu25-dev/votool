@@ -1,0 +1,54 @@
+{
+  "order_code": "ORDERC8C105611781610220",
+  "user_id": 7781666521,
+  "reason": "ko vào đc",
+  "photo_file_id": "AgACAgUAAxkBAAEEAitqM_pD2vv18y_Wmvfz01_XlE556wACYxBrG35RoVX5-nZNWYXYMAEAAwIAA3cAAzwE",
+  "created_time": "21:02:02 18/06/2026",
+  "status": "pending",
+  "closed": true,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "21:47:21 18/06/2026",
+      "sender": "admin:8101416491",
+      "text": "Do mạng"
+    },
+    {
+      "time": "21:48:01 18/06/2026",
+      "sender": "user:7781666521",
+      "text": "mạng bth mà a"
+    },
+    {
+      "time": "21:48:39 18/06/2026",
+      "sender": "admin:8101416491",
+      "text": "Die là nó báo rõ b giờ gửi tk mình log cho b xem"
+    },
+    {
+      "time": "21:49:12 18/06/2026",
+      "sender": "user:7781666521",
+      "text": "7517060624 | Ahmed@123@Thunder"
+    },
+    {
+      "time": "21:51:32 18/06/2026",
+      "sender": "admin:8101416491",
+      "text": "Lỗi thật chờ tí đổi tk nhé :)"
+    },
+    {
+      "time": "21:53:00 18/06/2026",
+      "sender": "user:7781666521",
+      "text": "ok"
+    },
+    {
+      "time": "21:53:39 18/06/2026",
+      "sender": "admin:8101416491",
+      "text": "84854735081 | adminbss@123"
+    },
+    {
+      "time": "22:00:28 18/06/2026",
+      "sender": "user:7781666521",
+      "text": "r nhé"
+    }
+  ],
+  "closed_time": "22:03:52 18/06/2026",
+  "closed_by": 8101416491
+}

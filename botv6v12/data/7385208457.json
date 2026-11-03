@@ -1,0 +1,25 @@
+{
+  "id": 7385208457,
+  "username": "chenchen462",
+  "full_name": "Alex Chen",
+  "created_at": "10/08/2026",
+  "last_seen": "09:07:00 15/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 49840
+  },
+  "orders": [
+    {
+      "order_code": "ORDER74A909A31786301040",
+      "product_name": "[BH25D] CapCut Pro 1 Tháng",
+      "quantity": 1,
+      "total_money": 49840,
+      "created_time": "01:45:23 10/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

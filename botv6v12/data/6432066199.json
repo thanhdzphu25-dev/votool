@@ -1,0 +1,25 @@
+{
+  "id": 6432066199,
+  "username": "uyendtt2904",
+  "full_name": "Thu Uyen",
+  "created_at": "20/07/2026",
+  "last_seen": "21:56:59 20/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 14250
+  },
+  "orders": [
+    {
+      "order_code": "ORDER402A07181784518562",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "10:36:36 20/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

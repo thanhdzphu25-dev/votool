@@ -1,0 +1,25 @@
+{
+  "id": 7294022430,
+  "username": "ducpham2705",
+  "full_name": "Duc Pham",
+  "created_at": "03/09/2026",
+  "last_seen": "00:46:40 16/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 15600
+  },
+  "orders": [
+    {
+      "order_code": "ORDERBA8431D81789300571",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 15600,
+      "created_time": "18:56:41 13/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

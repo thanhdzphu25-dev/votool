@@ -1,0 +1,15 @@
+{
+  "id": 6537416193,
+  "username": "tracer286",
+  "full_name": "traxcer",
+  "created_at": "03/05/2026",
+  "last_seen": "22:06:22 17/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

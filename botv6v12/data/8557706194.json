@@ -1,0 +1,99 @@
+{
+  "id": 8557706194,
+  "username": "DuyChienShop",
+  "full_name": "LuKa",
+  "created_at": "16/06/2026",
+  "last_seen": "16:38:54 24/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 1,
+    "total_spent": 62000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERA2C138431789702440",
+      "product_name": "Canva Pro Edu 2 Năm",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "10:34:00 18/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER696F818F1788762696",
+      "product_name": "Canva Pro edu 1 Năm",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "13:31:36 07/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCD1997411781614027",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "19:47:07 16/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "10:34:00 18/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 18000,
+      "before": 18000,
+      "after": 0,
+      "note": "Thanh toán 1 x Canva Pro Edu 2 Năm"
+    },
+    {
+      "time": "10:33:21 18/09/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 18000,
+      "before": 0,
+      "after": 18000,
+      "txid": "FT26261251309145",
+      "note": "BUI DUY CHIEN MBVCB.16110973447.158976.NAP8557706194.CT tu 1064029619 BUI DUY CHIEN toi 0000032377312 HOANG PHU MINH tai MB- Ma GD ACSP/ af158976"
+    },
+    {
+      "time": "13:31:36 07/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 9000,
+      "before": 9000,
+      "after": 0,
+      "note": "Thanh toán 1 x Canva Pro edu 1 Năm"
+    },
+    {
+      "time": "13:31:01 07/09/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 9000,
+      "before": 0,
+      "after": 9000,
+      "txid": "FT26250870801490",
+      "note": "BUI DUY CHIEN MBVCB.15934160510.373436.NAP8557706194.CT tu 1064029619 BUI DUY CHIEN toi 0000032377312 HOANG PHU MINH tai MB- Ma GD ACSP/ lw373436"
+    },
+    {
+      "time": "19:47:07 16/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 35000,
+      "before": 35000,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "19:46:49 16/06/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 35000,
+      "before": 0,
+      "after": 35000,
+      "txid": "FT26167080405366",
+      "note": "CUSTOMER NAP8557706194. TU: BUI DUY CHIEN"
+    }
+  ],
+  "lang": "vi"
+}

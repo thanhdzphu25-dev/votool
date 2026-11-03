@@ -1,0 +1,24 @@
+{
+  "id": 8095586111,
+  "username": "daubuoi739",
+  "full_name": "H H",
+  "created_at": "17/03/2026",
+  "last_seen": "18:16:40 23/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 2000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERB036CEBA1773884763",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 2000,
+      "created_time": "08:46:47 19/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": []
+}

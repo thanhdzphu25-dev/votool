@@ -1,0 +1,25 @@
+{
+  "id": 1882118229,
+  "username": "Canhet12345",
+  "full_name": "can Het🦴🐾",
+  "created_at": "21/07/2026",
+  "last_seen": "08:56:05 30/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 17760
+  },
+  "orders": [
+    {
+      "order_code": "ORDER5C814FA51784638698",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 17760,
+      "created_time": "19:58:51 21/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

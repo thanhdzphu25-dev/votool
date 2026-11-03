@@ -1,0 +1,41 @@
+{
+  "id": 1320358659,
+  "username": "Aamircong",
+  "full_name": "Cong Aamir",
+  "created_at": "16/03/2026",
+  "last_seen": "01:19:59 11/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 22500
+  },
+  "orders": [
+    {
+      "order_code": "ORDERC99CE4321775896923",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "15:42:37 11/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBC5758A21775752603",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "23:37:59 09/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7F4176B21773598475",
+      "product_name": "ChatGpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "01:15:58 16/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

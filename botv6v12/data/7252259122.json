@@ -1,0 +1,16 @@
+{
+  "id": 7252259122,
+  "username": "Naams007",
+  "full_name": "Naams",
+  "created_at": "12/09/2026",
+  "last_seen": "08:42:26 12/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

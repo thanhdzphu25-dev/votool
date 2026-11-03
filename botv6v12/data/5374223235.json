@@ -1,0 +1,41 @@
+{
+  "id": 5374223235,
+  "username": "EricTripx",
+  "full_name": "Trí Phạm",
+  "created_at": "13/08/2026",
+  "last_seen": "15:37:27 24/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 1,
+    "total_spent": 42200
+  },
+  "orders": [
+    {
+      "order_code": "ORDER20E55CC01789026709",
+      "product_name": "YouTube Premium 1 Tháng (Không BH)",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "14:52:27 10/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER90EBBA671787841867",
+      "product_name": "Canva Pro edu 1 Năm",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "21:44:57 27/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER399082401786589333",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18200,
+      "created_time": "09:49:24 13/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

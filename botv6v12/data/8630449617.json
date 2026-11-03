@@ -1,0 +1,33 @@
+{
+  "id": 8630449617,
+  "username": null,
+  "full_name": "tducn nguyen",
+  "created_at": "21/09/2026",
+  "last_seen": "07:45:06 24/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 56700
+  },
+  "orders": [
+    {
+      "order_code": "ORDEREBD30F081789972243",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18900,
+      "created_time": "13:31:03 21/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER34AEE47F1789971750",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 2,
+      "total_money": 37800,
+      "created_time": "13:23:12 21/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

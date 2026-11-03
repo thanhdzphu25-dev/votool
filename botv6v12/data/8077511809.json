@@ -1,0 +1,45 @@
+{
+  "id": 8077511809,
+  "username": "baokun2006",
+  "full_name": "Kun Bao",
+  "created_at": "02/04/2026",
+  "last_seen": "22:54:34 29/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 20000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERA99FEF341775874196",
+      "product_name": "Chatgpt Bussines 5sl BH3D",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "09:23:16 11/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "09:23:16 11/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 20000,
+      "before": 20000,
+      "after": 0,
+      "note": "Thanh toán 1 x Chatgpt Bussines 5sl BH3D"
+    },
+    {
+      "time": "09:19:31 11/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 20000,
+      "delta": 20000,
+      "before": 0,
+      "after": 20000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

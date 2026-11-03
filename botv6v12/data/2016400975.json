@@ -1,0 +1,41 @@
+{
+  "id": 2016400975,
+  "username": "kiwi243",
+  "full_name": "Duc Vu",
+  "created_at": "20/03/2026",
+  "last_seen": "14:07:32 08/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 175250
+  },
+  "orders": [
+    {
+      "order_code": "ORDERA93376851786551929",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "23:26:04 12/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER54BC812C1779557608",
+      "product_name": "CHATGPT PLUS 1M - Trâu BHF",
+      "quantity": 1,
+      "total_money": 149000,
+      "created_time": "00:34:02 24/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB5754B4E1773974249",
+      "product_name": "Chatgpt Bussines 1 Tháng 5 Slot KBH",
+      "quantity": 1,
+      "total_money": 12000,
+      "created_time": "09:38:29 20/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

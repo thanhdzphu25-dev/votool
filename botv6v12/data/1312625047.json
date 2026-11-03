@@ -1,0 +1,25 @@
+{
+  "id": 1312625047,
+  "username": null,
+  "full_name": "Kk Hjhj",
+  "created_at": "22/09/2026",
+  "last_seen": "14:20:23 24/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18600
+  },
+  "orders": [
+    {
+      "order_code": "ORDER37CA84AB1790071189",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18600,
+      "created_time": "17:01:02 22/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

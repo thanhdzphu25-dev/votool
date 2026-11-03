@@ -1,0 +1,13 @@
+{
+  "order_code": "ORDERF7B1AE0C1777880813",
+  "user_id": 7424750545,
+  "reason": "mình dán link vào trình duyệt thì hiện thông báo link đã được dùng bởi người dùng khác",
+  "photo_file_id": "AgACAgUAAxkBAAECXhFp-FCqbLW_VXVKaAKUSYbI5hY8PQACuQ9rG0L4wVc5n8q9Eh1yWQEAAwIAA3kAAzsE",
+  "created_time": "14:54:20 04/05/2026",
+  "status": "pending",
+  "closed": true,
+  "close_reason": "Khonh",
+  "chat_messages": [],
+  "closed_time": "18:52:12 04/05/2026",
+  "closed_by": 8101416491
+}

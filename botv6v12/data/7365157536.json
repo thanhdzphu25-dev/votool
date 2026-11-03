@@ -1,0 +1,16 @@
+{
+  "id": 7365157536,
+  "username": "minhduocquach",
+  "full_name": "Quach Minh Duoc",
+  "created_at": "12/07/2026",
+  "last_seen": "20:06:23 23/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

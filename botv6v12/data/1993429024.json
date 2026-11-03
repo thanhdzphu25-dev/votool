@@ -1,0 +1,25 @@
+{
+  "id": 1993429024,
+  "username": null,
+  "full_name": "Ngô Nguyên Vũ",
+  "created_at": "17/07/2026",
+  "last_seen": "23:18:42 17/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER88E1A0C41784305026",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "23:18:42 17/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

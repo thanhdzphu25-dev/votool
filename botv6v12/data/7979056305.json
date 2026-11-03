@@ -1,0 +1,44 @@
+{
+  "id": 7979056305,
+  "username": "catleanhoanganh",
+  "full_name": "Hoàng Anh Mất acc lần 2",
+  "created_at": "14/03/2026",
+  "last_seen": "15:02:28 17/04/2026",
+  "balance": 1186,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 5500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER41CD959F1773484173",
+      "product_name": "ChatGpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 5500,
+      "created_time": "17:29:33 14/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "17:29:33 14/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 5500,
+      "before": 6686,
+      "after": 1186,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng KBH"
+    },
+    {
+      "time": "17:28:59 14/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 6686,
+      "before": 0,
+      "after": 6686,
+      "txid": "FT26073165466002",
+      "note": "ZION O5CH7IQCBLKS-NAP7979056305. TU: ZION"
+    }
+  ]
+}

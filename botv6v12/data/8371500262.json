@@ -1,0 +1,25 @@
+{
+  "id": 8371500262,
+  "username": null,
+  "full_name": "jay hatieu",
+  "created_at": "22/09/2026",
+  "last_seen": "11:27:20 25/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18600
+  },
+  "orders": [
+    {
+      "order_code": "ORDERC39770041790035615",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18600,
+      "created_time": "07:08:54 22/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDERBD0FBE691777896789",
+  "user_id": 5584505254,
+  "reason": "acc bị dính 2fa, cho mình xin 2fa",
+  "photo_file_id": "AgACAgUAAxkBAAECYsJp-I9gizv938ebYyhUouialpp5MgAC8RJrG4cTwVd6k8TMAV3eDwEAAwIAA3kAAzsE",
+  "created_time": "19:23:53 04/05/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "19:30:16 04/05/2026",
+      "sender": "admin:8101416491",
+      "text": "Gửi tk cho@thanhtr789"
+    }
+  ]
+}

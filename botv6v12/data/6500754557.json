@@ -1,0 +1,15 @@
+{
+  "id": 6500754557,
+  "username": "HanhCR",
+  "full_name": "Hạnh CR",
+  "created_at": "15/03/2026",
+  "last_seen": "10:54:26 15/03/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

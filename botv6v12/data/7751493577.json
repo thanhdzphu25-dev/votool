@@ -1,0 +1,44 @@
+{
+  "id": 7751493577,
+  "username": "bingo1235",
+  "full_name": "ok",
+  "created_at": "02/06/2026",
+  "last_seen": "20:05:00 02/06/2026",
+  "balance": 2000,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 48000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERC9E389DF1780405114",
+      "product_name": "Link Gemini Pro 18 Tháng KBH",
+      "quantity": 1,
+      "total_money": 48000,
+      "created_time": "19:58:34 02/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "19:58:34 02/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 48000,
+      "before": 50000,
+      "after": 2000,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng KBH"
+    },
+    {
+      "time": "19:58:12 02/06/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 50000,
+      "before": 0,
+      "after": 50000,
+      "txid": "FT26153055873984",
+      "note": "CUSTOMER QR   NAP7751493577   Ma giao dich  Trace883787 Trace 883787"
+    }
+  ]
+}

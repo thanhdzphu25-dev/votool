@@ -1,0 +1,15 @@
+{
+  "id": 8532309015,
+  "username": null,
+  "full_name": "Hiếu Ngọc",
+  "created_at": "15/03/2026",
+  "last_seen": "18:21:20 15/03/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

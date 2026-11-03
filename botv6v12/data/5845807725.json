@@ -1,0 +1,16 @@
+{
+  "id": 5845807725,
+  "username": "Quang_Huy_04",
+  "full_name": "Huy Nguyễn",
+  "created_at": "03/09/2026",
+  "last_seen": "18:33:57 24/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

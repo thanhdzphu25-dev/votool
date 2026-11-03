@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER8EEF73FD1783817474",
+  "user_id": 6064964730,
+  "reason": "Hướng dẫn mình đăng nhập nhé",
+  "photo_file_id": "AgACAgUAAxkBAAEFsU9qUyQENkeP5kA-AAH55OhGU6nhu8sAAuIQaxvGdplW7o1mv39KL3gBAAMCAAN3AAM8BA",
+  "created_time": "12:20:17 12/07/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "13:20:52 12/07/2026",
+      "sender": "admin:8101416491",
+      "text": "Tk|mk|2fa b copy chuỗi 2fa lên 2fa.live để lấy mã"
+    }
+  ]
+}

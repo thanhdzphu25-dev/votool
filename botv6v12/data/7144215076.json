@@ -1,0 +1,70 @@
+{
+  "id": 7144215076,
+  "username": "ro0ckNa",
+  "full_name": "🦆",
+  "created_at": "11/06/2026",
+  "last_seen": "09:13:04 31/07/2026",
+  "balance": 30000,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 150000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERAB5461001782188838",
+      "product_name": "Chatgpt Plus Gmail - Apple Pay BH4D",
+      "quantity": 1,
+      "total_money": 80000,
+      "created_time": "11:28:37 23/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9ED13E4C1781550274",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "02:04:34 16/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9EA902521781549697",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "01:54:57 16/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "02:04:34 16/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 35000,
+      "before": 65000,
+      "after": 30000,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "01:54:57 16/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 35000,
+      "before": 100000,
+      "after": 65000,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "01:54:38 16/06/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 100000,
+      "before": 0,
+      "after": 100000,
+      "txid": "FT26167149355487",
+      "note": "VND-TGTT-PHAM VAN DIEPNAP7144215076FT26167080695834 kCPW XPKK/943940"
+    }
+  ],
+  "lang": "vi"
+}

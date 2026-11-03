@@ -1,0 +1,33 @@
+{
+  "id": 1019315198,
+  "username": "vinhneff",
+  "full_name": "Vinh",
+  "created_at": "21/07/2026",
+  "last_seen": "18:55:58 24/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 64080
+  },
+  "orders": [
+    {
+      "order_code": "ORDERCABF5B411788439950",
+      "product_name": "Capcut Pro Acc Cấp 30D",
+      "quantity": 1,
+      "total_money": 46080,
+      "created_time": "19:53:04 03/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER980FE2251786946433",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "13:01:31 17/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

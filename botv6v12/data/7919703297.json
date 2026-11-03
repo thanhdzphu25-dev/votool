@@ -1,0 +1,25 @@
+{
+  "id": 7919703297,
+  "username": "QCNguyenSon",
+  "full_name": "Nguyễn Sơn",
+  "created_at": "21/09/2026",
+  "last_seen": "15:39:03 27/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18600
+  },
+  "orders": [
+    {
+      "order_code": "ORDER5E8896EE1790498242",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18600,
+      "created_time": "15:38:29 27/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

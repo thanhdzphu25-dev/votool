@@ -1,0 +1,101 @@
+{
+  "id": 7655285729,
+  "username": "Ngthebao08",
+  "full_name": "The Bao",
+  "created_at": "21/06/2026",
+  "last_seen": "23:59:34 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 8,
+    "done_orders": 8,
+    "total_spent": 161600
+  },
+  "orders": [
+    {
+      "order_code": "ORDER6B2805311786438469",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "15:55:04 11/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0878730D1786423767",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "11:50:16 11/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDF8695F81784275695",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "15:08:39 17/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3C58B5841784273846",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "14:38:14 17/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7250B4AC1784273549",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "14:33:03 17/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE348A6701782718100",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 21600,
+      "created_time": "14:28:20 29/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDCB22FFE1782486001",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 26500,
+      "created_time": "22:00:58 26/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7B86B5BF1782267106",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 23500,
+      "created_time": "09:12:44 24/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "14:28:20 29/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 21600,
+      "before": 21600,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "14:27:56 29/06/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 21600,
+      "delta": 21600,
+      "before": 0,
+      "after": 21600,
+      "reason": "Cộng bù"
+    }
+  ],
+  "lang": "vi"
+}

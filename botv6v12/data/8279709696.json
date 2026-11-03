@@ -1,0 +1,25 @@
+{
+  "id": 8279709696,
+  "username": "levibacninh",
+  "full_name": "Levi",
+  "created_at": "07/07/2026",
+  "last_seen": "10:38:35 16/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 50000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER8BAFB12F1783687429",
+      "product_name": "CapCut Pro 1 Tháng Nâng Chính Chủ BHF",
+      "quantity": 1,
+      "total_money": 50000,
+      "created_time": "19:44:07 10/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

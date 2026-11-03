@@ -1,0 +1,315 @@
+{
+  "id": 8128397198,
+  "username": null,
+  "full_name": "xu hào",
+  "created_at": "13/03/2026",
+  "last_seen": "17:43:34 06/04/2026",
+  "balance": 20500,
+  "stats": {
+    "total_orders": 14,
+    "done_orders": 14,
+    "total_spent": 125500
+  },
+  "orders": [
+    {
+      "order_code": "ORDERC9E624D51775066912",
+      "product_name": "Chatgpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 12000,
+      "created_time": "01:08:32 02/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER2BCDBC271775009554",
+      "product_name": "Grok Super 30-50 NGÀY BHF",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "09:12:34 01/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE3D9B5671774353312",
+      "product_name": "ChatGpt Plus 1 Tháng l KBH",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "18:55:12 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0F7DA5F91774345058",
+      "product_name": "ChatGpt Plus 1 Tháng l BH7D",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "16:37:38 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER195E52061774331192",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "12:46:32 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE597872F1774322442",
+      "product_name": "ChatGpt Plus 1 Tháng l BH7D",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "10:20:42 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9DD8C7941774316365",
+      "product_name": "ChatGpt Plus 1 Tháng l KBH",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "08:39:25 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER253F19411774236666",
+      "product_name": "ChatGpt Plus 1 Tháng l KBH",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "10:31:06 23/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7EFF6DC71774173178",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "16:52:58 22/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERADA57D671773982324",
+      "product_name": "Slot Chatgpt Bussines 1 Tháng",
+      "quantity": 1,
+      "total_money": 4000,
+      "created_time": "11:52:04 20/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER782E50A91773907280",
+      "product_name": "ChatGpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "15:01:20 19/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER86C7B7541773816479",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "13:47:59 18/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1E5BF2CB1773799171",
+      "product_name": "Veo3 Ultra 25K Credits | BH24H",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "08:59:31 18/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5BBBE7451773664852",
+      "product_name": "ChatGpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "19:40:52 16/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "01:08:32 02/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 12000,
+      "before": 32500,
+      "after": 20500,
+      "note": "Thanh toán 1 x Chatgpt Plus 1 Tháng KBH"
+    },
+    {
+      "time": "09:12:34 01/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 20000,
+      "before": 52500,
+      "after": 32500,
+      "note": "Thanh toán 1 x Grok Super 30-50 NGÀY BHF"
+    },
+    {
+      "time": "09:12:09 01/04/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 50000,
+      "before": 2500,
+      "after": 52500,
+      "txid": "FT26091051590088",
+      "note": "CUSTOMER NAP8128397198   Ma giao dich  Trace254899 Trace 254899"
+    },
+    {
+      "time": "18:55:12 24/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 4500,
+      "before": 7000,
+      "after": 2500,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng l KBH"
+    },
+    {
+      "time": "16:37:38 24/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 13500,
+      "after": 7000,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng l BH7D"
+    },
+    {
+      "time": "16:36:20 24/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 10000,
+      "before": 3500,
+      "after": 13500,
+      "txid": "FT26083732200470",
+      "note": "LE SU VIN MBVCB.13496855889.112789.NAP8128397198.CT tu 1036290613 LE SU VIN toi 0000032377312 HOANG PHU MINH tai MB - Ma GD ACSP/ gz112789"
+    },
+    {
+      "time": "12:46:30 24/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6000,
+      "before": 9500,
+      "after": 3500,
+      "note": "Thanh toán 1 x CapCut Pro Team 35D | BHF"
+    },
+    {
+      "time": "10:20:42 24/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 16000,
+      "after": 9500,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng l BH7D"
+    },
+    {
+      "time": "08:39:25 24/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 4500,
+      "before": 20500,
+      "after": 16000,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng l KBH"
+    },
+    {
+      "time": "10:31:06 23/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 4500,
+      "before": 25000,
+      "after": 20500,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng l KBH"
+    },
+    {
+      "time": "16:52:56 22/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6000,
+      "before": 31000,
+      "after": 25000,
+      "note": "Thanh toán 1 x CapCut Pro Team 35D | BHF"
+    },
+    {
+      "time": "11:52:04 20/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 4000,
+      "before": 35000,
+      "after": 31000,
+      "note": "Thanh toán 1 x Slot Chatgpt Bussines 1 Tháng"
+    },
+    {
+      "time": "15:01:20 19/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 5000,
+      "before": 40000,
+      "after": 35000,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng KBH"
+    },
+    {
+      "time": "10:17:47 19/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 40000,
+      "before": 0,
+      "after": 40000,
+      "txid": "FT26078280038630",
+      "note": "CUSTOMER NAP8128397198   Ma giao dich  Trace930669 Trace 930669"
+    },
+    {
+      "time": "13:47:56 18/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6000,
+      "before": 6000,
+      "after": 0,
+      "note": "Thanh toán 1 x CapCut Pro Team 35D | BHF"
+    },
+    {
+      "time": "13:47:02 18/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 6000,
+      "before": 0,
+      "after": 6000,
+      "txid": "FT26077641991000",
+      "note": "CUSTOMER NAP8128397198   Ma giao dich  Trace328212 Trace 328212"
+    },
+    {
+      "time": "08:59:29 18/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 35000,
+      "before": 35000,
+      "after": 0,
+      "note": "Thanh toán 1 x Veo3 Ultra 25K Credits | BH24H"
+    },
+    {
+      "time": "08:58:19 18/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 30000,
+      "before": 5000,
+      "after": 35000,
+      "txid": "FT26077401047290",
+      "note": "CUSTOMER NAP8128397198   Ma giao dich  Trace782748 Trace 782748"
+    },
+    {
+      "time": "19:40:52 16/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 5000,
+      "before": 10000,
+      "after": 5000,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng KBH"
+    },
+    {
+      "time": "19:40:00 16/03/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 10000,
+      "delta": 10000,
+      "before": 0,
+      "after": 10000,
+      "reason": ""
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 6969934349,
+  "username": "danghuyz",
+  "full_name": "Bin Nguyen",
+  "created_at": "27/09/2026",
+  "last_seen": "22:40:51 27/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18600
+  },
+  "orders": [
+    {
+      "order_code": "ORDER76F054201790523616",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18600,
+      "created_time": "22:40:51 27/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

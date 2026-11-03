@@ -1,0 +1,15 @@
+{
+  "id": 8302098899,
+  "username": "Tinadmintin",
+  "full_name": "Ktin Tin",
+  "created_at": "20/06/2026",
+  "last_seen": "07:26:17 20/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

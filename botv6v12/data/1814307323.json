@@ -1,0 +1,25 @@
+{
+  "id": 1814307323,
+  "username": "Tinnguyenktv",
+  "full_name": "Tín nguyên",
+  "created_at": "03/09/2026",
+  "last_seen": "22:30:28 19/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 17000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER29FF46A31788370244",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 17000,
+      "created_time": "00:32:59 03/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

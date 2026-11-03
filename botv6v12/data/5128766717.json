@@ -1,0 +1,71 @@
+{
+  "id": 5128766717,
+  "username": null,
+  "full_name": "chanhhh @chanhhh22",
+  "created_at": "17/03/2026",
+  "last_seen": "18:54:54 18/05/2026",
+  "balance": 1000,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 8500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER1927702F1777941562",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "07:39:22 05/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD91289741773702448",
+      "product_name": "ChatGpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "06:07:28 17/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "07:39:20 05/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 3500,
+      "before": 4500,
+      "after": 1000,
+      "note": "Thanh toán 1 x CapCut Pro Team 7D | BHF"
+    },
+    {
+      "time": "07:38:22 05/05/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 3500,
+      "before": 1000,
+      "after": 4500,
+      "txid": "FT26125009718001",
+      "note": "MUA A CHANG MB 0000032377312 NAP5128766717 ORDE R1C8BCFE51777941429- MaGD ACSP/ LB 063572"
+    },
+    {
+      "time": "06:07:28 17/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 5000,
+      "before": 6000,
+      "after": 1000,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng KBH"
+    },
+    {
+      "time": "06:06:32 17/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 6000,
+      "before": 0,
+      "after": 6000,
+      "txid": "FT26076009606666",
+      "note": "MUA A CHANG MB 0000032377312 NAP5128766717- Ma GD ACSP/ XC055978"
+    }
+  ]
+}

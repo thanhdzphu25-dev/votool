@@ -1,0 +1,16 @@
+{
+  "id": 7682792655,
+  "username": "ngdtuanh",
+  "full_name": "Tuấn Anh Nguyễn Duy",
+  "created_at": "27/07/2026",
+  "last_seen": "19:55:50 31/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

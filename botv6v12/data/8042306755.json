@@ -1,0 +1,15 @@
+{
+  "id": 8042306755,
+  "username": "lofhioz",
+  "full_name": "LOF Hioz",
+  "created_at": "16/04/2026",
+  "last_seen": "22:50:09 21/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

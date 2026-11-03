@@ -1,0 +1,237 @@
+{
+  "id": 5286180533,
+  "username": "tienanhnguyenhuu",
+  "full_name": "Tiến Anh Nguyễn Hữu",
+  "created_at": "17/03/2026",
+  "last_seen": "09:02:27 03/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 25,
+    "done_orders": 25,
+    "total_spent": 419300
+  },
+  "orders": [
+    {
+      "order_code": "ORDER0B3F78DF1788400919",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 16800,
+      "created_time": "09:02:27 03/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBDEF8D761783163176",
+      "product_name": "CHATGPT PLUS 1 THÁNG ( TUT SEPA ) — Trâu - BH3D",
+      "quantity": 1,
+      "total_money": 42500,
+      "created_time": "18:06:45 04/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER05C950A01781663261",
+      "product_name": "XBOX GIFT CODE - NGẪU NHIÊN",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "09:27:41 17/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER718A9E0F1781658347",
+      "product_name": "XBOX GIFT CODE - NGẪU NHIÊN",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "08:06:16 17/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF8A6A2A41778999306",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 2,
+      "total_money": 29000,
+      "created_time": "13:28:47 17/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDEREDB834BA1778772434",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "22:27:40 14/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8BE4F69A1778076688",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "21:12:12 06/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE666CCFE1777298682",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "21:05:45 27/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER76951C7B1777127498",
+      "product_name": "Chatgpt PLus 1 Tháng BH3D",
+      "quantity": 2,
+      "total_money": 47000,
+      "created_time": "21:32:04 25/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER034008071777083731",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "09:22:37 25/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4404170F1777077018",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "07:30:49 25/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER89B852281776699569",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 2,
+      "total_money": 57000,
+      "created_time": "22:40:01 20/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDBC9E8A81776695067",
+      "product_name": "CapCut Pro 35D",
+      "quantity": 1,
+      "total_money": 7000,
+      "created_time": "21:25:05 20/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC638897B1776586789",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 1,
+      "total_money": 32000,
+      "created_time": "15:20:19 19/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER371B95471775742336",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "20:45:53 09/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5B4049AF1775482929",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "20:42:39 06/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER304559CB1775312226",
+      "product_name": "Grok Heavy 1Y | KBH | Gói Trải Nghiệm",
+      "quantity": 1,
+      "total_money": 13000,
+      "created_time": "21:17:26 04/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8BD3C7C31775311513",
+      "product_name": "CapCut Pro 14D  | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "21:05:33 04/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA224D9E81775266852",
+      "product_name": "Grok Super 1 Tháng | KBH",
+      "quantity": 1,
+      "total_money": 11500,
+      "created_time": "08:41:24 04/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER034EB4631775222120",
+      "product_name": "Grok Super 1 Tháng | KBH",
+      "quantity": 1,
+      "total_money": 11500,
+      "created_time": "20:16:00 03/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERED139E541774626519",
+      "product_name": "Chatgpt Bussines 5 Slot KBH",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "22:49:00 27/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER29BD6A991774162450",
+      "product_name": "Chatgpt Bussines 1 Tháng 5 Slot KBH",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "13:54:30 22/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER525D92181774162009",
+      "product_name": "Chatgpt Bussines 1 Tháng 5 Slot KBH",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "13:47:07 22/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0D0A5C511773843214",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "21:14:03 18/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFA24D32B1773762648",
+      "product_name": "Chatgpt Bussines 1 Tháng 5 Slot KBH",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "22:51:11 17/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "09:27:41 17/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 20000,
+      "before": 20000,
+      "after": 0,
+      "note": "Thanh toán 1 x XBOX GIFT CODE - NGẪU NHIÊN"
+    },
+    {
+      "time": "09:24:14 17/06/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 20000,
+      "delta": 20000,
+      "before": 0,
+      "after": 20000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

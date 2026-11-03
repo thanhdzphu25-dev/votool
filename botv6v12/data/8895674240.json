@@ -1,0 +1,16 @@
+{
+  "id": 8895674240,
+  "username": null,
+  "full_name": "Son Nam Nguyen",
+  "created_at": "19/09/2026",
+  "last_seen": "15:19:53 19/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

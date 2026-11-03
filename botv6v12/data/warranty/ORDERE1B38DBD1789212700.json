@@ -1,0 +1,22 @@
+{
+  "order_code": "ORDERE1B38DBD1789212700",
+  "user_id": 1619919591,
+  "reason": "Mình mua đơn này về chưa dùng, này vào báo đã đuơc sử dụng",
+  "photo_file_id": "",
+  "created_time": "22:44:25 15/09/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "23:16:07 15/09/2026",
+      "sender": "admin:8101416491",
+      "text": "Nhắn @thanhtr789"
+    },
+    {
+      "time": "23:17:36 15/09/2026",
+      "sender": "admin:8101416491",
+      "text": "Bảo hành 12h thôi b nếu để lâu thì khoảng 2-3 ngày thôi"
+    }
+  ]
+}

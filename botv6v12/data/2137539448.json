@@ -1,0 +1,16 @@
+{
+  "id": 2137539448,
+  "username": "HuyDinh14",
+  "full_name": "Huy Đinh",
+  "created_at": "30/06/2026",
+  "last_seen": "10:03:36 15/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

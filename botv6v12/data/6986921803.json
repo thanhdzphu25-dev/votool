@@ -1,0 +1,102 @@
+{
+  "id": 6986921803,
+  "username": "duytrinhstudio",
+  "full_name": "Duy Trịnh",
+  "created_at": "21/03/2026",
+  "last_seen": "12:24:01 25/09/2026",
+  "balance": 1500,
+  "stats": {
+    "total_orders": 7,
+    "done_orders": 7,
+    "total_spent": 57000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERC20440DE1788073350",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 13000,
+      "created_time": "14:02:53 30/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF30DB5F81782719998",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 8000,
+      "created_time": "15:00:43 29/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA882A0321775640087",
+      "product_name": "Grok Super 30-50 Ngày KBH",
+      "quantity": 1,
+      "total_money": 13000,
+      "created_time": "16:22:02 08/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3C8689351774762067",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "12:28:13 29/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER2DC02BD41774598836",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "15:08:01 27/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0A6B510B1774102940",
+      "product_name": "ChatGpt Plus 1 Tháng l KBH",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "21:22:20 21/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6953DB981774102574",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "21:16:14 21/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "21:22:20 21/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 5000,
+      "before": 6500,
+      "after": 1500,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng l KBH"
+    },
+    {
+      "time": "21:16:12 21/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6000,
+      "before": 12500,
+      "after": 6500,
+      "note": "Thanh toán 1 x CapCut Pro Team 35D | BHF"
+    },
+    {
+      "time": "21:15:31 21/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 12500,
+      "before": 0,
+      "after": 12500,
+      "txid": "FT26080142906661",
+      "note": "TRINH XUAN DUY MBVCB.13462726111.304903.NAP6986921803.CT tu 1060974650 TRINH XUAN DUY toi 0000032377312 HOANG PHU MINH tai MB- Ma GD ACSP/ ex304903"
+    }
+  ],
+  "lang": "vi"
+}

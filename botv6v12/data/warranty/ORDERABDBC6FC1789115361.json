@@ -1,0 +1,37 @@
+{
+  "order_code": "ORDERABDBC6FC1789115361",
+  "user_id": 5932467284,
+  "reason": "Đường link 2 gói thuê bao đã sử dụng r shop ơi",
+  "photo_file_id": "",
+  "created_time": "09:03:37 13/09/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "12:35:17 13/09/2026",
+      "sender": "admin:8101416491",
+      "text": "Ảnh bằng chứng b"
+    },
+    {
+      "time": "16:17:24 13/09/2026",
+      "sender": "user:5932467284",
+      "text": "Shop ơi"
+    },
+    {
+      "time": "16:18:46 13/09/2026",
+      "sender": "admin:8101416491",
+      "text": "Nói b"
+    },
+    {
+      "time": "16:19:40 13/09/2026",
+      "sender": "user:5932467284",
+      "text": "Mình gửi ảnh rồi shop xem nó bị sao á"
+    },
+    {
+      "time": "16:19:59 13/09/2026",
+      "sender": "admin:8101416491",
+      "text": "Không thấy b , ib thẳng @thanhtr789"
+    }
+  ]
+}

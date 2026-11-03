@@ -1,0 +1,25 @@
+{
+  "id": 6552589271,
+  "username": "MinhKGV",
+  "full_name": "MinhKGV",
+  "created_at": "09/04/2026",
+  "last_seen": "00:06:49 03/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 10000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER360F27021775706233",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "10:44:47 09/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,12 @@
+{
+  "order_code": "ORDERC7DA342E1777811502",
+  "user_id": 1777056340,
+  "product_id": "sp_1777638029453",
+  "product_name": "Meitu VIP 7D | BHF",
+  "qty": 1,
+  "unit_price": 6500,
+  "total": 6500,
+  "created_at": "19:31:42 03/05/2026",
+  "expires_at_unix": 1777812102,
+  "payment_desc": "NAP1777056340 ORDERC7DA342E1777811502"
+}

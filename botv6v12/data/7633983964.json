@@ -1,0 +1,16 @@
+{
+  "id": 7633983964,
+  "username": "not_molli",
+  "full_name": "Molli",
+  "created_at": "09/06/2026",
+  "last_seen": "00:31:16 26/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

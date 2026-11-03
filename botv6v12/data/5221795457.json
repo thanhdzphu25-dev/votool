@@ -1,0 +1,99 @@
+{
+  "id": 5221795457,
+  "username": "ThayLangChungKhoan",
+  "full_name": "Thầy Lạng Chứng Khoán",
+  "created_at": "11/07/2026",
+  "last_seen": "15:35:16 04/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 68000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERC851DADC1785367779",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 32000,
+      "created_time": "06:29:39 30/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER71183FB81784255748",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "09:35:48 17/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER56B171EA1783761340",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "16:15:40 11/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "06:29:39 30/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 32000,
+      "before": 32000,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "06:28:21 30/07/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 32000,
+      "before": 0,
+      "after": 32000,
+      "txid": "FT26211409024194",
+      "note": "CUSTOMER NAP5221795457. TU: TRINH THE LANG"
+    },
+    {
+      "time": "09:35:48 17/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 18000,
+      "before": 18000,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "09:35:25 17/07/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 18000,
+      "before": 0,
+      "after": 18000,
+      "txid": "FT26198107661950",
+      "note": "TRINH THE LANGNAP5221795457 FT26198007317653 kCE5 5MJU/705515"
+    },
+    {
+      "time": "16:15:40 11/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 18000,
+      "before": 18000,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "16:15:11 11/07/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 18000,
+      "before": 0,
+      "after": 18000,
+      "txid": "FT26192128064517",
+      "note": "CUSTOMER NAP5221795457. TU: TRINH THE LANG"
+    }
+  ],
+  "lang": "vi"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1219429779,
+  "username": "DDViett",
+  "full_name": "Việt",
+  "created_at": "12/07/2026",
+  "last_seen": "14:09:26 11/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

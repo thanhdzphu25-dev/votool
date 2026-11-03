@@ -1,0 +1,53 @@
+{
+  "id": 1638184709,
+  "username": "tigian3741",
+  "full_name": "From Zero",
+  "created_at": "15/03/2026",
+  "last_seen": "12:14:22 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 21000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER7E12ACCE1781172463",
+      "product_name": "[KEY] HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "17:09:05 11/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER274B0D151775311208",
+      "product_name": "Grok Heavy 1Y - KBH - Gói Trải Nghiệm",
+      "quantity": 1,
+      "total_money": 16000,
+      "created_time": "21:00:08 04/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "21:00:08 04/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 16000,
+      "before": 16000,
+      "after": 0,
+      "note": "Thanh toán 1 x Grok Heavy 1Y - KBH - Gói Trải Nghiệm"
+    },
+    {
+      "time": "20:58:23 04/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 16000,
+      "delta": 16000,
+      "before": 0,
+      "after": 16000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

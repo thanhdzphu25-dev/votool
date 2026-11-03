@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDERED5C31E51778144141",
+  "user_id": 8772905018,
+  "reason": "tài khoản chưa được nâng cấp pro",
+  "photo_file_id": "AgACAgUAAxkBAAECkUNp_FcJrDDC9nB3GGyRlwikYJjOuQAC9RBrGzKv6VeKvPBm-nbP_QEAAwIAA3kAAzsE",
+  "created_time": "16:11:29 07/05/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "17:51:37 07/05/2026",
+      "sender": "admin:8101416491",
+      "text": "Nhắn admin"
+    }
+  ]
+}

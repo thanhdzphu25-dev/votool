@@ -1,0 +1,25 @@
+{
+  "id": 6291300507,
+  "username": "hades1325",
+  "full_name": "Hades",
+  "created_at": "21/09/2026",
+  "last_seen": "16:05:39 21/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18900
+  },
+  "orders": [
+    {
+      "order_code": "ORDERDD3B4F9B1789976122",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18900,
+      "created_time": "14:35:51 21/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

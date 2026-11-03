@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDERD3027DF41779165965",
+  "user_id": 7483972349,
+  "reason": "Bị khoá a",
+  "photo_file_id": "AgACAgUAAxkBAAEDWylqFpCJ8mPv1367UnZyz7KQE2rblAACpBFrG9vIuVSmcgoYvHdP2QEAAwIAA3kAAzsE",
+  "created_time": "13:35:01 27/05/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "20:05:29 27/05/2026",
+      "sender": "admin:8101416491",
+      "text": "nhắn tele"
+    }
+  ]
+}

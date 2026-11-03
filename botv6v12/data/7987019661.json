@@ -1,0 +1,124 @@
+{
+  "id": 7987019661,
+  "username": null,
+  "full_name": "Duc Le",
+  "created_at": "15/03/2026",
+  "last_seen": "15:17:11 16/09/2026",
+  "balance": 20000,
+  "stats": {
+    "total_orders": 5,
+    "done_orders": 5,
+    "total_spent": 62000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERFC6B25421778412945",
+      "product_name": "CHATGPT PLUS 1M KBH",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "18:35:45 10/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6988E4A61776075035",
+      "product_name": "Veo 3 Ultra + AntiGravity 25K Credit BH24H",
+      "quantity": 1,
+      "total_money": 22000,
+      "created_time": "17:11:06 13/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER2C2FC95C1775324166",
+      "product_name": "Chatgpt Bussines 5sl KBH",
+      "quantity": 1,
+      "total_money": 23000,
+      "created_time": "00:36:06 05/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB78DD66E1774517817",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "16:36:57 26/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER74A98F651774009446",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 2000,
+      "created_time": "19:24:06 20/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "18:35:45 10/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 9000,
+      "before": 29000,
+      "after": 20000,
+      "note": "Thanh toán 1 x CHATGPT PLUS 1M KBH"
+    },
+    {
+      "time": "18:24:37 14/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 10000,
+      "delta": 10000,
+      "before": 19000,
+      "after": 29000,
+      "reason": ""
+    },
+    {
+      "time": "00:36:06 05/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 23000,
+      "before": 42000,
+      "after": 19000,
+      "note": "Thanh toán 1 x Chatgpt Bussines 5sl KBH"
+    },
+    {
+      "time": "13:37:01 04/04/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 35000,
+      "before": 7000,
+      "after": 42000,
+      "txid": "FT26094266068091",
+      "note": "CUSTOMER NAP7987019661. TU: LE KHA DUC"
+    },
+    {
+      "time": "16:36:55 26/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6000,
+      "before": 13000,
+      "after": 7000,
+      "note": "Thanh toán 1 x CapCut Pro Team 35D | BHF"
+    },
+    {
+      "time": "19:24:04 20/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 2000,
+      "before": 15000,
+      "after": 13000,
+      "note": "Thanh toán 1 x CapCut Pro Team 7D | BHF"
+    },
+    {
+      "time": "18:33:10 20/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 15000,
+      "before": 0,
+      "after": 15000,
+      "txid": "FT26079750640138",
+      "note": "CUSTOMER NAP7987019661. TU: LE KHA DUC"
+    }
+  ],
+  "lang": "vi"
+}

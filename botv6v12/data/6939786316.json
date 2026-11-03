@@ -1,0 +1,25 @@
+{
+  "id": 6939786316,
+  "username": null,
+  "full_name": "Phan Văn Nguyên",
+  "created_at": "17/07/2026",
+  "last_seen": "09:26:33 27/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18240
+  },
+  "orders": [
+    {
+      "order_code": "ORDER9534B3C41785113965",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18240,
+      "created_time": "08:00:14 27/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

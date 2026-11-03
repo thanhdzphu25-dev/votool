@@ -1,0 +1,79 @@
+{
+  "id": 1778264865,
+  "username": "hugh_nguyen",
+  "full_name": "Hugh",
+  "created_at": "23/03/2026",
+  "last_seen": "11:59:09 05/07/2026",
+  "balance": 500,
+  "stats": {
+    "total_orders": 4,
+    "done_orders": 4,
+    "total_spent": 61500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER52740C9F1781766848",
+      "product_name": "Gemini Pro Pixel 12 Tháng + 5TB KBH",
+      "quantity": 1,
+      "total_money": 46000,
+      "created_time": "14:14:42 18/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER93DA8C4C1780405132",
+      "product_name": "CapCut Pro 7d Sale",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "19:58:52 02/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8CC40BA31774516735",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 2000,
+      "created_time": "16:28:42 26/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER12E3259F1774495697",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "10:28:39 26/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "19:58:52 02/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 7500,
+      "before": 8000,
+      "after": 500,
+      "note": "Thanh toán 1 x CapCut Pro 7d Sale"
+    },
+    {
+      "time": "19:58:34 02/06/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 2000,
+      "before": 6000,
+      "after": 8000,
+      "txid": "FT26153577072318",
+      "note": "NGUYEN VAN HIEUNAP1778264865 02062619 58 26 6153A SCB02MQN9MA 02MQN9MA/515103"
+    },
+    {
+      "time": "22:00:37 01/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 6000,
+      "delta": 6000,
+      "before": 0,
+      "after": 6000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

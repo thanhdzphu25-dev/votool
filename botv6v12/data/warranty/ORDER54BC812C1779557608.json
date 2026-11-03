@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER54BC812C1779557608",
+  "user_id": 2016400975,
+  "reason": "Tài khoản bị khóa",
+  "photo_file_id": "AgACAgUAAxkBAAEDWSdqE7dDvRZmkp8DxU7tTTrD-vC-HAACVRFrGyFQmFRUpqk2CGVpuAEAAwIAA3gAAzsE",
+  "created_time": "09:43:38 25/05/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "09:43:55 25/05/2026",
+      "sender": "admin:8101416491",
+      "text": "@thanhtr789"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "order_code": "ORDEREA9EF2521790056404",
+  "user_id": 7405177423,
+  "reason": "Mua gói rồi làm sao để active vậy?",
+  "photo_file_id": "",
+  "created_time": "12:57:31 22/09/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "14:15:25 22/09/2026",
+      "sender": "admin:8101416491",
+      "text": "vào link nhận như bth b"
+    },
+    {
+      "time": "15:44:06 25/09/2026",
+      "sender": "user:7405177423",
+      "text": "Cảm ơn ad"
+    }
+  ]
+}

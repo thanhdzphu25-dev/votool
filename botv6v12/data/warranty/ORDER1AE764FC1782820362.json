@@ -1,0 +1,22 @@
+{
+  "order_code": "ORDER1AE764FC1782820362",
+  "user_id": 7781666521,
+  "reason": "lỗi",
+  "photo_file_id": "AgACAgUAAxkBAAEFMq9qSMijp2wTB_1ejJiFqa2dMqb3ZAACcxFrG1npSVaVLwficju45gEAAwIAA3gAAzwE",
+  "created_time": "15:47:42 04/07/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "16:19:56 04/07/2026",
+      "sender": "admin:8101416491",
+      "text": "Gửi tk mình"
+    },
+    {
+      "time": "16:20:39 04/07/2026",
+      "sender": "user:7781666521",
+      "text": "maviw64435@outlook.com | adminbss@123 | 37WCARQKM4QRHIXC7B3KOON74WD3IWUD"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6817637556,
+  "username": null,
+  "full_name": "Mạnh Đức Nguyễn",
+  "created_at": "23/09/2026",
+  "last_seen": "09:24:51 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

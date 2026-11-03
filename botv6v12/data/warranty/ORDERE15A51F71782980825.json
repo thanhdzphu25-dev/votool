@@ -1,0 +1,27 @@
+{
+  "order_code": "ORDERE15A51F71782980825",
+  "user_id": 5812112401,
+  "reason": "Không gửi tin nhắn được sang Mua hàng thành công gửi sdt + mã đơn cho @thanhtr789",
+  "photo_file_id": "AgACAgUAAxkBAAEE5KRqRiHMYwYaLNrNIbGZzrocDk5tuQACdQ9rGxI_MFZW9WKoYFk_RwEAAwIAA20AAzwE",
+  "created_time": "15:31:14 02/07/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "15:31:29 02/07/2026",
+      "sender": "admin:8101416491",
+      "text": "Gửi đây luôn nhé"
+    },
+    {
+      "time": "15:31:58 02/07/2026",
+      "sender": "user:5812112401",
+      "text": "MÃ ĐƠN: ORDERE15A51F71782980825  oucher Tạo Stk Đẹp Mbbank 25m  sdt: 0913141033"
+    },
+    {
+      "time": "15:34:00 02/07/2026",
+      "sender": "admin:8101416491",
+      "text": "Sdt chưa đăng kí mb"
+    }
+  ]
+}

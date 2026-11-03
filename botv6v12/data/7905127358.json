@@ -1,0 +1,25 @@
+{
+  "id": 7905127358,
+  "username": null,
+  "full_name": "Ha Doan",
+  "created_at": "17/09/2026",
+  "last_seen": "22:40:34 17/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 25200
+  },
+  "orders": [
+    {
+      "order_code": "ORDERE12BB5461789658816",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 25200,
+      "created_time": "22:27:27 17/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

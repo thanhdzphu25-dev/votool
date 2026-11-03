@@ -1,0 +1,53 @@
+{
+  "id": 6707500550,
+  "username": "ntungx",
+  "full_name": "Nguyen Van Tung🫧",
+  "created_at": "14/03/2026",
+  "last_seen": "18:25:46 16/09/2026",
+  "balance": 200,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 14800
+  },
+  "orders": [
+    {
+      "order_code": "ORDER0E4BA7881787199905",
+      "product_name": "CapCut 7D BHF",
+      "quantity": 1,
+      "total_money": 4800,
+      "created_time": "11:25:05 20/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8F27F14D1773667383",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "20:25:00 16/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "11:25:05 20/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 4800,
+      "before": 5000,
+      "after": 200,
+      "note": "Thanh toán 1 x CapCut 7D BHF"
+    },
+    {
+      "time": "11:24:50 20/08/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 5000,
+      "before": 0,
+      "after": 5000,
+      "txid": "FT26232481301500",
+      "note": "CUSTOMER NAP6707500550. TU: Nguyen Van Tung"
+    }
+  ],
+  "lang": "vi"
+}

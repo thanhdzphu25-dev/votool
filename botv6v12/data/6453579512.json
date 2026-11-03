@@ -1,0 +1,16 @@
+{
+  "id": 6453579512,
+  "username": "tdunguyen",
+  "full_name": "Tiến Dũng Nguyễn",
+  "created_at": "02/07/2026",
+  "last_seen": "17:02:46 16/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

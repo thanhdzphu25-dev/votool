@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDERDFBBB7B91782818139",
+  "user_id": 7162083088,
+  "reason": "tôi không thấy tài khoản",
+  "photo_file_id": "",
+  "created_time": "18:16:48 30/06/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "18:17:35 30/06/2026",
+      "sender": "admin:8101416491",
+      "text": "Có file được gửi sau khi thanh toán mà b"
+    }
+  ]
+}

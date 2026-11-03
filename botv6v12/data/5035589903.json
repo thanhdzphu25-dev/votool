@@ -1,0 +1,45 @@
+{
+  "id": 5035589903,
+  "username": "quynhhuynh92",
+  "full_name": "Quynh Huynh",
+  "created_at": "19/04/2026",
+  "last_seen": "20:29:27 10/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 19000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER42999B461780836174",
+      "product_name": "CDK Chatgpt Plus ( BH 12h )",
+      "quantity": 1,
+      "total_money": 19000,
+      "created_time": "19:42:54 07/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "19:42:54 07/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 19000,
+      "before": 19000,
+      "after": 0,
+      "note": "Thanh toán 1 x CDK Chatgpt Plus ( BH 12h )"
+    },
+    {
+      "time": "19:41:48 07/06/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 19000,
+      "delta": 19000,
+      "before": 0,
+      "after": 19000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

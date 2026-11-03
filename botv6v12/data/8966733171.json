@@ -1,0 +1,16 @@
+{
+  "id": 8966733171,
+  "username": null,
+  "full_name": "Nguyễn Huy",
+  "created_at": "06/09/2026",
+  "last_seen": "21:47:25 12/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

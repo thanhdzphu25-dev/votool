@@ -1,0 +1,41 @@
+{
+  "id": 6212763621,
+  "username": "Eddies_Granger",
+  "full_name": "Eddies Granger",
+  "created_at": "20/09/2026",
+  "last_seen": "22:41:42 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 1,
+    "total_spent": 72200
+  },
+  "orders": [
+    {
+      "order_code": "ORDER635AD9D11790177740",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 22200,
+      "created_time": "22:36:31 23/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDEREFB419121790149835",
+      "product_name": "YouTube Premium 1 Tháng (BH Full)",
+      "quantity": 1,
+      "total_money": 25000,
+      "created_time": "14:51:20 23/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD2B8820A1790148313",
+      "product_name": "YouTube Premium 1 Tháng (BH Full)",
+      "quantity": 1,
+      "total_money": 25000,
+      "created_time": "14:26:18 23/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

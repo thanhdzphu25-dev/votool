@@ -1,0 +1,49 @@
+{
+  "id": 7924649069,
+  "username": null,
+  "full_name": "Hehr Bro",
+  "created_at": "07/07/2026",
+  "last_seen": "22:28:50 27/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 4,
+    "done_orders": 4,
+    "total_spent": 57320
+  },
+  "orders": [
+    {
+      "order_code": "ORDERC40204C81790522622",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18600,
+      "created_time": "22:24:45 27/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER425701031783845204",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "15:35:45 12/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4D1873DC1783438489",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "22:37:55 07/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7C2531401783410753",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18720,
+      "created_time": "14:58:04 07/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

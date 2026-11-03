@@ -1,0 +1,25 @@
+{
+  "id": 8241306454,
+  "username": "Maxthinh1",
+  "full_name": "Thinh Ngo",
+  "created_at": "25/09/2026",
+  "last_seen": "07:29:44 27/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 19500
+  },
+  "orders": [
+    {
+      "order_code": "ORDERFCDD80371790424096",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 19500,
+      "created_time": "19:02:38 26/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 8070896651,
+  "username": "longvuth",
+  "full_name": "Long Vu",
+  "created_at": "13/08/2026",
+  "last_seen": "19:25:44 06/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 0,
+    "total_spent": 9000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER2AAB03091788697516",
+      "product_name": "Canva Pro edu 1 Năm",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "19:25:44 06/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

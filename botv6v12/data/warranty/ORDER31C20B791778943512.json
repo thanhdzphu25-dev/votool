@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER31C20B791778943512",
+  "user_id": 984502071,
+  "reason": "dính sdt không login được",
+  "photo_file_id": "AgACAgUAAxkBAAEDBRpqCIbAaASR-rZtnP6k-ln8mXNbPAACrg5rG_UlSFQAAfl1pYXHoDoBAAMCAAN5AAM7BA",
+  "created_time": "22:01:29 16/05/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "22:03:03 16/05/2026",
+      "sender": "admin:8101416491",
+      "text": "Ib @thanhtr789"
+    }
+  ]
+}

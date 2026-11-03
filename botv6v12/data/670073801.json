@@ -1,0 +1,16 @@
+{
+  "id": 670073801,
+  "username": "Sandysm123",
+  "full_name": "Sandeep Gupta",
+  "created_at": "15/08/2026",
+  "last_seen": "02:30:57 15/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "en"
+}

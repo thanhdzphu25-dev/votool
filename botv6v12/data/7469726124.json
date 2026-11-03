@@ -1,0 +1,15 @@
+{
+  "id": 7469726124,
+  "username": null,
+  "full_name": "Huy Concak",
+  "created_at": "15/03/2026",
+  "last_seen": "15:12:32 18/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

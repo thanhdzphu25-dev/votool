@@ -1,0 +1,25 @@
+{
+  "id": 2067382848,
+  "username": "ngochung0906",
+  "full_name": "Yu Na",
+  "created_at": "04/08/2026",
+  "last_seen": "20:36:51 27/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 14400
+  },
+  "orders": [
+    {
+      "order_code": "ORDER45A80A7E1787915385",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 14400,
+      "created_time": "18:11:15 28/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

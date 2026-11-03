@@ -1,0 +1,61 @@
+{
+  "id": 955901364,
+  "username": "MrKevinHung",
+  "full_name": "Mr.Peter Hung",
+  "created_at": "23/03/2026",
+  "last_seen": "00:08:09 09/09/2026",
+  "balance": 1000,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 43500
+  },
+  "orders": [
+    {
+      "order_code": "ORDERB1E6118D1778049468",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "13:38:20 06/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBD73F7A61775640780",
+      "product_name": "Veo 3 Ultra 25k Credit BhLogin",
+      "quantity": 1,
+      "total_money": 30000,
+      "created_time": "16:33:28 08/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB93F0FB21774412453",
+      "product_name": "Chatgpt Bussines 1 Tháng 5 Slot KBH",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "11:20:53 25/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "11:20:53 25/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 9000,
+      "before": 10000,
+      "after": 1000,
+      "note": "Thanh toán 1 x Chatgpt Bussines 1 Tháng 5 Slot KBH"
+    },
+    {
+      "time": "12:01:44 23/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 10000,
+      "before": 0,
+      "after": 10000,
+      "txid": "FT26082170812855",
+      "note": "HUYNH QUOC HUNG MBVCB.13480936784.614327.NAP955901364.CT tu 0331000503553 HUYNH QUOC HUNG toi 0000032377312 HOANG PHU MINH tai MB- Ma GD ACSP/ lp614327"
+    }
+  ],
+  "lang": "vi"
+}

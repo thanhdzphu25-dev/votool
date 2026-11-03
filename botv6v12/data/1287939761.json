@@ -1,0 +1,25 @@
+{
+  "id": 1287939761,
+  "username": null,
+  "full_name": "Anh Nguyen",
+  "created_at": "03/09/2026",
+  "last_seen": "13:33:49 25/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18900
+  },
+  "orders": [
+    {
+      "order_code": "ORDER0991B6801789954086",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18900,
+      "created_time": "08:29:18 21/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

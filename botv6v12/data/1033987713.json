@@ -1,0 +1,16 @@
+{
+  "id": 1033987713,
+  "username": "wooweeaare",
+  "full_name": "Adam Pham",
+  "created_at": "25/09/2026",
+  "last_seen": "12:06:07 27/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

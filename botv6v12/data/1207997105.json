@@ -1,0 +1,25 @@
+{
+  "id": 1207997105,
+  "username": "tungbabyshark",
+  "full_name": "Nguyen Tung",
+  "created_at": "08/07/2026",
+  "last_seen": "22:29:32 08/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18240
+  },
+  "orders": [
+    {
+      "order_code": "ORDER6AE4CECE1783524399",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18240,
+      "created_time": "22:29:32 08/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

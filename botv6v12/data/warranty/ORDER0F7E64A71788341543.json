@@ -1,0 +1,11 @@
+{
+  "order_code": "ORDER0F7E64A71788341543",
+  "user_id": 5167102843,
+  "reason": "Tài khoản bị lỗi đăng nhập , không đăng nhập được yêu cầu xác minh danh tính khi nhập sđt thì báo là đã xác minh quá nhiều",
+  "photo_file_id": "AgACAgUAAxkBAAEKH9lqmMVKnKwzTQikcNmv1rRnBW2giAACaRBrG-MxyVTrd8c3-rm2kgEAAwIAA3kAAz0E",
+  "created_time": "07:54:39 03/09/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": []
+}

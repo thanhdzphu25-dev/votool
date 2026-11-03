@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER604DE7C91773725579",
+  "user_id": 8538451938,
+  "reason": "Tài khoản lỗi đăng nhập",
+  "photo_file_id": "AgACAgUAAxkBAAIXL2m46TGDmokTHyP2qbSzdlGAJhIyAALWDmsbM-PIVW2GwcuvRZpMAQADAgADeQADOgQ",
+  "created_time": "12:40:27 17/03/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "13:21:24 17/03/2026",
+      "sender": "admin:8101416491",
+      "text": "Tài khoản | mật khẩu | 2fa \nĐăng nhập email trong chatgpt \nKhi đăng nhập yêu cầu mã thì bạn copy 2fa lên 2fa.live để lấy mã có thể xem hướng dẫn trên youtube"
+    }
+  ]
+}

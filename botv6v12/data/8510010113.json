@@ -1,0 +1,25 @@
+{
+  "id": 8510010113,
+  "username": null,
+  "full_name": "Lê Tuấn_Gem_Nexus",
+  "created_at": "01/07/2026",
+  "last_seen": "18:28:54 31/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 24000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERDD8FA3C61782916374",
+      "product_name": "CapCut Pro 6-7D BHF",
+      "quantity": 5,
+      "total_money": 24000,
+      "created_time": "21:36:04 01/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

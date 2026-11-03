@@ -1,0 +1,16 @@
+{
+  "id": 76709999398,
+  "username": null,
+  "full_name": null,
+  "created_at": "16/07/2026",
+  "last_seen": "19:10:28 16/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

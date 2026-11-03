@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDERB296B1891786173763",
+  "user_id": 6064964730,
+  "reason": "Tài khoản không đăng nhập được",
+  "photo_file_id": "AgACAgUAAxkBAAEH7Ttqdtn5ehq0-m-ecb9nmfIROQObuwACBxNrG0-iuFew7i4Wmw8N2wEAAwIAA3cAAz0E",
+  "created_time": "14:26:22 08/08/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "15:11:55 08/08/2026",
+      "sender": "admin:8101416491",
+      "text": "Mình có bán tk gg đâu b +)"
+    }
+  ]
+}

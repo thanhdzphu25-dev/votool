@@ -1,0 +1,16 @@
+{
+  "id": 6231003001,
+  "username": "datnd444",
+  "full_name": "Mều Bếu",
+  "created_at": "06/09/2026",
+  "last_seen": "09:42:57 06/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

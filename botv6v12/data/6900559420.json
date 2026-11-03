@@ -1,0 +1,15 @@
+{
+  "id": 6900559420,
+  "username": "sinhle3008",
+  "full_name": "Sinh Lê",
+  "created_at": "04/05/2026",
+  "last_seen": "12:26:00 24/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

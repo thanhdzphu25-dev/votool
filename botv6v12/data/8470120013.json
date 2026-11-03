@@ -1,0 +1,16 @@
+{
+  "id": 8470120013,
+  "username": null,
+  "full_name": "Sally Truong",
+  "created_at": "06/07/2026",
+  "last_seen": "19:42:05 27/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

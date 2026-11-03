@@ -1,0 +1,45 @@
+{
+  "id": 8579182502,
+  "username": null,
+  "full_name": "hoang day",
+  "created_at": "07/09/2026",
+  "last_seen": "15:57:19 21/09/2026",
+  "balance": 1100,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18900
+  },
+  "orders": [
+    {
+      "order_code": "ORDER17CCF52F1789981039",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18900,
+      "created_time": "15:57:19 21/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "15:57:19 21/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 18900,
+      "before": 20000,
+      "after": 1100,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng"
+    },
+    {
+      "time": "15:48:46 21/09/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 20000,
+      "before": 0,
+      "after": 20000,
+      "txid": "FT26264038040093",
+      "note": "MAI MINH QUANNAP8579182502 FT26264692305220 k2V5 ESM6/142905"
+    }
+  ],
+  "lang": "vi"
+}

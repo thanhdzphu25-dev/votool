@@ -1,0 +1,16 @@
+{
+  "id": 7033518475,
+  "username": "duongtn27",
+  "full_name": "Tran Duong",
+  "created_at": "03/09/2026",
+  "last_seen": "06:27:22 17/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

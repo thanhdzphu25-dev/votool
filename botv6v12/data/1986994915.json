@@ -1,0 +1,25 @@
+{
+  "id": 1986994915,
+  "username": "nhihanii",
+  "full_name": "Nhi Hanii ( ˘ ³˘)",
+  "created_at": "27/03/2026",
+  "last_seen": "00:39:38 28/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 2000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER33FCC5381774596021",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 2000,
+      "created_time": "14:21:09 27/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

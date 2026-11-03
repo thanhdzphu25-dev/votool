@@ -1,0 +1,242 @@
+{
+  "id": 7192365533,
+  "username": "baominhmtp",
+  "full_name": "Tú Minh",
+  "created_at": "19/03/2026",
+  "last_seen": "23:00:23 29/04/2026",
+  "balance": 1000,
+  "stats": {
+    "total_orders": 20,
+    "done_orders": 20,
+    "total_spent": 495500
+  },
+  "orders": [
+    {
+      "order_code": "ORDERE03AE83F1777478370",
+      "product_name": "Meitu SVIP - VIP+ 28 Ngày | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "23:00:23 29/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0B7597ED1777058527",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "02:22:58 25/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3A5EA0A01775835652",
+      "product_name": "Gemini Pro + 5Tb 1 năm Pixel Trâu KBH",
+      "quantity": 1,
+      "total_money": 50000,
+      "created_time": "22:41:49 10/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER91500B761775190547",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "11:29:41 03/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7F1C66A31775007391",
+      "product_name": "Grok Super 30-50 NGÀY BHF",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "08:37:28 01/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER41201CEE1774874632",
+      "product_name": "Grok Super 30-50 NGÀY BHF",
+      "quantity": 1,
+      "total_money": 30000,
+      "created_time": "19:44:24 30/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA7E2B75F1774871538",
+      "product_name": "Grok Super 30-50 NGÀY BHF",
+      "quantity": 1,
+      "total_money": 30000,
+      "created_time": "18:53:05 30/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3CAE0C2B1774864234",
+      "product_name": "Grok Super 30-50 NGÀY BHF",
+      "quantity": 1,
+      "total_money": 30000,
+      "created_time": "16:52:17 30/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0726BBEA1774796184",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "21:57:01 29/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER29280BDD1774534872",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 2,
+      "total_money": 70000,
+      "created_time": "21:21:50 26/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER139DEEBB1774484698",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "07:25:45 26/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER22B900441774420225",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "13:31:06 25/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5C474C6E1774366003",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "22:27:26 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE68DBC301774365150",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "22:13:14 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDA018AFD1774328701",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "12:06:09 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER77C716FB1774227969",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 55000,
+      "created_time": "08:06:09 23/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER936B09431774158786",
+      "product_name": "ChatGpt Plus 1 Tháng l KBH",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "12:53:06 22/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC552981F1774015555",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "21:05:55 20/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8BFFFBF61774015093",
+      "product_name": "ChatGpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 7000,
+      "created_time": "20:58:13 20/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER59C0E7AE1774007750",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "18:55:50 20/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "08:06:06 23/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 55000,
+      "before": 56000,
+      "after": 1000,
+      "note": "Thanh toán 1 x Grok Super 1 Tháng | BHF"
+    },
+    {
+      "time": "08:05:47 23/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 50000,
+      "before": 6000,
+      "after": 56000,
+      "txid": "FT26082920928235",
+      "note": "DINH BAO MINH MBVCB.13477944727.658066.NAP7192365533.CT tu 1021779898 DINH BAO MINH toi 0000032377312 HOANG PHU MINH ta i MB- Ma GD ACSP/ ee658066"
+    },
+    {
+      "time": "12:53:06 22/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 5000,
+      "before": 11000,
+      "after": 6000,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng l KBH"
+    },
+    {
+      "time": "21:05:52 20/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6000,
+      "before": 17000,
+      "after": 11000,
+      "note": "Thanh toán 1 x CapCut Pro Team 35D | BHF"
+    },
+    {
+      "time": "20:58:13 20/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 7000,
+      "before": 24000,
+      "after": 17000,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng KBH"
+    },
+    {
+      "time": "18:55:48 20/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6000,
+      "before": 30000,
+      "after": 24000,
+      "note": "Thanh toán 1 x CapCut Pro Team 35D | BHF"
+    },
+    {
+      "time": "16:53:52 20/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 30000,
+      "before": 0,
+      "after": 30000,
+      "txid": "FT26079500677089",
+      "note": "DINH BAO MINH MBVCB.13445493476.952855.NAP7192365533.CT tu 1021779898 DINH BAO MINH toi 0000032377312 HOANG PHU MINH ta i MB- Ma GD ACSP/ ia952855"
+    }
+  ]
+}

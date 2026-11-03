@@ -1,0 +1,16 @@
+{
+  "id": 5074477212,
+  "username": "vodanh1226",
+  "full_name": "Duc D",
+  "created_at": "26/09/2026",
+  "last_seen": "17:20:15 26/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 6691923188,
+  "username": null,
+  "full_name": "Ung Thinh",
+  "created_at": "21/06/2026",
+  "last_seen": "23:54:56 17/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 28000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER9891128F1782060001",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 28000,
+      "created_time": "23:41:14 21/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

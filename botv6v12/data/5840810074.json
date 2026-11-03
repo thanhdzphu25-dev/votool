@@ -1,0 +1,45 @@
+{
+  "id": 5840810074,
+  "username": null,
+  "full_name": "Truong Euro",
+  "created_at": "13/09/2026",
+  "last_seen": "21:56:22 15/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 14700
+  },
+  "orders": [
+    {
+      "order_code": "ORDERB0534EE21789473800",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 14700,
+      "created_time": "19:03:20 15/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "19:03:20 15/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 14700,
+      "before": 14700,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng"
+    },
+    {
+      "time": "18:35:22 15/09/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 14700,
+      "before": 0,
+      "after": 14700,
+      "txid": "FT26258400627628",
+      "note": "LUONG VAN TRUONG MB 0000032377312 NAP5840810074 ORDE R21E3E4541789472037- Ma GD ACSP/ 66 088626"
+    }
+  ],
+  "lang": "vi"
+}

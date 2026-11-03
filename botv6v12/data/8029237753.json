@@ -1,0 +1,16 @@
+{
+  "id": 8029237753,
+  "username": "aqua2909",
+  "full_name": "Nguyễn Hải",
+  "created_at": "28/07/2026",
+  "last_seen": "14:29:55 28/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

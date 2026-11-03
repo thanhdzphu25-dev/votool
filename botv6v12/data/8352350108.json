@@ -1,0 +1,73 @@
+{
+  "id": 8352350108,
+  "username": "thegioiios_support",
+  "full_name": "Support 24/7",
+  "created_at": "13/03/2026",
+  "last_seen": "00:01:10 26/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 7,
+    "done_orders": 5,
+    "total_spent": 65000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER9D5C465D1787677231",
+      "product_name": "Voucher Tạo STK Mbbank 25M",
+      "quantity": 1,
+      "total_money": 12000,
+      "created_time": "00:00:59 26/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC0DC12F41787568487",
+      "product_name": "Voucher Tạo STK Mbbank 25M",
+      "quantity": 1,
+      "total_money": 12000,
+      "created_time": "17:50:11 24/08/2026",
+      "status": "⏳ Chờ khách gửi dữ liệu"
+    },
+    {
+      "order_code": "ORDER301E42711787327707",
+      "product_name": "Voucher Tạo Stk Đẹp Mbbank 25m",
+      "quantity": 1,
+      "total_money": 12000,
+      "created_time": "22:55:33 21/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF347F6481783518618",
+      "product_name": "Voucher Tạo Stk Đẹp Mbbank 25m",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "20:50:42 08/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER093F501C1780763177",
+      "product_name": "Voucher Tạo Stk Đẹp Mbbank 25m",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "23:26:42 06/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD24056141778167875",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "22:31:45 07/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB305FBFA1777022550",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "16:22:59 24/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

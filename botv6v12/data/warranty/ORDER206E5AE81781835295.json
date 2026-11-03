@@ -1,0 +1,37 @@
+{
+  "order_code": "ORDER206E5AE81781835295",
+  "user_id": 7077977004,
+  "reason": "Tài khảon bị lỗi đăng nhập",
+  "photo_file_id": "AgACAgUAAxkBAAEEIeBqOJXVaTTzYw7no2DH8aYXPrtEhAACMBFrG3eGyVVeZ-kJf1cxswEAAwIAA3gAAzwE",
+  "created_time": "08:55:17 22/06/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "08:58:02 22/06/2026",
+      "sender": "admin:8101416491",
+      "text": "Nhắn tele @thanhtr789"
+    },
+    {
+      "time": "09:05:49 22/06/2026",
+      "sender": "user:7077977004",
+      "text": "Em cần hộ trợ bảo hành tài khoản ạ"
+    },
+    {
+      "time": "09:09:12 22/06/2026",
+      "sender": "admin:8101416491",
+      "text": "Thì nhắn tele@thanhtr789"
+    },
+    {
+      "time": "09:09:36 22/06/2026",
+      "sender": "user:7077977004",
+      "text": "Hỗ trợ e với ạ"
+    },
+    {
+      "time": "09:09:58 22/06/2026",
+      "sender": "admin:8101416491",
+      "text": "Thì nhắn tele @thanhtr789 hỗ trợ b ??"
+    }
+  ]
+}

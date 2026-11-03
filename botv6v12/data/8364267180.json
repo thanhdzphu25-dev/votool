@@ -1,0 +1,16 @@
+{
+  "id": 8364267180,
+  "username": null,
+  "full_name": "Mai Kiet",
+  "created_at": "08/09/2026",
+  "last_seen": "19:35:16 08/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6748365326,
+  "username": "hazeldrn",
+  "full_name": "Andrew",
+  "created_at": "04/05/2026",
+  "last_seen": "23:42:37 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

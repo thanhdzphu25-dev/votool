@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDERE951F2941773560101",
+  "user_id": 6632353866,
+  "reason": "không dùng được",
+  "photo_file_id": "AgACAgUAAxkBAAImoGm8DE0xy8KCYzQcM8kJ6alN6Oi7AAKQDGsbKmPgVSb9IMRtCczxAQADAgADeQADOgQ",
+  "created_time": "21:46:43 19/03/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "21:49:47 19/03/2026",
+      "sender": "admin:8101416491",
+      "text": "Bị quét rồi , đơn này là loại không bảo hành"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6799701918,
+  "username": "phptoolvip",
+  "full_name": "hi",
+  "created_at": "01/08/2026",
+  "last_seen": "15:02:52 01/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

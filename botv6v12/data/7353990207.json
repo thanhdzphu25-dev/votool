@@ -1,0 +1,15 @@
+{
+  "id": 7353990207,
+  "username": "Randy1005",
+  "full_name": "Randy",
+  "created_at": "30/05/2026",
+  "last_seen": "19:07:43 06/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

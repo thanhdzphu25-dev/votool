@@ -1,0 +1,45 @@
+{
+  "id": 5041108416,
+  "username": "Dovanthaithanh",
+  "full_name": "Thành",
+  "created_at": "26/08/2026",
+  "last_seen": "12:41:37 16/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 15000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER520B89181787742375",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "18:06:15 26/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "18:06:15 26/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 15000,
+      "before": 15000,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH8H"
+    },
+    {
+      "time": "18:05:49 26/08/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 15000,
+      "before": 0,
+      "after": 15000,
+      "txid": "FT26238328305295",
+      "note": "CUSTOMER NAP5041108416. TU: DO VAN THAI THANH"
+    }
+  ],
+  "lang": "vi"
+}

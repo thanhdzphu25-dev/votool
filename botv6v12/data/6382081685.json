@@ -1,0 +1,61 @@
+{
+  "id": 6382081685,
+  "username": "Quangchuong311",
+  "full_name": "Quang Chương",
+  "created_at": "02/04/2026",
+  "last_seen": "21:55:24 01/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 59520
+  },
+  "orders": [
+    {
+      "order_code": "ORDER69885DAA1785066448",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 17760,
+      "created_time": "18:48:15 26/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER38EBB7F71784534543",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 17760,
+      "created_time": "15:03:10 20/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDEREAFCEA151775064762",
+      "product_name": "Chatgpt Plus 1 Tháng KBH",
+      "quantity": 2,
+      "total_money": 24000,
+      "created_time": "00:32:42 02/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "00:32:42 02/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 24000,
+      "before": 24000,
+      "after": 0,
+      "note": "Thanh toán 2 x Chatgpt Plus 1 Tháng KBH"
+    },
+    {
+      "time": "00:31:54 02/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 24000,
+      "delta": 24000,
+      "before": 0,
+      "after": 24000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

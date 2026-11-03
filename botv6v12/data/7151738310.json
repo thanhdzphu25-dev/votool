@@ -1,0 +1,16 @@
+{
+  "id": 7151738310,
+  "username": "dev0ney",
+  "full_name": "Via cookie",
+  "created_at": "07/06/2026",
+  "last_seen": "11:41:30 24/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

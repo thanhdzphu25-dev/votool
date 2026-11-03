@@ -1,0 +1,24 @@
+{
+  "id": 1092359339,
+  "username": "HadesGuardTech",
+  "full_name": "Hades",
+  "created_at": "02/04/2026",
+  "last_seen": "14:50:55 28/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 47000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER8BC1759D1777127586",
+      "product_name": "Chatgpt PLus 1 Tháng BH3D",
+      "quantity": 2,
+      "total_money": 47000,
+      "created_time": "21:33:27 25/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": []
+}

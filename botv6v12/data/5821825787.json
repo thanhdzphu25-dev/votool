@@ -1,0 +1,272 @@
+{
+  "id": 5821825787,
+  "username": "caohuunghia",
+  "full_name": "Cao Hữu Nghĩa",
+  "created_at": "17/03/2026",
+  "last_seen": "23:45:37 16/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 27,
+    "done_orders": 27,
+    "total_spent": 187500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER79FA0A6A1779115890",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "21:52:02 18/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERAF47E11A1778579094",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "16:45:31 12/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0D6C111C1778481958",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "13:46:36 11/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4B0D3EB71778265305",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "01:35:42 09/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB322CFEE1778045828",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "12:37:42 06/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER19F973731777880728",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "14:46:07 04/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC8E20FA01777820863",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "22:08:53 03/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6D5824141777184628",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "13:24:25 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERAF0A8DB81777016027",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "14:34:39 24/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4BAFCBB11776746116",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "11:35:42 21/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBCEF54ED1776442886",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "23:21:26 17/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7D73F1101776041870",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "07:58:26 13/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA60001521775824756",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "19:40:10 10/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD83792951775816180",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "17:16:58 10/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5D42A4D01775736460",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "19:08:31 09/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER609F0A581775472514",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 5,
+      "total_money": 37500,
+      "created_time": "17:49:06 06/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERAE2037A31775320056",
+      "product_name": "Grok Super 1 Tháng | KBH",
+      "quantity": 1,
+      "total_money": 11500,
+      "created_time": "23:28:10 04/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCBD6D5AF1775136252",
+      "product_name": "Grok Super 1 Tháng | KBH",
+      "quantity": 1,
+      "total_money": 12500,
+      "created_time": "20:24:48 02/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER2DBD502A1774763499",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 2000,
+      "created_time": "12:51:39 29/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD05B06341774759951",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "11:53:06 29/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER181C02531774452446",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "22:33:51 25/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9FBC80561774364898",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 2000,
+      "created_time": "22:08:46 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER49B0992B1774329476",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "12:18:32 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC5500BE21774267391",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 2000,
+      "created_time": "19:04:02 23/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCB62D17C1774260108",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "17:02:19 23/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB0360D2F1774239763",
+      "product_name": "ChatGpt Plus 1 Tháng l BH7D",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "11:23:16 23/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE0D02B6F1773751260",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "19:42:29 17/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "23:21:26 17/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 7500,
+      "before": 7500,
+      "after": 0,
+      "note": "Thanh toán 1 x Capcut Pro 35d BHF"
+    },
+    {
+      "time": "23:14:20 17/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 7500,
+      "delta": 7500,
+      "before": 0,
+      "after": 7500,
+      "reason": ""
+    },
+    {
+      "time": "12:51:36 29/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 2000,
+      "before": 2000,
+      "after": 0,
+      "note": "Thanh toán 1 x CapCut Pro Team 7D | BHF"
+    },
+    {
+      "time": "12:51:00 29/03/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 2000,
+      "delta": 2000,
+      "before": 0,
+      "after": 2000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

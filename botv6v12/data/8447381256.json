@@ -1,0 +1,25 @@
+{
+  "id": 8447381256,
+  "username": null,
+  "full_name": "Minh Bach",
+  "created_at": "03/09/2026",
+  "last_seen": "08:59:45 11/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18900
+  },
+  "orders": [
+    {
+      "order_code": "ORDER68B1A2991789091422",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18900,
+      "created_time": "08:51:25 11/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

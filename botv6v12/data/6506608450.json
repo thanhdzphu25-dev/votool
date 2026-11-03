@@ -1,0 +1,25 @@
+{
+  "id": 6506608450,
+  "username": "phongtrandev",
+  "full_name": "Kevin Tran",
+  "created_at": "01/05/2026",
+  "last_seen": "12:20:11 27/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 23000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER775613FB1777698511",
+      "product_name": "Chatgpt Plus 1 Tháng BH 36H",
+      "quantity": 1,
+      "total_money": 23000,
+      "created_time": "12:09:31 02/05/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

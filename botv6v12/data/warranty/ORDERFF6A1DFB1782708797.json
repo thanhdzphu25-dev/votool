@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDERFF6A1DFB1782708797",
+  "user_id": 6180334181,
+  "reason": "Khách gửi ảnh bảo hành (không kèm caption).",
+  "photo_file_id": "AgACAgUAAxkBAAEElZ9qQfwhqPeCMw2MuAGWbjQJ64r2eQACvhFrGxKYEVbiSdpAK7OGrgEAAwIAA3kAAzwE",
+  "created_time": "12:02:58 29/06/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "13:25:37 29/06/2026",
+      "sender": "admin:8101416491",
+      "text": "Nhắn thẳng @thanhtr789"
+    }
+  ]
+}

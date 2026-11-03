@@ -1,0 +1,16 @@
+{
+  "id": 2072011410,
+  "username": "ndminhdat",
+  "full_name": "Haha Kaka",
+  "created_at": "26/09/2026",
+  "last_seen": "22:39:24 27/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

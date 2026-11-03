@@ -1,0 +1,41 @@
+{
+  "id": 1680340618,
+  "username": "playerndl",
+  "full_name": "Leon Ngo",
+  "created_at": "03/09/2026",
+  "last_seen": "18:58:05 26/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 76200
+  },
+  "orders": [
+    {
+      "order_code": "ORDER96ED87661790423798",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 2,
+      "total_money": 39000,
+      "created_time": "18:58:05 26/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF528EFD81790100798",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18600,
+      "created_time": "01:14:21 23/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3FCECA681790100306",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18600,
+      "created_time": "01:06:10 23/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

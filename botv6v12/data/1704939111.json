@@ -1,0 +1,16 @@
+{
+  "id": 1704939111,
+  "username": "dinhlongit",
+  "full_name": "dinhlongit",
+  "created_at": "05/09/2026",
+  "last_seen": "10:18:46 17/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

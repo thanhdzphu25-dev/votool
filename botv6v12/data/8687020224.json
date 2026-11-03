@@ -1,0 +1,25 @@
+{
+  "id": 8687020224,
+  "username": null,
+  "full_name": "Oanh Le",
+  "created_at": "30/08/2026",
+  "last_seen": "10:26:48 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 13000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERF2DD7BE41788056833",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 13000,
+      "created_time": "09:27:58 30/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

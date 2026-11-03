@@ -1,0 +1,41 @@
+{
+  "id": 5475201377,
+  "username": "tamnhd",
+  "full_name": "Duc Tam",
+  "created_at": "05/04/2026",
+  "last_seen": "20:35:31 22/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 204000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER99D097B71784909762",
+      "product_name": "CHATGPT PLUS 1 THÁNG BH7D - Trâu",
+      "quantity": 2,
+      "total_money": 104000,
+      "created_time": "23:16:21 24/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER2AC3E6221782483735",
+      "product_name": "Chatgpt Plus Gmail ApplePay-Card ( BH9D )",
+      "quantity": 1,
+      "total_money": 90000,
+      "created_time": "21:22:49 26/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER27F58DB41778071672",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "19:48:26 06/05/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

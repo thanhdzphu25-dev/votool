@@ -1,0 +1,16 @@
+{
+  "id": 6026481257,
+  "username": "hungnt0123",
+  "full_name": "Nguyen Hung",
+  "created_at": "14/07/2026",
+  "last_seen": "11:16:05 17/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

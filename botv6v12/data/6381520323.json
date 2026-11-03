@@ -1,0 +1,25 @@
+{
+  "id": 6381520323,
+  "username": "duyhib",
+  "full_name": "Uchiha obito",
+  "created_at": "15/08/2026",
+  "last_seen": "20:52:44 15/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 55200
+  },
+  "orders": [
+    {
+      "order_code": "ORDER501805C71786801863",
+      "product_name": "[BH25D] CapCut Pro 1 Tháng",
+      "quantity": 1,
+      "total_money": 55200,
+      "created_time": "20:52:44 15/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

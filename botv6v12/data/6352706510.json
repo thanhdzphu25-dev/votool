@@ -1,0 +1,15 @@
+{
+  "id": 6352706510,
+  "username": "nene4508",
+  "full_name": "Victor Leo",
+  "created_at": "01/05/2026",
+  "last_seen": "07:13:31 13/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

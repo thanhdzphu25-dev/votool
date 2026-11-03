@@ -1,0 +1,33 @@
+{
+  "id": 5762664741,
+  "username": "famistuong",
+  "full_name": "Ricks",
+  "created_at": "14/05/2026",
+  "last_seen": "23:28:03 12/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 64300
+  },
+  "orders": [
+    {
+      "order_code": "ORDERDCCAF9F21785836289",
+      "product_name": "CHATGPT PLUS 1 THÁNG BH7D - Trâu",
+      "quantity": 1,
+      "total_money": 59800,
+      "created_time": "16:38:45 04/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDEA8B0E91778981625",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "08:34:23 17/05/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

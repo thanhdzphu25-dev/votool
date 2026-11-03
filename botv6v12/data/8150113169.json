@@ -1,0 +1,15 @@
+{
+  "id": 8150113169,
+  "username": "gobi_9999",
+  "full_name": "Ngọc Anh Nguyễn",
+  "created_at": "21/04/2026",
+  "last_seen": "02:25:29 27/04/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

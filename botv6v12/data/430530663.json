@@ -1,0 +1,41 @@
+{
+  "id": 430530663,
+  "username": "chuminhthanh",
+  "full_name": "CHU",
+  "created_at": "03/07/2026",
+  "last_seen": "20:23:11 06/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 196160
+  },
+  "orders": [
+    {
+      "order_code": "ORDER3EEA40921785229723",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 56000,
+      "created_time": "16:09:31 28/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0757D7511785225269",
+      "product_name": "ChatGpt Plus 1 Tháng BHF - Trâu",
+      "quantity": 1,
+      "total_money": 120000,
+      "created_time": "14:55:16 28/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER71B303451783091502",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 20160,
+      "created_time": "22:12:09 03/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

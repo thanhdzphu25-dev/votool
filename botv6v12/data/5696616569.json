@@ -1,0 +1,16 @@
+{
+  "id": 5696616569,
+  "username": "JamScdd",
+  "full_name": "Bùi Tuấn",
+  "created_at": "05/07/2026",
+  "last_seen": "22:45:46 05/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

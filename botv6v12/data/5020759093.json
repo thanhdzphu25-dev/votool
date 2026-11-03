@@ -1,0 +1,16 @@
+{
+  "id": 5020759093,
+  "username": "MiguelGrauElSeminario",
+  "full_name": "Miguel Grau El Seminario",
+  "created_at": "05/07/2026",
+  "last_seen": "17:02:58 31/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "en"
+}

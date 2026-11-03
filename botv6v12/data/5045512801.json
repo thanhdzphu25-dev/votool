@@ -1,0 +1,49 @@
+{
+  "id": 5045512801,
+  "username": "huybang197",
+  "full_name": "Huy Bang",
+  "created_at": "23/03/2026",
+  "last_seen": "22:35:40 27/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 4,
+    "done_orders": 3,
+    "total_spent": 44200
+  },
+  "orders": [
+    {
+      "order_code": "ORDER1068752D1790375019",
+      "product_name": "YouTube Premium 1 Tháng (Không BH)",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "05:24:27 26/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7B8912501779177752",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 4200,
+      "created_time": "15:03:55 19/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER712681A81778907207",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "11:54:07 16/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1A6ACCC81774273897",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "20:52:47 23/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

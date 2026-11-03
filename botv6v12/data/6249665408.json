@@ -1,0 +1,53 @@
+{
+  "id": 6249665408,
+  "username": "Lingz_08",
+  "full_name": "Ling",
+  "created_at": "13/03/2026",
+  "last_seen": "22:44:34 30/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 9500
+  },
+  "orders": [
+    {
+      "order_code": "ORDERA33E2A4D1774532839",
+      "product_name": "Slot Chatgpt Bussines 1 Tháng l BH7D l Trâu",
+      "quantity": 1,
+      "total_money": 3000,
+      "created_time": "20:48:37 26/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1491F0FA1773401635",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "18:33:55 13/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "18:33:53 13/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 6500,
+      "after": 0,
+      "note": "Thanh toán 1 x CapCut Pro Team 35D | BHF"
+    },
+    {
+      "time": "18:33:21 13/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 6500,
+      "before": 0,
+      "after": 6500,
+      "txid": "FT26072188866801",
+      "note": "CUSTOMER NAP6249665408. TU: BUI MINH NGHIA"
+    }
+  ],
+  "lang": "vi"
+}

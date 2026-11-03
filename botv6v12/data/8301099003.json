@@ -1,0 +1,15 @@
+{
+  "id": 8301099003,
+  "username": "moeyme",
+  "full_name": "Moey",
+  "created_at": "27/06/2026",
+  "last_seen": "03:26:53 27/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

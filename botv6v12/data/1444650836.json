@@ -1,0 +1,45 @@
+{
+  "id": 1444650836,
+  "username": "NguyenHungIOT",
+  "full_name": "Hùng Nguyễn",
+  "created_at": "14/07/2026",
+  "last_seen": "11:24:21 24/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 17760
+  },
+  "orders": [
+    {
+      "order_code": "ORDER31C25A4B1784035347",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 17760,
+      "created_time": "20:22:27 14/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "20:22:27 14/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 17760,
+      "before": 17760,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "20:22:00 14/07/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 17760,
+      "before": 0,
+      "after": 17760,
+      "txid": "FT26195014158509",
+      "note": "VND-TGTT-NGUYEN PHUC HUNGNAP1444650836 FT26195366914841 kCKH CBJ6/184557"
+    }
+  ],
+  "lang": "vi"
+}

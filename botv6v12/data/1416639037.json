@@ -1,0 +1,41 @@
+{
+  "id": 1416639037,
+  "username": "skynguyen2911",
+  "full_name": "Sky Nguyen 🐱CATGOLD 🌱SEED 🌊 Wave",
+  "created_at": "08/07/2026",
+  "last_seen": "10:37:23 18/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 95400
+  },
+  "orders": [
+    {
+      "order_code": "ORDER8F98A3841789116620",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18900,
+      "created_time": "15:50:51 11/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER251DAA2D1785231170",
+      "product_name": "CHATGPT PLUS 1 THÁNG BH7D - Trâu",
+      "quantity": 1,
+      "total_money": 58500,
+      "created_time": "16:33:18 28/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBECBF3D81783513058",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "19:18:19 08/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

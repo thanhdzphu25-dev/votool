@@ -1,0 +1,24 @@
+{
+  "id": 1913424987,
+  "username": "ameo10",
+  "full_name": "Ameo",
+  "created_at": "07/06/2026",
+  "last_seen": "17:45:32 23/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 19000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER7080AEA81780809863",
+      "product_name": "CDK Chatgpt Plus ( BH 12h )",
+      "quantity": 1,
+      "total_money": 19000,
+      "created_time": "12:24:50 07/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": []
+}

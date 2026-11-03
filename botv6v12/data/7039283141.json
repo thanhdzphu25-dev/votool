@@ -1,0 +1,25 @@
+{
+  "id": 7039283141,
+  "username": null,
+  "full_name": "Chuong Fam",
+  "created_at": "24/08/2026",
+  "last_seen": "16:58:14 24/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 16400
+  },
+  "orders": [
+    {
+      "order_code": "ORDER604FB0D71787539319",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 16400,
+      "created_time": "09:42:38 24/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

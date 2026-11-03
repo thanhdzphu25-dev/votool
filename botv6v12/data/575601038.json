@@ -1,0 +1,25 @@
+{
+  "id": 575601038,
+  "username": "Grass2000",
+  "full_name": "Grass2",
+  "created_at": "28/08/2026",
+  "last_seen": "17:29:31 10/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 13000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER3B5683BD1788044847",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 13000,
+      "created_time": "06:09:27 30/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

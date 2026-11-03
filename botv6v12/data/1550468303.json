@@ -1,0 +1,25 @@
+{
+  "id": 1550468303,
+  "username": "vhieu2000",
+  "full_name": "Hiếu Vũ",
+  "created_at": "07/06/2026",
+  "last_seen": "18:29:33 02/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 19000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERC31ED8721780835809",
+      "product_name": "CDK Chatgpt Plus ( BH 12h )",
+      "quantity": 1,
+      "total_money": 19000,
+      "created_time": "19:41:37 07/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

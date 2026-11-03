@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER286C416B1785844341",
+  "user_id": 5037616710,
+  "reason": "Tài khoản bị quét rồi",
+  "photo_file_id": "AgACAgUAAxkBAAEH0HxqdLO7JMeUrB8t9CUy0nhMGbZ39gACryZrGwXgoFe6HYtPVcG-7AEAAwIAA3gAAz0E",
+  "created_time": "23:18:10 06/08/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "02:12:57 07/08/2026",
+      "sender": "admin:8101416491",
+      "text": "Gửi qr ngân hàng + mã đơn cho @thanhtr789"
+    }
+  ]
+}

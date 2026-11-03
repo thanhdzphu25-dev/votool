@@ -1,0 +1,42 @@
+{
+  "order_code": "ORDER7EB94A091789823543",
+  "user_id": 5047086931,
+  "reason": "Mình cần bảo hành, do sản phẩm này đã được sử dụng trước khi mình kích hoạt",
+  "photo_file_id": "",
+  "created_time": "08:49:01 20/09/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "12:08:31 20/09/2026",
+      "sender": "admin:8101416491",
+      "text": "Ảnh chụp và link bị lỗi"
+    },
+    {
+      "time": "12:20:11 20/09/2026",
+      "sender": "user:5047086931",
+      "text": "Link lỗi"
+    },
+    {
+      "time": "12:20:17 20/09/2026",
+      "sender": "user:5047086931",
+      "text": "https://serviceactivation.google.com/subscription/new/AQCpiIEMK_a_YMZoW3c-uip46CWWKOc1RlLbiZttoTw7ZgaX_U9L3o2ddYWEUTXB8bg9r1FsWnSercM9CFwK9_WDt_z9ZqEWazIG7_LqcEbhthuKkeI3dbZUnenu0Ttr1CFE_Vng9onRMT5S2IGy_YVHFgL4TkllgFcITyUr3fLGEUmCjIHg44OvwkppKLOfw255tfIpXyZZiLKsK1X-NYdeexSGAg49RSY6z91VBx8G66SJczYRdvQxaRd-mg4588Fcqf8IPj0wdr4Ufg=="
+    },
+    {
+      "time": "12:21:55 20/09/2026",
+      "sender": "admin:8101416491",
+      "text": "Chờ tí"
+    },
+    {
+      "time": "13:57:35 20/09/2026",
+      "sender": "admin:8101416491",
+      "text": "https://serviceactivation.google.com/subscription/new/AQCpiIEqGmmK9YqTzMLfoexZC-Xh2u1HuY6MK8TB13DXV82wXbT9z-lHvby4nZF9bKmHqIAmlfYPTipMKtsFEYP_hn89ujpmHOl9djEHBSkm00BJIGD_O1qlbRmMm0ekdpAZz4bHIK6S_nBCk7aM-yH0_iiWbUxEsB1TZVNt_9ZRb1jjqOWuxlTWrWfY375rf3P6wSZqBjcjah_vXgky-bq-5kD1MNGzkQxFU878rmv-yLyV7D5Wk-nCeH-WxEu__SYLEiCtXcdaxthcTw=="
+    },
+    {
+      "time": "13:59:10 20/09/2026",
+      "sender": "user:5047086931",
+      "text": "Cảm ơn bạn, kích hoạt được rồi, uy tín +1"
+    }
+  ]
+}

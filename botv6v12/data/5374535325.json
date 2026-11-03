@@ -1,0 +1,16 @@
+{
+  "id": 5374535325,
+  "username": "duchv172",
+  "full_name": "Duc Ho",
+  "created_at": "22/09/2026",
+  "last_seen": "17:45:41 22/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

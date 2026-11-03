@@ -1,0 +1,16 @@
+{
+  "id": 6746430143,
+  "username": "genadadare",
+  "full_name": "a",
+  "created_at": "11/07/2026",
+  "last_seen": "08:53:19 11/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "en"
+}

@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd /workspaces/botteleremake && python3 -c \"\nimport json\nproducts = json\\.load\\(open\\('data/products\\.json'\\)\\)\nfor p in products:\n    print\\(p\\['id'\\], 'is_hot:', repr\\(p\\.get\\('is_hot', 'MISSING'\\)\\), type\\(p\\.get\\('is_hot', False\\)\\)\\)\n\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

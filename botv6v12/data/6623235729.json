@@ -1,0 +1,16 @@
+{
+  "id": 6623235729,
+  "username": "NeAI_API",
+  "full_name": "Ando Cay",
+  "created_at": "03/09/2026",
+  "last_seen": "19:12:15 07/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

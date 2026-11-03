@@ -1,0 +1,16 @@
+{
+  "id": 1626085961,
+  "username": "callmelam",
+  "full_name": "Thanh Lam",
+  "created_at": "20/08/2026",
+  "last_seen": "14:47:06 10/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

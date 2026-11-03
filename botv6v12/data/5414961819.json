@@ -1,0 +1,113 @@
+{
+  "id": 5414961819,
+  "username": "darkmodekjnn",
+  "full_name": "Dark mode",
+  "created_at": "19/03/2026",
+  "last_seen": "12:41:00 24/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 12,
+    "done_orders": 12,
+    "total_spent": 181500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER5E49C08D1781932913",
+      "product_name": "[BH30D]Capcut Team 33-37D Không Renew",
+      "quantity": 1,
+      "total_money": 60000,
+      "created_time": "12:22:28 20/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5FF4A8931781593504",
+      "product_name": "[BHF] CapCut Pro Team 7D",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "14:05:46 16/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8D885CDC1780409465",
+      "product_name": "CapCut Pro 7d Sale",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "21:11:41 02/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0AF5AEE81779450713",
+      "product_name": "Express VPN 25-30 Ngày",
+      "quantity": 1,
+      "total_money": 12000,
+      "created_time": "18:52:44 22/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDEREC35F7F21778486408",
+      "product_name": "CHATGPT PLUS 1M KBH",
+      "quantity": 1,
+      "total_money": 8000,
+      "created_time": "15:00:33 11/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDFD452F31776695911",
+      "product_name": "CapCut Pro 35D",
+      "quantity": 1,
+      "total_money": 7000,
+      "created_time": "21:39:06 20/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER15D5D5781775833826",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "22:10:58 10/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER15D2AC591775639575",
+      "product_name": "Grok Super 30-50 Ngày KBH",
+      "quantity": 1,
+      "total_money": 13000,
+      "created_time": "16:13:29 08/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER85A5E9F91775400845",
+      "product_name": "Grok Heavy 1Y | KBH | Gói Trải Nghiệm",
+      "quantity": 1,
+      "total_money": 11000,
+      "created_time": "21:54:36 05/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERED1C0DAA1775105187",
+      "product_name": "Grok Super 23-28 Ngày | KBH",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "11:47:02 02/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER79A367B61774364501",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "22:02:12 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER453DAEE41773885299",
+      "product_name": "Slot Chatgpt Bussines 1 Tháng",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "08:55:46 19/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1071038365,
+  "username": "iamlee13",
+  "full_name": "Lee",
+  "created_at": "03/05/2026",
+  "last_seen": "07:04:25 06/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

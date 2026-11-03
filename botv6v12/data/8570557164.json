@@ -1,0 +1,25 @@
+{
+  "id": 8570557164,
+  "username": null,
+  "full_name": "Hihi Hahah",
+  "created_at": "23/03/2026",
+  "last_seen": "21:17:34 17/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 57200
+  },
+  "orders": [
+    {
+      "order_code": "ORDER9271BF161785247689",
+      "product_name": "CHATGPT PLUS 1 THÁNG BH7D - Trâu",
+      "quantity": 1,
+      "total_money": 57200,
+      "created_time": "21:12:06 28/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

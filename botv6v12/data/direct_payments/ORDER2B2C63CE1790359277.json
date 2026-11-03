@@ -1,0 +1,13 @@
+{
+  "order_code": "ORDER2B2C63CE1790359277",
+  "user_id": 5751768186,
+  "product_id": "sp_1788782885710",
+  "product_name": "Link Gemini Pro 18 Tháng",
+  "qty": 1,
+  "unit_price": 19500,
+  "total": 19500,
+  "created_at": "01:01:17 26/09/2026",
+  "expires_at_unix": 1790359877,
+  "payment_desc": "NAP5751768186 ORDER2B2C63CE1790359277",
+  "customer_email": ""
+}

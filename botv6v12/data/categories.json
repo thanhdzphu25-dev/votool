@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cat_other",
+    "name": "Khác",
+    "icon": "🛍",
+    "description": "",
+    "sort_order": 999,
+    "is_active": true,
+    "created_at": "14:50:46 23/08/2026",
+    "updated_at": "14:50:46 23/08/2026"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "id": 8030384498,
+  "username": null,
+  "full_name": "Đức Tấn Nguyễn",
+  "created_at": "28/04/2026",
+  "last_seen": "07:10:34 26/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 6500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER0AEF8B1E1777363671",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "15:07:51 28/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "15:07:48 28/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 6500,
+      "after": 0,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "15:07:02 28/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 6500,
+      "delta": 6500,
+      "before": 0,
+      "after": 6500,
+      "reason": ""
+    }
+  ]
+}

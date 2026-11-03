@@ -1,0 +1,33 @@
+{
+  "id": 7001419419,
+  "username": null,
+  "full_name": "Ich Tee",
+  "created_at": "24/08/2026",
+  "last_seen": "13:38:20 22/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 34500
+  },
+  "orders": [
+    {
+      "order_code": "ORDERA61E7BB91789912635",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18900,
+      "created_time": "20:57:38 20/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6A8F381D1787581879",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 15600,
+      "created_time": "21:32:12 24/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

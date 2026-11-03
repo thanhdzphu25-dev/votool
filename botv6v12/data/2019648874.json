@@ -1,0 +1,33 @@
+{
+  "id": 2019648874,
+  "username": "ductahuu",
+  "full_name": "Duc Ta",
+  "created_at": "06/07/2026",
+  "last_seen": "23:07:31 13/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 1,
+    "total_spent": 27480
+  },
+  "orders": [
+    {
+      "order_code": "ORDER4E8286201789315596",
+      "product_name": "Canva Pro Edu 1 Năm",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "23:07:31 13/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE4D92E381783320838",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18480,
+      "created_time": "13:54:52 06/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 6423375856,
+  "username": "top1datcang",
+  "full_name": "🐔 Phúc Mộng Gà",
+  "created_at": "22/03/2026",
+  "last_seen": "14:36:19 22/09/2026",
+  "balance": 500,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 15500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER60814FD31778743250",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "14:21:40 14/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA8832CE41774190319",
+      "product_name": "ChatGpt Plus 1 Tháng l BH7D",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "21:39:14 22/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4C3D6A601774189007",
+      "product_name": "ChatGpt Plus 1 Tháng l KBH",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "21:16:47 22/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "21:16:47 22/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 4500,
+      "before": 5000,
+      "after": 500,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng l KBH"
+    },
+    {
+      "time": "21:15:34 22/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 5000,
+      "before": 0,
+      "after": 5000,
+      "txid": "FT26082092871120",
+      "note": "CUSTOMER NAP6423375856   Ma giao dich  Trace776178 Trace 776178"
+    }
+  ],
+  "lang": "vi"
+}

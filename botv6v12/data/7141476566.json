@@ -1,0 +1,25 @@
+{
+  "id": 7141476566,
+  "username": "thuanbui122",
+  "full_name": "Rau Má 36",
+  "created_at": "29/03/2026",
+  "last_seen": "09:58:38 13/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 50000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER2EFF23021783911481",
+      "product_name": "CapCut Pro 1 Tháng Nâng Chính Chủ BHF",
+      "quantity": 1,
+      "total_money": 50000,
+      "created_time": "09:58:38 13/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

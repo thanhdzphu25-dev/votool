@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER8B1AD29E1783477882",
+  "user_id": 7077977004,
+  "reason": "Khách gửi ảnh bảo hành (không kèm caption).",
+  "photo_file_id": "AgACAgUAAxkBAAEFeaNqTbdQN6iLgVI0koOlKAv7sNPh1wACew9rG298cVZgTBnlUh1GlQEAAwIAA3kAAzwE",
+  "created_time": "09:34:59 08/07/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "13:18:13 08/07/2026",
+      "sender": "admin:8101416491",
+      "text": "Tk | mk | 2fa dùng 2fa.live lấy code"
+    }
+  ]
+}

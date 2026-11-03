@@ -1,0 +1,27 @@
+{
+  "order_code": "ORDER261077861789873387",
+  "user_id": 1916635316,
+  "reason": "1 acc đầu tiên bị lỗi 4 acc sau dùng đc",
+  "photo_file_id": "AgACAgUAAxkBAAEMcfJqsHdI9fMREUSG9ZIUbZLETTIHtwAC1RZrGwrygFWQ8DDsX2jECgEAAwIAA3kAAz0E",
+  "created_time": "07:16:09 21/09/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "10:41:03 21/09/2026",
+      "sender": "admin:8101416491",
+      "text": "Gửi link lỗi"
+    },
+    {
+      "time": "14:09:47 21/09/2026",
+      "sender": "user:1916635316",
+      "text": "link lỗi: https://serviceactivation.google.com/subscription/new/AQCpiIHJMvsDp0Z76k3rFrBouJ2AxeNFVqBJ_9oFoG9mLuBsz-EpgtxT_X5jIhDwiKoE9GujnARQWeDXfaM7IASenzxh38mA-bJ7g2TXMAL-YfS2bFzzoqMPBQ1D4qBHK83F6vfBoGOa7UCpUsGCoCNAupA3jge-FRZiVfKfGmH4ZWgbTJDq6YSCGFrLhpiB4H1x_WcCfW80-0pebG1Pa8jJBC-dMqutfl6IcOFkecb7MOCuPBK0WbeL3VZHdr2sLJgCnAd1hw0TyA=="
+    },
+    {
+      "time": "15:19:04 21/09/2026",
+      "sender": "admin:8101416491",
+      "text": "https://serviceactivation.google.com/subscription/new/AQCpiIHaWRnBHTTiVWn4jc08F-do06Ef4oTzZdLpD2UsXdnGSZ7XFqM0H1RCXbguE-e0jC9ZZMzc0aC2bjH1gMTq7ituvNt_LlOGPhh2ZP6QCLKAYUesmHeEaQOk1EkdaIfF2NAKCd9V6yxS1t1gOyvp8uqDLi1X-2UBOpi3E3KBRcUgPw3XajkmVPwTpdAyK04y3SJ1psZeM0in6olvUkt-oLgaAny98gaIT5shUqprrreGjo0TEA6PyV8OfCQvMlAqC8bZTi8zfyqssQ=="
+    }
+  ]
+}

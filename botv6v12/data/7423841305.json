@@ -1,0 +1,49 @@
+{
+  "id": 7423841305,
+  "username": "ryo_09_ok",
+  "full_name": "Ryo",
+  "created_at": "25/07/2026",
+  "last_seen": "12:28:03 12/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 4,
+    "done_orders": 4,
+    "total_spent": 153170
+  },
+  "orders": [
+    {
+      "order_code": "ORDER37162BB31785606978",
+      "product_name": "CHATGPT PLUS 1 THÁNG BH7D - Trâu",
+      "quantity": 1,
+      "total_money": 59150,
+      "created_time": "00:57:44 02/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER468933CA1785166749",
+      "product_name": "CHATGPT PLUS 1 THÁNG BH7D - Trâu",
+      "quantity": 1,
+      "total_money": 58500,
+      "created_time": "22:39:54 27/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB030B36B1784968784",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 17760,
+      "created_time": "15:43:09 25/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA488E3421784960666",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 17760,
+      "created_time": "13:25:10 25/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

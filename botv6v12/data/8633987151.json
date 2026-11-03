@@ -1,0 +1,25 @@
+{
+  "id": 8633987151,
+  "username": "Kanze1212",
+  "full_name": "Kanze",
+  "created_at": "24/09/2026",
+  "last_seen": "08:31:38 24/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 45600
+  },
+  "orders": [
+    {
+      "order_code": "ORDERCC24B0081790213445",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 2,
+      "total_money": 45600,
+      "created_time": "08:31:38 24/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

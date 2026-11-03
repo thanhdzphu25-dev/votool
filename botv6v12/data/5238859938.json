@@ -1,0 +1,99 @@
+{
+  "id": 5238859938,
+  "username": "harrythanhnguyen",
+  "full_name": "Nguyễn Harry",
+  "created_at": "03/09/2026",
+  "last_seen": "12:28:54 26/09/2026",
+  "balance": 20100,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 69900
+  },
+  "orders": [
+    {
+      "order_code": "ORDER8AFEFEEB1789821428",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 19500,
+      "created_time": "19:37:08 19/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER84D852BB1789725728",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 21000,
+      "created_time": "17:02:08 18/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER50DA3AEB1788450521",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 29400,
+      "created_time": "22:48:41 03/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "19:37:08 19/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 19500,
+      "before": 39600,
+      "after": 20100,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng"
+    },
+    {
+      "time": "19:36:39 19/09/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 30000,
+      "before": 9600,
+      "after": 39600,
+      "txid": "FT26262730638915",
+      "note": "NGUYEN XUAN THANHNAP5238859938 02U5KR4D/334305"
+    },
+    {
+      "time": "17:02:08 18/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 21000,
+      "before": 30600,
+      "after": 9600,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng"
+    },
+    {
+      "time": "17:01:45 18/09/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 30000,
+      "before": 600,
+      "after": 30600,
+      "txid": "FT26261735460001",
+      "note": "NGUYEN XUAN THANHNAP5238859938 02U62X8J/405275"
+    },
+    {
+      "time": "22:48:41 03/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 29400,
+      "before": 30000,
+      "after": 600,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH8H"
+    },
+    {
+      "time": "22:48:08 03/09/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 30000,
+      "before": 0,
+      "after": 30000,
+      "txid": "FT26247790166644",
+      "note": "NGUYEN XUAN THANHNAP5238859938 024UIUVF/664651"
+    }
+  ],
+  "lang": "vi"
+}

@@ -1,0 +1,49 @@
+{
+  "id": 5999585596,
+  "username": "Huno_99",
+  "full_name": "Huno",
+  "created_at": "07/07/2026",
+  "last_seen": "15:58:21 20/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 4,
+    "done_orders": 4,
+    "total_spent": 69690
+  },
+  "orders": [
+    {
+      "order_code": "ORDERA29DA2281787041074",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "15:18:31 18/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC2B2C5821783680432",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "17:47:45 10/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7514BBCA1783422072",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18720,
+      "created_time": "18:01:36 07/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3B3B83E31783420077",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18720,
+      "created_time": "17:28:25 07/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

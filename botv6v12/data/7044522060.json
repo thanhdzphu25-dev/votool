@@ -1,0 +1,26 @@
+{
+  "id": 7044522060,
+  "username": "skonni",
+  "full_name": "Mount N",
+  "created_at": "11/05/2026",
+  "last_seen": "16:30:01 31/05/2026",
+  "balance": 6500,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [
+    {
+      "time": "21:35:15 11/05/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 6500,
+      "before": 0,
+      "after": 6500,
+      "txid": "FT26131970295709",
+      "note": "NGUYEN NHAT MINHNAP7044522060 FT26132960588256 kC15 655E/493128"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7382489767,
+  "username": "almazrita_dijital",
+  "full_name": "Almazrita Dijital",
+  "created_at": "03/06/2026",
+  "last_seen": "10:07:53 03/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

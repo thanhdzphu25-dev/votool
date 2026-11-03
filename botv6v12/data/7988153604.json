@@ -1,0 +1,25 @@
+{
+  "id": 7988153604,
+  "username": null,
+  "full_name": "Hohi Haha",
+  "created_at": "12/09/2026",
+  "last_seen": "12:25:56 26/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 0,
+    "total_spent": 15000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER5662834F1790186140",
+      "product_name": "YouTube Premium 1 Tháng (Không BH)",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "00:57:02 24/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

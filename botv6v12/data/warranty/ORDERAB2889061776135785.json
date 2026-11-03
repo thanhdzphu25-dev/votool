@@ -1,0 +1,57 @@
+{
+  "order_code": "ORDERAB2889061776135785",
+  "user_id": 564647401,
+  "reason": "Password changed, không thể login",
+  "photo_file_id": "AgACAgUAAxkBAAEBR-Fp3a8GVgR03Wb2xE4nsW3SlodeUwACeA1rG0lP8FYJg9dHty1yTQEAAwIAA3gAAzsE",
+  "created_time": "10:06:08 14/04/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "10:50:11 14/04/2026",
+      "sender": "admin:8101416491",
+      "text": "đã hoàn"
+    },
+    {
+      "time": "10:55:24 14/04/2026",
+      "sender": "user:564647401",
+      "text": "Mình chưa được cấp password mới"
+    },
+    {
+      "time": "10:55:41 14/04/2026",
+      "sender": "admin:8101416491",
+      "text": "bị quét r b"
+    },
+    {
+      "time": "10:56:00 14/04/2026",
+      "sender": "user:564647401",
+      "text": "Hướng xữ lý tiếp theo là gì vậy shop?"
+    },
+    {
+      "time": "10:56:38 14/04/2026",
+      "sender": "admin:8101416491",
+      "text": "thì hoàn r đó b hết quét lên lại th"
+    },
+    {
+      "time": "10:58:04 14/04/2026",
+      "sender": "user:564647401",
+      "text": "Vậy bây giờ khi nào mình có thể mua lại được? có thông báo không?"
+    },
+    {
+      "time": "10:58:22 14/04/2026",
+      "sender": "admin:8101416491",
+      "text": "có thông báo"
+    },
+    {
+      "time": "13:09:39 14/04/2026",
+      "sender": "user:564647401",
+      "text": "khi nào có thể order lại shop?"
+    },
+    {
+      "time": "13:45:41 14/04/2026",
+      "sender": "admin:8101416491",
+      "text": "có sẽ thong báo mình nói r mà"
+    }
+  ]
+}

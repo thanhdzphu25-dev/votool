@@ -1,0 +1,487 @@
+{
+  "id": 5193835641,
+  "username": "ngaykiem10nghin",
+  "full_name": "Ngày Kiếm 10 Nghìn",
+  "created_at": "14/03/2026",
+  "last_seen": "19:12:24 23/09/2026",
+  "balance": 500,
+  "stats": {
+    "total_orders": 48,
+    "done_orders": 48,
+    "total_spent": 1506760
+  },
+  "orders": [
+    {
+      "order_code": "ORDER4422269E1785598687",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "22:38:07 01/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6E0DABC21785240229",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "19:05:35 28/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDF13C45A1785032789",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 17760,
+      "created_time": "09:27:04 26/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD75A62531781580205",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "10:23:25 16/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER49912C1F1779093767",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 14500,
+      "created_time": "15:42:47 18/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4CE8B1BC1778832696",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "15:11:36 15/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER56E697591778240245",
+      "product_name": "Veo 3 Ultra + Anti(No Watermark) BH 24h",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "18:37:56 08/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC790A8621778170262",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 80000,
+      "created_time": "23:11:38 07/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER769300ED1778074616",
+      "product_name": "Meitu SVIP - VIP+ 28 Ngày | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "20:37:51 06/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5AF3D5401778027367",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 80000,
+      "created_time": "07:30:19 06/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER089EF0041777964747",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 80000,
+      "created_time": "14:06:21 05/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCC80FE931777298545",
+      "product_name": "Meitu SVIP - VIP+ 28 Ngày | BHF",
+      "quantity": 1,
+      "total_money": 47000,
+      "created_time": "21:02:55 27/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA624D0A01777129696",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "22:09:04 25/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER08746B3F1776876593",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "23:50:52 22/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB72052991776762226",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 1,
+      "total_money": 33000,
+      "created_time": "16:04:01 21/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7705E4611776760275",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "15:32:12 21/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER15BA18801776651549",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 1,
+      "total_money": 32000,
+      "created_time": "09:19:43 20/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF2CCA88E1776565993",
+      "product_name": "Veo 3 Ultra + Anti(No Watermark) BH 24h",
+      "quantity": 1,
+      "total_money": 22000,
+      "created_time": "09:33:56 19/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5D68F5071776508286",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 1,
+      "total_money": 32000,
+      "created_time": "17:32:56 18/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER30CA215B1776346831",
+      "product_name": "Veo 3 Ultra + Anti(No Watermark) BH 24h",
+      "quantity": 1,
+      "total_money": 22000,
+      "created_time": "20:41:17 16/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC72DC4AC1776341771",
+      "product_name": "Veo 3 Ultra + Anti(No Watermark) BH 24h",
+      "quantity": 1,
+      "total_money": 22000,
+      "created_time": "19:17:03 16/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER920627181776337849",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "18:11:38 16/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER795EDF6A1776156302",
+      "product_name": "Nâng Chatgpt Plus 1Th Chính Chủ KBH",
+      "quantity": 1,
+      "total_money": 36000,
+      "created_time": "15:45:51 14/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3824E1B61775987408",
+      "product_name": "Veo 3 Ultra + AntiGravity 25K Credit BH24H",
+      "quantity": 1,
+      "total_money": 25000,
+      "created_time": "16:51:00 12/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC441AC1D1775787261",
+      "product_name": "Veo 3 Ultra 25k Credit BH24H",
+      "quantity": 1,
+      "total_money": 26000,
+      "created_time": "09:15:12 10/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER87B27FA61775744553",
+      "product_name": "Veo 3 Ultra 25k Credit BH24H",
+      "quantity": 1,
+      "total_money": 26000,
+      "created_time": "21:23:21 09/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA74194251775651617",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 2,
+      "total_money": 38000,
+      "created_time": "19:33:56 08/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA6E0B9D41775448371",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 25000,
+      "created_time": "11:06:37 06/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA8626FFB1775130759",
+      "product_name": "Grok Super 30-50 NGÀY BHF",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "18:53:01 02/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5A8CAFA51774917480",
+      "product_name": "Grok Super 30-50 NGÀY BHF",
+      "quantity": 1,
+      "total_money": 28000,
+      "created_time": "07:38:30 31/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8DB4374A1774885464",
+      "product_name": "Grok Super 30-50 NGÀY BHF",
+      "quantity": 1,
+      "total_money": 28000,
+      "created_time": "22:44:49 30/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER60C9E4B21774676144",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "12:35:44 28/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3C34A4EC1774538298",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "22:19:01 26/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER45D77C191774506011",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "13:20:47 26/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0C8AD1541774493186",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "09:46:51 26/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF297FEAF1774492345",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 2,
+      "total_money": 80000,
+      "created_time": "09:33:06 26/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER26884FF81774491247",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "09:14:55 26/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDEREAB973E11774421198",
+      "product_name": "Meitu SVIP 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "13:47:04 25/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD9F4A8971774406793",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "09:46:55 25/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE95D23441774364393",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "22:00:47 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER19C737661774352921",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "18:49:12 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER833F95B31774341399",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 2000,
+      "created_time": "15:37:13 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER643316F11774275660",
+      "product_name": "Slot Chatgpt Bussines 1 Tháng l BH7D l Trâu",
+      "quantity": 1,
+      "total_money": 3000,
+      "created_time": "21:21:52 23/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER88B5BAEC1774242316",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 55000,
+      "created_time": "12:05:56 23/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER31D88A451774230429",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 55000,
+      "created_time": "08:47:35 23/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER610737E51774171617",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 55000,
+      "created_time": "16:27:19 22/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5E5686E01774002390",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "17:27:07 20/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER02658BEF1773649500",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "15:25:28 16/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "22:38:07 01/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 14250,
+      "before": 14750,
+      "after": 500,
+      "note": "Thanh toán 1 x Youtube Premium 1 Tháng"
+    },
+    {
+      "time": "22:36:50 01/08/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 14250,
+      "delta": 14250,
+      "before": 500,
+      "after": 14750,
+      "reason": ""
+    },
+    {
+      "time": "10:23:25 16/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 15000,
+      "before": 15500,
+      "after": 500,
+      "note": "Thanh toán 1 x Youtube Premium 1 Tháng"
+    },
+    {
+      "time": "21:34:06 08/06/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 10000,
+      "delta": 10000,
+      "before": 5500,
+      "after": 15500,
+      "reason": ""
+    },
+    {
+      "time": "15:42:44 18/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 14500,
+      "before": 20000,
+      "after": 5500,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "15:11:29 15/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 15000,
+      "before": 35000,
+      "after": 20000,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "22:44:39 08/05/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 35000,
+      "delta": 35000,
+      "before": 0,
+      "after": 35000,
+      "reason": ""
+    },
+    {
+      "time": "12:35:41 28/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 35000,
+      "before": 35000,
+      "after": 0,
+      "note": "Thanh toán 1 x Grok Super 1 Tháng | BHF"
+    },
+    {
+      "time": "12:34:30 28/03/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 35000,
+      "delta": 35000,
+      "before": 0,
+      "after": 35000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

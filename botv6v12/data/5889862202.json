@@ -1,0 +1,16 @@
+{
+  "id": 5889862202,
+  "username": "dva123123",
+  "full_name": "An Do Van",
+  "created_at": "27/07/2026",
+  "last_seen": "16:53:28 23/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

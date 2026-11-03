@@ -1,0 +1,16 @@
+{
+  "id": 2118447296,
+  "username": null,
+  "full_name": "cheng 5",
+  "created_at": "20/07/2026",
+  "last_seen": "02:05:29 20/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,115 @@
+{
+  "id": 5871077760,
+  "username": "kiki9071",
+  "full_name": "MOD VN",
+  "created_at": "20/05/2026",
+  "last_seen": "20:28:39 26/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 5,
+    "done_orders": 2,
+    "total_spent": 54000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER96E312E81790429289",
+      "product_name": "[KEY] HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "20:28:39 26/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER55308CE21789018997",
+      "product_name": "YouTube Premium 1 Tháng (Không BH)",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "12:43:17 10/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER55D546DE1788763096",
+      "product_name": "YouTube Premium 1 Tháng (Không BH)",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "13:38:16 07/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCB187DC71788599022",
+      "product_name": "YouTube Premium 1 Tháng (Không BH)",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "16:03:42 05/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4A0C41EA1788095936",
+      "product_name": "[KEY] HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "20:19:35 30/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "12:43:17 10/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 15000,
+      "before": 15000,
+      "after": 0,
+      "note": "Thanh toán 1 x YouTube Premium 1 Tháng (Không BH)"
+    },
+    {
+      "time": "12:42:33 10/09/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 15000,
+      "before": 0,
+      "after": 15000,
+      "txid": "FT26253966585139",
+      "note": "HUYNH GIA BAONAP5871077760 I28XR4SF/260879"
+    },
+    {
+      "time": "13:38:16 07/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 15000,
+      "before": 15000,
+      "after": 0,
+      "note": "Thanh toán 1 x YouTube Premium 1 Tháng (Không BH)"
+    },
+    {
+      "time": "13:37:13 07/09/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 15000,
+      "before": 0,
+      "after": 15000,
+      "txid": "FT26250005246289",
+      "note": "HUYNH GIA BAONAP5871077760 I28WTFLM/745066"
+    },
+    {
+      "time": "16:03:42 05/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 15000,
+      "before": 15000,
+      "after": 0,
+      "note": "Thanh toán 1 x YouTube Premium 1 Tháng (Không BH)"
+    },
+    {
+      "time": "15:39:50 05/09/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 15000,
+      "delta": 15000,
+      "before": 0,
+      "after": 15000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

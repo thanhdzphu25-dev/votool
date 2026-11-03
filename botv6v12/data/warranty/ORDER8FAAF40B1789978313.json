@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER8FAAF40B1789978313",
+  "user_id": 8930593366,
+  "reason": "Khách gửi ảnh bảo hành (không kèm caption).",
+  "photo_file_id": "AgACAgUAAxkBAAEMeXNqsOgTqcTKCFqowURtMkhp4r-N-wACThJrG-VTiFVM-oca4CHy_gEAAwIAA3cAAz0E",
+  "created_time": "15:18:12 21/09/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "15:19:30 21/09/2026",
+      "sender": "admin:8101416491",
+      "text": "Chụp cả màn"
+    }
+  ]
+}

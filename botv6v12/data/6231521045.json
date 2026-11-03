@@ -1,0 +1,25 @@
+{
+  "id": 6231521045,
+  "username": null,
+  "full_name": "nguyen minh",
+  "created_at": "22/09/2026",
+  "last_seen": "12:08:44 22/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18600
+  },
+  "orders": [
+    {
+      "order_code": "ORDERDEBF31811790053644",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18600,
+      "created_time": "12:08:44 22/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7896215607,
+  "username": null,
+  "full_name": "Nobruh",
+  "created_at": "03/07/2026",
+  "last_seen": "02:28:55 21/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER1D872CDD1789231130",
+  "user_id": 8073124123,
+  "reason": "Khách gửi ảnh bảo hành (không kèm caption).",
+  "photo_file_id": "AgACAgUAAxkBAAELRa1qpYIVPqa4O-fBbwhu-Dv8rsOZFQAC_xFrG_-NMFUIuB0uzxYHhAEAAwIAA3kAAz0E",
+  "created_time": "23:48:43 12/09/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "00:12:27 13/09/2026",
+      "sender": "admin:8101416491",
+      "text": "Chụp full cả màn b"
+    }
+  ]
+}

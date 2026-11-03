@@ -1,0 +1,22 @@
+{
+  "order_code": "ORDERE835BDDA1778489978",
+  "user_id": 5177742071,
+  "reason": "mật khẩu không đúng",
+  "photo_file_id": "AgACAgUAAxkBAAECy1tqAZwVzZ4Ve_lCV8wfefambGfzTAACNxFrGzm8EFRWU9baGEBaFwEAAwIAA3gAAzsE",
+  "created_time": "16:06:30 11/05/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "16:07:13 11/05/2026",
+      "sender": "admin:8101416491",
+      "text": "chiu kkk log ở chatgpt vào microsoft chi b"
+    },
+    {
+      "time": "16:26:05 11/05/2026",
+      "sender": "user:5177742071",
+      "text": "dạ shop ơi chỉ mình lấy mã dung một lần với ạ"
+    }
+  ]
+}

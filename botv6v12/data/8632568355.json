@@ -1,0 +1,15 @@
+{
+  "id": 8632568355,
+  "username": "Giapmc",
+  "full_name": "Hải",
+  "created_at": "06/04/2026",
+  "last_seen": "23:45:35 21/04/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8575426942,
+  "username": "VTC_VTC",
+  "full_name": "Rồng Vàng",
+  "created_at": "14/03/2026",
+  "last_seen": "02:20:47 14/03/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

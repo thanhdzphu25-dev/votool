@@ -1,0 +1,141 @@
+{
+  "id": 7032553963,
+  "username": "chermaster",
+  "full_name": "Cher Master",
+  "created_at": "16/03/2026",
+  "last_seen": "12:22:02 15/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 13,
+    "done_orders": 13,
+    "total_spent": 1016000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERC6BE7D861786075839",
+      "product_name": "[KEY] HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "11:11:14 07/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER54D67F4F1784829268",
+      "product_name": "CHATGPT PLUS 1 THÁNG BH7D - Trâu",
+      "quantity": 1,
+      "total_money": 52000,
+      "created_time": "00:55:02 24/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF11BB8B11778744116",
+      "product_name": "Kiro 1000 Credit - Mail Gmail - Trâu",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "14:35:49 14/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER02FA5D831778422671",
+      "product_name": "CHATGPT PLUS 1M - Trâu BHF",
+      "quantity": 3,
+      "total_money": 417000,
+      "created_time": "21:18:26 10/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF75319D71777738276",
+      "product_name": "Chatgpt Plus 1m BH7D",
+      "quantity": 2,
+      "total_money": 70000,
+      "created_time": "23:12:08 02/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF8F0F2CC1777736867",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "22:47:47 02/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0329874C1777609892",
+      "product_name": "Chatgpt PLus 1 Tháng BH-48H",
+      "quantity": 2,
+      "total_money": 46000,
+      "created_time": "11:32:09 01/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD380EAA01776384346",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 5,
+      "total_money": 165000,
+      "created_time": "07:06:23 17/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER2049177A1776331893",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 5,
+      "total_money": 165000,
+      "created_time": "16:32:30 16/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1F7E83F01775324190",
+      "product_name": "Chatgpt Bussines 5sl KBH",
+      "quantity": 1,
+      "total_money": 23000,
+      "created_time": "00:37:12 05/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER698B1BB51775154353",
+      "product_name": "Chatgpt Bussines 5sl 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 22000,
+      "created_time": "01:26:28 03/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1F23E9901773831215",
+      "product_name": "Slot Chatgpt Bussines 1 Tháng",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "17:54:18 18/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB0B428751773679359",
+      "product_name": "Slot Chatgpt Bussines 1 Tháng",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "23:43:26 16/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "22:47:44 02/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 4500,
+      "before": 4500,
+      "after": 0,
+      "note": "Thanh toán 1 x Key HMA Android/PC 20-30 Ngày"
+    },
+    {
+      "time": "22:46:34 02/05/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 4500,
+      "delta": 4500,
+      "before": 0,
+      "after": 4500,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5027879399,
+  "username": "Ronacrut",
+  "full_name": "Rôn Nan Cờ Rút",
+  "created_at": "18/03/2026",
+  "last_seen": "15:01:34 07/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

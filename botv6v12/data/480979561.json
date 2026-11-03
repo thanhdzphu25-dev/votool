@@ -1,0 +1,93 @@
+{
+  "id": 480979561,
+  "username": "hasagihihi",
+  "full_name": "hasagi Hasagio",
+  "created_at": "18/03/2026",
+  "last_seen": "01:35:54 27/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 7,
+    "done_orders": 7,
+    "total_spent": 130900
+  },
+  "orders": [
+    {
+      "order_code": "ORDERF263F1911789286512",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 15600,
+      "created_time": "15:02:12 13/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER902FEB741780904624",
+      "product_name": "CDK Chatgpt Plus ( BH 12h )",
+      "quantity": 1,
+      "total_money": 17800,
+      "created_time": "14:44:19 08/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER49E989341778730258",
+      "product_name": "LINK - Gemini AI Pro 18 Tháng | BH 4M",
+      "quantity": 1,
+      "total_money": 60000,
+      "created_time": "10:44:44 14/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB138E7741777104040",
+      "product_name": "Chatgpt PLus 1 Tháng BH3D",
+      "quantity": 1,
+      "total_money": 22000,
+      "created_time": "15:01:16 25/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER96296D191775103114",
+      "product_name": "Grok Super 23-28 Ngày | KBH",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "11:12:19 02/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0B59B2BC1774244809",
+      "product_name": "ChatGpt Plus 1 Tháng l KBH",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "12:47:34 23/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBA87181C1773908831",
+      "product_name": "ChatGpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "15:27:11 19/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "15:27:11 19/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 5000,
+      "before": 5000,
+      "after": 0,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng KBH"
+    },
+    {
+      "time": "15:25:52 19/03/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 5000,
+      "delta": 5000,
+      "before": 0,
+      "after": 5000,
+      "reason": "loi nap"
+    }
+  ],
+  "lang": "vi"
+}

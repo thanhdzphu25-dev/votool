@@ -1,0 +1,16 @@
+{
+  "id": 751369306,
+  "username": "Brian23_9",
+  "full_name": "Brian Doan",
+  "created_at": "30/07/2026",
+  "last_seen": "14:27:54 30/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

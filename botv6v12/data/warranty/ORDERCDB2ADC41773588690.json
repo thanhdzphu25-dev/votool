@@ -1,0 +1,19 @@
+{
+  "order_code": "ORDERCDB2ADC41773588690",
+  "user_id": 7764466387,
+  "reason": "acc bị delete",
+  "photo_file_id": "AgACAgUAAxkBAAI6OGm_nURXk9M3zIbMFVF9teWcNlqcAALmD2sb2dX4VWeiYgQr0vE_AQADAgADeQADOgQ",
+  "created_time": "14:42:50 22/03/2026",
+  "status": "pending",
+  "closed": true,
+  "close_reason": "Done",
+  "chat_messages": [
+    {
+      "time": "14:52:13 22/03/2026",
+      "sender": "admin:8101416491",
+      "text": "khangoanhhooanh4582@hotmail.com|hanzoleged1102@@|XPANZFUUHWJD5PV5QXJVRUMGCGMS5NNY|khang@138278"
+    }
+  ],
+  "closed_time": "14:52:34 22/03/2026",
+  "closed_by": 8101416491
+}

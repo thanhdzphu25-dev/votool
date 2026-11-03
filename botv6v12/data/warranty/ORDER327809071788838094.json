@@ -1,0 +1,27 @@
+{
+  "order_code": "ORDER327809071788838094",
+  "user_id": 6048186003,
+  "reason": "Không dùng được",
+  "photo_file_id": "",
+  "created_time": "10:31:33 08/09/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "14:29:08 08/09/2026",
+      "sender": "admin:8101416491",
+      "text": "báo rõ vấn đề."
+    },
+    {
+      "time": "01:35:42 10/09/2026",
+      "sender": "user:6048186003",
+      "text": "18 tháng sao bây h lại ko dùng được nữa"
+    },
+    {
+      "time": "02:24:06 10/09/2026",
+      "sender": "admin:8101416491",
+      "text": "Sao b"
+    }
+  ]
+}

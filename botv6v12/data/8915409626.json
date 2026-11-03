@@ -1,0 +1,45 @@
+{
+  "id": 8915409626,
+  "username": null,
+  "full_name": "Quân Trần",
+  "created_at": "13/09/2026",
+  "last_seen": "19:40:17 13/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 15600
+  },
+  "orders": [
+    {
+      "order_code": "ORDER5C52AB091789303217",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 15600,
+      "created_time": "19:40:17 13/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "19:40:17 13/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 15600,
+      "before": 15600,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng"
+    },
+    {
+      "time": "19:38:51 13/09/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 15600,
+      "delta": 15600,
+      "before": 0,
+      "after": 15600,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

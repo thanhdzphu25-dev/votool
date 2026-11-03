@@ -1,0 +1,25 @@
+{
+  "id": 8191668462,
+  "username": null,
+  "full_name": "echdicode",
+  "created_at": "06/09/2026",
+  "last_seen": "19:32:39 20/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 30000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERCF045DD61788751842",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 30000,
+      "created_time": "10:32:25 07/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

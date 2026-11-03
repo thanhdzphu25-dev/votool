@@ -1,0 +1,69 @@
+{
+  "id": 8065983449,
+  "username": "dquansupport",
+  "full_name": "Dquan ( Luna )",
+  "created_at": "20/03/2026",
+  "last_seen": "20:08:45 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 4,
+    "done_orders": 4,
+    "total_spent": 46500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER71EF61591775285350",
+      "product_name": "Chatgpt Bussines 5 SL KBH",
+      "quantity": 1,
+      "total_money": 25000,
+      "created_time": "13:49:10 04/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF460492F1774281190",
+      "product_name": "Chatgpt Bussines 1 Tháng 5 Slot KBH",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "22:53:56 23/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC9F4A26A1774114316",
+      "product_name": "ChatGpt Plus 1 Tháng l BH7D",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "00:32:26 22/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7547EA4A1773944433",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "01:21:36 20/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "13:49:10 04/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 25000,
+      "before": 25000,
+      "after": 0,
+      "note": "Thanh toán 1 x Chatgpt Bussines 5 SL KBH"
+    },
+    {
+      "time": "13:43:06 04/04/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 25000,
+      "before": 0,
+      "after": 25000,
+      "txid": "FT26094240314470",
+      "note": "CUSTOMER NAP8065983449. TU: NGUYEN DOAN QUAN"
+    }
+  ],
+  "lang": "vi"
+}

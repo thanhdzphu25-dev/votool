@@ -1,0 +1,33 @@
+{
+  "id": 573175872,
+  "username": "tuy12345",
+  "full_name": "Slide Pie",
+  "created_at": "08/07/2026",
+  "last_seen": "09:23:56 18/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 44000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERB3F0EE8B1789698196",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 25200,
+      "created_time": "09:23:56 18/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFA7BAD971786282988",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18800,
+      "created_time": "20:45:13 09/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

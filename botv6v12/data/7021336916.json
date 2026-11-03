@@ -1,0 +1,15 @@
+{
+  "id": 7021336916,
+  "username": "PixVerify",
+  "full_name": "Gemini Pixel Verify",
+  "created_at": "08/06/2026",
+  "last_seen": "21:59:55 15/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

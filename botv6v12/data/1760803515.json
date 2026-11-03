@@ -1,0 +1,25 @@
+{
+  "id": 1760803515,
+  "username": "ros_mmo",
+  "full_name": "The Shark🌱",
+  "created_at": "29/07/2026",
+  "last_seen": "15:33:57 18/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 0,
+    "total_spent": 9000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERD04207C21789719909",
+      "product_name": "Canva Pro Edu 1 Năm",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "15:26:13 18/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

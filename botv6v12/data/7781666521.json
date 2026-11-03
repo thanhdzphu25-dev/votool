@@ -1,0 +1,61 @@
+{
+  "id": 7781666521,
+  "username": "SHOPKEYDQ",
+  "full_name": "SHOPKEYDQ",
+  "created_at": "13/03/2026",
+  "last_seen": "17:27:21 23/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 182500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER391B48DD1783158725",
+      "product_name": "CHATGPT PLUS 1 THÁNG ( TUT SEPA ) — Trâu - BH3D",
+      "quantity": 1,
+      "total_money": 42500,
+      "created_time": "16:52:05 04/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1AE764FC1782820362",
+      "product_name": "Chatgpt Plus 1 Tháng Blik BH10D",
+      "quantity": 1,
+      "total_money": 55000,
+      "created_time": "18:53:28 30/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC8C105611781610220",
+      "product_name": "Chatgpt Plus 1 Tháng UPI BH7D",
+      "quantity": 1,
+      "total_money": 85000,
+      "created_time": "18:44:35 16/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "16:52:05 04/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 42500,
+      "before": 42500,
+      "after": 0,
+      "note": "Thanh toán 1 x CHATGPT PLUS 1 THÁNG ( TUT SEPA ) — Trâu - BH3D"
+    },
+    {
+      "time": "16:51:17 04/07/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 42500,
+      "delta": 42500,
+      "before": 0,
+      "after": 42500,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

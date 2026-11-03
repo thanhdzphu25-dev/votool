@@ -1,0 +1,16 @@
+{
+  "id": 1065023509,
+  "username": "Jannanamida",
+  "full_name": "Trần Trọng Nghĩa",
+  "created_at": "12/09/2026",
+  "last_seen": "18:50:08 19/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

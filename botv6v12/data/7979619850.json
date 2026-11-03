@@ -1,0 +1,15 @@
+{
+  "id": 7979619850,
+  "username": null,
+  "full_name": "Kaiser xhán",
+  "created_at": "21/03/2026",
+  "last_seen": "15:38:02 21/03/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

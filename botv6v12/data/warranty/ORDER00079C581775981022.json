@@ -1,0 +1,22 @@
+{
+  "order_code": "ORDER00079C581775981022",
+  "user_id": 702419581,
+  "reason": "Mail hôm qua shop bảo hành hôm nay bị quét die rồi shop ơi\n\ndylancaleanderson1780@hotmail.com",
+  "photo_file_id": "AgACAgUAAxkBAAEBQl9p3HexVpEJ1n9Kq4_9s81BKyDtqQACBw5rG-ew6Vb0NqNEbOxo4gEAAwIAA3kAAzsE",
+  "created_time": "11:57:22 13/04/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "12:48:25 13/04/2026",
+      "sender": "admin:8101416491",
+      "text": "Burh , để mình ngâm nốt hôm  ay dc thì bảo hành"
+    },
+    {
+      "time": "12:49:13 13/04/2026",
+      "sender": "user:702419581",
+      "text": "👌👌👌"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 7326624882,
+  "username": "ltd1310",
+  "full_name": "Dat Le",
+  "created_at": "08/07/2026",
+  "last_seen": "19:48:06 18/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 7,
+    "done_orders": 7,
+    "total_spent": 213560
+  },
+  "orders": [
+    {
+      "order_code": "ORDER3BA159E11788625542",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 32400,
+      "created_time": "23:26:40 05/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER568C4D2A1787138254",
+      "product_name": "LINK GEMINI PRO 18 THÁNG BH6H",
+      "quantity": 1,
+      "total_money": 18200,
+      "created_time": "18:18:24 19/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER479539AA1784422032",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "07:48:18 19/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4971A1181784042549",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 2,
+      "total_money": 35520,
+      "created_time": "22:23:20 14/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER459F3ED41783595395",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 2,
+      "total_money": 36480,
+      "created_time": "18:10:30 09/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3466ACF51783595318",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 3,
+      "total_money": 54720,
+      "created_time": "18:09:09 09/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA4CB1FE01783594940",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18240,
+      "created_time": "18:02:58 09/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

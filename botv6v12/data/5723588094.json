@@ -1,0 +1,41 @@
+{
+  "id": 5723588094,
+  "username": "NguyenLinhTrang25",
+  "full_name": "Nguyen Linh Trang 🍀",
+  "created_at": "08/07/2026",
+  "last_seen": "08:42:49 25/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 2,
+    "total_spent": 49980
+  },
+  "orders": [
+    {
+      "order_code": "ORDERFCB437F81790300514",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 22500,
+      "created_time": "08:42:49 25/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7B8253D21787629434",
+      "product_name": "Canva Pro edu 1 Năm",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "10:44:49 25/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCE9295FE1783479867",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18480,
+      "created_time": "10:04:57 08/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

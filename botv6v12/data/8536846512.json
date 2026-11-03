@@ -1,0 +1,15 @@
+{
+  "id": 8536846512,
+  "username": "phanhuy24",
+  "full_name": "huy phan",
+  "created_at": "12/05/2026",
+  "last_seen": "09:51:20 03/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

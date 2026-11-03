@@ -1,0 +1,16 @@
+{
+  "id": 5927436265,
+  "username": "hoai2003z",
+  "full_name": "Ut Nguyen",
+  "created_at": "10/07/2026",
+  "last_seen": "10:20:38 04/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

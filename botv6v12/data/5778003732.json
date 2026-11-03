@@ -1,0 +1,33 @@
+{
+  "id": 5778003732,
+  "username": "ntbihnath",
+  "full_name": "Binh",
+  "created_at": "13/03/2026",
+  "last_seen": "10:36:31 19/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 56340
+  },
+  "orders": [
+    {
+      "order_code": "ORDER62A5D0741785938550",
+      "product_name": "[BH25D] CapCut Pro 1 Tháng",
+      "quantity": 1,
+      "total_money": 49840,
+      "created_time": "21:03:21 05/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER72F430BA1776914582",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "10:23:40 23/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

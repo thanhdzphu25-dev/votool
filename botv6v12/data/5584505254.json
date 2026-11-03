@@ -1,0 +1,41 @@
+{
+  "id": 5584505254,
+  "username": "Photphis",
+  "full_name": "Zen",
+  "created_at": "20/04/2026",
+  "last_seen": "03:52:09 12/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 126500
+  },
+  "orders": [
+    {
+      "order_code": "ORDEREB6F0F241784736187",
+      "product_name": "ChatGpt Plus 1 Tháng BHF - Trâu",
+      "quantity": 1,
+      "total_money": 112500,
+      "created_time": "23:03:46 22/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER99E145EE1780397395",
+      "product_name": "CapCut Pro 7d Sale",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "17:50:20 02/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBD0FBE691777896789",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "19:13:57 04/05/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

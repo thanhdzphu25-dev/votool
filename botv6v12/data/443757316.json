@@ -1,0 +1,16 @@
+{
+  "id": 443757316,
+  "username": "dung2v",
+  "full_name": "Dũng Vũ",
+  "created_at": "11/04/2026",
+  "last_seen": "08:55:16 17/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

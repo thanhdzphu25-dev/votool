@@ -1,0 +1,347 @@
+{
+  "id": 7483972349,
+  "username": "Agency3939",
+  "full_name": "Zhong Li —黑色数据",
+  "created_at": "14/03/2026",
+  "last_seen": "12:21:44 16/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 34,
+    "done_orders": 34,
+    "total_spent": 950000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER247F91A31782488314",
+      "product_name": "CapCut Pro Team 30-35D BHF",
+      "quantity": 1,
+      "total_money": 55000,
+      "created_time": "22:39:11 26/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6AF4CF8F1781862618",
+      "product_name": "[BH30D]Capcut Team 33-37D Không Renew",
+      "quantity": 1,
+      "total_money": 60000,
+      "created_time": "16:50:48 19/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER32FE6D4E1780746952",
+      "product_name": "CDK Chatgpt Plus ( BH 12h )",
+      "quantity": 2,
+      "total_money": 38000,
+      "created_time": "18:56:23 06/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF8AED2191780328754",
+      "product_name": "CapCut Pro 7d Sale",
+      "quantity": 2,
+      "total_money": 17000,
+      "created_time": "22:50:00 01/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD3027DF41779165965",
+      "product_name": "CHATGPT PLUS 1M - Trâu BHF",
+      "quantity": 1,
+      "total_money": 149000,
+      "created_time": "11:46:32 19/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB033AC791778773055",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "22:38:03 14/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER65785AA31778680370",
+      "product_name": "CHATGPT PLUS 1M - Trâu BHF",
+      "quantity": 1,
+      "total_money": 165000,
+      "created_time": "20:53:25 13/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE214F7DF1778400621",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "15:10:43 10/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4013826A1778349690",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 80000,
+      "created_time": "01:01:30 10/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER08EBD9501778075728",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "20:55:52 06/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDE0B40F21778051176",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "14:07:07 06/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER61E26E941777783088",
+      "product_name": "Chatgpt Plus 1m BH7D",
+      "quantity": 1,
+      "total_money": 36000,
+      "created_time": "11:38:08 03/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER565ED78F1777598429",
+      "product_name": "Grok Super 1 Tháng | BH 25D",
+      "quantity": 1,
+      "total_money": 82000,
+      "created_time": "08:21:05 01/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3F68B9751777312392",
+      "product_name": "Veo 3 Ultra + Anti(No Watermark) BH 24h",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "00:53:35 28/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDE697C941777312362",
+      "product_name": "Grok Super 7D | BH 24H",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "00:53:03 28/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERAF25C09D1777184639",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "13:24:34 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB0D8BFB81777127496",
+      "product_name": "Chatgpt PLus 1 Tháng BH3D",
+      "quantity": 1,
+      "total_money": 23500,
+      "created_time": "21:32:03 25/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER84FE4C3B1776966943",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "00:56:12 24/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER528091241776764502",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "16:42:12 21/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7A374FA71776431606",
+      "product_name": "Veo 3 Ultra + Anti(No Watermark) BH 24h",
+      "quantity": 1,
+      "total_money": 22000,
+      "created_time": "20:13:26 17/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6EF99BB11776345172",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "20:13:22 16/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7FEE13031776072828",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "16:34:07 13/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBF86F90C1775978768",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 2,
+      "total_money": 15000,
+      "created_time": "14:26:44 12/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDEF9D1B41775734737",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "18:39:18 09/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDD60F6531775032654",
+      "product_name": "Admin Chatgpt Bussines 5sl KBH",
+      "quantity": 1,
+      "total_money": 25000,
+      "created_time": "15:38:28 01/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3F1DE7E61774978157",
+      "product_name": "Chatgpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 12000,
+      "created_time": "00:29:46 01/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA63E30321774864592",
+      "product_name": "Grok Super 30-50 NGÀY BHF",
+      "quantity": 1,
+      "total_money": 30000,
+      "created_time": "16:56:56 30/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8ECE2CE91774690477",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "16:35:11 28/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFDD8C2001774620254",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "21:04:56 27/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER936238D31774609139",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "17:59:26 27/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER82B490BA1774407047",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "09:51:15 25/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER2D90A5D41774109275",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "23:08:27 21/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0B652D811773976760",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "10:19:50 20/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDC5453A71773506418",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "23:40:40 14/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "01:01:28 10/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 80000,
+      "before": 80000,
+      "after": 0,
+      "note": "Thanh toán 1 x Grok Super 1 Tháng | BHF"
+    },
+    {
+      "time": "00:59:11 10/05/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 80000,
+      "delta": 80000,
+      "before": 0,
+      "after": 80000,
+      "reason": ""
+    },
+    {
+      "time": "11:38:08 03/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 36000,
+      "before": 36000,
+      "after": 0,
+      "note": "Thanh toán 1 x Chatgpt Plus 1m BH7D"
+    },
+    {
+      "time": "11:37:56 03/05/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 36000,
+      "delta": 36000,
+      "before": 0,
+      "after": 36000,
+      "reason": ""
+    },
+    {
+      "time": "20:13:26 17/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 22000,
+      "before": 22000,
+      "after": 0,
+      "note": "Thanh toán 1 x Veo 3 Ultra + Anti(No Watermark) BH 24h"
+    },
+    {
+      "time": "20:12:47 17/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 22000,
+      "delta": 22000,
+      "before": 0,
+      "after": 22000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

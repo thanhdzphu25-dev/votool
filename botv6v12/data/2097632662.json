@@ -1,0 +1,167 @@
+{
+  "id": 2097632662,
+  "username": "SnRSystem",
+  "full_name": "SnR System",
+  "created_at": "22/03/2026",
+  "last_seen": "06:20:18 19/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 8,
+    "done_orders": 8,
+    "total_spent": 176000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERDF0CC0B11778507777",
+      "product_name": "CHATGPT PLUS 1M KBH",
+      "quantity": 2,
+      "total_money": 13000,
+      "created_time": "20:56:59 11/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER70A1650C1778417913",
+      "product_name": "CHATGPT PLUS 1M KBH",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "19:59:30 10/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER39AC5DC71778167356",
+      "product_name": "CHATGPT PLUS 1M KBH",
+      "quantity": 1,
+      "total_money": 12000,
+      "created_time": "22:25:58 07/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8CF5BA081776568389",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 2,
+      "total_money": 64000,
+      "created_time": "10:13:09 19/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7884909A1775386938",
+      "product_name": "Gemini Pro + 5Tb 1 năm Pixel Trâu KBH",
+      "quantity": 1,
+      "total_money": 65000,
+      "created_time": "18:02:18 05/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB73048831775205393",
+      "product_name": "Chatgpt Plus Date 27/04 KBH",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "15:36:33 03/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCB9134CC1775205322",
+      "product_name": "Chatgpt Plus Date 27/04 KBH",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "15:35:22 03/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER597407481774193655",
+      "product_name": "Slot Chatgpt Bussines 1 Tháng l BH7D l Trâu",
+      "quantity": 1,
+      "total_money": 3000,
+      "created_time": "22:34:15 22/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "10:13:09 19/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 64000,
+      "before": 64000,
+      "after": 0,
+      "note": "Thanh toán 2 x Chatgpt Plus 1Th Auto Bh Gói"
+    },
+    {
+      "time": "10:12:47 19/04/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 47000,
+      "before": 17000,
+      "after": 64000,
+      "txid": "FT26110452747060",
+      "note": "TRAN ANH TUANNAP2097632662 I2YNJ11W/684050"
+    },
+    {
+      "time": "18:02:18 05/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 65000,
+      "before": 82000,
+      "after": 17000,
+      "note": "Thanh toán 1 x Gemini Pro + 5Tb 1 năm Pixel Trâu KBH"
+    },
+    {
+      "time": "18:02:03 05/04/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 70000,
+      "before": 12000,
+      "after": 82000,
+      "txid": "FT26096555603261",
+      "note": "CUSTOMER NAP2097632662   Ma giao dich  Trace052407 Trace 052407"
+    },
+    {
+      "time": "15:36:33 03/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 5000,
+      "before": 17000,
+      "after": 12000,
+      "note": "Thanh toán 1 x Chatgpt Plus Date 27/04 KBH"
+    },
+    {
+      "time": "15:35:22 03/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 5000,
+      "before": 22000,
+      "after": 17000,
+      "note": "Thanh toán 1 x Chatgpt Plus Date 27/04 KBH"
+    },
+    {
+      "time": "22:01:03 01/04/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 15000,
+      "before": 7000,
+      "after": 22000,
+      "txid": "FT26091126268029",
+      "note": "CUSTOMER NAP2097632662   Ma giao dich  Trace296314 Trace 296314"
+    },
+    {
+      "time": "22:34:15 22/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 3000,
+      "before": 10000,
+      "after": 7000,
+      "note": "Thanh toán 1 x Slot Chatgpt Bussines 1 Tháng l BH7D l Trâu"
+    },
+    {
+      "time": "22:34:02 22/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 10000,
+      "before": 0,
+      "after": 10000,
+      "txid": "FT26082186622730",
+      "note": "CUSTOMER NAP2097632662   Ma giao dich  Trace168388 Trace 168388"
+    }
+  ],
+  "lang": "vi"
+}

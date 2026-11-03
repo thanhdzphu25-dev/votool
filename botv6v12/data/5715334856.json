@@ -1,0 +1,16 @@
+{
+  "id": 5715334856,
+  "username": "minhduong1993",
+  "full_name": "Minh Duong",
+  "created_at": "03/09/2026",
+  "last_seen": "10:26:15 07/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

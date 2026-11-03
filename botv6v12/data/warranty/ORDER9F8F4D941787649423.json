@@ -1,0 +1,22 @@
+{
+  "order_code": "ORDER9F8F4D941787649423",
+  "user_id": 7309499024,
+  "reason": "link không còn kích hoạt được để vào gemini pro",
+  "photo_file_id": "AgACAgUAAxkBAAEJTN1qjV4yZ9TIKEWUCICNpHVyaEsXBgACJBJrGyhuaFSE6WvsPo-jhgEAAwIAA3kAAz0E",
+  "created_time": "16:20:30 25/08/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "17:31:27 25/08/2026",
+      "sender": "admin:8101416491",
+      "text": "Gửi mình link lỗi"
+    },
+    {
+      "time": "07:18:09 26/08/2026",
+      "sender": "admin:8101416491",
+      "text": "Hi bác"
+    }
+  ]
+}

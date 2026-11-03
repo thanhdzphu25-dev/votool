@@ -1,0 +1,16 @@
+{
+  "id": 6818614910,
+  "username": "thangdanj",
+  "full_name": "Thag Dag",
+  "created_at": "21/03/2026",
+  "last_seen": "15:49:47 22/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 5781958578,
+  "username": "dot201",
+  "full_name": "Hiep Nguyen",
+  "created_at": "01/08/2026",
+  "last_seen": "17:19:39 02/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 21600
+  },
+  "orders": [
+    {
+      "order_code": "ORDERB83009E61785589962",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 21600,
+      "created_time": "20:13:55 01/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5859102341,
+  "username": null,
+  "full_name": "Nam Nam",
+  "created_at": "25/09/2026",
+  "last_seen": "15:29:06 25/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

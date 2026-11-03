@@ -1,0 +1,45 @@
+{
+  "id": 6621481917,
+  "username": "thiennhan1110",
+  "full_name": "Thiện Nhân",
+  "created_at": "11/05/2026",
+  "last_seen": "18:03:13 20/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 6500
+  },
+  "orders": [
+    {
+      "order_code": "ORDERDA943F101778507681",
+      "product_name": "CHATGPT PLUS 1M KBH",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "20:54:41 11/05/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "20:54:41 11/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 6500,
+      "after": 0,
+      "note": "Thanh toán 1 x CHATGPT PLUS 1M KBH"
+    },
+    {
+      "time": "20:53:51 11/05/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 6500,
+      "before": 0,
+      "after": 6500,
+      "txid": "FT26131900862294",
+      "note": "KHIEU THANH DOANHNAP6621481917 cJ1M1N8P/905580"
+    }
+  ],
+  "lang": "vi"
+}

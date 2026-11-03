@@ -1,0 +1,33 @@
+{
+  "id": 8511701523,
+  "username": "Meliodas0603",
+  "full_name": "Thanh Nguyen",
+  "created_at": "13/05/2026",
+  "last_seen": "07:53:40 27/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 83000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER98F7116F1781621854",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "21:58:07 16/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER68FA4B7B1780328977",
+      "product_name": "Link Gemini Pro 18 Tháng KBH",
+      "quantity": 1,
+      "total_money": 48000,
+      "created_time": "22:50:12 01/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

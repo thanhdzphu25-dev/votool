@@ -1,0 +1,12 @@
+{
+  "order_code": "ORDER974364751782050435",
+  "user_id": 5753932859,
+  "product_id": "sp_1782050257517",
+  "product_name": "ChatGpt Plus UPI 1 Tháng BH24H",
+  "qty": 1,
+  "unit_price": 60000,
+  "total": 60000,
+  "created_at": "21:00:35 21/06/2026",
+  "expires_at_unix": 1782051035,
+  "payment_desc": "NAP5753932859 ORDER974364751782050435"
+}

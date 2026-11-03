@@ -1,0 +1,16 @@
+{
+  "id": 6836965975,
+  "username": "tuanhanh012",
+  "full_name": "Tuân Luiz",
+  "created_at": "08/06/2026",
+  "last_seen": "23:53:00 06/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

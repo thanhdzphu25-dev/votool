@@ -1,0 +1,15 @@
+{
+  "id": 6389398257,
+  "username": "Everix33",
+  "full_name": "Everix",
+  "created_at": "19/03/2026",
+  "last_seen": "04:21:40 20/03/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

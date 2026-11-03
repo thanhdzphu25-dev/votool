@@ -1,0 +1,33 @@
+{
+  "id": 1869982683,
+  "username": "thaitqht",
+  "full_name": "Quang Thái Trần",
+  "created_at": "24/03/2026",
+  "last_seen": "21:23:26 27/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 75000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER5DA2DFA71775386697",
+      "product_name": "Gemini Pro + 5Tb 1 năm Pixel Trâu KBH",
+      "quantity": 1,
+      "total_money": 65000,
+      "created_time": "18:00:48 05/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER71369F221775176686",
+      "product_name": "Chatgpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "07:38:49 03/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

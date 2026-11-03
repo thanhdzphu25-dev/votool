@@ -1,0 +1,78 @@
+{
+  "id": 7715511787,
+  "username": "Ka_pro66",
+  "full_name": "Kaka",
+  "created_at": "09/06/2026",
+  "last_seen": "21:06:22 14/07/2026",
+  "balance": 8000,
+  "stats": {
+    "total_orders": 4,
+    "done_orders": 4,
+    "total_spent": 28500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER856A58151784037982",
+      "product_name": "[KEY] HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "21:06:22 14/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER984D52291784037973",
+      "product_name": "[KEY] HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "21:06:13 14/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER41D5EFD91783483333",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 13500,
+      "created_time": "11:04:12 08/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFAC21F711781143255",
+      "product_name": "[KEY] HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "09:01:40 11/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "21:06:13 14/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 5000,
+      "before": 13000,
+      "after": 8000,
+      "note": "Thanh toán 1 x [KEY] HMA Android/PC 20-30 Ngày"
+    },
+    {
+      "time": "21:06:07 14/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 5000,
+      "before": 18000,
+      "after": 13000,
+      "note": "Thanh toán 1 x [KEY] HMA Android/PC 20-30 Ngày"
+    },
+    {
+      "time": "13:21:14 12/07/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 18000,
+      "delta": 18000,
+      "before": 0,
+      "after": 18000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

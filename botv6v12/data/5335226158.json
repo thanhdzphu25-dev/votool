@@ -1,0 +1,25 @@
+{
+  "id": 5335226158,
+  "username": "minhpt21",
+  "full_name": "Phạm Trường Minh",
+  "created_at": "23/09/2026",
+  "last_seen": "22:35:11 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 22200
+  },
+  "orders": [
+    {
+      "order_code": "ORDERF3C9F0961790174152",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 22200,
+      "created_time": "21:36:34 23/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 8304514184,
+  "username": "vuaplaytogether",
+  "full_name": "Chất liệu gái iu 🤍",
+  "created_at": "24/03/2026",
+  "last_seen": "14:22:10 31/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 10000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERFB61670E1774769579",
+      "product_name": "Slot Chatgpt Bussines 1 Tháng",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "14:34:58 29/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER8CD4478E1778413930",
+  "user_id": 7426163154,
+  "reason": "Acc log ko đc shop ơi",
+  "photo_file_id": "AgACAgUAAxkBAAECwPVqAAGDsKh_dFBTkQKkB8Dky-EYJEAAAxJrGweHAAFUCzPlBO0pDjgBAAMCAAN5AAM7BA",
+  "created_time": "20:10:45 10/05/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "20:17:04 10/05/2026",
+      "sender": "admin:8101416491",
+      "text": "Máy tính thì log vào dt r quét QR b"
+    }
+  ]
+}

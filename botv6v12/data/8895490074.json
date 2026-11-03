@@ -1,0 +1,41 @@
+{
+  "id": 8895490074,
+  "username": null,
+  "full_name": "Ha",
+  "created_at": "05/09/2026",
+  "last_seen": "00:02:54 24/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 81300
+  },
+  "orders": [
+    {
+      "order_code": "ORDER948B420C1790178121",
+      "product_name": "[KEY] HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "22:42:42 23/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCB68C77B1790177635",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 2,
+      "total_money": 44400,
+      "created_time": "22:34:27 23/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0E17FFB61788623388",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 32400,
+      "created_time": "22:50:28 05/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

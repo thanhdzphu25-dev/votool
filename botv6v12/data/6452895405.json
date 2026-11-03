@@ -1,0 +1,25 @@
+{
+  "id": 6452895405,
+  "username": "meobeosupport",
+  "full_name": "Fat Cat",
+  "created_at": "08/06/2026",
+  "last_seen": "16:56:23 18/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 23500
+  },
+  "orders": [
+    {
+      "order_code": "ORDERF85DB8F41782312110",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 23500,
+      "created_time": "21:42:13 24/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

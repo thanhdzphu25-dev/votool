@@ -1,0 +1,16 @@
+{
+  "id": 6219128076,
+  "username": "tinhphann",
+  "full_name": "Tinh Phan",
+  "created_at": "03/09/2026",
+  "last_seen": "20:23:46 03/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

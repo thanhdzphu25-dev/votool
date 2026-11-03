@@ -1,0 +1,25 @@
+{
+  "id": 5576846800,
+  "username": "dnluaan",
+  "full_name": "Luân",
+  "created_at": "10/04/2026",
+  "last_seen": "19:18:01 10/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 7500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER6CF9034D1775806000",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "14:27:31 10/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,33 @@
+{
+  "id": 6720780225,
+  "username": "chauuytin",
+  "full_name": "Ngọc Châu",
+  "created_at": "13/03/2026",
+  "last_seen": "14:08:34 18/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 15000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERE64F8C301775889330",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "13:36:05 11/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6A3C6E1D1775862096",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "06:02:11 11/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

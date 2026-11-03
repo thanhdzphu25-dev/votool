@@ -1,0 +1,258 @@
+{
+  "id": 1777056340,
+  "username": "thientran11sep",
+  "full_name": "Thiện Trần",
+  "created_at": "13/03/2026",
+  "last_seen": "21:38:37 14/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 23,
+    "done_orders": 23,
+    "total_spent": 848000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERB2B4CB091777968504",
+      "product_name": "LINK - Gemini AI Pro 18 Tháng | BH 4M",
+      "quantity": 1,
+      "total_money": 60000,
+      "created_time": "15:08:58 05/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER513542721777868079",
+      "product_name": "Meitu SVIP - VIP+ 28 Ngày | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "11:15:15 04/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC43A5FD11777811498",
+      "product_name": "Meitu VIP 7D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "19:32:14 03/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD725E8AA1777782853",
+      "product_name": "LINK - Gemini AI Pro 18 Tháng | BH 4M",
+      "quantity": 1,
+      "total_money": 60000,
+      "created_time": "11:34:38 03/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCDF3C7171777782731",
+      "product_name": "LINK - Gemini AI Pro 18 Tháng | BH 4M",
+      "quantity": 1,
+      "total_money": 60000,
+      "created_time": "11:33:30 03/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9FB5E0B91777737658",
+      "product_name": "Meitu SVIP - VIP+ 28 Ngày | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "23:01:29 02/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERAC46D5D61777523728",
+      "product_name": "Meitu SVIP - VIP+ 28 Ngày | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "11:36:15 30/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF839FF991777123959",
+      "product_name": "Grok Super 7D | BH 24H",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "20:33:17 25/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER84BA55851777106593",
+      "product_name": "Meitu SVIP - VIP+ 28 Ngày | BHF",
+      "quantity": 1,
+      "total_money": 47000,
+      "created_time": "15:43:48 25/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER12B390A11777095534",
+      "product_name": "Meitu SVIP - VIP+ 28 Ngày | BHF",
+      "quantity": 1,
+      "total_money": 50000,
+      "created_time": "12:40:16 25/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6C5BCD6D1777003254",
+      "product_name": "Gemini Pro + 5Tb 1 năm Pixel Trâu KBH",
+      "quantity": 1,
+      "total_money": 49000,
+      "created_time": "11:01:36 24/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7123F9421776772060",
+      "product_name": "Gemini Pro + 5Tb 1 năm Pixel Trâu KBH",
+      "quantity": 2,
+      "total_money": 150000,
+      "created_time": "18:48:10 21/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDEREDD072B91776066835",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "14:54:38 13/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER48A9E3FE1775578695",
+      "product_name": "Grok Heavy 1Y | KBH | Gói Trải Nghiệm",
+      "quantity": 1,
+      "total_money": 11000,
+      "created_time": "23:18:52 07/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1CC6D1201774793197",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "21:07:12 29/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERAB57565B1774673336",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "11:49:31 28/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER76296E0D1774587165",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "11:53:23 27/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER17F7D6641774534266",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "21:11:46 26/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCE739BB11774508571",
+      "product_name": "Voucher Tạo Stk Đẹp Mbbank 25m",
+      "quantity": 1,
+      "total_money": 14000,
+      "created_time": "14:03:27 26/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE5FC35051774342199",
+      "product_name": "Meitu SVIP 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "15:50:45 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6557D90C1774155658",
+      "product_name": "Meitu SVIP 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "12:01:45 22/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCA5C01E41774083969",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "16:07:14 21/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER12A3994A1774060674",
+      "product_name": "Meitu SVIP 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "09:38:39 21/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "14:23:16 30/03/2026",
+      "admin_id": 8101416491,
+      "type": "tru",
+      "amount": 6000,
+      "delta": -6000,
+      "before": 6000,
+      "after": 0,
+      "reason": ""
+    },
+    {
+      "time": "14:03:14 30/03/2026",
+      "type": "credit",
+      "source": "wallet_refund_api_buy_fail",
+      "amount": 6000,
+      "before": 0,
+      "after": 6000,
+      "note": "Hoàn tiền do API buy lỗi: CapCut Pro Team 35D | BHF x1"
+    },
+    {
+      "time": "14:02:53 30/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6000,
+      "before": 6000,
+      "after": 0,
+      "note": "Thanh toán 1 x CapCut Pro Team 35D | BHF"
+    },
+    {
+      "time": "13:56:37 30/03/2026",
+      "type": "credit",
+      "source": "wallet_refund_api_buy_fail",
+      "amount": 6000,
+      "before": 0,
+      "after": 6000,
+      "note": "Hoàn tiền do API buy lỗi: CapCut Pro Team 35D | BHF x1"
+    },
+    {
+      "time": "13:56:16 30/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6000,
+      "before": 6000,
+      "after": 0,
+      "note": "Thanh toán 1 x CapCut Pro Team 35D | BHF"
+    },
+    {
+      "time": "13:49:45 30/03/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 6000,
+      "delta": 6000,
+      "before": 0,
+      "after": 6000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

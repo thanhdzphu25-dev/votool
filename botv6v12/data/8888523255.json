@@ -1,0 +1,16 @@
+{
+  "id": 8888523255,
+  "username": null,
+  "full_name": "Meo Ai",
+  "created_at": "13/09/2026",
+  "last_seen": "22:24:29 13/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

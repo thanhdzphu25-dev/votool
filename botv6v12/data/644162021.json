@@ -1,0 +1,16 @@
+{
+  "id": 644162021,
+  "username": "vudinhquan",
+  "full_name": "Vu Dinh Quan",
+  "created_at": "03/09/2026",
+  "last_seen": "14:12:14 03/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

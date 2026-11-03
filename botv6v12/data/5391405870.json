@@ -1,0 +1,25 @@
+{
+  "id": 5391405870,
+  "username": "MinhAnh343",
+  "full_name": "Minh Anh",
+  "created_at": "13/09/2026",
+  "last_seen": "20:21:20 26/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 15000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERB80073F11789423536",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "05:07:26 15/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

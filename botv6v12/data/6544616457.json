@@ -1,0 +1,120 @@
+{
+  "id": 6544616457,
+  "username": "quangcst",
+  "full_name": "Quang CST",
+  "created_at": "17/03/2026",
+  "last_seen": "07:31:11 05/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 8,
+    "done_orders": 8,
+    "total_spent": 111000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER82B482351782446038",
+      "product_name": "Voucher Tạo Stk Đẹp Mbbank 25m",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "10:54:46 26/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5059AAE61782151100",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 2,
+      "total_money": 48000,
+      "created_time": "00:58:47 23/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6FD448271780919188",
+      "product_name": "CDK Chatgpt Plus ( BH 12h )",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "18:46:28 08/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER801AAABD1778505200",
+      "product_name": "CHATGPT PLUS 1M KBH",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "20:13:56 11/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER77A566961777175069",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "10:44:29 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER722E6FD31776603220",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "19:55:29 19/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA582F47A1773821562",
+      "product_name": "ChatGpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "15:13:27 18/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBAAC6EF21773749661",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "19:18:07 17/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "18:46:28 08/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 15000,
+      "before": 15000,
+      "after": 0,
+      "note": "Thanh toán 1 x CDK Chatgpt Plus ( BH 12h )"
+    },
+    {
+      "time": "18:46:08 08/06/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 15000,
+      "delta": 15000,
+      "before": 0,
+      "after": 15000,
+      "reason": ""
+    },
+    {
+      "time": "10:44:27 26/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 6500,
+      "after": 0,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "10:42:49 26/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 6500,
+      "delta": 6500,
+      "before": 0,
+      "after": 6500,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

@@ -1,0 +1,145 @@
+{
+  "id": 6709743615,
+  "username": "kadamatoo",
+  "full_name": "Kadamato",
+  "created_at": "24/03/2026",
+  "last_seen": "09:27:26 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 16,
+    "done_orders": 16,
+    "total_spent": 344720
+  },
+  "orders": [
+    {
+      "order_code": "ORDER45F471511790130422",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18600,
+      "created_time": "09:27:26 23/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD44547001789627457",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 25500,
+      "created_time": "13:44:40 17/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDD62F6711788831884",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 2,
+      "total_money": 38400,
+      "created_time": "08:45:16 08/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3FB221DF1788755032",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 30000,
+      "created_time": "11:24:08 07/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9434BC131787849125",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 14400,
+      "created_time": "23:45:46 27/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER315CAE821787652946",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 15600,
+      "created_time": "17:16:20 25/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER531CA2691787652786",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 15600,
+      "created_time": "17:13:26 25/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD92F2EEE1782798075",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 21120,
+      "created_time": "12:41:34 30/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER56F662711782525129",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 24000,
+      "created_time": "08:52:41 27/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER958DC38A1782473201",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 27500,
+      "created_time": "18:27:06 26/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC0714EAE1782061923",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 28000,
+      "created_time": "00:12:22 22/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB60601331779368770",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "20:06:35 21/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER787E15011778503860",
+      "product_name": "CHATGPT PLUS 1M KBH",
+      "quantity": 3,
+      "total_money": 19500,
+      "created_time": "19:51:23 11/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4B014C621776697807",
+      "product_name": "CapCut Pro 35D",
+      "quantity": 1,
+      "total_money": 7000,
+      "created_time": "22:10:29 20/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFC6D71DC1774485903",
+      "product_name": "Chatgpt Bussines 1 Tháng 5 Slot KBH",
+      "quantity": 3,
+      "total_money": 27000,
+      "created_time": "07:48:11 26/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER13AA09A91774285979",
+      "product_name": "ChatGpt Plus 1 Tháng l KBH",
+      "quantity": 5,
+      "total_money": 22500,
+      "created_time": "00:20:34 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

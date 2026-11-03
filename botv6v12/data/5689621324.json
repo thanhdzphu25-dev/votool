@@ -1,0 +1,33 @@
+{
+  "id": 5689621324,
+  "username": "tkien412",
+  "full_name": "Chơi ít thôi âm lại kêu",
+  "created_at": "08/04/2026",
+  "last_seen": "14:26:37 25/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 42000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER8700FF811778862301",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "23:25:29 15/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1CB949B91776600089",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 1,
+      "total_money": 32000,
+      "created_time": "19:01:52 19/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

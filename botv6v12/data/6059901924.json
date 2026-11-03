@@ -1,0 +1,16 @@
+{
+  "id": 6059901924,
+  "username": "Vinkey04",
+  "full_name": "Vinh Bui",
+  "created_at": "23/03/2026",
+  "last_seen": "18:34:19 30/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

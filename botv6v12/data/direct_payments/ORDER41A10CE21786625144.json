@@ -1,0 +1,12 @@
+{
+  "order_code": "ORDER41A10CE21786625144",
+  "user_id": 5563663345,
+  "product_id": "sp_1781536574491",
+  "product_name": "Link Gemini Pro 18 Tháng BH12H",
+  "qty": 1,
+  "unit_price": 18400,
+  "total": 18400,
+  "created_at": "19:45:44 13/08/2026",
+  "expires_at_unix": 1786625744,
+  "payment_desc": "NAP5563663345 ORDER41A10CE21786625144"
+}

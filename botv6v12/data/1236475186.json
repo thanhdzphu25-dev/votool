@@ -1,0 +1,25 @@
+{
+  "id": 1236475186,
+  "username": "Hero257",
+  "full_name": "Ethan",
+  "created_at": "16/06/2026",
+  "last_seen": "09:35:17 24/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 72000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER43C02DE31781591287",
+      "product_name": "[BH 25D] Capcut Pro Team 35D",
+      "quantity": 1,
+      "total_money": 72000,
+      "created_time": "13:29:01 16/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

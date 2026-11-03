@@ -1,0 +1,16 @@
+{
+  "id": 6530736774,
+  "username": "quangvu1645",
+  "full_name": "Quang Vu",
+  "created_at": "09/07/2026",
+  "last_seen": "22:48:56 09/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

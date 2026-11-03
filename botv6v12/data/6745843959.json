@@ -1,0 +1,211 @@
+{
+  "id": 6745843959,
+  "username": "manhtien112",
+  "full_name": "Mạnh Tiến",
+  "created_at": "30/03/2026",
+  "last_seen": "07:30:25 15/09/2026",
+  "balance": 1500,
+  "stats": {
+    "total_orders": 10,
+    "done_orders": 10,
+    "total_spent": 86500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER636DDB361789432182",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "07:30:25 15/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCCDE646E1787144806",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "20:09:37 19/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER2D9DE07A1784435698",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "11:35:57 19/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER328C73D81778465068",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "09:04:28 11/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5DFDCB0D1777230769",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "02:12:49 27/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER644C84D71776924591",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "13:09:51 23/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0659DFF71776267798",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "22:43:18 15/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7039B2391776186910",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "00:15:10 15/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER158FF5691774883247",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "22:07:27 30/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7C5FCD291774881060",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "21:31:00 30/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "09:04:25 11/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 8000,
+      "after": 1500,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "09:04:08 11/05/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 7000,
+      "before": 1000,
+      "after": 8000,
+      "txid": "FT26131890562217",
+      "note": "CUSTOMER NAP6745843959. TU: DAO MANH TIEN"
+    },
+    {
+      "time": "02:12:47 27/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 4500,
+      "before": 5500,
+      "after": 1000,
+      "note": "Thanh toán 1 x Key HMA Android/PC 20-30 Ngày"
+    },
+    {
+      "time": "13:09:49 23/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 12000,
+      "after": 5500,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "13:09:22 23/04/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 10000,
+      "before": 2000,
+      "after": 12000,
+      "txid": "FT26113654606791",
+      "note": "CUSTOMER NAP6745843959. TU: DAO MANH TIEN"
+    },
+    {
+      "time": "22:43:18 15/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 7500,
+      "before": 9500,
+      "after": 2000,
+      "note": "Thanh toán 1 x Capcut Pro 35d BHF"
+    },
+    {
+      "time": "22:42:23 15/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 7500,
+      "delta": 7500,
+      "before": 2000,
+      "after": 9500,
+      "reason": ""
+    },
+    {
+      "time": "00:15:10 15/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 7500,
+      "before": 9500,
+      "after": 2000,
+      "note": "Thanh toán 1 x Capcut Pro 35d BHF"
+    },
+    {
+      "time": "22:07:25 30/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 4500,
+      "before": 14000,
+      "after": 9500,
+      "note": "Thanh toán 1 x Key HMA Android/PC 20-30 Ngày"
+    },
+    {
+      "time": "22:06:59 30/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 14000,
+      "before": 0,
+      "after": 14000,
+      "txid": "FT26090597888187",
+      "note": "CUSTOMER NAP6745843959. TU: DAO MANH TIEN"
+    },
+    {
+      "time": "21:30:57 30/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6000,
+      "before": 6000,
+      "after": 0,
+      "note": "Thanh toán 1 x CapCut Pro Team 35D | BHF"
+    },
+    {
+      "time": "21:30:28 30/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 6000,
+      "before": 0,
+      "after": 6000,
+      "txid": "FT26089740630589",
+      "note": "CUSTOMER NAP6745843959. TU: DAO MANH TIEN"
+    }
+  ],
+  "lang": "vi"
+}

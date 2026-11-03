@@ -1,0 +1,33 @@
+{
+  "id": 8788154687,
+  "username": null,
+  "full_name": "Tran Kien",
+  "created_at": "18/08/2026",
+  "last_seen": "07:43:32 04/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 34600
+  },
+  "orders": [
+    {
+      "order_code": "ORDER9365ADFE1787551378",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 16400,
+      "created_time": "13:03:53 24/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9FE667D81787040472",
+      "product_name": "LINK GEMINI PRO 18 THÁNG BH6H",
+      "quantity": 1,
+      "total_money": 18200,
+      "created_time": "15:08:27 18/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5251804471,
+  "username": "pta84",
+  "full_name": "Phạm Thành An",
+  "created_at": "16/05/2026",
+  "last_seen": "08:31:19 30/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

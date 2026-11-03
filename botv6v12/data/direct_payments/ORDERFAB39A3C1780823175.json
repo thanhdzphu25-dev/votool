@@ -1,0 +1,12 @@
+{
+  "order_code": "ORDERFAB39A3C1780823175",
+  "user_id": 1238722004,
+  "product_id": "sp_1780746337111",
+  "product_name": "CDK Chatgpt Plus ( BH 12h )",
+  "qty": 1,
+  "unit_price": 19000,
+  "total": 19000,
+  "created_at": "16:06:15 07/06/2026",
+  "expires_at_unix": 1780823775,
+  "payment_desc": "NAP1238722004 ORDERFAB39A3C1780823175"
+}

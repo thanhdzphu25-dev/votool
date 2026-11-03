@@ -1,0 +1,15 @@
+{
+  "id": 8702553918,
+  "username": "lucian2312",
+  "full_name": "Lucian Pham",
+  "created_at": "11/05/2026",
+  "last_seen": "10:15:45 11/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

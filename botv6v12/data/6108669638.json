@@ -1,0 +1,72 @@
+{
+  "id": 6108669638,
+  "username": "Caubebutchi289",
+  "full_name": "Cậu Bé Bút Chì",
+  "created_at": "02/06/2026",
+  "last_seen": "18:57:54 13/09/2026",
+  "balance": 300,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 37200
+  },
+  "orders": [
+    {
+      "order_code": "ORDER4DA964BD1783501996",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18480,
+      "created_time": "16:13:16 08/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER2563A44F1783442409",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18720,
+      "created_time": "23:40:09 07/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "16:13:16 08/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 18480,
+      "before": 18780,
+      "after": 300,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "16:12:56 08/07/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 13500,
+      "before": 5280,
+      "after": 18780,
+      "txid": "FT26189974335577",
+      "note": "LE THANH TRUONGNAP6108669638 FT26189024680920 kCGF Q5V7/661977"
+    },
+    {
+      "time": "23:40:09 07/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 18720,
+      "before": 24000,
+      "after": 5280,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "14:10:24 28/06/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 24000,
+      "delta": 24000,
+      "before": 0,
+      "after": 24000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

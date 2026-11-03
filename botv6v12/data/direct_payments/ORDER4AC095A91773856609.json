@@ -1,0 +1,12 @@
+{
+  "order_code": "ORDER4AC095A91773856609",
+  "user_id": 5352645770,
+  "product_id": "sp_1773427237651",
+  "product_name": "ChatGpt Plus 1 Tháng KBH",
+  "qty": 1,
+  "unit_price": 5000,
+  "total": 5000,
+  "created_at": "00:56:49 19/03/2026",
+  "expires_at_unix": 1773857209,
+  "payment_desc": "NAP5352645770 ORDER4AC095A91773856609"
+}

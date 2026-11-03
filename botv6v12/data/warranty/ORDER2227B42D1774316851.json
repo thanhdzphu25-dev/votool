@@ -1,0 +1,34 @@
+{
+  "order_code": "ORDER2227B42D1774316851",
+  "user_id": 1322728343,
+  "reason": "tài khoản bị khóa",
+  "photo_file_id": "AgACAgUAAxkBAAJqJmnF_9ffB8pz94QPHPH9_N61yD9PAAJaDWsbU-QxVg-_N--S7Z1PAQADAgADeQADOgQ",
+  "created_time": "10:56:26 27/03/2026",
+  "status": "pending",
+  "closed": true,
+  "close_reason": "ok",
+  "chat_messages": [
+    {
+      "time": "10:57:01 27/03/2026",
+      "sender": "admin:8101416491",
+      "text": "ok b"
+    },
+    {
+      "time": "10:57:16 27/03/2026",
+      "sender": "admin:8101416491",
+      "text": "mình xin email acc nhé"
+    },
+    {
+      "time": "10:57:32 27/03/2026",
+      "sender": "user:1322728343",
+      "text": "jeusav@kardy.blema.io.vn mình gửi nha"
+    },
+    {
+      "time": "11:00:31 27/03/2026",
+      "sender": "admin:8101416491",
+      "text": "virtui@eqysv.capcut10.name.ng  Suppergrok123@ \nbảo hành 27/03"
+    }
+  ],
+  "closed_time": "11:00:38 27/03/2026",
+  "closed_by": 8101416491
+}

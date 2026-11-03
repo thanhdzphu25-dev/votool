@@ -1,0 +1,16 @@
+{
+  "id": 6672327343,
+  "username": "DungThiNe",
+  "full_name": "Dung Nguyễn",
+  "created_at": "05/09/2026",
+  "last_seen": "16:39:08 05/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

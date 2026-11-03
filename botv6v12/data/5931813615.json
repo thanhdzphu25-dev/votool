@@ -1,0 +1,33 @@
+{
+  "id": 5931813615,
+  "username": "mafia22279",
+  "full_name": "Maffia",
+  "created_at": "17/03/2026",
+  "last_seen": "08:10:39 17/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 25900
+  },
+  "orders": [
+    {
+      "order_code": "ORDERFAF104E71789227833",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 15900,
+      "created_time": "22:44:19 12/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER919119B11773726009",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "12:42:16 17/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

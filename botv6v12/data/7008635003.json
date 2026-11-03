@@ -1,0 +1,16 @@
+{
+  "id": 7008635003,
+  "username": "naidebos",
+  "full_name": "Nai Deesabun",
+  "created_at": "04/05/2026",
+  "last_seen": "09:09:42 12/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 7418743252,
+  "username": "Monkey_D_Luffy_Ads",
+  "full_name": "蒙奇·D·路飞",
+  "created_at": "07/06/2026",
+  "last_seen": "19:45:15 08/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 34000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERE6CB79E31780922624",
+      "product_name": "CDK Chatgpt Plus ( BH 12h )",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "19:45:15 08/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFB20DD721780817033",
+      "product_name": "CDK Chatgpt Plus ( BH 12h )",
+      "quantity": 1,
+      "total_money": 19000,
+      "created_time": "14:24:14 07/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": []
+}

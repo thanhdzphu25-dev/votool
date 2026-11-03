@@ -1,0 +1,16 @@
+{
+  "id": 835176430,
+  "username": "son01490517",
+  "full_name": "Son Nguyen",
+  "created_at": "03/07/2026",
+  "last_seen": "06:52:37 19/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8836787207,
+  "username": null,
+  "full_name": "Nguyện Chí",
+  "created_at": "05/09/2026",
+  "last_seen": "14:46:15 22/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

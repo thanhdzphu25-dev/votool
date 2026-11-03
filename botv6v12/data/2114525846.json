@@ -1,0 +1,16 @@
+{
+  "id": 2114525846,
+  "username": null,
+  "full_name": "Việt Hoàng",
+  "created_at": "14/09/2026",
+  "last_seen": "15:06:29 14/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

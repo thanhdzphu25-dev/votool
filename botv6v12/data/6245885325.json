@@ -1,0 +1,15 @@
+{
+  "id": 6245885325,
+  "username": "dodiStore_support",
+  "full_name": "Dodi Store [Reseller Friendly]",
+  "created_at": "07/06/2026",
+  "last_seen": "12:19:26 07/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

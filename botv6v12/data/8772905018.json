@@ -1,0 +1,79 @@
+{
+  "id": 8772905018,
+  "username": null,
+  "full_name": "dung pham",
+  "created_at": "26/03/2026",
+  "last_seen": "16:22:21 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 4,
+    "done_orders": 4,
+    "total_spent": 156100
+  },
+  "orders": [
+    {
+      "order_code": "ORDER43AEF8AA1785492894",
+      "product_name": "ChatGpt Plus 1 Tháng BHF - Trâu",
+      "quantity": 1,
+      "total_money": 123000,
+      "created_time": "17:20:16 31/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBEB0D5FE1782722337",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 21600,
+      "created_time": "15:39:41 29/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERED5C31E51778144141",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "15:56:23 07/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER555ADC2A1774518353",
+      "product_name": "ChatGpt Plus 1 Tháng l BH7D",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "16:45:53 26/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "16:45:53 26/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 5000,
+      "before": 5000,
+      "after": 0,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng l BH7D"
+    },
+    {
+      "time": "16:38:09 26/03/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 4500,
+      "delta": 4500,
+      "before": 500,
+      "after": 5000,
+      "reason": ""
+    },
+    {
+      "time": "16:37:44 26/03/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 500,
+      "delta": 500,
+      "before": 0,
+      "after": 500,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

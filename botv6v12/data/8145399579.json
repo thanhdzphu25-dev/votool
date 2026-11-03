@@ -1,0 +1,16 @@
+{
+  "id": 8145399579,
+  "username": "khoatranhoangg",
+  "full_name": "Trần Hoàng Khoa",
+  "created_at": "04/07/2026",
+  "last_seen": "13:26:38 04/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

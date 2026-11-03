@@ -1,0 +1,88 @@
+{
+  "id": 7075644058,
+  "username": "trinhthelang",
+  "full_name": "T T L",
+  "created_at": "12/07/2026",
+  "last_seen": "13:44:17 05/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 4,
+    "done_orders": 4,
+    "total_spent": 71200
+  },
+  "orders": [
+    {
+      "order_code": "ORDERD642E02C1785912228",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18400,
+      "created_time": "13:44:17 05/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC7BF61FE1785750089",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "16:41:56 03/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD36B78E21785479085",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 24800,
+      "created_time": "13:24:45 31/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER47FBA6D31783841425",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "14:30:25 12/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "13:24:45 31/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 24800,
+      "before": 24800,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "13:24:13 31/07/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 24800,
+      "before": 0,
+      "after": 24800,
+      "txid": "FT26212349332670",
+      "note": "CUSTOMER NAP7075644058. TU: TRINH THE LANG"
+    },
+    {
+      "time": "14:30:25 12/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 18000,
+      "before": 18000,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "14:29:52 12/07/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 18000,
+      "before": 0,
+      "after": 18000,
+      "txid": "FT26194691910341",
+      "note": "CUSTOMER NAP7075644058. TU: TRINH THE LANG"
+    }
+  ],
+  "lang": "vi"
+}

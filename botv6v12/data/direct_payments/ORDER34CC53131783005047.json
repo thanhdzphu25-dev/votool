@@ -1,0 +1,12 @@
+{
+  "order_code": "ORDER34CC53131783005047",
+  "user_id": 5115252764,
+  "product_id": "sp_1782759238557",
+  "product_name": "CapCut Pro 6-7D BHF",
+  "qty": 1,
+  "unit_price": 6000,
+  "total": 6000,
+  "created_at": "22:10:47 02/07/2026",
+  "expires_at_unix": 1783005647,
+  "payment_desc": "NAP5115252764 ORDER34CC53131783005047"
+}

@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER0C99E0B01781692206",
+  "user_id": 7066464784,
+  "reason": "không dùng được",
+  "photo_file_id": "AgACAgUAAxkBAAEEDANqNhHb389z5wNT-LvifVej6H8OFwACyxBrG73wsVVHGFD6nJGhpgEAAwIAA3kAAzwE",
+  "created_time": "11:07:18 20/06/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "12:20:35 20/06/2026",
+      "sender": "admin:8101416491",
+      "text": "Nhắn @thanhtr789"
+    }
+  ]
+}

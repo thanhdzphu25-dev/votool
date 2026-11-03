@@ -1,0 +1,25 @@
+{
+  "id": 5300135380,
+  "username": "anhtuan2110",
+  "full_name": "Tuan Anh",
+  "created_at": "21/09/2026",
+  "last_seen": "08:03:31 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18600
+  },
+  "orders": [
+    {
+      "order_code": "ORDERD19FB5F71790011227",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18600,
+      "created_time": "00:21:30 22/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

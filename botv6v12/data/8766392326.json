@@ -1,0 +1,172 @@
+{
+  "id": 8766392326,
+  "username": "trungsinh",
+  "full_name": "Abcxyz",
+  "created_at": "24/04/2026",
+  "last_seen": "14:09:16 05/05/2026",
+  "balance": 500,
+  "stats": {
+    "total_orders": 10,
+    "done_orders": 10,
+    "total_spent": 275000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERB97A1C251777908596",
+      "product_name": "Voucher Tạo Stk Đẹp Mbbank 25m",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "22:30:53 04/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDFFBB1B71777902963",
+      "product_name": "Hma Ios 1 Tháng 4 Thiết Bị",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "20:56:03 04/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0EFC7E2C1777817047",
+      "product_name": "Gemini Pro + 5Tb 1 năm Pixel Trâu KBH",
+      "quantity": 1,
+      "total_money": 55000,
+      "created_time": "21:04:32 03/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDA8F23A01777706001",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "14:13:21 02/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7C3F6C961777698062",
+      "product_name": "Chatgpt Plus 1 Tháng BH 36H",
+      "quantity": 1,
+      "total_money": 23000,
+      "created_time": "12:01:02 02/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER743A299E1777574061",
+      "product_name": "Chatgpt PLus 1 Tháng BH-48H",
+      "quantity": 1,
+      "total_money": 23000,
+      "created_time": "01:34:21 01/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDEREC90231B1777536004",
+      "product_name": "Chatgpt Go 12 Tháng KBH",
+      "quantity": 1,
+      "total_money": 60000,
+      "created_time": "15:00:04 30/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD5086A291777446139",
+      "product_name": "Chatgpt Go 12 Tháng KBH",
+      "quantity": 1,
+      "total_money": 60000,
+      "created_time": "14:02:46 29/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7E51027F1777180069",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "12:08:24 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD63486B51777039828",
+      "product_name": "Grok Super 10-15D | BH 24H",
+      "quantity": 1,
+      "total_money": 19000,
+      "created_time": "21:11:09 24/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "20:56:03 04/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 15000,
+      "before": 15500,
+      "after": 500,
+      "note": "Thanh toán 1 x Hma Ios 1 Tháng 4 Thiết Bị"
+    },
+    {
+      "time": "20:55:17 04/05/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 5000,
+      "before": 10500,
+      "after": 15500,
+      "txid": "FT26124076454749",
+      "note": "LE BA CAONAP8766392326 FT26125206785418 kCWV HTYL/189330"
+    },
+    {
+      "time": "14:13:19 02/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 3500,
+      "before": 14000,
+      "after": 10500,
+      "note": "Thanh toán 1 x CapCut Pro Team 7D | BHF"
+    },
+    {
+      "time": "12:01:02 02/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 23000,
+      "before": 37000,
+      "after": 14000,
+      "note": "Thanh toán 1 x Chatgpt Plus 1 Tháng BH 36H"
+    },
+    {
+      "time": "01:34:21 01/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 23000,
+      "before": 60000,
+      "after": 37000,
+      "note": "Thanh toán 1 x Chatgpt PLus 1 Tháng BH-48H"
+    },
+    {
+      "time": "19:20:27 30/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 60000,
+      "delta": 60000,
+      "before": 0,
+      "after": 60000,
+      "reason": ""
+    },
+    {
+      "time": "15:00:04 30/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 60000,
+      "before": 60000,
+      "after": 0,
+      "note": "Thanh toán 1 x Chatgpt Go 12 Tháng KBH"
+    },
+    {
+      "time": "14:59:00 30/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 60000,
+      "delta": 60000,
+      "before": 0,
+      "after": 60000,
+      "reason": ""
+    }
+  ]
+}

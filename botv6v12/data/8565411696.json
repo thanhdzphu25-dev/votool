@@ -1,0 +1,16 @@
+{
+  "id": 8565411696,
+  "username": "daves65",
+  "full_name": "Daves",
+  "created_at": "14/08/2026",
+  "last_seen": "12:03:55 14/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

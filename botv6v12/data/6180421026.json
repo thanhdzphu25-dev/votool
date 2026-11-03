@@ -1,0 +1,16 @@
+{
+  "id": 6180421026,
+  "username": "abc_abc_xyz",
+  "full_name": "Nguyễn Quang Anh",
+  "created_at": "03/09/2026",
+  "last_seen": "14:03:31 03/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

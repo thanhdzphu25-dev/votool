@@ -1,0 +1,15 @@
+{
+  "id": 1205912620,
+  "username": "hoang371jp",
+  "full_name": "Hisashi",
+  "created_at": "02/04/2026",
+  "last_seen": "00:56:42 02/04/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

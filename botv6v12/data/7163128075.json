@@ -1,0 +1,16 @@
+{
+  "id": 7163128075,
+  "username": null,
+  "full_name": "Duy Anh Phạm",
+  "created_at": "19/09/2026",
+  "last_seen": "22:05:54 21/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

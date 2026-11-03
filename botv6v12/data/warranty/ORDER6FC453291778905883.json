@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER6FC453291778905883",
+  "user_id": 8462263962,
+  "reason": "không đăng nhập đc",
+  "photo_file_id": "AgACAgUAAxkBAAEDARVqB_O7FsMyuXBj_o4Dtwq2dF8i4QACtQ5rG0M8QVSkweMQBO_72gEAAwIAA3kAAzsE",
+  "created_time": "11:34:41 16/05/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "12:17:17 16/05/2026",
+      "sender": "admin:8101416491",
+      "text": "Nhắn mình @thanhtr789"
+    }
+  ]
+}

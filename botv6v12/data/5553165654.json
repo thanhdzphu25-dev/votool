@@ -1,0 +1,25 @@
+{
+  "id": 5553165654,
+  "username": null,
+  "full_name": "LELOUCH",
+  "created_at": "12/09/2026",
+  "last_seen": "12:50:33 20/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 0,
+    "total_spent": 18000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERB6DC95571789177778",
+      "product_name": "Canva Pro Edu 2 Năm",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "08:51:33 12/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

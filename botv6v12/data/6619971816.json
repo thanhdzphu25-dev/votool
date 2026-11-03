@@ -1,0 +1,25 @@
+{
+  "id": 6619971816,
+  "username": null,
+  "full_name": "Khoi Tu",
+  "created_at": "13/03/2026",
+  "last_seen": "19:45:37 25/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18480
+  },
+  "orders": [
+    {
+      "order_code": "ORDERA4BFBE061783332075",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18480,
+      "created_time": "17:01:51 06/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

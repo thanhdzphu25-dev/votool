@@ -1,0 +1,16 @@
+{
+  "id": 1996309302,
+  "username": null,
+  "full_name": "Hoàng Minh Tuyền",
+  "created_at": "24/09/2026",
+  "last_seen": "08:10:25 25/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 6623898626,
+  "username": "yonghengv",
+  "full_name": "cc oo",
+  "created_at": "27/07/2026",
+  "last_seen": "09:20:11 07/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 0,
+    "total_spent": 18000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER2F785F921788747611",
+      "product_name": "Canva Pro edu 2 Năm",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "09:20:11 07/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "09:20:11 07/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 18000,
+      "before": 18000,
+      "after": 0,
+      "note": "Thanh toán 1 x Canva Pro edu 2 Năm"
+    },
+    {
+      "time": "22:19:19 05/09/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 18000,
+      "delta": 18000,
+      "before": 0,
+      "after": 18000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

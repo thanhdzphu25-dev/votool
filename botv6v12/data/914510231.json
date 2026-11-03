@@ -1,0 +1,41 @@
+{
+  "id": 914510231,
+  "username": "nokuda",
+  "full_name": "Degen/acc (😇,🪽)",
+  "created_at": "10/04/2026",
+  "last_seen": "13:00:09 10/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 17000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER955993CD1786341585",
+      "product_name": "Voucher Tạo Stk Đẹp Mbbank 25m",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "13:00:09 10/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER38616A571778143803",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "15:50:37 07/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC91FBCB41777129740",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "22:09:44 25/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

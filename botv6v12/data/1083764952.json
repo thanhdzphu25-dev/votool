@@ -1,0 +1,25 @@
+{
+  "id": 1083764952,
+  "username": "liloostick",
+  "full_name": "Kaiz 改善 (✱,✱)",
+  "created_at": "05/09/2026",
+  "last_seen": "14:48:47 10/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 33200
+  },
+  "orders": [
+    {
+      "order_code": "ORDER3B20CE3A1788581752",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 33200,
+      "created_time": "11:16:26 05/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

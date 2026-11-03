@@ -1,0 +1,15 @@
+{
+  "id": 739500182,
+  "username": "ngviendong",
+  "full_name": "Đông Viễn Nguyễn",
+  "created_at": "07/06/2026",
+  "last_seen": "06:56:31 20/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

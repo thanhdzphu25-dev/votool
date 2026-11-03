@@ -1,0 +1,33 @@
+{
+  "id": 7642807673,
+  "username": "shopmmo_mon",
+  "full_name": "Shop MMO",
+  "created_at": "06/06/2026",
+  "last_seen": "20:08:47 24/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 48000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER463AC64A1780808149",
+      "product_name": "CDK Chatgpt Plus ( BH 12h )",
+      "quantity": 2,
+      "total_money": 38000,
+      "created_time": "11:56:21 07/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER65CBFC031780753587",
+      "product_name": "Voucher Tạo Stk Đẹp Mbbank 25m",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "20:47:03 06/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 5373700151,
+  "username": "Taka_Nguyen",
+  "full_name": "Takashi Nguyen",
+  "created_at": "09/07/2026",
+  "last_seen": "11:09:57 02/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 20000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER04C97D711788322152",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "11:09:57 02/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

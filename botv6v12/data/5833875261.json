@@ -1,0 +1,16 @@
+{
+  "id": 5833875261,
+  "username": "Anhbi104",
+  "full_name": "Anh Bi",
+  "created_at": "13/05/2026",
+  "last_seen": "00:15:15 15/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

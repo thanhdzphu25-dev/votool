@@ -1,0 +1,16 @@
+{
+  "id": 5076235068,
+  "username": null,
+  "full_name": "Anthony",
+  "created_at": "22/08/2026",
+  "last_seen": "18:15:26 23/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

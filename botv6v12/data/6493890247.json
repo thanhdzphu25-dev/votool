@@ -1,0 +1,25 @@
+{
+  "id": 6493890247,
+  "username": "qdtvip07",
+  "full_name": "dt!",
+  "created_at": "28/08/2026",
+  "last_seen": "11:13:58 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 0,
+    "total_spent": 15000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERE75B59E81790136799",
+      "product_name": "YouTube Premium 1 Tháng (Không BH)",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "11:13:58 23/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

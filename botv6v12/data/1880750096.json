@@ -1,0 +1,25 @@
+{
+  "id": 1880750096,
+  "username": "nsndsna",
+  "full_name": "Tna.99",
+  "created_at": "06/05/2026",
+  "last_seen": "08:03:57 11/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 50000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER4EE0552E1778425334",
+      "product_name": "Gemini Pro + 5Tb 1 năm Pixel Trâu KBH",
+      "quantity": 1,
+      "total_money": 50000,
+      "created_time": "22:02:44 10/05/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

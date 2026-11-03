@@ -1,0 +1,69 @@
+{
+  "id": 6684348927,
+  "username": "hirozygu",
+  "full_name": "Hùng Phan",
+  "created_at": "02/07/2026",
+  "last_seen": "12:47:12 24/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 4,
+    "done_orders": 4,
+    "total_spent": 85920
+  },
+  "orders": [
+    {
+      "order_code": "ORDEREBA6A24E1787849714",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 14400,
+      "created_time": "23:55:14 27/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER903F57351784512520",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 2,
+      "total_money": 35520,
+      "created_time": "08:56:07 20/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERAAE088611784434180",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "11:09:59 19/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0D166F391784433881",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "11:05:48 19/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "23:55:14 27/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 14400,
+      "before": 14400,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH8H"
+    },
+    {
+      "time": "23:53:58 27/08/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 14400,
+      "delta": 14400,
+      "before": 0,
+      "after": 14400,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

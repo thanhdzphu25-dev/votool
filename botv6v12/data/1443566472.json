@@ -1,0 +1,45 @@
+{
+  "id": 1443566472,
+  "username": "bosslong9",
+  "full_name": "Long Anh",
+  "created_at": "05/07/2026",
+  "last_seen": "21:20:49 21/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 5000
+  },
+  "orders": [
+    {
+      "order_code": "ORDEREA0C5F601783399170",
+      "product_name": "[KEY] HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "11:39:30 07/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "11:39:26 07/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 5000,
+      "before": 5000,
+      "after": 0,
+      "note": "Thanh toán 1 x [KEY] HMA Android/PC 20-30 Ngày"
+    },
+    {
+      "time": "11:01:28 07/07/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 5000,
+      "delta": 5000,
+      "before": 0,
+      "after": 5000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 6217332510,
+  "username": null,
+  "full_name": "Minh Vu",
+  "created_at": "24/08/2026",
+  "last_seen": "23:33:25 24/08/2026",
+  "balance": 27500,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 4500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER737C9E621787589205",
+      "product_name": "[KEY] HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "23:33:25 24/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "23:33:18 24/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 4500,
+      "before": 32000,
+      "after": 27500,
+      "note": "Thanh toán 1 x [KEY] HMA Android/PC 20-30 Ngày"
+    },
+    {
+      "time": "23:32:39 24/08/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 32000,
+      "before": 0,
+      "after": 32000,
+      "txid": "FT26237941573250",
+      "note": "VU QUANG MINHQR   NAP6217332510- Ma GD ACSP/ UG3 77874"
+    }
+  ],
+  "lang": "vi"
+}

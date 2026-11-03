@@ -1,0 +1,15 @@
+{
+  "id": 7338924813,
+  "username": "bassemse",
+  "full_name": "Bas Sem",
+  "created_at": "21/05/2026",
+  "last_seen": "02:22:46 16/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

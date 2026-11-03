@@ -1,0 +1,89 @@
+{
+  "id": 5100180039,
+  "username": null,
+  "full_name": "Cristian Nguyen",
+  "created_at": "03/04/2026",
+  "last_seen": "20:48:40 18/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 9,
+    "done_orders": 9,
+    "total_spent": 217360
+  },
+  "orders": [
+    {
+      "order_code": "ORDER444562B51787920010",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 14400,
+      "created_time": "19:27:34 28/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB1E1A7E91787641527",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 15600,
+      "created_time": "14:07:03 25/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFF34719E1785585074",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 21600,
+      "created_time": "18:51:57 01/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER03D0F6161784426683",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "09:05:27 19/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC8E1ADE11783905959",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 17760,
+      "created_time": "08:26:48 13/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER335AFAF91776223192",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 1,
+      "total_money": 34000,
+      "created_time": "10:20:37 15/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER411B924E1775954600",
+      "product_name": "Chatgpt Go 1 Năm Chính Chủ KBH",
+      "quantity": 1,
+      "total_money": 65000,
+      "created_time": "07:44:01 12/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERABE84E821775835075",
+      "product_name": "Chatgpt Bussines 5sl BH3D",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "22:31:58 10/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3DE4EF321775396398",
+      "product_name": "Grok Heavy 1Y | KBH | Gói Trải Nghiệm",
+      "quantity": 1,
+      "total_money": 11000,
+      "created_time": "20:40:47 05/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

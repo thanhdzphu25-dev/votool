@@ -1,0 +1,16 @@
+{
+  "id": 499129291,
+  "username": "ngling",
+  "full_name": "Ling",
+  "created_at": "30/06/2026",
+  "last_seen": "23:04:08 04/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

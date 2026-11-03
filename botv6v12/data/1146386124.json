@@ -1,0 +1,33 @@
+{
+  "id": 1146386124,
+  "username": "mrjackboy97",
+  "full_name": "Mr Jack boy",
+  "created_at": "18/03/2026",
+  "last_seen": "20:02:28 14/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 21500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER45BB347D1787709198",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "08:54:04 26/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC76C68481777512355",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "08:33:41 30/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

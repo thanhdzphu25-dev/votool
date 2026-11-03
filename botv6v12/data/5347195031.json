@@ -1,0 +1,33 @@
+{
+  "id": 5347195031,
+  "username": "Themicro03",
+  "full_name": "Mai Thanh Trung",
+  "created_at": "19/04/2026",
+  "last_seen": "16:52:57 13/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 141000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERF55F5A311781715889",
+      "product_name": "Gemini Pro Pixel 12 Tháng + 5TB KBH",
+      "quantity": 2,
+      "total_money": 92000,
+      "created_time": "00:05:32 18/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6BF1EEB81776671131",
+      "product_name": "Gemini Pro + 5Tb 1 năm Pixel Trâu KBH",
+      "quantity": 1,
+      "total_money": 49000,
+      "created_time": "14:46:31 20/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

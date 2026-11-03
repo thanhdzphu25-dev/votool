@@ -1,0 +1,5974 @@
+{
+  "ORDERF408F7C61787474252": {
+    "order_code": "ORDERF408F7C61787474252",
+    "user_id": 5753932859,
+    "full_name": "Văn Hoàn",
+    "username": "@hvan0106",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "WAITING_CUSTOMER_DATA",
+    "created_time": "15:38:02 23/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {},
+    "stock_after": 19,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26236729964396",
+    "history": [
+      {
+        "time": "15:38:02 23/08/2026",
+        "actor": "user:5753932859",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "15:46:01 23/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin nhắn khách",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Gửi email qua đây luôn a"
+      }
+    ],
+    "chat_messages": [
+      {
+        "time": "15:46:01 23/08/2026",
+        "sender": "admin:8101416491",
+        "text": "Gửi email qua đây luôn a"
+      }
+    ]
+  },
+  "ORDER1F0B1EE11787474803": {
+    "order_code": "ORDER1F0B1EE11787474803",
+    "user_id": 8491686776,
+    "full_name": "Saddly",
+    "username": "Không có",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "15:46:43 23/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "Abc@gmail.com"
+    },
+    "stock_after": 18,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "wallet",
+    "history": [
+      {
+        "time": "15:46:43 23/08/2026",
+        "actor": "user:8491686776",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "15:46:53 23/08/2026",
+        "actor": "user:8491686776",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Abc@gmail.com"
+      },
+      {
+        "time": "15:47:17 23/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Ok"
+      }
+    ],
+    "submitted_time": "15:46:53 23/08/2026",
+    "admin_result": "Ok",
+    "completed_by": 8101416491,
+    "completed_time": "15:47:17 23/08/2026"
+  },
+  "ORDER53FDF2271787491542": {
+    "order_code": "ORDER53FDF2271787491542",
+    "user_id": 6339276664,
+    "full_name": "Jim Huy",
+    "username": "@JamesPham7722",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "20:26:22 23/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "huyjim1996@gmail.con"
+    },
+    "stock_after": 17,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26236412389267",
+    "history": [
+      {
+        "time": "20:26:22 23/08/2026",
+        "actor": "user:6339276664",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "20:34:43 23/08/2026",
+        "actor": "user:6339276664",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: huyjim1996@gmail.con"
+      },
+      {
+        "time": "20:35:13 23/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "20:34:43 23/08/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "20:35:13 23/08/2026"
+  },
+  "ORDER441881021787492084": {
+    "order_code": "ORDER441881021787492084",
+    "user_id": 7133885075,
+    "full_name": "Bùi Đăng",
+    "username": "@buidang211",
+    "product_id": "sp_1787471280223",
+    "product_name": "Canva Pro edu 2 Năm",
+    "quantity": 1,
+    "unit_price": 18000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "20:37:10 23/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "buidang2101202@gmail.com"
+    },
+    "stock_after": 19,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26236508744658",
+    "history": [
+      {
+        "time": "20:37:10 23/08/2026",
+        "actor": "user:7133885075",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "20:40:49 23/08/2026",
+        "actor": "user:7133885075",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: buidang2101202@gmail.com"
+      },
+      {
+        "time": "20:44:36 23/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "20:40:49 23/08/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "20:44:36 23/08/2026"
+  },
+  "ORDER724CE7F21787538611": {
+    "order_code": "ORDER724CE7F21787538611",
+    "user_id": 5351459909,
+    "full_name": "Kun Knowledge",
+    "username": "Không có",
+    "product_id": "sp_1787471280223",
+    "product_name": "Canva Pro edu 2 Năm",
+    "quantity": 1,
+    "unit_price": 18000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "09:30:11 24/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "Hanhatminh.vithuy@gmail.com"
+    },
+    "stock_after": 18,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "wallet",
+    "history": [
+      {
+        "time": "09:30:11 24/08/2026",
+        "actor": "user:5351459909",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "09:31:33 24/08/2026",
+        "actor": "user:5351459909",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Hanhatminh.vithuy@gmail.com"
+      },
+      {
+        "time": "09:33:13 24/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thu email"
+      }
+    ],
+    "submitted_time": "09:31:33 24/08/2026",
+    "admin_result": "check thu email",
+    "completed_by": 8101416491,
+    "completed_time": "09:33:13 24/08/2026"
+  },
+  "ORDER791F588B1787539380": {
+    "order_code": "ORDER791F588B1787539380",
+    "user_id": 8491686776,
+    "full_name": "Saddly",
+    "username": "Không có",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "09:43:00 24/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {},
+    "stock_after": 16,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "wallet",
+    "history": [
+      {
+        "time": "09:43:01 24/08/2026",
+        "actor": "user:8491686776",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "09:43:14 24/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "COMPLETED",
+        "note": "ok"
+      }
+    ],
+    "admin_result": "ok",
+    "completed_by": 8101416491,
+    "completed_time": "09:43:14 24/08/2026"
+  },
+  "ORDER0BB6895C1787568303": {
+    "order_code": "ORDER0BB6895C1787568303",
+    "user_id": 6521863361,
+    "full_name": "N Y",
+    "username": "Không có",
+    "product_id": "sp_1787471280223",
+    "product_name": "Canva Pro edu 2 Năm",
+    "quantity": 1,
+    "unit_price": 18000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "17:46:41 24/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "anhduyn937@gmail.com"
+    },
+    "stock_after": 17,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26236060205150",
+    "history": [
+      {
+        "time": "17:46:41 24/08/2026",
+        "actor": "user:6521863361",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "17:47:05 24/08/2026",
+        "actor": "user:6521863361",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "anhduyn937@gmail.com"
+      },
+      {
+        "time": "18:21:12 24/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "17:47:05 24/08/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "18:21:12 24/08/2026"
+  },
+  "ORDERC0DC12F41787568487": {
+    "order_code": "ORDERC0DC12F41787568487",
+    "user_id": 8352350108,
+    "full_name": "THEGIOIIOS ( Support )",
+    "username": "@thegioiios_support",
+    "product_id": "sp_1787471606988",
+    "product_name": "Voucher Tạo STK Mbbank 25M",
+    "quantity": 1,
+    "unit_price": 12000,
+    "total": 12000,
+    "status": "WAITING_CUSTOMER_DATA",
+    "created_time": "17:50:11 24/08/2026",
+    "manual_fields": [
+      {
+        "key": "s_i_n_tho_i_mb",
+        "label": "Số Điện Thoại Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {},
+    "stock_after": 4,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26236350122290",
+    "history": [
+      {
+        "time": "17:50:11 24/08/2026",
+        "actor": "user:8352350108",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      }
+    ]
+  },
+  "ORDER7505A39C1787587177": {
+    "order_code": "ORDER7505A39C1787587177",
+    "user_id": 6521863361,
+    "full_name": "N Y",
+    "username": "@hieudieu393",
+    "product_id": "sp_1787471280223",
+    "product_name": "Canva Pro edu 2 Năm",
+    "quantity": 1,
+    "unit_price": 18000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "23:00:24 24/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "812010asdfg@gmail.com"
+    },
+    "stock_after": 16,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26237152945306",
+    "history": [
+      {
+        "time": "23:00:24 24/08/2026",
+        "actor": "user:6521863361",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "23:00:37 24/08/2026",
+        "actor": "user:6521863361",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "812010asdfg@gmail.com"
+      },
+      {
+        "time": "23:03:07 24/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "23:00:37 24/08/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "23:03:07 24/08/2026"
+  },
+  "ORDER96B41A6E1787625656": {
+    "order_code": "ORDER96B41A6E1787625656",
+    "user_id": 5418851715,
+    "full_name": "Fl1s.Vn",
+    "username": "@nghaihoang",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "09:41:41 25/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "huycuduc2006@gmail.com"
+    },
+    "stock_after": 15,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26237518018988",
+    "history": [
+      {
+        "time": "09:41:41 25/08/2026",
+        "actor": "user:5418851715",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "09:41:58 25/08/2026",
+        "actor": "user:5418851715",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "huycuduc2006@gmail.com"
+      },
+      {
+        "time": "11:10:59 25/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thu email"
+      }
+    ],
+    "submitted_time": "09:41:58 25/08/2026",
+    "admin_result": "check thu email",
+    "completed_by": 8101416491,
+    "completed_time": "11:10:59 25/08/2026"
+  },
+  "ORDER7B8253D21787629434": {
+    "order_code": "ORDER7B8253D21787629434",
+    "user_id": 5723588094,
+    "full_name": "Nguyen Linh Trang 🍀",
+    "username": "@NguyenLinhTrang25",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "10:44:49 25/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "tranglinh220420@gmail.com"
+    },
+    "stock_after": 14,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26237085423995",
+    "history": [
+      {
+        "time": "10:44:49 25/08/2026",
+        "actor": "user:5723588094",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "10:45:48 25/08/2026",
+        "actor": "user:5723588094",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: tranglinh220420@gmail.com"
+      },
+      {
+        "time": "11:11:29 25/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thu email"
+      }
+    ],
+    "submitted_time": "10:45:48 25/08/2026",
+    "admin_result": "check thu email",
+    "completed_by": 8101416491,
+    "completed_time": "11:11:29 25/08/2026"
+  },
+  "ORDER76B7C6C61787659434": {
+    "order_code": "ORDER76B7C6C61787659434",
+    "user_id": 5663474568,
+    "full_name": "AirDrop Hunter",
+    "username": "@pedstupid",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "19:04:52 25/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "tiendocom051@gmail.com"
+    },
+    "stock_after": 13,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26237709127481",
+    "history": [
+      {
+        "time": "19:04:52 25/08/2026",
+        "actor": "user:5663474568",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "19:06:11 25/08/2026",
+        "actor": "user:5663474568",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: tiendocom051@gmail.com"
+      },
+      {
+        "time": "19:24:42 25/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "19:06:11 25/08/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "19:24:42 25/08/2026"
+  },
+  "ORDER9D5C465D1787677231": {
+    "order_code": "ORDER9D5C465D1787677231",
+    "user_id": 8352350108,
+    "full_name": "Support 24/7",
+    "username": "@thegioiios_support",
+    "product_id": "sp_1787471606988",
+    "product_name": "Voucher Tạo STK Mbbank 25M",
+    "quantity": 1,
+    "unit_price": 12000,
+    "total": 12000,
+    "status": "COMPLETED",
+    "created_time": "00:00:59 26/08/2026",
+    "manual_fields": [
+      {
+        "key": "s_i_n_tho_i_mb",
+        "label": "Số Điện Thoại Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {},
+    "stock_after": 3,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26238130897180",
+    "history": [
+      {
+        "time": "00:00:59 26/08/2026",
+        "actor": "user:8352350108",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "02:44:59 26/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "COMPLETED",
+        "note": "Ok"
+      }
+    ],
+    "admin_result": "Ok",
+    "completed_by": 8101416491,
+    "completed_time": "02:44:59 26/08/2026"
+  },
+  "ORDER031CE2BE1787710172": {
+    "order_code": "ORDER031CE2BE1787710172",
+    "user_id": 1188284949,
+    "full_name": "Tuan",
+    "username": "@tuanho10",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "09:10:26 26/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "dahoaday10@gmail.com"
+    },
+    "stock_after": 12,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26238390876159",
+    "history": [
+      {
+        "time": "09:10:26 26/08/2026",
+        "actor": "user:1188284949",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "09:13:59 26/08/2026",
+        "actor": "user:1188284949",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: dahoaday10@gmail.com"
+      },
+      {
+        "time": "09:14:00 26/08/2026",
+        "actor": "user:1188284949",
+        "action": "Khách gửi dữ liệu",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: dahoaday10@gmail.com"
+      },
+      {
+        "time": "09:24:25 26/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thu email"
+      }
+    ],
+    "submitted_time": "09:14:00 26/08/2026",
+    "admin_result": "check thu email",
+    "completed_by": 8101416491,
+    "completed_time": "09:24:25 26/08/2026"
+  },
+  "ORDERD068B0D81787715771": {
+    "order_code": "ORDERD068B0D81787715771",
+    "user_id": 7035455737,
+    "full_name": "Lu Cuntu",
+    "username": "@thaom08",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 2,
+    "unit_price": 9000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "10:42:51 26/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {},
+    "stock_after": 10,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "wallet",
+    "history": [
+      {
+        "time": "10:42:51 26/08/2026",
+        "actor": "user:7035455737",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "11:25:22 26/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "COMPLETED",
+        "note": "ok"
+      }
+    ],
+    "admin_result": "ok",
+    "completed_by": 8101416491,
+    "completed_time": "11:25:22 26/08/2026"
+  },
+  "ORDERA92ACC9C1787758236": {
+    "order_code": "ORDERA92ACC9C1787758236",
+    "user_id": 5873946201,
+    "full_name": "Nguyễn Khắc Duy",
+    "username": "@subviet1s_support",
+    "product_id": "sp_1787471606988",
+    "product_name": "Voucher Tạo STK Mbbank 25M",
+    "quantity": 1,
+    "unit_price": 12000,
+    "total": 12000,
+    "status": "COMPLETED",
+    "created_time": "22:31:17 26/08/2026",
+    "manual_fields": [
+      {
+        "key": "s_i_n_tho_i_mb",
+        "label": "Số Điện Thoại Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Số Điện Thoại Mb": "0338542989"
+    },
+    "stock_after": 2,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26239279620099",
+    "history": [
+      {
+        "time": "22:31:17 26/08/2026",
+        "actor": "user:5873946201",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "22:31:56 26/08/2026",
+        "actor": "user:5873946201",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0338542989"
+      },
+      {
+        "time": "22:35:33 26/08/2026",
+        "actor": "user:5873946201",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Số Điện Thoại Mb: 0338549289"
+      },
+      {
+        "time": "22:40:10 26/08/2026",
+        "actor": "user:5873946201",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Mã voucher mb bank số đẹp nhận ở đâu vậy ạ"
+      },
+      {
+        "time": "23:28:35 26/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check mục ưu đãi nhé"
+      }
+    ],
+    "submitted_time": "22:31:56 26/08/2026",
+    "chat_messages": [
+      {
+        "time": "22:35:33 26/08/2026",
+        "sender": "user:5873946201",
+        "text": "Số Điện Thoại Mb: 0338549289"
+      },
+      {
+        "time": "22:40:10 26/08/2026",
+        "sender": "user:5873946201",
+        "text": "Mã voucher mb bank số đẹp nhận ở đâu vậy ạ"
+      }
+    ],
+    "admin_result": "check mục ưu đãi nhé",
+    "completed_by": 8101416491,
+    "completed_time": "23:28:35 26/08/2026"
+  },
+  "ORDER3C1B2E8C1787762507": {
+    "order_code": "ORDER3C1B2E8C1787762507",
+    "user_id": 5873946201,
+    "full_name": "Nguyễn Khắc Duy",
+    "username": "@subviet1s_support",
+    "product_id": "sp_1787471606988",
+    "product_name": "Voucher Tạo STK Mbbank 25M",
+    "quantity": 1,
+    "unit_price": 12000,
+    "total": 12000,
+    "status": "COMPLETED",
+    "created_time": "23:42:15 26/08/2026",
+    "manual_fields": [
+      {
+        "key": "s_i_n_tho_i_mb",
+        "label": "Số Điện Thoại Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Số Điện Thoại Mb": "0984076370"
+    },
+    "stock_after": 1,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26239417109747",
+    "history": [
+      {
+        "time": "23:42:15 26/08/2026",
+        "actor": "user:5873946201",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "23:43:13 26/08/2026",
+        "actor": "user:5873946201",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0984076370"
+      },
+      {
+        "time": "00:13:16 27/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "ok, check mục ưu đãi"
+      }
+    ],
+    "submitted_time": "23:43:13 26/08/2026",
+    "admin_result": "ok, check mục ưu đãi",
+    "completed_by": 8101416491,
+    "completed_time": "00:13:16 27/08/2026"
+  },
+  "ORDERAA60B8C91787819679": {
+    "order_code": "ORDERAA60B8C91787819679",
+    "user_id": 762356442,
+    "full_name": "Trung Nguyen",
+    "username": "@vantrung113",
+    "product_id": "sp_1787471606988",
+    "product_name": "Voucher Tạo STK Mbbank 25M",
+    "quantity": 2,
+    "unit_price": 12000,
+    "total": 24000,
+    "status": "COMPLETED",
+    "created_time": "15:35:20 27/08/2026",
+    "manual_fields": [
+      {
+        "key": "s_i_n_tho_i_mb",
+        "label": "Số Điện Thoại Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Số Điện Thoại Mb": "0907726113"
+    },
+    "stock_after": 7,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26239868218963",
+    "history": [
+      {
+        "time": "15:35:20 27/08/2026",
+        "actor": "user:762356442",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "15:37:05 27/08/2026",
+        "actor": "user:762356442",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0907726113"
+      },
+      {
+        "time": "16:47:08 27/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check mục ưu đãi"
+      }
+    ],
+    "submitted_time": "15:37:05 27/08/2026",
+    "admin_result": "Check mục ưu đãi",
+    "completed_by": 8101416491,
+    "completed_time": "16:47:08 27/08/2026"
+  },
+  "ORDEREBBFF6F21787825806": {
+    "order_code": "ORDEREBBFF6F21787825806",
+    "user_id": 762356442,
+    "full_name": "Trung Nguyen",
+    "username": "@vantrung113",
+    "product_id": "sp_1787471606988",
+    "product_name": "Voucher Tạo STK Mbbank 25M",
+    "quantity": 2,
+    "unit_price": 12000,
+    "total": 24000,
+    "status": "COMPLETED",
+    "created_time": "17:17:20 27/08/2026",
+    "manual_fields": [
+      {
+        "key": "s_i_n_tho_i_mb",
+        "label": "Số Điện Thoại Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Số Điện Thoại Mb": "0907726113"
+    },
+    "stock_after": 5,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26239867910361",
+    "history": [
+      {
+        "time": "17:17:20 27/08/2026",
+        "actor": "user:762356442",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "17:17:32 27/08/2026",
+        "actor": "user:762356442",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0907726113"
+      },
+      {
+        "time": "18:45:31 27/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check mục ưu đãi"
+      }
+    ],
+    "submitted_time": "17:17:32 27/08/2026",
+    "admin_result": "Check mục ưu đãi",
+    "completed_by": 8101416491,
+    "completed_time": "18:45:31 27/08/2026"
+  },
+  "ORDER90EBBA671787841867": {
+    "order_code": "ORDER90EBBA671787841867",
+    "user_id": 5374223235,
+    "full_name": "Trí Phạm",
+    "username": "@EricTripx",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "21:44:57 27/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "huungonpham46@gmail.com"
+    },
+    "stock_after": 9,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26239564762802",
+    "history": [
+      {
+        "time": "21:44:57 27/08/2026",
+        "actor": "user:5374223235",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "21:46:49 27/08/2026",
+        "actor": "user:5374223235",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "huungonpham46@gmail.com"
+      },
+      {
+        "time": "23:54:50 27/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "21:46:49 27/08/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "23:54:50 27/08/2026"
+  },
+  "ORDER503CDD5B1787886405": {
+    "order_code": "ORDER503CDD5B1787886405",
+    "user_id": 2145409196,
+    "full_name": "Phương",
+    "username": "@phanvandu1131",
+    "product_id": "sp_1787471606988",
+    "product_name": "Voucher Tạo STK Mbbank 25M",
+    "quantity": 1,
+    "unit_price": 12000,
+    "total": 12000,
+    "status": "CUSTOMER_SUBMITTED",
+    "created_time": "10:07:11 28/08/2026",
+    "manual_fields": [
+      {
+        "key": "s_i_n_tho_i_mb",
+        "label": "Số Điện Thoại Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Số Điện Thoại Mb": "0333606040"
+    },
+    "stock_after": 4,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26240458076766",
+    "history": [
+      {
+        "time": "10:07:11 28/08/2026",
+        "actor": "user:2145409196",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "10:08:29 28/08/2026",
+        "actor": "user:2145409196",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0333606040"
+      },
+      {
+        "time": "11:48:25 28/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin nhắn khách",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "chiều done nha"
+      }
+    ],
+    "submitted_time": "10:08:29 28/08/2026",
+    "chat_messages": [
+      {
+        "time": "11:48:25 28/08/2026",
+        "sender": "admin:8101416491",
+        "text": "chiều done nha"
+      }
+    ]
+  },
+  "ORDERE53542D71788074820": {
+    "order_code": "ORDERE53542D71788074820",
+    "user_id": 8370021822,
+    "full_name": "Leeminho kk",
+    "username": "@leeminhoocaolanh",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "14:27:55 30/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "tuemanleduong3@gmail.com"
+    },
+    "stock_after": 8,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26243060358724",
+    "history": [
+      {
+        "time": "14:27:55 30/08/2026",
+        "actor": "user:8370021822",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "14:32:17 30/08/2026",
+        "actor": "user:8370021822",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "tuemanleduong3@gmail.com"
+      },
+      {
+        "time": "14:32:55 30/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "14:32:17 30/08/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "14:32:55 30/08/2026"
+  },
+  "ORDERDAC60A371788160099": {
+    "order_code": "ORDERDAC60A371788160099",
+    "user_id": 748678308,
+    "full_name": "Việt Sim Ghép IP Lock",
+    "username": "@bdviet",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "14:09:05 31/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "ducviet.dev@gmail.com"
+    },
+    "stock_after": 7,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26243746845155",
+    "history": [
+      {
+        "time": "14:09:05 31/08/2026",
+        "actor": "user:748678308",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "14:09:28 31/08/2026",
+        "actor": "user:748678308",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "ducviet.dev@gmail.com"
+      },
+      {
+        "time": "14:10:09 31/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "14:09:28 31/08/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "14:10:09 31/08/2026"
+  },
+  "ORDER9697E9C21788185566": {
+    "order_code": "ORDER9697E9C21788185566",
+    "user_id": 8370021822,
+    "full_name": "Leeminho kk",
+    "username": "@leeminhoocaolanh",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "21:13:40 31/08/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "tuyetbang.2x@gmail .com"
+    },
+    "stock_after": 6,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26243467406608",
+    "history": [
+      {
+        "time": "21:13:40 31/08/2026",
+        "actor": "user:8370021822",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "21:13:53 31/08/2026",
+        "actor": "user:8370021822",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "tuyetbang.2x@gmail .com"
+      },
+      {
+        "time": "21:28:52 31/08/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "21:13:53 31/08/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "21:28:52 31/08/2026"
+  },
+  "ORDER32F0D8961788234843": {
+    "order_code": "ORDER32F0D8961788234843",
+    "user_id": 6519092458,
+    "full_name": "Thang Nguyen",
+    "username": "@quaywin",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "10:55:05 01/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "tammy94cfl@gmail.com"
+    },
+    "stock_after": 4,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26244884253851",
+    "history": [
+      {
+        "time": "10:55:05 01/09/2026",
+        "actor": "user:6519092458",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "10:55:56 01/09/2026",
+        "actor": "user:6519092458",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "tammy94cfl@gmail.com"
+      },
+      {
+        "time": "13:05:23 01/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "10:55:56 01/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "13:05:23 01/09/2026"
+  },
+  "ORDERC65BF6CA1788251796": {
+    "order_code": "ORDERC65BF6CA1788251796",
+    "user_id": 8984402248,
+    "full_name": "Vô Phong",
+    "username": "Không có",
+    "product_id": "sp_1787471606988",
+    "product_name": "Voucher Tạo STK Mbbank 25M",
+    "quantity": 1,
+    "unit_price": 12000,
+    "total": 12000,
+    "status": "CUSTOMER_SUBMITTED",
+    "created_time": "15:36:36 01/09/2026",
+    "manual_fields": [
+      {
+        "key": "s_i_n_tho_i_mb",
+        "label": "Số Điện Thoại Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Số Điện Thoại Mb": "Là số điện thoại đã đăng kí Mb hả"
+    },
+    "stock_after": 3,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "wallet",
+    "history": [
+      {
+        "time": "15:36:36 01/09/2026",
+        "actor": "user:8984402248",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "15:43:01 01/09/2026",
+        "actor": "user:8984402248",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Là số điện thoại đã đăng kí Mb hả"
+      },
+      {
+        "time": "15:52:50 01/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin nhắn khách",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Um"
+      },
+      {
+        "time": "16:22:37 01/09/2026",
+        "actor": "user:8984402248",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Sdt là đã đki mb hả"
+      },
+      {
+        "time": "16:23:08 01/09/2026",
+        "actor": "user:8984402248",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Hay chua đăng kí\nVà gửi số điện thoại là đủ hở"
+      },
+      {
+        "time": "19:04:16 01/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin nhắn khách",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Thì gửi sdt đã đăng ki mb đó b"
+      }
+    ],
+    "submitted_time": "15:43:01 01/09/2026",
+    "chat_messages": [
+      {
+        "time": "15:52:50 01/09/2026",
+        "sender": "admin:8101416491",
+        "text": "Um"
+      },
+      {
+        "time": "16:22:37 01/09/2026",
+        "sender": "user:8984402248",
+        "text": "Sdt là đã đki mb hả"
+      },
+      {
+        "time": "16:23:08 01/09/2026",
+        "sender": "user:8984402248",
+        "text": "Hay chua đăng kí\nVà gửi số điện thoại là đủ hở"
+      },
+      {
+        "time": "19:04:16 01/09/2026",
+        "sender": "admin:8101416491",
+        "text": "Thì gửi sdt đã đăng ki mb đó b"
+      }
+    ]
+  },
+  "ORDERF1AE53691788267836": {
+    "order_code": "ORDERF1AE53691788267836",
+    "user_id": 5247397654,
+    "full_name": "an",
+    "username": "@aoma12b",
+    "product_id": "sp_1787471606988",
+    "product_name": "Voucher Tạo STK Mbbank 25M",
+    "quantity": 1,
+    "unit_price": 12000,
+    "total": 12000,
+    "status": "COMPLETED",
+    "created_time": "20:04:26 01/09/2026",
+    "manual_fields": [
+      {
+        "key": "s_i_n_tho_i_mb",
+        "label": "Số Điện Thoại Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Số Điện Thoại Mb": "0358557706"
+    },
+    "stock_after": 2,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26244797905079",
+    "history": [
+      {
+        "time": "20:04:26 01/09/2026",
+        "actor": "user:5247397654",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "21:07:54 01/09/2026",
+        "actor": "user:5247397654",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0358557706"
+      },
+      {
+        "time": "21:28:10 01/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check mục ưu đãi trong mb"
+      }
+    ],
+    "submitted_time": "21:07:54 01/09/2026",
+    "admin_result": "Check mục ưu đãi trong mb",
+    "completed_by": 8101416491,
+    "completed_time": "21:28:10 01/09/2026"
+  },
+  "ORDER78ABFA731788401796": {
+    "order_code": "ORDER78ABFA731788401796",
+    "user_id": 8526772439,
+    "full_name": "Đỗ Seven",
+    "username": "Không có",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "09:17:09 03/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "dohwarang5@gmail.com"
+    },
+    "stock_after": 3,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26246384551973",
+    "history": [
+      {
+        "time": "09:17:09 03/09/2026",
+        "actor": "user:8526772439",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "09:18:09 03/09/2026",
+        "actor": "user:8526772439",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "dohwarang5@gmail.com"
+      },
+      {
+        "time": "09:45:56 03/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thư email"
+      }
+    ],
+    "submitted_time": "09:18:09 03/09/2026",
+    "admin_result": "check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "09:45:56 03/09/2026"
+  },
+  "ORDER995D3DAA1788418982": {
+    "order_code": "ORDER995D3DAA1788418982",
+    "user_id": 8087480385,
+    "full_name": "Hà Tiến Đạt",
+    "username": "Không có",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "14:03:51 03/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "hatiendat7890@gmail.com"
+    },
+    "stock_after": 2,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26246840520844",
+    "history": [
+      {
+        "time": "14:03:51 03/09/2026",
+        "actor": "user:8087480385",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "14:04:39 03/09/2026",
+        "actor": "user:8087480385",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: hatiendat7890@gmail.com"
+      },
+      {
+        "time": "14:30:43 03/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "CHECK THƯ EMAIL"
+      }
+    ],
+    "submitted_time": "14:04:39 03/09/2026",
+    "admin_result": "CHECK THƯ EMAIL",
+    "completed_by": 8101416491,
+    "completed_time": "14:30:43 03/09/2026"
+  },
+  "ORDER92656DB71788419608": {
+    "order_code": "ORDER92656DB71788419608",
+    "user_id": 5892263001,
+    "full_name": "Công Nguyễn Duy",
+    "username": "Không có",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "14:14:03 03/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "nguyenduycong06021997@gmail.com"
+    },
+    "stock_after": 1,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26246743168973",
+    "history": [
+      {
+        "time": "14:14:03 03/09/2026",
+        "actor": "user:5892263001",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "14:15:15 03/09/2026",
+        "actor": "user:5892263001",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: nguyenduycong06021997@gmail.com"
+      },
+      {
+        "time": "14:18:07 03/09/2026",
+        "actor": "user:5892263001",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "khi nào sử dụng được"
+      },
+      {
+        "time": "14:24:36 03/09/2026",
+        "actor": "user:5892263001",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "khi nào sử dụng được"
+      },
+      {
+        "time": "14:30:33 03/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "CHECK THƯ EMAIL"
+      }
+    ],
+    "submitted_time": "14:15:15 03/09/2026",
+    "chat_messages": [
+      {
+        "time": "14:18:07 03/09/2026",
+        "sender": "user:5892263001",
+        "text": "khi nào sử dụng được"
+      },
+      {
+        "time": "14:24:36 03/09/2026",
+        "sender": "user:5892263001",
+        "text": "khi nào sử dụng được"
+      }
+    ],
+    "admin_result": "CHECK THƯ EMAIL",
+    "completed_by": 8101416491,
+    "completed_time": "14:30:33 03/09/2026"
+  },
+  "ORDERC460C3F41788419910": {
+    "order_code": "ORDERC460C3F41788419910",
+    "user_id": 5594416804,
+    "full_name": "Vũ Dũng",
+    "username": "Không có",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "14:19:23 03/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "hongtambo199@gmail.com"
+    },
+    "stock_after": 0,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26246930980307",
+    "history": [
+      {
+        "time": "14:19:23 03/09/2026",
+        "actor": "user:5594416804",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "14:22:23 03/09/2026",
+        "actor": "user:5594416804",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "hongtambo199@gmail.com"
+      },
+      {
+        "time": "14:24:42 03/09/2026",
+        "actor": "user:5594416804",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Tôi chưa thấy nhận được mail xác nhận. chekc giúp tôi."
+      },
+      {
+        "time": "14:28:35 03/09/2026",
+        "actor": "user:5594416804",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Tôi vẫn chưa thấy email mời"
+      },
+      {
+        "time": "14:30:22 03/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "CHECK THƯ EMAIL"
+      }
+    ],
+    "submitted_time": "14:22:23 03/09/2026",
+    "chat_messages": [
+      {
+        "time": "14:24:42 03/09/2026",
+        "sender": "user:5594416804",
+        "text": "Tôi chưa thấy nhận được mail xác nhận. chekc giúp tôi."
+      },
+      {
+        "time": "14:28:35 03/09/2026",
+        "sender": "user:5594416804",
+        "text": "Tôi vẫn chưa thấy email mời"
+      }
+    ],
+    "admin_result": "CHECK THƯ EMAIL",
+    "completed_by": 8101416491,
+    "completed_time": "14:30:22 03/09/2026"
+  },
+  "ORDER8E3054FC1788421025": {
+    "order_code": "ORDER8E3054FC1788421025",
+    "user_id": 8087480385,
+    "full_name": "Hà Tiến Đạt",
+    "username": "Không có",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "14:38:06 03/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "nguyenduyhieuhb1711@gmail.com"
+    },
+    "stock_after": 9,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26246754608205",
+    "history": [
+      {
+        "time": "14:38:06 03/09/2026",
+        "actor": "user:8087480385",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "14:41:02 03/09/2026",
+        "actor": "user:8087480385",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: nguyenduyhieuhb1711@gmail.com"
+      },
+      {
+        "time": "14:42:54 03/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thư email"
+      }
+    ],
+    "submitted_time": "14:41:02 03/09/2026",
+    "admin_result": "check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "14:42:54 03/09/2026"
+  },
+  "ORDER7808F4A81788444844": {
+    "order_code": "ORDER7808F4A81788444844",
+    "user_id": 5861719632,
+    "full_name": "- -",
+    "username": "@Quoc_pro01",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "21:15:05 03/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "Phibinngo@gmail.com"
+    },
+    "stock_after": 8,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26246370809003",
+    "history": [
+      {
+        "time": "21:15:05 03/09/2026",
+        "actor": "user:5861719632",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "21:15:39 03/09/2026",
+        "actor": "user:5861719632",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Phibinngo@gmail.com"
+      },
+      {
+        "time": "21:36:33 03/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "21:15:39 03/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "21:36:33 03/09/2026"
+  },
+  "ORDERB19D28AF1788486871": {
+    "order_code": "ORDERB19D28AF1788486871",
+    "user_id": 1576809107,
+    "full_name": "Truong Han",
+    "username": "@Itsmee0002",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "08:54:54 04/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "truonghan3105@gmail.com"
+    },
+    "stock_after": 7,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26247528339495",
+    "history": [
+      {
+        "time": "08:54:54 04/09/2026",
+        "actor": "user:1576809107",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "08:57:36 04/09/2026",
+        "actor": "user:1576809107",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "truonghan3105@gmail.com"
+      },
+      {
+        "time": "08:58:35 04/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thư email"
+      }
+    ],
+    "submitted_time": "08:57:36 04/09/2026",
+    "admin_result": "check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "08:58:35 04/09/2026"
+  },
+  "ORDER507A55AB1788492846": {
+    "order_code": "ORDER507A55AB1788492846",
+    "user_id": 7436972797,
+    "full_name": "hmmmmm",
+    "username": "Không có",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "10:36:56 04/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "m.duong.hd2005@gmail.com"
+    },
+    "stock_after": 6,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26247624239090",
+    "history": [
+      {
+        "time": "10:36:56 04/09/2026",
+        "actor": "user:7436972797",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "10:39:59 04/09/2026",
+        "actor": "user:7436972797",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "m.duong.hd2005@gmail.com"
+      },
+      {
+        "time": "11:36:28 04/09/2026",
+        "actor": "user:7436972797",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Nào xử lý xong báo em nha"
+      },
+      {
+        "time": "15:07:05 04/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "10:39:59 04/09/2026",
+    "chat_messages": [
+      {
+        "time": "11:36:28 04/09/2026",
+        "sender": "user:7436972797",
+        "text": "Nào xử lý xong báo em nha"
+      }
+    ],
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "15:07:05 04/09/2026"
+  },
+  "ORDER28DF20DA1788498851": {
+    "order_code": "ORDER28DF20DA1788498851",
+    "user_id": 5418851715,
+    "full_name": "Fl1s.Vn",
+    "username": "@nghaihoang",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "12:14:42 04/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "phuongmai19092006lnh@gmail.com"
+    },
+    "stock_after": 5,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26247245506297",
+    "history": [
+      {
+        "time": "12:14:42 04/09/2026",
+        "actor": "user:5418851715",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "12:14:57 04/09/2026",
+        "actor": "user:5418851715",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "phuongmai19092006lnh@gmail.com"
+      },
+      {
+        "time": "15:08:02 04/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "12:14:57 04/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "15:08:02 04/09/2026"
+  },
+  "ORDER401EDBC61788507900": {
+    "order_code": "ORDER401EDBC61788507900",
+    "user_id": 7510217207,
+    "full_name": "CHƯA TÀY ĐÂU",
+    "username": "@qccccsa",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "14:45:43 04/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "hkphong264@gmail.com"
+    },
+    "stock_after": 4,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26247217840449",
+    "history": [
+      {
+        "time": "14:45:43 04/09/2026",
+        "actor": "user:7510217207",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "14:46:06 04/09/2026",
+        "actor": "user:7510217207",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "hkphong264@gmail.com"
+      },
+      {
+        "time": "15:08:49 04/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "14:46:06 04/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "15:08:49 04/09/2026"
+  },
+  "ORDERE85A4EF11788678119": {
+    "order_code": "ORDERE85A4EF11788678119",
+    "user_id": 864473463,
+    "full_name": "Duy K",
+    "username": "Không có",
+    "product_id": "sp_1787471606988",
+    "product_name": "Voucher Tạo STK Mbbank 25M",
+    "quantity": 1,
+    "unit_price": 12000,
+    "total": 12000,
+    "status": "REFUNDED",
+    "created_time": "14:02:39 06/09/2026",
+    "manual_fields": [
+      {
+        "key": "s_i_n_tho_i_mb",
+        "label": "Số Điện Thoại Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {},
+    "stock_after": 1,
+    "refunded": true,
+    "stock_refunded": true,
+    "paid_by": "bank",
+    "txid": "FT26250879642078",
+    "history": [
+      {
+        "time": "14:02:39 06/09/2026",
+        "actor": "user:864473463",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "14:23:30 06/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hủy và hoàn tiền",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "REFUNDED",
+        "note": "Ok"
+      }
+    ],
+    "cancel_reason": "Ok",
+    "cancelled_by": 8101416491,
+    "cancelled_time": "14:23:30 06/09/2026"
+  },
+  "ORDER6A8AB1B51788683691": {
+    "order_code": "ORDER6A8AB1B51788683691",
+    "user_id": 5903932374,
+    "full_name": "Hiếu Huỳnh",
+    "username": "@houndHM",
+    "product_id": "sp_1787471280223",
+    "product_name": "Canva Pro edu 2 Năm",
+    "quantity": 1,
+    "unit_price": 18000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "15:35:26 06/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "hanhi.tn097@gmail.com"
+    },
+    "stock_after": 20,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26250818040396",
+    "history": [
+      {
+        "time": "15:35:26 06/09/2026",
+        "actor": "user:5903932374",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "15:36:37 06/09/2026",
+        "actor": "user:5903932374",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email:hanhi.tn097@gmail.com"
+      },
+      {
+        "time": "16:08:14 06/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "15:36:37 06/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "16:08:14 06/09/2026"
+  },
+  "ORDER2AAB03091788697516": {
+    "order_code": "ORDER2AAB03091788697516",
+    "user_id": 8070896651,
+    "full_name": "Long Vu",
+    "username": "@longvuth",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "19:25:44 06/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "longvu121702@gmail.com"
+    },
+    "stock_after": 13,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26250405544006",
+    "history": [
+      {
+        "time": "19:25:44 06/09/2026",
+        "actor": "user:8070896651",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "19:26:36 06/09/2026",
+        "actor": "user:8070896651",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: longvu121702@gmail.com"
+      },
+      {
+        "time": "20:06:57 06/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "19:26:36 06/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "20:06:57 06/09/2026"
+  },
+  "ORDER2F785F921788747611": {
+    "order_code": "ORDER2F785F921788747611",
+    "user_id": 6623898626,
+    "full_name": "cc oo",
+    "username": "@yonghengv",
+    "product_id": "sp_1787471280223",
+    "product_name": "Canva Pro edu 2 Năm",
+    "quantity": 1,
+    "unit_price": 18000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "09:20:11 07/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "nguyenminhdang013@gmail.com"
+    },
+    "stock_after": 19,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "wallet",
+    "history": [
+      {
+        "time": "09:20:11 07/09/2026",
+        "actor": "user:6623898626",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "09:23:13 07/09/2026",
+        "actor": "user:6623898626",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: nguyenminhdang013@gmail.com"
+      },
+      {
+        "time": "09:27:35 07/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thư email"
+      }
+    ],
+    "submitted_time": "09:23:13 07/09/2026",
+    "admin_result": "check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "09:27:35 07/09/2026"
+  },
+  "ORDER696F818F1788762696": {
+    "order_code": "ORDER696F818F1788762696",
+    "user_id": 8557706194,
+    "full_name": "LuKG OTP",
+    "username": "@DuyChienShop",
+    "product_id": "sp_1787471249941",
+    "product_name": "Canva Pro edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "13:31:36 07/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "kietphan797@gmail.com"
+    },
+    "stock_after": 12,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "wallet",
+    "history": [
+      {
+        "time": "13:31:36 07/09/2026",
+        "actor": "user:8557706194",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "13:32:33 07/09/2026",
+        "actor": "user:8557706194",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "kietphan797@gmail.com"
+      },
+      {
+        "time": "14:14:18 07/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thư email"
+      }
+    ],
+    "submitted_time": "13:32:33 07/09/2026",
+    "admin_result": "check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "14:14:18 07/09/2026"
+  },
+  "ORDERF2F963851788792768": {
+    "order_code": "ORDERF2F963851788792768",
+    "user_id": 5958936966,
+    "full_name": "Văn Trường Lã",
+    "username": "@LaVanTruongTOOL",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "21:53:09 07/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "anhemthuyettrinh@gmail.com"
+    },
+    "stock_after": 19,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26250112031075",
+    "history": [
+      {
+        "time": "21:53:09 07/09/2026",
+        "actor": "user:5958936966",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "21:53:48 07/09/2026",
+        "actor": "user:5958936966",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "anhemthuyettrinh@gmail.com"
+      },
+      {
+        "time": "22:26:34 07/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "21:53:48 07/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "22:26:34 07/09/2026"
+  },
+  "ORDERAA3302601788864889": {
+    "order_code": "ORDERAA3302601788864889",
+    "user_id": 6519092458,
+    "full_name": "Thang Nguyen",
+    "username": "@quaywin",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "17:56:28 08/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "quaywin@gmail.com"
+    },
+    "stock_after": 18,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26251123042681",
+    "history": [
+      {
+        "time": "17:56:28 08/09/2026",
+        "actor": "user:6519092458",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "17:56:42 08/09/2026",
+        "actor": "user:6519092458",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "quaywin@gmail.com"
+      },
+      {
+        "time": "18:14:57 08/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "17:56:42 08/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "18:14:57 08/09/2026"
+  },
+  "ORDERD7CEFC3A1788870772": {
+    "order_code": "ORDERD7CEFC3A1788870772",
+    "user_id": 1765150826,
+    "full_name": "Công An Xã",
+    "username": "@Phu0iso",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 2,
+    "unit_price": 9000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "19:36:29 08/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "tranthanhnguyen0iso@gmail.com"
+    },
+    "stock_after": 16,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26251934032008",
+    "history": [
+      {
+        "time": "19:36:29 08/09/2026",
+        "actor": "user:1765150826",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "19:40:31 08/09/2026",
+        "actor": "user:1765150826",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "tranthanhnguyen0iso@gmail.com\ntranthaonguyen.05061999@gmail.com"
+      },
+      {
+        "time": "19:49:19 08/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Done check thư email , còn 1 đơn nữa gửi email mình hoặc acc này 2 năm"
+      }
+    ],
+    "submitted_time": "19:40:31 08/09/2026",
+    "admin_result": "Done check thư email , còn 1 đơn nữa gửi email mình hoặc acc này 2 năm",
+    "completed_by": 8101416491,
+    "completed_time": "19:49:19 08/09/2026"
+  },
+  "ORDERF978C2331789014639": {
+    "order_code": "ORDERF978C2331789014639",
+    "user_id": 1883290745,
+    "full_name": "Nguyen Pope",
+    "username": "@NguyenPope_9x",
+    "product_id": "sp_1788782800225",
+    "product_name": "Canva Pro Edu 2 Năm",
+    "quantity": 1,
+    "unit_price": 18000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "11:31:32 10/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "nguyendung.vlv@gmail.com"
+    },
+    "stock_after": 19,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26253855972090",
+    "history": [
+      {
+        "time": "11:31:32 10/09/2026",
+        "actor": "user:1883290745",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "11:33:48 10/09/2026",
+        "actor": "user:1883290745",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: nguyendung.vlv@gmail.com"
+      },
+      {
+        "time": "14:24:10 10/09/2026",
+        "actor": "user:1883290745",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Sao mãi chưa thấy gửi thế? Ko dùng url return để bắt à?"
+      },
+      {
+        "time": "15:04:03 10/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thư email"
+      }
+    ],
+    "submitted_time": "11:33:48 10/09/2026",
+    "chat_messages": [
+      {
+        "time": "14:24:10 10/09/2026",
+        "sender": "user:1883290745",
+        "text": "Sao mãi chưa thấy gửi thế? Ko dùng url return để bắt à?"
+      }
+    ],
+    "admin_result": "check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "15:04:03 10/09/2026"
+  },
+  "ORDER4077444F1789024381": {
+    "order_code": "ORDER4077444F1789024381",
+    "user_id": 8251461138,
+    "full_name": "Khanz Phung",
+    "username": "@Khanzphung",
+    "product_id": "sp_1788783153554",
+    "product_name": "Voucher Mbbank Tạo Stk 25m",
+    "quantity": 1,
+    "unit_price": 13000,
+    "total": 13000,
+    "status": "REFUNDED",
+    "created_time": "14:13:20 10/09/2026",
+    "manual_fields": [
+      {
+        "key": "sdt_dk_mb",
+        "label": "Sdt Đã Dk Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Sdt Đã Dk Mb": "0343419817"
+    },
+    "stock_after": 4,
+    "refunded": true,
+    "stock_refunded": true,
+    "paid_by": "bank",
+    "txid": "FT26253722992310",
+    "history": [
+      {
+        "time": "14:13:20 10/09/2026",
+        "actor": "user:8251461138",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "14:15:28 10/09/2026",
+        "actor": "user:8251461138",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0343419817"
+      },
+      {
+        "time": "15:05:54 10/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hủy và hoàn tiền",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "REFUNDED",
+        "note": "tối mua lại e done"
+      }
+    ],
+    "submitted_time": "14:15:28 10/09/2026",
+    "cancel_reason": "tối mua lại e done",
+    "cancelled_by": 8101416491,
+    "cancelled_time": "15:05:54 10/09/2026"
+  },
+  "ORDERB5048F521789038848": {
+    "order_code": "ORDERB5048F521789038848",
+    "user_id": 6094932673,
+    "full_name": "Rùa ( Locket 5K ) 🐢",
+    "username": "@mahn2206",
+    "product_id": "sp_1788783153554",
+    "product_name": "Voucher Mbbank Tạo Stk 25m",
+    "quantity": 1,
+    "unit_price": 13000,
+    "total": 13000,
+    "status": "COMPLETED",
+    "created_time": "18:14:37 10/09/2026",
+    "manual_fields": [
+      {
+        "key": "sdt_dk_mb",
+        "label": "Sdt Đã Dk Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Sdt Đã Dk Mb": "0338846374"
+    },
+    "stock_after": 4,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26253060040376",
+    "history": [
+      {
+        "time": "18:14:37 10/09/2026",
+        "actor": "user:6094932673",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "18:15:01 10/09/2026",
+        "actor": "user:6094932673",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0338846374"
+      },
+      {
+        "time": "18:18:16 10/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check mục ưu đãi"
+      }
+    ],
+    "submitted_time": "18:15:01 10/09/2026",
+    "admin_result": "Check mục ưu đãi",
+    "completed_by": 8101416491,
+    "completed_time": "18:18:16 10/09/2026"
+  },
+  "ORDER1B7E7DF71789040940": {
+    "order_code": "ORDER1B7E7DF71789040940",
+    "user_id": 8251461138,
+    "full_name": "Khanz Phung",
+    "username": "@Khanzphung",
+    "product_id": "sp_1788783153554",
+    "product_name": "Voucher Mbbank Tạo Stk 25m",
+    "quantity": 1,
+    "unit_price": 13000,
+    "total": 13000,
+    "status": "COMPLETED",
+    "created_time": "18:49:00 10/09/2026",
+    "manual_fields": [
+      {
+        "key": "sdt_dk_mb",
+        "label": "Sdt Đã Dk Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Sdt Đã Dk Mb": "0343419817"
+    },
+    "stock_after": 3,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "wallet",
+    "history": [
+      {
+        "time": "18:49:00 10/09/2026",
+        "actor": "user:8251461138",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "18:49:39 10/09/2026",
+        "actor": "user:8251461138",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0343419817"
+      },
+      {
+        "time": "21:50:18 10/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check mục ưu đãi"
+      }
+    ],
+    "submitted_time": "18:49:39 10/09/2026",
+    "admin_result": "Check mục ưu đãi",
+    "completed_by": 8101416491,
+    "completed_time": "21:50:18 10/09/2026"
+  },
+  "ORDER1BD0B2891789133031": {
+    "order_code": "ORDER1BD0B2891789133031",
+    "user_id": 5958936966,
+    "full_name": "Văn Trường Lã",
+    "username": "@LaVanTruongTOOL",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "20:25:24 11/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "Khnhlindng369@gmail.com"
+    },
+    "stock_after": 15,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26254043997400",
+    "history": [
+      {
+        "time": "20:25:24 11/09/2026",
+        "actor": "user:5958936966",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "20:25:59 11/09/2026",
+        "actor": "user:5958936966",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Khnhlindng369@gmail.com"
+      },
+      {
+        "time": "20:32:46 11/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "20:25:59 11/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "20:32:46 11/09/2026"
+  },
+  "ORDER4C954C401789136431": {
+    "order_code": "ORDER4C954C401789136431",
+    "user_id": 8609949382,
+    "full_name": "Goat Messi",
+    "username": "@leomessi114",
+    "product_id": "sp_1788783153554",
+    "product_name": "Voucher Mbbank Tạo Stk 25m",
+    "quantity": 1,
+    "unit_price": 13000,
+    "total": 13000,
+    "status": "COMPLETED",
+    "created_time": "21:21:24 11/09/2026",
+    "manual_fields": [
+      {
+        "key": "sdt_dk_mb",
+        "label": "Sdt Đã Dk Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Sdt Đã Dk Mb": "0839003463"
+    },
+    "stock_after": 2,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26254493037053",
+    "history": [
+      {
+        "time": "21:21:24 11/09/2026",
+        "actor": "user:8609949382",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "21:22:15 11/09/2026",
+        "actor": "user:8609949382",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0839003463"
+      },
+      {
+        "time": "23:19:52 11/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check mục ưu đãi"
+      }
+    ],
+    "submitted_time": "21:22:15 11/09/2026",
+    "admin_result": "Check mục ưu đãi",
+    "completed_by": 8101416491,
+    "completed_time": "23:19:52 11/09/2026"
+  },
+  "ORDER401E798A1789177827": {
+    "order_code": "ORDER401E798A1789177827",
+    "user_id": 7010124007,
+    "full_name": "Ha Mai",
+    "username": "@hamaizz52",
+    "product_id": "sp_1788783153554",
+    "product_name": "Voucher Mbbank Tạo Stk 25m",
+    "quantity": 2,
+    "unit_price": 13000,
+    "total": 26000,
+    "status": "COMPLETED",
+    "created_time": "08:51:26 12/09/2026",
+    "manual_fields": [
+      {
+        "key": "sdt_dk_mb",
+        "label": "Sdt Đã Dk Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Sdt Đã Dk Mb": "0337756418"
+    },
+    "stock_after": 0,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26255410059446",
+    "history": [
+      {
+        "time": "08:51:26 12/09/2026",
+        "actor": "user:7010124007",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "08:54:03 12/09/2026",
+        "actor": "user:7010124007",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0337756418"
+      },
+      {
+        "time": "09:12:03 12/09/2026",
+        "actor": "user:7010124007",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Hối ông chủ của bạn"
+      },
+      {
+        "time": "10:07:52 12/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check mục ưu đãi"
+      }
+    ],
+    "submitted_time": "08:54:03 12/09/2026",
+    "chat_messages": [
+      {
+        "time": "09:12:03 12/09/2026",
+        "sender": "user:7010124007",
+        "text": "Hối ông chủ của bạn"
+      }
+    ],
+    "admin_result": "Check mục ưu đãi",
+    "completed_by": 8101416491,
+    "completed_time": "10:07:52 12/09/2026"
+  },
+  "ORDERB6DC95571789177778": {
+    "order_code": "ORDERB6DC95571789177778",
+    "user_id": 5553165654,
+    "full_name": "LELOUCH",
+    "username": "Không có",
+    "product_id": "sp_1788782800225",
+    "product_name": "Canva Pro Edu 2 Năm",
+    "quantity": 1,
+    "unit_price": 18000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "08:51:33 12/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "nguyenkhangnhi2104@gmail.com"
+    },
+    "stock_after": 18,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26255553402689",
+    "history": [
+      {
+        "time": "08:51:33 12/09/2026",
+        "actor": "user:5553165654",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "08:51:58 12/09/2026",
+        "actor": "user:5553165654",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "nguyenkhangnhi2104@gmail.com"
+      },
+      {
+        "time": "08:55:47 12/09/2026",
+        "actor": "user:5553165654",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Xong chưa ạ, có Canva Pro Edu chưa ạ"
+      },
+      {
+        "time": "08:59:42 12/09/2026",
+        "actor": "user:5553165654",
+        "action": "Khách gửi dữ liệu",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: nguyenkhangnhi2104@gmail.com"
+      },
+      {
+        "time": "10:03:48 12/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "08:59:42 12/09/2026",
+    "chat_messages": [
+      {
+        "time": "08:55:47 12/09/2026",
+        "sender": "user:5553165654",
+        "text": "Xong chưa ạ, có Canva Pro Edu chưa ạ"
+      }
+    ],
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "10:03:48 12/09/2026"
+  },
+  "ORDER2A5FD3511789200563": {
+    "order_code": "ORDER2A5FD3511789200563",
+    "user_id": 6980250278,
+    "full_name": "Mỹ",
+    "username": "@Tienmmo",
+    "product_id": "sp_1788783153554",
+    "product_name": "Voucher Mbbank Tạo Stk 25m",
+    "quantity": 1,
+    "unit_price": 14000,
+    "total": 14000,
+    "status": "COMPLETED",
+    "created_time": "15:10:08 12/09/2026",
+    "manual_fields": [
+      {
+        "key": "sdt_dk_mb",
+        "label": "Sdt Đã Dk Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Sdt Đã Dk Mb": "0854567610"
+    },
+    "stock_after": 3,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26255018089058",
+    "history": [
+      {
+        "time": "15:10:08 12/09/2026",
+        "actor": "user:6980250278",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "15:10:28 12/09/2026",
+        "actor": "user:6980250278",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0854567610"
+      },
+      {
+        "time": "18:32:29 12/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check mục ưu đãi"
+      }
+    ],
+    "submitted_time": "15:10:28 12/09/2026",
+    "admin_result": "Check mục ưu đãi",
+    "completed_by": 8101416491,
+    "completed_time": "18:32:29 12/09/2026"
+  },
+  "ORDER9DFA9ACD1789212721": {
+    "order_code": "ORDER9DFA9ACD1789212721",
+    "user_id": 8983445180,
+    "full_name": "Pxh Twa",
+    "username": "@anhlathangtoii",
+    "product_id": "sp_1788783153554",
+    "product_name": "Voucher Mbbank Tạo Stk 25m",
+    "quantity": 1,
+    "unit_price": 14000,
+    "total": 14000,
+    "status": "COMPLETED",
+    "created_time": "18:32:46 12/09/2026",
+    "manual_fields": [
+      {
+        "key": "sdt_dk_mb",
+        "label": "Sdt Đã Dk Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Sdt Đã Dk Mb": "0356105451 NGUYEN VAN CAT LOT"
+    },
+    "stock_after": 2,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26255282658923",
+    "history": [
+      {
+        "time": "18:32:46 12/09/2026",
+        "actor": "user:8983445180",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "18:33:22 12/09/2026",
+        "actor": "user:8983445180",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0356105451 NGUYEN VAN CAT LOT"
+      },
+      {
+        "time": "19:03:51 12/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check mục ưu đãi"
+      }
+    ],
+    "submitted_time": "18:33:22 12/09/2026",
+    "admin_result": "Check mục ưu đãi",
+    "completed_by": 8101416491,
+    "completed_time": "19:03:51 12/09/2026"
+  },
+  "ORDER9CC21AA51789270618": {
+    "order_code": "ORDER9CC21AA51789270618",
+    "user_id": 6521863361,
+    "full_name": "N Y",
+    "username": "@dcaplamaimai",
+    "product_id": "sp_1788783153554",
+    "product_name": "Voucher Mbbank Tạo Stk 25m",
+    "quantity": 1,
+    "unit_price": 14000,
+    "total": 14000,
+    "status": "COMPLETED",
+    "created_time": "10:37:31 13/09/2026",
+    "manual_fields": [
+      {
+        "key": "sdt_dk_mb",
+        "label": "Sdt Đã Dk Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Sdt Đã Dk Mb": "0867567035"
+    },
+    "stock_after": 1,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26257051097030",
+    "history": [
+      {
+        "time": "10:37:31 13/09/2026",
+        "actor": "user:6521863361",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "10:37:48 13/09/2026",
+        "actor": "user:6521863361",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0867567035"
+      },
+      {
+        "time": "12:58:17 13/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check mục ưu đãi"
+      }
+    ],
+    "submitted_time": "10:37:48 13/09/2026",
+    "admin_result": "Check mục ưu đãi",
+    "completed_by": 8101416491,
+    "completed_time": "12:58:17 13/09/2026"
+  },
+  "ORDER7CBB149B1789285165": {
+    "order_code": "ORDER7CBB149B1789285165",
+    "user_id": 6699301084,
+    "full_name": "Duy MV",
+    "username": "@duymv02",
+    "product_id": "sp_1788783153554",
+    "product_name": "Voucher Mbbank Tạo Stk 25m",
+    "quantity": 1,
+    "unit_price": 14000,
+    "total": 14000,
+    "status": "REFUNDED",
+    "created_time": "14:40:04 13/09/2026",
+    "manual_fields": [
+      {
+        "key": "sdt_dk_mb",
+        "label": "Sdt Đã Dk Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {},
+    "stock_after": 4,
+    "refunded": true,
+    "stock_refunded": true,
+    "paid_by": "bank",
+    "txid": "FT26257960808216",
+    "history": [
+      {
+        "time": "14:40:04 13/09/2026",
+        "actor": "user:6699301084",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "15:13:09 13/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin nhắn khách",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bấm gửi thông tin nhập sdt đi b"
+      },
+      {
+        "time": "15:35:48 13/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hủy và hoàn tiền",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "REFUNDED",
+        "note": "Không gửi sdt"
+      }
+    ],
+    "chat_messages": [
+      {
+        "time": "15:13:09 13/09/2026",
+        "sender": "admin:8101416491",
+        "text": "Bấm gửi thông tin nhập sdt đi b"
+      }
+    ],
+    "cancel_reason": "Không gửi sdt",
+    "cancelled_by": 8101416491,
+    "cancelled_time": "15:35:48 13/09/2026"
+  },
+  "ORDER33BA0AE21789285665": {
+    "order_code": "ORDER33BA0AE21789285665",
+    "user_id": 8939165716,
+    "full_name": "Ngọc Đường Nguyễn Bảo",
+    "username": "@sugarhehe",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "14:48:22 13/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "nguyenbaongocduong04@gmail.com"
+    },
+    "stock_after": 14,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26257966505700",
+    "history": [
+      {
+        "time": "14:48:22 13/09/2026",
+        "actor": "user:8939165716",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "14:48:37 13/09/2026",
+        "actor": "user:8939165716",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "nguyenbaongocduong04@gmail.com"
+      },
+      {
+        "time": "14:53:13 13/09/2026",
+        "actor": "user:8939165716",
+        "action": "Khách gửi dữ liệu",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: nguyenbaongocduong04@gmail.com"
+      },
+      {
+        "time": "15:14:37 13/09/2026",
+        "actor": "user:8939165716",
+        "action": "Khách gửi dữ liệu",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "nguyenbaongocduong04@gmail.com"
+      },
+      {
+        "time": "15:16:18 13/09/2026",
+        "actor": "user:8939165716",
+        "action": "Khách gửi dữ liệu",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: nguyenbaongocduong04@gmail.com"
+      },
+      {
+        "time": "15:20:14 13/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "15:16:18 13/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "15:20:14 13/09/2026"
+  },
+  "ORDERE86A60291789288987": {
+    "order_code": "ORDERE86A60291789288987",
+    "user_id": 6699301084,
+    "full_name": "Duy MV",
+    "username": "@duymv02",
+    "product_id": "sp_1788783153554",
+    "product_name": "Voucher Mbbank Tạo Stk 25m",
+    "quantity": 1,
+    "unit_price": 14000,
+    "total": 14000,
+    "status": "COMPLETED",
+    "created_time": "15:43:07 13/09/2026",
+    "manual_fields": [
+      {
+        "key": "sdt_dk_mb",
+        "label": "Sdt Đã Dk Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Sdt Đã Dk Mb": "0829436567"
+    },
+    "stock_after": 4,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "wallet",
+    "history": [
+      {
+        "time": "15:43:07 13/09/2026",
+        "actor": "user:6699301084",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "15:44:18 13/09/2026",
+        "actor": "user:6699301084",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0829436567"
+      },
+      {
+        "time": "15:51:20 13/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check mục ưu đãi"
+      }
+    ],
+    "submitted_time": "15:44:18 13/09/2026",
+    "admin_result": "Check mục ưu đãi",
+    "completed_by": 8101416491,
+    "completed_time": "15:51:20 13/09/2026"
+  },
+  "ORDER4E8286201789315596": {
+    "order_code": "ORDER4E8286201789315596",
+    "user_id": 2019648874,
+    "full_name": "Duc Ta",
+    "username": "@ductahuu",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "23:07:31 13/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "ducthph16769@gmail.com"
+    },
+    "stock_after": 13,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26257480000607",
+    "history": [
+      {
+        "time": "23:07:31 13/09/2026",
+        "actor": "user:2019648874",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "23:07:54 13/09/2026",
+        "actor": "user:2019648874",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "ducthph16769@gmail.com"
+      },
+      {
+        "time": "23:15:20 13/09/2026",
+        "actor": "user:2019648874",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Alo"
+      },
+      {
+        "time": "23:19:09 13/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "23:07:54 13/09/2026",
+    "chat_messages": [
+      {
+        "time": "23:15:20 13/09/2026",
+        "sender": "user:2019648874",
+        "text": "Alo"
+      }
+    ],
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "23:19:09 13/09/2026"
+  },
+  "ORDER030DD9791789352718": {
+    "order_code": "ORDER030DD9791789352718",
+    "user_id": 6143487117,
+    "full_name": "Trần Sinh",
+    "username": "@transinh22azz",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "09:25:53 14/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "khangpd.vinasun@gmail.com"
+    },
+    "stock_after": 12,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26257809091581",
+    "history": [
+      {
+        "time": "09:25:53 14/09/2026",
+        "actor": "user:6143487117",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "09:26:26 14/09/2026",
+        "actor": "user:6143487117",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "khangpd.vinasun@gmail.com"
+      },
+      {
+        "time": "10:12:19 14/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thư email"
+      }
+    ],
+    "submitted_time": "09:26:26 14/09/2026",
+    "admin_result": "check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "10:12:19 14/09/2026"
+  },
+  "ORDER1C9FC30C1789446663": {
+    "order_code": "ORDER1C9FC30C1789446663",
+    "user_id": 7184581214,
+    "full_name": "Ngự Nữ Cư Sĩ",
+    "username": "@ngunucusi",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "11:31:58 15/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "huy2807gia@gmail.com"
+    },
+    "stock_after": 11,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26258104048027",
+    "history": [
+      {
+        "time": "11:31:58 15/09/2026",
+        "actor": "user:7184581214",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "11:33:00 15/09/2026",
+        "actor": "user:7184581214",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "huy2807gia@gmail.com"
+      },
+      {
+        "time": "11:37:07 15/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thư email"
+      }
+    ],
+    "submitted_time": "11:33:00 15/09/2026",
+    "admin_result": "check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "11:37:07 15/09/2026"
+  },
+  "ORDER3C2972871789476510": {
+    "order_code": "ORDER3C2972871789476510",
+    "user_id": 5418851715,
+    "full_name": "Fl1s.Vn",
+    "username": "@nghaihoang",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "19:48:58 15/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "baolinhdang904@gmail.com"
+    },
+    "stock_after": 10,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26258857403278",
+    "history": [
+      {
+        "time": "19:48:58 15/09/2026",
+        "actor": "user:5418851715",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "19:49:04 15/09/2026",
+        "actor": "user:5418851715",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "baolinhdang904@gmail.com"
+      },
+      {
+        "time": "19:57:26 15/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "19:49:04 15/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "19:57:26 15/09/2026"
+  },
+  "ORDER1DCBD2E81789476920": {
+    "order_code": "ORDER1DCBD2E81789476920",
+    "user_id": 5958936966,
+    "full_name": "Văn Trường Lã",
+    "username": "@LaVanTruongTOOL",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "19:56:52 15/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "huynhandeptraii@gmail.com"
+    },
+    "stock_after": 9,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26258949449618",
+    "history": [
+      {
+        "time": "19:56:52 15/09/2026",
+        "actor": "user:5958936966",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "19:57:17 15/09/2026",
+        "actor": "user:5958936966",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "huynhandeptraii@gmail.com"
+      },
+      {
+        "time": "19:57:53 15/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "19:57:17 15/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "19:57:53 15/09/2026"
+  },
+  "ORDER7F14AEF51789478704": {
+    "order_code": "ORDER7F14AEF51789478704",
+    "user_id": 5033697247,
+    "full_name": ". .",
+    "username": "@minhtrungz",
+    "product_id": "sp_1788783153554",
+    "product_name": "Voucher Mbbank Tạo Stk 25m",
+    "quantity": 1,
+    "unit_price": 14000,
+    "total": 14000,
+    "status": "COMPLETED",
+    "created_time": "20:25:37 15/09/2026",
+    "manual_fields": [
+      {
+        "key": "sdt_dk_mb",
+        "label": "Sdt Đã Dk Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Sdt Đã Dk Mb": "0767919482"
+    },
+    "stock_after": 3,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26258200850901",
+    "history": [
+      {
+        "time": "20:25:37 15/09/2026",
+        "actor": "user:5033697247",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "20:25:48 15/09/2026",
+        "actor": "user:5033697247",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0767919482"
+      },
+      {
+        "time": "21:06:07 15/09/2026",
+        "actor": "user:5033697247",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "có chưa sếp"
+      },
+      {
+        "time": "21:41:56 15/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check mục ưu đãi"
+      }
+    ],
+    "submitted_time": "20:25:48 15/09/2026",
+    "chat_messages": [
+      {
+        "time": "21:06:07 15/09/2026",
+        "sender": "user:5033697247",
+        "text": "có chưa sếp"
+      }
+    ],
+    "admin_result": "Check mục ưu đãi",
+    "completed_by": 8101416491,
+    "completed_time": "21:41:56 15/09/2026"
+  },
+  "ORDERD3485DC11789526571": {
+    "order_code": "ORDERD3485DC11789526571",
+    "user_id": 8705335230,
+    "full_name": "Thien Quan",
+    "username": "Không có",
+    "product_id": "sp_1788782800225",
+    "product_name": "Canva Pro Edu 2 Năm",
+    "quantity": 1,
+    "unit_price": 18000,
+    "total": 18000,
+    "status": "REFUNDED",
+    "created_time": "09:43:58 16/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {},
+    "stock_after": 17,
+    "refunded": true,
+    "stock_refunded": true,
+    "paid_by": "bank",
+    "txid": "FT26259954548307",
+    "history": [
+      {
+        "time": "09:43:58 16/09/2026",
+        "actor": "user:8705335230",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "21:11:39 17/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hủy và hoàn tiền",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "REFUNDED",
+        "note": "Ok"
+      }
+    ],
+    "cancel_reason": "Ok",
+    "cancelled_by": 8101416491,
+    "cancelled_time": "21:11:39 17/09/2026"
+  },
+  "ORDERD756974F1789552702": {
+    "order_code": "ORDERD756974F1789552702",
+    "user_id": 348862915,
+    "full_name": "Doan Quang",
+    "username": "@elchuanmen",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "16:58:46 16/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "truongbichchi196@gmail.com"
+    },
+    "stock_after": 8,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26259588041015",
+    "history": [
+      {
+        "time": "16:58:46 16/09/2026",
+        "actor": "user:348862915",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "17:00:06 16/09/2026",
+        "actor": "user:348862915",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email:truongbichchi196@gmail.com"
+      },
+      {
+        "time": "17:02:17 16/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check email"
+      }
+    ],
+    "submitted_time": "17:00:06 16/09/2026",
+    "admin_result": "Check email",
+    "completed_by": 8101416491,
+    "completed_time": "17:02:17 16/09/2026"
+  },
+  "ORDER859842401789555053": {
+    "order_code": "ORDER859842401789555053",
+    "user_id": 6521863361,
+    "full_name": "N Y",
+    "username": "@dcaplamaimai",
+    "product_id": "sp_1788783153554",
+    "product_name": "Voucher Mbbank Tạo Stk 25m",
+    "quantity": 1,
+    "unit_price": 14000,
+    "total": 14000,
+    "status": "COMPLETED",
+    "created_time": "17:38:22 16/09/2026",
+    "manual_fields": [
+      {
+        "key": "sdt_dk_mb",
+        "label": "Sdt Đã Dk Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Sdt Đã Dk Mb": "0945922110"
+    },
+    "stock_after": 2,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26259042918703",
+    "history": [
+      {
+        "time": "17:38:22 16/09/2026",
+        "actor": "user:6521863361",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "18:19:21 16/09/2026",
+        "actor": "user:6521863361",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0945922110"
+      },
+      {
+        "time": "18:59:20 16/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check mục ưu đãi"
+      }
+    ],
+    "submitted_time": "18:19:21 16/09/2026",
+    "admin_result": "Check mục ưu đãi",
+    "completed_by": 8101416491,
+    "completed_time": "18:59:20 16/09/2026"
+  },
+  "ORDER9A311E4F1789568708": {
+    "order_code": "ORDER9A311E4F1789568708",
+    "user_id": 5799192184,
+    "full_name": "Zịt",
+    "username": "@nhatminkdz",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "21:25:42 16/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "eminh2803@gmail.com"
+    },
+    "stock_after": 7,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26259798908708",
+    "history": [
+      {
+        "time": "21:25:42 16/09/2026",
+        "actor": "user:5799192184",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "21:26:15 16/09/2026",
+        "actor": "user:5799192184",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: eminh2803@gmail.com"
+      },
+      {
+        "time": "21:31:33 16/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "21:26:15 16/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "21:31:33 16/09/2026"
+  },
+  "ORDER392D2EFE1789572519": {
+    "order_code": "ORDER392D2EFE1789572519",
+    "user_id": 5992523496,
+    "full_name": "Lê Thanh Khoa",
+    "username": "@cuanhalanh",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "22:29:23 16/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "thanhkhoale779@gmail.com"
+    },
+    "stock_after": 6,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26260356721584",
+    "history": [
+      {
+        "time": "22:29:23 16/09/2026",
+        "actor": "user:5992523496",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "22:30:13 16/09/2026",
+        "actor": "user:5992523496",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: thanhkhoale779@gmail.com"
+      },
+      {
+        "time": "22:31:08 16/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "22:30:13 16/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "22:31:08 16/09/2026"
+  },
+  "ORDER6048DB7D1789575207": {
+    "order_code": "ORDER6048DB7D1789575207",
+    "user_id": 1266202273,
+    "full_name": "Hung Truong",
+    "username": "@hungtv7",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "CUSTOMER_SUBMITTED",
+    "created_time": "23:14:52 16/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "david.bat.che@gmail.com"
+    },
+    "stock_after": 5,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26260234539510",
+    "history": [
+      {
+        "time": "23:14:52 16/09/2026",
+        "actor": "user:1266202273",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "23:16:16 16/09/2026",
+        "actor": "user:1266202273",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: david.bat.che@gmail.com"
+      }
+    ],
+    "submitted_time": "23:16:16 16/09/2026"
+  },
+  "ORDERFC3D809D1789606443": {
+    "order_code": "ORDERFC3D809D1789606443",
+    "user_id": 1266202273,
+    "full_name": "Hung Truong",
+    "username": "@hungtv7",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "07:54:55 17/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "lten01213@gmail.com"
+    },
+    "stock_after": 4,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26260400042201",
+    "history": [
+      {
+        "time": "07:54:55 17/09/2026",
+        "actor": "user:1266202273",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "07:55:36 17/09/2026",
+        "actor": "user:1266202273",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: lten01213@gmail.com"
+      },
+      {
+        "time": "10:00:03 17/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "07:55:36 17/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "10:00:03 17/09/2026"
+  },
+  "ORDER1FB3D0551789654455": {
+    "order_code": "ORDER1FB3D0551789654455",
+    "user_id": 5804902849,
+    "full_name": "-",
+    "username": "@ancxyz1100",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "21:14:46 17/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "dungmongaming@gmail.com"
+    },
+    "stock_after": 3,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26260321228436",
+    "history": [
+      {
+        "time": "21:14:46 17/09/2026",
+        "actor": "user:5804902849",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "21:21:08 17/09/2026",
+        "actor": "user:5804902849",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "email : dungmongaming@gmail.com"
+      },
+      {
+        "time": "21:21:59 17/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "21:21:08 17/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "21:21:59 17/09/2026"
+  },
+  "ORDERA2C138431789702440": {
+    "order_code": "ORDERA2C138431789702440",
+    "user_id": 8557706194,
+    "full_name": "LuKaa",
+    "username": "@DuyChienShop",
+    "product_id": "sp_1788782800225",
+    "product_name": "Canva Pro Edu 2 Năm",
+    "quantity": 1,
+    "unit_price": 18000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "10:34:00 18/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "phamnguyenduyquang3609@gmail.com"
+    },
+    "stock_after": 17,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "wallet",
+    "history": [
+      {
+        "time": "10:34:00 18/09/2026",
+        "actor": "user:8557706194",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "10:34:13 18/09/2026",
+        "actor": "user:8557706194",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "phamnguyenduyquang3609@gmail.com"
+      },
+      {
+        "time": "11:39:57 18/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "10:34:13 18/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "11:39:57 18/09/2026"
+  },
+  "ORDERD04207C21789719909": {
+    "order_code": "ORDERD04207C21789719909",
+    "user_id": 1760803515,
+    "full_name": "The Shark🌱",
+    "username": "@ros_mmo",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "15:26:13 18/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "nhauyendinh030@gmail.com"
+    },
+    "stock_after": 11,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26261722407807",
+    "history": [
+      {
+        "time": "15:26:13 18/09/2026",
+        "actor": "user:1760803515",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "15:28:49 18/09/2026",
+        "actor": "user:1760803515",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "email: nhauyendinh030@gmail.com"
+      },
+      {
+        "time": "15:29:50 18/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "15:28:49 18/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "15:29:50 18/09/2026"
+  },
+  "ORDERF5F7392C1789789247": {
+    "order_code": "ORDERF5F7392C1789789247",
+    "user_id": 5828367978,
+    "full_name": "Aaron Ng 🦴",
+    "username": "@Mayahehehe",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "10:41:41 19/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "hoangduong1961995@gmail.com"
+    },
+    "stock_after": 10,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26262724463141",
+    "history": [
+      {
+        "time": "10:41:41 19/09/2026",
+        "actor": "user:5828367978",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "10:42:35 19/09/2026",
+        "actor": "user:5828367978",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: hoangduong1961995@gmail.com"
+      },
+      {
+        "time": "10:59:16 19/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "10:42:35 19/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "10:59:16 19/09/2026"
+  },
+  "ORDERD72995261789801941": {
+    "order_code": "ORDERD72995261789801941",
+    "user_id": 1933968152,
+    "full_name": "KenBi",
+    "username": "@Ken_Wyckoff_VSA",
+    "product_id": "sp_1788782800225",
+    "product_name": "Canva Pro Edu 2 Năm",
+    "quantity": 1,
+    "unit_price": 18000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "14:13:20 19/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "kensamsungsdv@gmail.com"
+    },
+    "stock_after": 16,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26262683018710",
+    "history": [
+      {
+        "time": "14:13:20 19/09/2026",
+        "actor": "user:1933968152",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "14:14:29 19/09/2026",
+        "actor": "user:1933968152",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "kensamsungsdv@gmail.com"
+      },
+      {
+        "time": "14:22:31 19/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "14:14:29 19/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "14:22:31 19/09/2026"
+  },
+  "ORDER1E437CF71789816183": {
+    "order_code": "ORDER1E437CF71789816183",
+    "user_id": 1917915534,
+    "full_name": "Ngọc vv",
+    "username": "@ngoc_Vu33",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "18:10:07 19/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "nvu806101@gmail.com"
+    },
+    "stock_after": 9,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26262981183581",
+    "history": [
+      {
+        "time": "18:10:07 19/09/2026",
+        "actor": "user:1917915534",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "18:11:10 19/09/2026",
+        "actor": "user:1917915534",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: nvu806101@gmail.com"
+      },
+      {
+        "time": "18:42:01 19/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "18:11:10 19/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "18:42:01 19/09/2026"
+  },
+  "ORDER75B951701789841307": {
+    "order_code": "ORDER75B951701789841307",
+    "user_id": 6984221831,
+    "full_name": "Bảo Ngọc",
+    "username": "@nbn_opus",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "01:09:13 20/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "nbngoc048@gmail.com"
+    },
+    "stock_after": 8,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26264434217237",
+    "history": [
+      {
+        "time": "01:09:13 20/09/2026",
+        "actor": "user:6984221831",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "01:09:32 20/09/2026",
+        "actor": "user:6984221831",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "nbngoc048@gmail.com"
+      },
+      {
+        "time": "01:30:11 20/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      },
+      {
+        "time": "01:58:09 20/09/2026",
+        "actor": "user:6984221831",
+        "action": "Khách nhắn về đơn",
+        "before": "COMPLETED",
+        "after": "COMPLETED",
+        "note": "tôi nhầm tài khoản, đã đổi quay lại tài khoản gửi bên b nhưng nó vẫn báo lỗi"
+      }
+    ],
+    "submitted_time": "01:09:32 20/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "01:30:11 20/09/2026",
+    "chat_messages": [
+      {
+        "time": "01:58:09 20/09/2026",
+        "sender": "user:6984221831",
+        "text": "tôi nhầm tài khoản, đã đổi quay lại tài khoản gửi bên b nhưng nó vẫn báo lỗi"
+      }
+    ]
+  },
+  "ORDER70AC50B61789912182": {
+    "order_code": "ORDER70AC50B61789912182",
+    "user_id": 6521863361,
+    "full_name": "N Y",
+    "username": "@dcaplamaimai",
+    "product_id": "sp_1788783153554",
+    "product_name": "Voucher Mbbank Tạo Stk 25m",
+    "quantity": 1,
+    "unit_price": 14000,
+    "total": 14000,
+    "status": "COMPLETED",
+    "created_time": "20:50:10 20/09/2026",
+    "manual_fields": [
+      {
+        "key": "sdt_dk_mb",
+        "label": "Sdt Đã Dk Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Sdt Đã Dk Mb": "0867567035"
+    },
+    "stock_after": 1,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26264210041021",
+    "history": [
+      {
+        "time": "20:50:10 20/09/2026",
+        "actor": "user:6521863361",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "20:50:27 20/09/2026",
+        "actor": "user:6521863361",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0867567035"
+      },
+      {
+        "time": "21:15:30 20/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check mục ưu đãi"
+      }
+    ],
+    "submitted_time": "20:50:27 20/09/2026",
+    "admin_result": "Check mục ưu đãi",
+    "completed_by": 8101416491,
+    "completed_time": "21:15:30 20/09/2026"
+  },
+  "ORDER09C016791789913602": {
+    "order_code": "ORDER09C016791789913602",
+    "user_id": 6521863361,
+    "full_name": "N Y",
+    "username": "@dcaplamaimai",
+    "product_id": "sp_1788783153554",
+    "product_name": "Voucher Mbbank Tạo Stk 25m",
+    "quantity": 1,
+    "unit_price": 14000,
+    "total": 14000,
+    "status": "COMPLETED",
+    "created_time": "21:13:22 20/09/2026",
+    "manual_fields": [
+      {
+        "key": "sdt_dk_mb",
+        "label": "Sdt Đã Dk Mb",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "Sdt Đã Dk Mb": "0345127337"
+    },
+    "stock_after": 0,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "wallet",
+    "history": [
+      {
+        "time": "21:13:22 20/09/2026",
+        "actor": "user:6521863361",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "21:13:36 20/09/2026",
+        "actor": "user:6521863361",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "0345127337"
+      },
+      {
+        "time": "21:16:01 20/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check mục ưu đãi"
+      }
+    ],
+    "submitted_time": "21:13:36 20/09/2026",
+    "admin_result": "Check mục ưu đãi",
+    "completed_by": 8101416491,
+    "completed_time": "21:16:01 20/09/2026"
+  },
+  "ORDER49492C281789971153": {
+    "order_code": "ORDER49492C281789971153",
+    "user_id": 8278990173,
+    "full_name": "Luân Vũ",
+    "username": "Không có",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "13:13:01 21/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "vuthanhluanyt123@gmail.com"
+    },
+    "stock_after": 7,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26264204120269",
+    "history": [
+      {
+        "time": "13:13:01 21/09/2026",
+        "actor": "user:8278990173",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "13:13:21 21/09/2026",
+        "actor": "user:8278990173",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: vuthanhluanyt123@gmail.com"
+      },
+      {
+        "time": "13:14:33 21/09/2026",
+        "actor": "user:8278990173",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "nhanh giup em"
+      },
+      {
+        "time": "15:16:22 21/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư"
+      }
+    ],
+    "submitted_time": "13:13:21 21/09/2026",
+    "chat_messages": [
+      {
+        "time": "13:14:33 21/09/2026",
+        "sender": "user:8278990173",
+        "text": "nhanh giup em"
+      }
+    ],
+    "admin_result": "Check thư",
+    "completed_by": 8101416491,
+    "completed_time": "15:16:22 21/09/2026"
+  },
+  "ORDER9F64D66E1790041622": {
+    "order_code": "ORDER9F64D66E1790041622",
+    "user_id": 7271339798,
+    "full_name": "Hoàng Hậu",
+    "username": "Không có",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "08:47:34 22/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "lucthanhvitl0312@gmail.com"
+    },
+    "stock_after": 6,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26265890307772",
+    "history": [
+      {
+        "time": "08:47:34 22/09/2026",
+        "actor": "user:7271339798",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "08:49:31 22/09/2026",
+        "actor": "user:7271339798",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "lucthanhvitl0312@gmail.com"
+      },
+      {
+        "time": "11:17:25 22/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thu email"
+      }
+    ],
+    "submitted_time": "08:49:31 22/09/2026",
+    "admin_result": "check thu email",
+    "completed_by": 8101416491,
+    "completed_time": "11:17:25 22/09/2026"
+  },
+  "ORDERD3F995881790054375": {
+    "order_code": "ORDERD3F995881790054375",
+    "user_id": 5418851715,
+    "full_name": "Fl1s.Vn",
+    "username": "@nghaihoang",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "12:20:02 22/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "thanhhaiinnk11@gmail.com"
+    },
+    "stock_after": 5,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26265714820059",
+    "history": [
+      {
+        "time": "12:20:02 22/09/2026",
+        "actor": "user:5418851715",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "12:20:08 22/09/2026",
+        "actor": "user:5418851715",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "thanhhaiinnk11@gmail.com"
+      },
+      {
+        "time": "14:14:16 22/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thu email"
+      }
+    ],
+    "submitted_time": "12:20:08 22/09/2026",
+    "admin_result": "check thu email",
+    "completed_by": 8101416491,
+    "completed_time": "14:14:16 22/09/2026"
+  },
+  "ORDERFEF3E0DE1790061215": {
+    "order_code": "ORDERFEF3E0DE1790061215",
+    "user_id": 5418851715,
+    "full_name": "Fl1s.Vn",
+    "username": "@nghaihoang",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "CUSTOMER_SUBMITTED",
+    "created_time": "14:14:17 22/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "tunkiet7744@gmail.com"
+    },
+    "stock_after": 4,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26265075067303",
+    "history": [
+      {
+        "time": "14:14:17 22/09/2026",
+        "actor": "user:5418851715",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "14:14:31 22/09/2026",
+        "actor": "user:5418851715",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "tunkiet7744@gmail.com"
+      }
+    ],
+    "submitted_time": "14:14:31 22/09/2026"
+  },
+  "ORDERF133B52E1790088173": {
+    "order_code": "ORDERF133B52E1790088173",
+    "user_id": 5867386188,
+    "full_name": "trung",
+    "username": "Không có",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "21:44:07 22/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "turn3010@gmail.com"
+    },
+    "stock_after": 3,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26265368107550",
+    "history": [
+      {
+        "time": "21:44:07 22/09/2026",
+        "actor": "user:5867386188",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "21:46:32 22/09/2026",
+        "actor": "user:5867386188",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: turn3010@gmail.com"
+      },
+      {
+        "time": "22:02:42 22/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "21:46:32 22/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "22:02:42 22/09/2026"
+  },
+  "ORDERC5D766B41790088432": {
+    "order_code": "ORDERC5D766B41790088432",
+    "user_id": 6065931647,
+    "full_name": "Phan Đỉnh",
+    "username": "@graperuu",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "21:47:39 22/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "chiendo034@gmail.com"
+    },
+    "stock_after": 2,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26265142114640",
+    "history": [
+      {
+        "time": "21:47:39 22/09/2026",
+        "actor": "user:6065931647",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "21:49:33 22/09/2026",
+        "actor": "user:6065931647",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "chiendo034@gmail.com"
+      },
+      {
+        "time": "21:56:48 22/09/2026",
+        "actor": "user:6065931647",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "lâu không bro"
+      },
+      {
+        "time": "22:03:08 22/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "21:49:33 22/09/2026",
+    "chat_messages": [
+      {
+        "time": "21:56:48 22/09/2026",
+        "sender": "user:6065931647",
+        "text": "lâu không bro"
+      }
+    ],
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "22:03:08 22/09/2026"
+  },
+  "ORDERB6DF10E41790091514": {
+    "order_code": "ORDERB6DF10E41790091514",
+    "user_id": 1325070410,
+    "full_name": "MemPhis",
+    "username": "@Krohanable",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "22:39:23 22/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "tlqt03072010@gmail.com"
+    },
+    "stock_after": 1,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26266291573136",
+    "history": [
+      {
+        "time": "22:39:23 22/09/2026",
+        "actor": "user:1325070410",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "22:40:02 22/09/2026",
+        "actor": "user:1325070410",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: tlqt03072010@gmail.com"
+      },
+      {
+        "time": "22:40:28 22/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thư email"
+      }
+    ],
+    "submitted_time": "22:40:02 22/09/2026",
+    "admin_result": "check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "22:40:28 22/09/2026"
+  },
+  "ORDER700517741790095067": {
+    "order_code": "ORDER700517741790095067",
+    "user_id": 5418851715,
+    "full_name": "Fl1s.Vn",
+    "username": "@nghaihoang",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "23:38:14 22/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "chungchanhh@gmail.com"
+    },
+    "stock_after": 0,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26266220135877",
+    "history": [
+      {
+        "time": "23:38:14 22/09/2026",
+        "actor": "user:5418851715",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "23:38:18 22/09/2026",
+        "actor": "user:5418851715",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "chungchanhh@gmail.com"
+      },
+      {
+        "time": "23:51:54 22/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thu email"
+      }
+    ],
+    "submitted_time": "23:38:18 22/09/2026",
+    "admin_result": "Check thu email",
+    "completed_by": 8101416491,
+    "completed_time": "23:51:54 22/09/2026"
+  },
+  "ORDER0FB16D641790096917": {
+    "order_code": "ORDER0FB16D641790096917",
+    "user_id": 6065931647,
+    "full_name": "Phan Đỉnh",
+    "username": "@graperuu",
+    "product_id": "sp_1788782800225",
+    "product_name": "Canva Pro Edu 2 Năm",
+    "quantity": 1,
+    "unit_price": 18000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "00:09:46 23/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "daotnguyen05@gmail.com"
+    },
+    "stock_after": 15,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26266526273007",
+    "history": [
+      {
+        "time": "00:09:46 23/09/2026",
+        "actor": "user:6065931647",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "00:10:02 23/09/2026",
+        "actor": "user:6065931647",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "daotnguyen05@gmail.com"
+      },
+      {
+        "time": "00:11:08 23/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "00:10:02 23/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "00:11:08 23/09/2026"
+  },
+  "ORDER88741D281790146715": {
+    "order_code": "ORDER88741D281790146715",
+    "user_id": 5753932859,
+    "full_name": "Văn Hoàn",
+    "username": "@hvan0106",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "13:59:08 23/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "minhtainguyenkieu@gmail.com"
+    },
+    "stock_after": 9,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26266060492314",
+    "history": [
+      {
+        "time": "13:59:08 23/09/2026",
+        "actor": "user:5753932859",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "13:59:25 23/09/2026",
+        "actor": "user:5753932859",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "minhtainguyenkieu@gmail.com"
+      },
+      {
+        "time": "14:29:31 23/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thư email"
+      }
+    ],
+    "submitted_time": "13:59:25 23/09/2026",
+    "admin_result": "check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "14:29:31 23/09/2026"
+  },
+  "ORDER6B17C2B71790179157": {
+    "order_code": "ORDER6B17C2B71790179157",
+    "user_id": 7401501525,
+    "full_name": "Pham Alien",
+    "username": "Không có",
+    "product_id": "sp_1788782800225",
+    "product_name": "Canva Pro Edu 2 Năm",
+    "quantity": 1,
+    "unit_price": 18000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "23:00:57 23/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "phamnguyenhoang10@gmail.com"
+    },
+    "stock_after": 14,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26267754007960",
+    "history": [
+      {
+        "time": "23:00:57 23/09/2026",
+        "actor": "user:7401501525",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "23:02:36 23/09/2026",
+        "actor": "user:7401501525",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: phamnguyenhoang10@gmail.com"
+      },
+      {
+        "time": "23:39:22 23/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "23:02:36 23/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "23:39:22 23/09/2026"
+  },
+  "ORDERFB60AB391790212881": {
+    "order_code": "ORDERFB60AB391790212881",
+    "user_id": 5730217989,
+    "full_name": "Nguyễn Thanh Tùng",
+    "username": "@Tungnt_master_chef",
+    "product_id": "sp_1788782800225",
+    "product_name": "Canva Pro Edu 2 Năm",
+    "quantity": 1,
+    "unit_price": 18000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "08:21:46 24/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "tungnt160999@gmail.com"
+    },
+    "stock_after": 13,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26267161292360",
+    "history": [
+      {
+        "time": "08:21:46 24/09/2026",
+        "actor": "user:5730217989",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "08:22:37 24/09/2026",
+        "actor": "user:5730217989",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: tungnt160999@gmail.com"
+      },
+      {
+        "time": "15:20:59 24/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "check thu email nha"
+      }
+    ],
+    "submitted_time": "08:22:37 24/09/2026",
+    "admin_result": "check thu email nha",
+    "completed_by": 8101416491,
+    "completed_time": "15:20:59 24/09/2026"
+  },
+  "ORDER16D6010A1790230180": {
+    "order_code": "ORDER16D6010A1790230180",
+    "user_id": 1076123393,
+    "full_name": "T P",
+    "username": "@hp040222",
+    "product_id": "sp_1788782800225",
+    "product_name": "Canva Pro Edu 2 Năm",
+    "quantity": 1,
+    "unit_price": 18000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "13:10:16 24/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "andanh220204@gmail.com"
+    },
+    "stock_after": 12,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26267119981159",
+    "history": [
+      {
+        "time": "13:10:16 24/09/2026",
+        "actor": "user:1076123393",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "13:15:39 24/09/2026",
+        "actor": "user:1076123393",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: andanh220204@gmail.com"
+      },
+      {
+        "time": "13:27:54 24/09/2026",
+        "actor": "user:1076123393",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "đã up tài khoản canva cho mình ch admin"
+      },
+      {
+        "time": "15:22:33 24/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thu email nhe"
+      }
+    ],
+    "submitted_time": "13:15:39 24/09/2026",
+    "chat_messages": [
+      {
+        "time": "13:27:54 24/09/2026",
+        "sender": "user:1076123393",
+        "text": "đã up tài khoản canva cho mình ch admin"
+      }
+    ],
+    "admin_result": "Check thu email nhe",
+    "completed_by": 8101416491,
+    "completed_time": "15:22:33 24/09/2026"
+  },
+  "ORDER2919842F1790396501": {
+    "order_code": "ORDER2919842F1790396501",
+    "user_id": 8427986571,
+    "full_name": "Chiếc Khăn Gió Ấm",
+    "username": "@paul16032008",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "11:21:41 26/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "hoanglinhchu2013@gmail.com"
+    },
+    "stock_after": 8,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "wallet",
+    "history": [
+      {
+        "time": "11:21:41 26/09/2026",
+        "actor": "user:8427986571",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "11:23:11 26/09/2026",
+        "actor": "user:8427986571",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "hoanglinhchu2013@gmail.com"
+      },
+      {
+        "time": "12:09:47 26/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "11:23:11 26/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "12:09:47 26/09/2026"
+  },
+  "ORDER8049280C1790423601": {
+    "order_code": "ORDER8049280C1790423601",
+    "user_id": 7078798590,
+    "full_name": "Truong Phat",
+    "username": "Không có",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "18:54:01 26/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "truongloiphat.student@gmail.com"
+    },
+    "stock_after": 7,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26269702789212",
+    "history": [
+      {
+        "time": "18:54:01 26/09/2026",
+        "actor": "user:7078798590",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "18:54:38 26/09/2026",
+        "actor": "user:7078798590",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "truongloiphat.student@gmail.com"
+      },
+      {
+        "time": "19:13:23 26/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "18:54:38 26/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "19:13:23 26/09/2026"
+  },
+  "ORDERA403ACFD1790426013": {
+    "order_code": "ORDERA403ACFD1790426013",
+    "user_id": 7078798590,
+    "full_name": "Truong Phat",
+    "username": "Không có",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "19:33:53 26/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "nguyenthuydung05102004@gmail.com"
+    },
+    "stock_after": 6,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26269272569148",
+    "history": [
+      {
+        "time": "19:33:53 26/09/2026",
+        "actor": "user:7078798590",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "19:34:12 26/09/2026",
+        "actor": "user:7078798590",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "nguyenthuydung05102004@gmail.com"
+      },
+      {
+        "time": "21:59:48 26/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "19:34:12 26/09/2026",
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "21:59:48 26/09/2026"
+  },
+  "ORDER110EB8B91790478928": {
+    "order_code": "ORDER110EB8B91790478928",
+    "user_id": 7897787521,
+    "full_name": "Vân Mai",
+    "username": "Không có",
+    "product_id": "sp_1788782800225",
+    "product_name": "Canva Pro Edu 2 Năm",
+    "quantity": 1,
+    "unit_price": 18000,
+    "total": 18000,
+    "status": "COMPLETED",
+    "created_time": "10:16:13 27/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "ducmai512@gmail.com"
+    },
+    "stock_after": 11,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26271801349097",
+    "history": [
+      {
+        "time": "10:16:13 27/09/2026",
+        "actor": "user:7897787521",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "10:16:39 27/09/2026",
+        "actor": "user:7897787521",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "ducmai512@gmail.com"
+      },
+      {
+        "time": "10:46:59 27/09/2026",
+        "actor": "user:7897787521",
+        "action": "Khách gửi dữ liệu",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email: ducmai512@gmail.com"
+      },
+      {
+        "time": "11:04:33 27/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thu email"
+      }
+    ],
+    "submitted_time": "10:46:59 27/09/2026",
+    "admin_result": "Check thu email",
+    "completed_by": 8101416491,
+    "completed_time": "11:04:33 27/09/2026"
+  },
+  "ORDER977867EB1790523296": {
+    "order_code": "ORDER977867EB1790523296",
+    "user_id": 8041276622,
+    "full_name": "pham zz",
+    "username": "Không có",
+    "product_id": "sp_1788782783257",
+    "product_name": "Canva Pro Edu 1 Năm",
+    "quantity": 1,
+    "unit_price": 9000,
+    "total": 9000,
+    "status": "COMPLETED",
+    "created_time": "22:36:20 27/09/2026",
+    "manual_fields": [
+      {
+        "key": "email",
+        "label": "email",
+        "required": true
+      }
+    ],
+    "customer_data": {
+      "email": "Email nopingggxx@gmail.com"
+    },
+    "stock_after": 5,
+    "refunded": false,
+    "stock_refunded": false,
+    "paid_by": "bank",
+    "txid": "FT26271047040916",
+    "history": [
+      {
+        "time": "22:36:20 27/09/2026",
+        "actor": "user:8041276622",
+        "action": "Thanh toán thành công",
+        "before": "PAID",
+        "after": "WAITING_CUSTOMER_DATA",
+        "note": "Bot yêu cầu dữ liệu"
+      },
+      {
+        "time": "22:36:51 27/09/2026",
+        "actor": "user:8041276622",
+        "action": "Khách gửi dữ liệu",
+        "before": "WAITING_CUSTOMER_DATA",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "Email nopingggxx@gmail.com"
+      },
+      {
+        "time": "22:39:37 27/09/2026",
+        "actor": "user:8041276622",
+        "action": "Khách nhắn về đơn",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "CUSTOMER_SUBMITTED",
+        "note": "email nopingggxx@gmail.com"
+      },
+      {
+        "time": "22:50:10 27/09/2026",
+        "actor": "admin:8101416491",
+        "action": "Admin hoàn thành",
+        "before": "CUSTOMER_SUBMITTED",
+        "after": "COMPLETED",
+        "note": "Check thư email"
+      }
+    ],
+    "submitted_time": "22:36:51 27/09/2026",
+    "chat_messages": [
+      {
+        "time": "22:39:37 27/09/2026",
+        "sender": "user:8041276622",
+        "text": "email nopingggxx@gmail.com"
+      }
+    ],
+    "admin_result": "Check thư email",
+    "completed_by": 8101416491,
+    "completed_time": "22:50:10 27/09/2026"
+  }
+}

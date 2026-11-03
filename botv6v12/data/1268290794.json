@@ -1,0 +1,16 @@
+{
+  "id": 1268290794,
+  "username": "dearcoi",
+  "full_name": "Sir Nguyen",
+  "created_at": "12/09/2026",
+  "last_seen": "08:08:11 12/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

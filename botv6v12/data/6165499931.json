@@ -1,0 +1,55 @@
+{
+  "id": 6165499931,
+  "username": "anhtudzvai",
+  "full_name": "Tu🍅🐾🙃",
+  "created_at": "14/08/2026",
+  "last_seen": "18:25:58 28/08/2026",
+  "balance": 1800,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18200
+  },
+  "orders": [
+    {
+      "order_code": "ORDERF60A5BC31787011181",
+      "product_name": "LINK GEMINI PRO 18 THÁNG BH6H",
+      "quantity": 1,
+      "total_money": 18200,
+      "created_time": "06:59:41 18/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "06:59:41 18/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 18200,
+      "before": 20000,
+      "after": 1800,
+      "note": "Thanh toán 1 x LINK GEMINI PRO 18 THÁNG BH6H"
+    },
+    {
+      "time": "06:59:22 18/08/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 2000,
+      "before": 18000,
+      "after": 20000,
+      "txid": "FT26230863805062",
+      "note": "CONG TY CO PHAN DICH VU DI DONG TRU142717924100-NAP6165499931-CHUYEN T IEN-OQCH000I2v7V-MOMO142717924100MO MO. TU: M SERVICE JSC"
+    },
+    {
+      "time": "12:33:58 17/08/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 18000,
+      "before": 0,
+      "after": 18000,
+      "txid": "FT26229725141293",
+      "note": "CUSTOMER NAP6165499931. TU: PHAM DAO NGOC BACH"
+    }
+  ],
+  "lang": "vi"
+}

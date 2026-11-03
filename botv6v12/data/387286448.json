@@ -1,0 +1,487 @@
+{
+  "id": 387286448,
+  "username": "zzzzzzfd",
+  "full_name": "c nn",
+  "created_at": "26/04/2026",
+  "last_seen": "19:52:01 31/08/2026",
+  "balance": 19500,
+  "stats": {
+    "total_orders": 27,
+    "done_orders": 27,
+    "total_spent": 245500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER20FBCFBE1783230568",
+      "product_name": "CHATGPT PLUS 1 THÁNG ( TUT SEPA ) — Trâu - BH3D",
+      "quantity": 1,
+      "total_money": 42500,
+      "created_time": "12:49:28 05/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER75FE97251778320160",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "16:49:20 09/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE019E1D01778294841",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "09:47:21 09/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE6A9BE4D1778289693",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "08:21:33 09/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER35ABC0731778162897",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 2,
+      "total_money": 13000,
+      "created_time": "21:08:17 07/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA367EBC41778151710",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "18:01:50 07/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB903D8AC1778142913",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "15:35:13 07/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER34AE44AA1778120162",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "09:16:02 07/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER70A652B31778077113",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "21:18:33 06/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER74D9CB2C1777973614",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "16:33:34 05/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER10E876551777972451",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 2,
+      "total_money": 7000,
+      "created_time": "16:14:11 05/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3D52C0521777970748",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "15:45:48 05/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE80D141F1777966121",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "14:28:41 05/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB19C6AC11777965173",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "14:12:53 05/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE984F8421777960023",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "12:47:03 05/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER33F7B9E71777875381",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "13:16:21 04/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFAFB4CED1777259903",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "10:18:23 27/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER102BCD7C1777200428",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "17:47:08 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF17CC3B51777192887",
+      "product_name": "Veo 3 Ultra + Anti(No Watermark) BH 24h",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "15:41:27 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER915A743C1777192739",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "15:38:59 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCE32809A1777192585",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "15:36:25 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1C7B1A4E1777191975",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "15:26:15 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER31DD6AC11777190912",
+      "product_name": "Veo 3 Ultra + Anti(No Watermark) BH 24h",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "15:08:32 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDEREA2E5BB81777188771",
+      "product_name": "Veo 3 Ultra + Anti(No Watermark) BH 24h",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "14:32:51 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER63CCF8651777185505",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "13:38:25 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER20C6FE221777180124",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "12:08:44 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBA25AFF31777178495",
+      "product_name": "Veo 3 Ultra + Anti(No Watermark) BH 24h",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "11:41:35 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "12:49:28 05/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 42500,
+      "before": 62000,
+      "after": 19500,
+      "note": "Thanh toán 1 x CHATGPT PLUS 1 THÁNG ( TUT SEPA ) — Trâu - BH3D"
+    },
+    {
+      "time": "16:49:16 09/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 68500,
+      "after": 62000,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "09:47:18 09/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 75000,
+      "after": 68500,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "08:21:30 09/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 81500,
+      "after": 75000,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "21:08:15 07/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 13000,
+      "before": 94500,
+      "after": 81500,
+      "note": "Thanh toán 2 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "18:01:47 07/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 101000,
+      "after": 94500,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "15:35:10 07/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 107500,
+      "after": 101000,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "09:15:59 07/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 114000,
+      "after": 107500,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "21:18:29 06/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 120500,
+      "after": 114000,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "16:33:31 05/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 3500,
+      "before": 124000,
+      "after": 120500,
+      "note": "Thanh toán 1 x CapCut Pro Team 7D | BHF"
+    },
+    {
+      "time": "16:14:08 05/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 7000,
+      "before": 131000,
+      "after": 124000,
+      "note": "Thanh toán 2 x CapCut Pro Team 7D | BHF"
+    },
+    {
+      "time": "15:45:46 05/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 3500,
+      "before": 134500,
+      "after": 131000,
+      "note": "Thanh toán 1 x CapCut Pro Team 7D | BHF"
+    },
+    {
+      "time": "14:28:38 05/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 3500,
+      "before": 138000,
+      "after": 134500,
+      "note": "Thanh toán 1 x CapCut Pro Team 7D | BHF"
+    },
+    {
+      "time": "14:12:50 05/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 3500,
+      "before": 141500,
+      "after": 138000,
+      "note": "Thanh toán 1 x CapCut Pro Team 7D | BHF"
+    },
+    {
+      "time": "12:47:00 05/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 3500,
+      "before": 145000,
+      "after": 141500,
+      "note": "Thanh toán 1 x CapCut Pro Team 7D | BHF"
+    },
+    {
+      "time": "13:16:18 04/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 151500,
+      "after": 145000,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "10:18:20 27/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 158000,
+      "after": 151500,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "17:47:05 26/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 3500,
+      "before": 161500,
+      "after": 158000,
+      "note": "Thanh toán 1 x CapCut Pro Team 7D | BHF"
+    },
+    {
+      "time": "15:41:27 26/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 20000,
+      "before": 181500,
+      "after": 161500,
+      "note": "Thanh toán 1 x Veo 3 Ultra + Anti(No Watermark) BH 24h"
+    },
+    {
+      "time": "15:38:56 26/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 3500,
+      "before": 185000,
+      "after": 181500,
+      "note": "Thanh toán 1 x CapCut Pro Team 7D | BHF"
+    },
+    {
+      "time": "15:36:23 26/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 3500,
+      "before": 188500,
+      "after": 185000,
+      "note": "Thanh toán 1 x CapCut Pro Team 7D | BHF"
+    },
+    {
+      "time": "15:26:13 26/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 3500,
+      "before": 192000,
+      "after": 188500,
+      "note": "Thanh toán 1 x CapCut Pro Team 7D | BHF"
+    },
+    {
+      "time": "15:08:32 26/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 20000,
+      "before": 212000,
+      "after": 192000,
+      "note": "Thanh toán 1 x Veo 3 Ultra + Anti(No Watermark) BH 24h"
+    },
+    {
+      "time": "14:32:51 26/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 20000,
+      "before": 232000,
+      "after": 212000,
+      "note": "Thanh toán 1 x Veo 3 Ultra + Anti(No Watermark) BH 24h"
+    },
+    {
+      "time": "13:38:16 26/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 238500,
+      "after": 232000,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "12:08:41 26/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 245000,
+      "after": 238500,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "11:41:35 26/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 20000,
+      "before": 265000,
+      "after": 245000,
+      "note": "Thanh toán 1 x Veo 3 Ultra + Anti(No Watermark) BH 24h"
+    },
+    {
+      "time": "09:27:31 26/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 265000,
+      "delta": 265000,
+      "before": 0,
+      "after": 265000,
+      "reason": "nạp usdt"
+    }
+  ],
+  "lang": "vi"
+}

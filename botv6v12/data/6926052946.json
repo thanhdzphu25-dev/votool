@@ -1,0 +1,25 @@
+{
+  "id": 6926052946,
+  "username": "Fangkko",
+  "full_name": "Fangko",
+  "created_at": "25/09/2026",
+  "last_seen": "01:53:15 27/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 38400
+  },
+  "orders": [
+    {
+      "order_code": "ORDER5083215A1790448741",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 2,
+      "total_money": 38400,
+      "created_time": "01:53:15 27/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER4013826A1778349690",
+  "user_id": 7483972349,
+  "reason": "Tk bị khoá",
+  "photo_file_id": "AgACAgUAAxkBAAEDGzdqCwoeCKB6Er0jJBJqGu8Qg1FFYQACVxJrG_NiWFQxzmBhY5sQvQEAAwIAA3kAAzsE",
+  "created_time": "19:46:34 18/05/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "19:47:35 18/05/2026",
+      "sender": "admin:8101416491",
+      "text": "Hiện tại server login grok đang down không phải die acc đâu anh em ạ, vui lòng không spam, khi nào sử dụng được bên em sẽ thông báo lại."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 5263447741,
+  "username": "jacob312",
+  "full_name": "Jacob Lam",
+  "created_at": "19/04/2026",
+  "last_seen": "14:43:19 07/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1719723504,
+  "username": null,
+  "full_name": "Hossein",
+  "created_at": "19/08/2026",
+  "last_seen": "05:22:36 19/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "en"
+}

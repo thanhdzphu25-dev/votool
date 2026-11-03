@@ -1,0 +1,32 @@
+{
+  "id": 5833740353,
+  "username": "taikhoangiare678",
+  "full_name": "Shoptainguyengiare.com",
+  "created_at": "26/03/2026",
+  "last_seen": "15:30:56 11/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 30000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER36BB76B11778307098",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "13:12:00 09/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER79E2931D1777363890",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "15:12:52 28/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": []
+}

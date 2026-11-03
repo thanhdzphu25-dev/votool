@@ -1,0 +1,33 @@
+{
+  "id": 6968189392,
+  "username": null,
+  "full_name": "Hai190010",
+  "created_at": "01/04/2026",
+  "last_seen": "17:14:51 17/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 68000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER5A90A4AA1780456868",
+      "product_name": "Link Gemini Pro 18 Tháng KBH",
+      "quantity": 1,
+      "total_money": 48000,
+      "created_time": "10:22:07 03/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5E652A0A1775838464",
+      "product_name": "Chatgpt Bussines 5sl BH3D",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "23:28:40 10/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8940516455,
+  "username": null,
+  "full_name": "Vũ Doãn",
+  "created_at": "25/09/2026",
+  "last_seen": "11:55:48 26/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

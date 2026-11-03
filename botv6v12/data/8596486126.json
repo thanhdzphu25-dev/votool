@@ -1,0 +1,49 @@
+{
+  "id": 8596486126,
+  "username": "longls12",
+  "full_name": "TOBACO",
+  "created_at": "09/04/2026",
+  "last_seen": "22:16:40 05/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 4,
+    "done_orders": 4,
+    "total_spent": 166500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER860076751788066980",
+      "product_name": "Capcut Pro Acc Cấp 30D",
+      "quantity": 1,
+      "total_money": 48000,
+      "created_time": "12:16:46 30/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC482C5521785562343",
+      "product_name": "[BH25D] CapCut Pro 1 Tháng",
+      "quantity": 1,
+      "total_money": 56000,
+      "created_time": "12:33:10 01/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF8D1145C1782545406",
+      "product_name": "CapCut Pro Team 30-35D BHF",
+      "quantity": 1,
+      "total_money": 55000,
+      "created_time": "14:30:39 27/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB530FB2C1775757643",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "01:01:33 10/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

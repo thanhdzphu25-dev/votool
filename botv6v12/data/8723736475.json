@@ -1,0 +1,16 @@
+{
+  "id": 8723736475,
+  "username": null,
+  "full_name": "Kien Pham",
+  "created_at": "12/09/2026",
+  "last_seen": "11:22:18 12/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

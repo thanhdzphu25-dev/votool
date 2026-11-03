@@ -1,0 +1,15 @@
+{
+  "id": 7608795069,
+  "username": "dukiich",
+  "full_name": "Duku",
+  "created_at": "07/06/2026",
+  "last_seen": "20:54:22 07/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

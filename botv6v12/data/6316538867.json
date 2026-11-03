@@ -1,0 +1,15 @@
+{
+  "id": 6316538867,
+  "username": "Nick00000005",
+  "full_name": "Nick",
+  "created_at": "30/05/2026",
+  "last_seen": "07:42:18 31/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

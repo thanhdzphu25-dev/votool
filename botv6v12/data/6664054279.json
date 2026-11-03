@@ -1,0 +1,73 @@
+{
+  "id": 6664054279,
+  "username": "minhquan2006",
+  "full_name": "Minh Quân Media - DVFB",
+  "created_at": "20/03/2026",
+  "last_seen": "00:06:48 17/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 7,
+    "done_orders": 7,
+    "total_spent": 83300
+  },
+  "orders": [
+    {
+      "order_code": "ORDER10BCBE201782797345",
+      "product_name": "CapCut Pro 6-7D BHF",
+      "quantity": 1,
+      "total_money": 5400,
+      "created_time": "12:29:21 30/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER38DAD6E91782797248",
+      "product_name": "CapCut Pro 6-7D BHF",
+      "quantity": 1,
+      "total_money": 5400,
+      "created_time": "12:27:59 30/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE6D6FB401780823212",
+      "product_name": "CDK Chatgpt Plus ( BH 12h )",
+      "quantity": 1,
+      "total_money": 19000,
+      "created_time": "16:07:15 07/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7EAA42D51780822312",
+      "product_name": "CDK Chatgpt Plus ( BH 12h )",
+      "quantity": 1,
+      "total_money": 19000,
+      "created_time": "15:52:18 07/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6678F6C71779453002",
+      "product_name": "Chatgpt Plus 1 Tháng BH24H",
+      "quantity": 1,
+      "total_money": 26000,
+      "created_time": "19:30:36 22/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA9ABF46B1774888817",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 2000,
+      "created_time": "23:40:52 30/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6545F2311774199752",
+      "product_name": "ChatGpt Plus 1 Tháng l BH7D",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "00:19:58 23/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

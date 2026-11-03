@@ -1,0 +1,104 @@
+{
+  "id": 6100778426,
+  "username": "tainguyen006",
+  "full_name": "Tài Nguyễn",
+  "created_at": "27/05/2026",
+  "last_seen": "17:21:36 26/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 6,
+    "done_orders": 6,
+    "total_spent": 164700
+  },
+  "orders": [
+    {
+      "order_code": "ORDER7D2165681789296375",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 15600,
+      "created_time": "17:46:51 13/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER506128851788952772",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 19500,
+      "created_time": "18:20:19 09/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4C69BFC41788836751",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 2,
+      "total_money": 38400,
+      "created_time": "10:06:31 08/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBA2914A31787139505",
+      "product_name": "[BH25D] CapCut Pro 1 Tháng",
+      "quantity": 1,
+      "total_money": 54000,
+      "created_time": "18:39:30 19/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA6FA83A61786547472",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18400,
+      "created_time": "22:11:12 12/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER38294EA01786000110",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18800,
+      "created_time": "14:08:30 06/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "22:11:12 12/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 18400,
+      "before": 18400,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "22:10:27 12/08/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 18400,
+      "before": 0,
+      "after": 18400,
+      "txid": "FT26225608460674",
+      "note": "CUSTOMER NAP6100778426. TU: NGUYEN HUU TAI"
+    },
+    {
+      "time": "14:08:30 06/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 18800,
+      "before": 18800,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "14:08:06 06/08/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 18800,
+      "before": 0,
+      "after": 18800,
+      "txid": "FT26218733891867",
+      "note": "CUSTOMER NAP6100778426. TU: NGUYEN HUU TAI"
+    }
+  ],
+  "lang": "vi"
+}

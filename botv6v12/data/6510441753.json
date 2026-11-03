@@ -1,0 +1,25 @@
+{
+  "id": 6510441753,
+  "username": "phuong12102005",
+  "full_name": "p_14",
+  "created_at": "10/09/2026",
+  "last_seen": "23:22:07 10/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18900
+  },
+  "orders": [
+    {
+      "order_code": "ORDER71275E6B1789057208",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18900,
+      "created_time": "23:22:07 10/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8500990516,
+  "username": "jinhappyck",
+  "full_name": "An Na",
+  "created_at": "02/05/2026",
+  "last_seen": "05:24:30 17/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

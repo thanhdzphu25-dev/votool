@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER96C7BA311788000298",
+  "user_id": 5705994762,
+  "reason": "bị lỗi https://serviceactivation.google.com/subscription/new/AQCpiIFtL5OvHl4rdP9HfOK6U_ni6KWBT-k3OiiT5HdME4JVPzXp5sOPkGJNhAOr6ckPI1D8-fKmd06Neru_LjSb2PArkspsoEhBT_Ou3Hun1S5kKyfevdWo1psjXHcn4ouB-YUW-KocRZXSBP5iEpGExUzpEikxWxoMJPkWwl-bzzuSq-Imh8ClEkIF60taf_6qgRy91bwvdjU-W2VpUxNFcfrucZoEBGbDSvJ9O69hZkbE0OGrSbeX2zDzJ8MxJWYVW_QSHwzvRSrZmg==",
+  "photo_file_id": "",
+  "created_time": "17:46:14 29/08/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "18:02:50 29/08/2026",
+      "sender": "admin:8101416491",
+      "text": "Ảnh b"
+    }
+  ]
+}

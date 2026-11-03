@@ -1,0 +1,15 @@
+{
+  "id": 1908245946,
+  "username": "xnngboi",
+  "full_name": "Last Guy",
+  "created_at": "13/06/2026",
+  "last_seen": "07:37:16 16/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5028572515,
+  "username": "bnosgn",
+  "full_name": "Ng Bao Son",
+  "created_at": "12/09/2026",
+  "last_seen": "08:14:28 12/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

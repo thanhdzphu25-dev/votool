@@ -1,0 +1,44 @@
+{
+  "id": 6277686977,
+  "username": "toan36thanhhoa",
+  "full_name": "Nguyễn Toàn",
+  "created_at": "21/03/2026",
+  "last_seen": "17:51:34 14/04/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 20000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER1FE06D591775053318",
+      "product_name": "Grok Super 30-50 NGÀY BHF",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "21:21:58 01/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "21:21:58 01/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 20000,
+      "before": 20000,
+      "after": 0,
+      "note": "Thanh toán 1 x Grok Super 30-50 NGÀY BHF"
+    },
+    {
+      "time": "21:20:38 01/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 20000,
+      "delta": 20000,
+      "before": 0,
+      "after": 20000,
+      "reason": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6688358465,
+  "username": null,
+  "full_name": "Nguyễn Minh",
+  "created_at": "17/09/2026",
+  "last_seen": "14:31:00 17/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

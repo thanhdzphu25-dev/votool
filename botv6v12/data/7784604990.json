@@ -1,0 +1,688 @@
+{
+  "id": 7784604990,
+  "username": "monkeycashhub023",
+  "full_name": "Tue Minh",
+  "created_at": "30/03/2026",
+  "last_seen": "23:15:25 23/09/2026",
+  "balance": 34750,
+  "stats": {
+    "total_orders": 42,
+    "done_orders": 40,
+    "total_spent": 3928250
+  },
+  "orders": [
+    {
+      "order_code": "ORDERDED45E1A1787640346",
+      "product_name": "YTB PREMIUM 1 THÁNG AUTO",
+      "quantity": 1,
+      "total_money": 14500,
+      "created_time": "13:45:46 25/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER469F9A2F1787480329",
+      "product_name": "YTB PREMIUM 1 THÁNG AUTO",
+      "quantity": 1,
+      "total_money": 14500,
+      "created_time": "17:19:17 23/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCD0BB3B01786708880",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "19:01:20 14/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD69692471786673375",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "09:09:35 14/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER06E094B41786620936",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "18:35:36 13/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFB3945221786620099",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "18:21:39 13/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCEE109481785246529",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "20:48:49 28/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER026124151784995117",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "22:58:37 25/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE7C4B9C11784886930",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "16:55:30 24/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER63AED39F1784684308",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "08:38:28 22/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER68EB05FC1784218430",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "23:13:50 16/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER96A8401C1784105808",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 13500,
+      "created_time": "15:56:48 15/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC5F42A7A1783739196",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "10:06:36 11/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC09DF4FA1783656617",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 13500,
+      "created_time": "11:10:17 10/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA9FB30481782837550",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 13500,
+      "created_time": "23:39:10 30/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5AF0C0EE1782354316",
+      "product_name": "Chatgpt Plus Gmail ApplePay-Card ( BH9D )",
+      "quantity": 1,
+      "total_money": 90000,
+      "created_time": "09:26:05 25/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBACDE2561782138166",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "21:22:46 22/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF81510A91781860457",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "16:14:17 19/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD7AED68A1779174104",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "14:01:44 19/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8228B8981779040402",
+      "product_name": "CHATGPT PLUS 1M - Trâu BHF",
+      "quantity": 2,
+      "total_money": 310000,
+      "created_time": "00:53:50 18/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER272361771779034989",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 5,
+      "total_money": 500000,
+      "created_time": "23:23:09 17/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE0A614341779034686",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 5,
+      "total_money": 500000,
+      "created_time": "23:18:45 17/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD449A5971778953720",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 5,
+      "total_money": 500000,
+      "created_time": "00:48:40 17/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER239B94E51778953680",
+      "product_name": "CHATGPT PLUS 1M - Trâu BHF",
+      "quantity": 1,
+      "total_money": 160000,
+      "created_time": "00:48:00 17/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE69853CE1778953359",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 5,
+      "total_money": 500000,
+      "created_time": "00:43:11 17/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER108D68ED1778866513",
+      "product_name": "CHATGPT PLUS 1M - Trâu BHF",
+      "quantity": 2,
+      "total_money": 320000,
+      "created_time": "00:35:45 16/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER59583E5A1778861913",
+      "product_name": "Gemini Pro + 5Tb 1 năm Pixel Trâu KBH",
+      "quantity": 1,
+      "total_money": 50000,
+      "created_time": "23:18:33 15/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER17F107C51778744156",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "14:35:56 14/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER89475F3C1778609498",
+      "product_name": "CHATGPT PLUS 1M - Trâu BHF",
+      "quantity": 2,
+      "total_money": 310000,
+      "created_time": "01:12:06 13/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF7DA85761777785634",
+      "product_name": "Chatgpt Plus 1m BH7D",
+      "quantity": 1,
+      "total_money": 36000,
+      "created_time": "12:20:34 03/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE10E1A661777768567",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 80000,
+      "created_time": "07:36:41 03/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCCF1E6011777366151",
+      "product_name": "Veo 3 Ultra + Anti(No Watermark) BH 24h",
+      "quantity": 2,
+      "total_money": 40000,
+      "created_time": "15:49:43 28/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER42EBE4761777342241",
+      "product_name": "Veo 3 Ultra + Anti(No Watermark) BH 24h",
+      "quantity": 2,
+      "total_money": 40000,
+      "created_time": "09:11:20 28/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD32B221F1777279039",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "15:37:49 27/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7449F2551777278383",
+      "product_name": "Veo 3 Ultra + Anti(No Watermark) BH 24h",
+      "quantity": 2,
+      "total_money": 40000,
+      "created_time": "15:26:52 27/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER04E4F0371777091700",
+      "product_name": "Gemini Pro + 5Tb 1 năm Pixel Trâu KBH",
+      "quantity": 1,
+      "total_money": 59000,
+      "created_time": "11:35:54 25/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7101D9331776863966",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "20:20:06 22/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB6A6A0851776678004",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "16:40:45 20/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5CF1AB171776610945",
+      "product_name": "Gemini Pro + 5Tb 1 năm Pixel Trâu KBH",
+      "quantity": 1,
+      "total_money": 49000,
+      "created_time": "22:03:26 19/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5A686D881776066722",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "14:52:43 13/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8E5BCC261775977971",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "14:13:30 12/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER550827631775438690",
+      "product_name": "Chatgpt GO 3 Tháng BH7D",
+      "quantity": 1,
+      "total_money": 50000,
+      "created_time": "08:25:30 06/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "13:56:31 25/08/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 32000,
+      "delta": 32000,
+      "before": 2750,
+      "after": 34750,
+      "reason": ""
+    },
+    {
+      "time": "13:45:45 25/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 14500,
+      "before": 17250,
+      "after": 2750,
+      "note": "Thanh toán 1 x YTB PREMIUM 1 THÁNG AUTO"
+    },
+    {
+      "time": "17:18:45 23/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 14500,
+      "before": 31750,
+      "after": 17250,
+      "note": "Thanh toán 1 x YTB PREMIUM 1 THÁNG AUTO"
+    },
+    {
+      "time": "17:18:26 23/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 14500,
+      "before": 46250,
+      "after": 31750,
+      "note": "Thanh toán 1 x YTB PREMIUM 1 THÁNG AUTO"
+    },
+    {
+      "time": "17:18:20 23/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 14500,
+      "before": 60750,
+      "after": 46250,
+      "note": "Thanh toán 1 x YTB PREMIUM 1 THÁNG AUTO"
+    },
+    {
+      "time": "17:17:27 23/08/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 50000,
+      "before": 10750,
+      "after": 60750,
+      "txid": "FT26236490800401",
+      "note": "DO HUU TUE MINH NAP7784604990 iJTRKSYF/771320"
+    },
+    {
+      "time": "19:01:20 14/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 14250,
+      "before": 25000,
+      "after": 10750,
+      "note": "Thanh toán 1 x Youtube Premium 1 Tháng"
+    },
+    {
+      "time": "09:09:35 14/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 10000,
+      "before": 35000,
+      "after": 25000,
+      "note": "Thanh toán 1 x Canva Pro Edu 1 Năm ( Tk Chính Chủ)"
+    },
+    {
+      "time": "18:35:36 13/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 14250,
+      "before": 49250,
+      "after": 35000,
+      "note": "Thanh toán 1 x Youtube Premium 1 Tháng"
+    },
+    {
+      "time": "18:21:39 13/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 14250,
+      "before": 63500,
+      "after": 49250,
+      "note": "Thanh toán 1 x Youtube Premium 1 Tháng"
+    },
+    {
+      "time": "18:21:14 13/08/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 50000,
+      "before": 13500,
+      "after": 63500,
+      "txid": "FT26225034762054",
+      "note": "DO HUU TUE MINH NAP7784604990 iJL65YQC/406239"
+    },
+    {
+      "time": "20:48:49 28/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 14250,
+      "before": 27750,
+      "after": 13500,
+      "note": "Thanh toán 1 x Youtube Premium 1 Tháng"
+    },
+    {
+      "time": "22:58:37 25/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 14250,
+      "before": 42000,
+      "after": 27750,
+      "note": "Thanh toán 1 x Youtube Premium 1 Tháng"
+    },
+    {
+      "time": "16:55:30 24/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 14250,
+      "before": 56250,
+      "after": 42000,
+      "note": "Thanh toán 1 x Youtube Premium 1 Tháng"
+    },
+    {
+      "time": "16:55:14 24/07/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 50000,
+      "before": 6250,
+      "after": 56250,
+      "txid": "FT26205285096874",
+      "note": "DO HUU TUE MINHNAP7784604990 iJZV31JW/649187"
+    },
+    {
+      "time": "08:38:28 22/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 10000,
+      "before": 16250,
+      "after": 6250,
+      "note": "Thanh toán 1 x Canva Pro Edu 1 Năm ( Tk Chính Chủ)"
+    },
+    {
+      "time": "23:13:50 16/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 14250,
+      "before": 30500,
+      "after": 16250,
+      "note": "Thanh toán 1 x Youtube Premium 1 Tháng"
+    },
+    {
+      "time": "15:56:48 15/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 13500,
+      "before": 44000,
+      "after": 30500,
+      "note": "Thanh toán 1 x Youtube Premium 1 Tháng"
+    },
+    {
+      "time": "10:06:36 11/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 10000,
+      "before": 54000,
+      "after": 44000,
+      "note": "Thanh toán 1 x Canva Pro Edu 1 Năm ( Tk Chính Chủ)"
+    },
+    {
+      "time": "10:05:23 11/07/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 50000,
+      "before": 4000,
+      "after": 54000,
+      "txid": "FT26192338303829",
+      "note": "DO HUU TUE MINHNAP7784604990 iJEE1TRI/832355"
+    },
+    {
+      "time": "11:10:17 10/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 13500,
+      "before": 17500,
+      "after": 4000,
+      "note": "Thanh toán 1 x Youtube Premium 1 Tháng"
+    },
+    {
+      "time": "23:39:10 30/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 13500,
+      "before": 31000,
+      "after": 17500,
+      "note": "Thanh toán 1 x Youtube Premium 1 Tháng"
+    },
+    {
+      "time": "21:22:46 22/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 10000,
+      "before": 41000,
+      "after": 31000,
+      "note": "Thanh toán 1 x Canva Pro Edu 1 Năm ( Tk Chính Chủ)"
+    },
+    {
+      "time": "16:14:17 19/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 10000,
+      "before": 51000,
+      "after": 41000,
+      "note": "Thanh toán 1 x Canva Pro Edu 1 Năm ( Tk Chính Chủ)"
+    },
+    {
+      "time": "16:14:02 19/06/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 50000,
+      "before": 1000,
+      "after": 51000,
+      "txid": "FT26170547206862",
+      "note": "CUSTOMER NAP7784604990   Ma giao dich  Trace744790 Trace 744790"
+    },
+    {
+      "time": "14:01:44 19/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 15000,
+      "before": 16000,
+      "after": 1000,
+      "note": "Thanh toán 1 x Youtube Premium 1 Tháng"
+    },
+    {
+      "time": "23:23:06 17/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 500000,
+      "before": 516000,
+      "after": 16000,
+      "note": "Thanh toán 5 x Grok Super 1 Tháng | BHF"
+    },
+    {
+      "time": "23:22:52 17/05/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 400000,
+      "before": 116000,
+      "after": 516000,
+      "txid": "FT26138939090016",
+      "note": "CUSTOMER NAP7784604990   Ma giao dich  Trace846951 Trace 846951"
+    },
+    {
+      "time": "00:48:35 17/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 500000,
+      "before": 616000,
+      "after": 116000,
+      "note": "Thanh toán 5 x Grok Super 1 Tháng | BHF"
+    },
+    {
+      "time": "00:48:00 17/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 160000,
+      "before": 776000,
+      "after": 616000,
+      "note": "Thanh toán 1 x CHATGPT PLUS 1M - Trâu BHF"
+    },
+    {
+      "time": "00:47:41 17/05/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 700000,
+      "before": 76000,
+      "after": 776000,
+      "txid": "FT26138978275800",
+      "note": "CUSTOMER NAP7784604990   Ma giao dich  Trace153227 Trace 153227"
+    },
+    {
+      "time": "23:18:33 15/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 50000,
+      "before": 126000,
+      "after": 76000,
+      "note": "Thanh toán 1 x Gemini Pro + 5Tb 1 năm Pixel Trâu KBH"
+    },
+    {
+      "time": "14:35:56 14/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 10000,
+      "before": 136000,
+      "after": 126000,
+      "note": "Thanh toán 1 x Canva Pro Edu 1 Năm ( Tk Chính Chủ)"
+    },
+    {
+      "time": "19:15:19 04/05/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 100000,
+      "before": 36000,
+      "after": 136000,
+      "txid": "FT26124010121835",
+      "note": "DO HUU TUE MINHNAP7784604990 iJ5VIY1W/028890"
+    },
+    {
+      "time": "12:20:34 03/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 36000,
+      "before": 72000,
+      "after": 36000,
+      "note": "Thanh toán 1 x Chatgpt Plus 1m BH7D"
+    },
+    {
+      "time": "12:18:41 03/05/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 72000,
+      "delta": 72000,
+      "before": 0,
+      "after": 72000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

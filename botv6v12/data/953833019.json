@@ -1,0 +1,25 @@
+{
+  "id": 953833019,
+  "username": "LeMinhThang_98_geoit",
+  "full_name": "Lê Minh Thắng",
+  "created_at": "08/07/2026",
+  "last_seen": "09:56:23 08/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18480
+  },
+  "orders": [
+    {
+      "order_code": "ORDER820240991783479359",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18480,
+      "created_time": "09:56:23 08/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

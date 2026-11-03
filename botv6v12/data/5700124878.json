@@ -1,0 +1,16 @@
+{
+  "id": 5700124878,
+  "username": "nulemitus",
+  "full_name": "Nguyễn Tú",
+  "created_at": "03/09/2026",
+  "last_seen": "17:59:49 08/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

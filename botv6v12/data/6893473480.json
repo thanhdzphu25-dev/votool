@@ -1,0 +1,15 @@
+{
+  "id": 6893473480,
+  "username": "ducnjn",
+  "full_name": "Đức Ninh",
+  "created_at": "13/03/2026",
+  "last_seen": "08:15:46 03/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

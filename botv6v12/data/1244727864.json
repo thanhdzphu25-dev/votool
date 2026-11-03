@@ -1,0 +1,25 @@
+{
+  "id": 1244727864,
+  "username": "pla30",
+  "full_name": "P",
+  "created_at": "18/03/2026",
+  "last_seen": "23:29:39 26/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 50000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER48393B5F1784086220",
+      "product_name": "CapCut Pro 1 Tháng Nâng Chính Chủ BHF",
+      "quantity": 1,
+      "total_money": 50000,
+      "created_time": "10:31:09 15/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

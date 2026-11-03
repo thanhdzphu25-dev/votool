@@ -1,0 +1,16 @@
+{
+  "id": 8768593988,
+  "username": "maya828322",
+  "full_name": "Maya",
+  "created_at": "21/05/2026",
+  "last_seen": "12:13:15 23/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "en"
+}

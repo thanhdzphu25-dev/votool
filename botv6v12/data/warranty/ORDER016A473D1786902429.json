@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER016A473D1786902429",
+  "user_id": 6454753332,
+  "reason": "bị lỗi báo dùng rồi",
+  "photo_file_id": "AgACAgUAAxkBAAEITsFqgfhFtnT4FwmuP1YTr_RE6OR4xgAC7g9rGwRDEFTCKxIcS4jojgEAAwIAA3gAAz0E",
+  "created_time": "00:50:08 17/08/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "01:02:23 17/08/2026",
+      "sender": "admin:8101416491",
+      "text": "Chụp full màn b"
+    }
+  ]
+}

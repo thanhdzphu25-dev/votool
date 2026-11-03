@@ -1,0 +1,25 @@
+{
+  "id": 5037616710,
+  "username": null,
+  "full_name": "Thien Ngo",
+  "created_at": "31/07/2026",
+  "last_seen": "14:37:46 22/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 129000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER286C416B1785844341",
+      "product_name": "ChatGpt Plus 1 Tháng BHF - Trâu",
+      "quantity": 1,
+      "total_money": 129000,
+      "created_time": "18:57:06 04/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

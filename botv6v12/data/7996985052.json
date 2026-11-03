@@ -1,0 +1,15 @@
+{
+  "id": 7996985052,
+  "username": "Work5500",
+  "full_name": "Mahreen Khan",
+  "created_at": "06/06/2026",
+  "last_seen": "23:00:28 06/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

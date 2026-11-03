@@ -1,0 +1,15 @@
+{
+  "id": 1999807190,
+  "username": "USA_8800",
+  "full_name": "Kun Hai",
+  "created_at": "17/04/2026",
+  "last_seen": "20:28:19 12/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

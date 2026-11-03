@@ -1,0 +1,16 @@
+{
+  "id": 6389012181,
+  "username": "viet1412",
+  "full_name": "Hoàng Việt",
+  "created_at": "12/09/2026",
+  "last_seen": "08:51:06 12/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

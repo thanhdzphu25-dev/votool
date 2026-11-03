@@ -1,0 +1,16 @@
+{
+  "id": 339447268,
+  "username": "Js_Hoang",
+  "full_name": "Hoang Khoi",
+  "created_at": "12/09/2026",
+  "last_seen": "23:56:54 12/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

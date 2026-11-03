@@ -1,0 +1,16 @@
+{
+  "id": 5943848090,
+  "username": "danyar8252",
+  "full_name": "Danyar Group",
+  "created_at": "08/06/2026",
+  "last_seen": "16:04:53 06/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 6493183102,
+  "username": null,
+  "full_name": "Erina Eva",
+  "created_at": "09/07/2026",
+  "last_seen": "21:46:39 14/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 54600
+  },
+  "orders": [
+    {
+      "order_code": "ORDER9CA9C2BF1784774496",
+      "product_name": "CHATGPT PLUS 1 THÁNG BH7D - Trâu",
+      "quantity": 1,
+      "total_money": 54600,
+      "created_time": "09:42:28 23/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

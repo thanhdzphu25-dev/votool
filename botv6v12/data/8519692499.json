@@ -1,0 +1,16 @@
+{
+  "id": 8519692499,
+  "username": "aegontools1",
+  "full_name": "Aegon Tools",
+  "created_at": "28/06/2026",
+  "last_seen": "01:38:29 19/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "en"
+}

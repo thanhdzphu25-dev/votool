@@ -1,0 +1,33 @@
+{
+  "id": 5047086931,
+  "username": null,
+  "full_name": "Nhật Hoàng Minh",
+  "created_at": "19/09/2026",
+  "last_seen": "20:12:45 19/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 39000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER7EB94A091789823543",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 19500,
+      "created_time": "20:12:45 19/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER056C05261789820085",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 19500,
+      "created_time": "19:16:34 19/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

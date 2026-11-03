@@ -1,0 +1,45 @@
+{
+  "id": 6738622330,
+  "username": "shinH0812",
+  "full_name": "Bánh Chưng",
+  "created_at": "14/03/2026",
+  "last_seen": "08:42:39 13/08/2026",
+  "balance": 2000,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 3500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER88A6B9931773622331",
+      "product_name": "Slot Chatgpt Bussines 1 Tháng",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "07:52:11 16/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "07:52:11 16/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 3500,
+      "before": 5500,
+      "after": 2000,
+      "note": "Thanh toán 1 x Slot Chatgpt Bussines 1 Tháng"
+    },
+    {
+      "time": "13:24:58 14/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 5500,
+      "before": 0,
+      "after": 5500,
+      "txid": "FT26073605397866",
+      "note": "NGUYEN VAN SINH MBVCB.13363250301.430141.NAP6738622330 ORDEREE24AFBE1773468722.CT tu 0491000179442 NGUYEN VAN SINH toi 0000032377312 HOANG PHU MINH tai MB-"
+    }
+  ],
+  "lang": "vi"
+}

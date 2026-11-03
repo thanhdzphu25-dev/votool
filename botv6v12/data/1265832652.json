@@ -1,0 +1,16 @@
+{
+  "id": 1265832652,
+  "username": "ABV_User",
+  "full_name": "AB",
+  "created_at": "12/05/2026",
+  "last_seen": "06:56:06 17/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

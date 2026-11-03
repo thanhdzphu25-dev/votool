@@ -1,0 +1,16 @@
+{
+  "id": 7956297102,
+  "username": null,
+  "full_name": "Đỗ Đức Anh",
+  "created_at": "26/09/2026",
+  "last_seen": "15:28:52 26/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

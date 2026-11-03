@@ -1,0 +1,25 @@
+{
+  "id": 1266253622,
+  "username": "steve_h010",
+  "full_name": "Steve H",
+  "created_at": "19/05/2026",
+  "last_seen": "10:16:03 12/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 42500
+  },
+  "orders": [
+    {
+      "order_code": "ORDERE52D83D21783158606",
+      "product_name": "CHATGPT PLUS 1 THÁNG ( TUT SEPA ) — Trâu - BH3D",
+      "quantity": 1,
+      "total_money": 42500,
+      "created_time": "16:52:45 04/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,149 @@
+{
+  "id": 7189840920,
+  "username": "phongluuvt",
+  "full_name": "doikotontai",
+  "created_at": "19/03/2026",
+  "last_seen": "09:15:52 09/09/2026",
+  "balance": 2500,
+  "stats": {
+    "total_orders": 14,
+    "done_orders": 14,
+    "total_spent": 222500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER74BCC8FF1788920115",
+      "product_name": "[KEY] HMA Android/PC 20-30 Ngày",
+      "quantity": 5,
+      "total_money": 22500,
+      "created_time": "09:15:52 09/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER84DAB7001788561957",
+      "product_name": "[KEY] HMA Android/PC 20-30 Ngày",
+      "quantity": 2,
+      "total_money": 9000,
+      "created_time": "05:46:42 05/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER58132ADF1778507724",
+      "product_name": "CHATGPT PLUS 1M KBH",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "20:55:24 11/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD07A94D11777616501",
+      "product_name": "Veo 3 Ultra + Anti(No Watermark) BH 24h",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "13:23:21 01/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0487FCAA1777610514",
+      "product_name": "Chatgpt PLus 1 Tháng BH-48H",
+      "quantity": 2,
+      "total_money": 46000,
+      "created_time": "11:43:18 01/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD0DC4D001777383562",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "20:39:46 28/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1322AF7C1777291273",
+      "product_name": "Grok Super 7D | BH 24H",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "19:01:31 27/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERABF3BB4D1777283542",
+      "product_name": "Grok Super 7D | BH 24H",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "16:52:41 27/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB7D5D07F1777158691",
+      "product_name": "Grok Super 7D | BH 24H",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "06:12:13 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER687107C41777120803",
+      "product_name": "Veo 3 Ultra + Anti(No Watermark) BH 24h",
+      "quantity": 1,
+      "total_money": 22000,
+      "created_time": "19:40:23 25/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC3D83E951774824065",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "05:41:46 30/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4CF485101773888395",
+      "product_name": "Chatgpt Bussines 1 Tháng 5 Slot KBH",
+      "quantity": 2,
+      "total_money": 18000,
+      "created_time": "09:46:52 19/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6F9083811773888273",
+      "product_name": "Slot Chatgpt Bussines 1 Tháng",
+      "quantity": 2,
+      "total_money": 7000,
+      "created_time": "09:44:53 19/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0419CE751773883003",
+      "product_name": "ChatGpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "08:17:09 19/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "20:55:24 11/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 9000,
+      "after": 2500,
+      "note": "Thanh toán 1 x CHATGPT PLUS 1M KBH"
+    },
+    {
+      "time": "13:22:52 01/05/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 9000,
+      "delta": 9000,
+      "before": 0,
+      "after": 9000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

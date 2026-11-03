@@ -1,0 +1,16 @@
+{
+  "id": 7371573589,
+  "username": "tomhum229",
+  "full_name": "Tiến Hùng",
+  "created_at": "09/07/2026",
+  "last_seen": "12:37:21 11/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

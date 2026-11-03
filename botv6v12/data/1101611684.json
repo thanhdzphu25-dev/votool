@@ -1,0 +1,55 @@
+{
+  "id": 1101611684,
+  "username": "Jeieee2",
+  "full_name": "Dragon  🐤 Dura🦴 🌱SEED Gra-Gra🐾| Drops💧🐍",
+  "created_at": "22/09/2026",
+  "last_seen": "03:08:58 27/09/2026",
+  "balance": 1600,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 44400
+  },
+  "orders": [
+    {
+      "order_code": "ORDERBF3B73FA1790178575",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 2,
+      "total_money": 44400,
+      "created_time": "22:49:35 23/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "22:49:35 23/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 44400,
+      "before": 46000,
+      "after": 1600,
+      "note": "Thanh toán 2 x Link Gemini Pro 18 Tháng"
+    },
+    {
+      "time": "22:49:30 23/09/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 2000,
+      "before": 44000,
+      "after": 46000,
+      "txid": "FT26267248677028",
+      "note": "TRAN MANH DUNG NAP1101611684 P2BD3GRU/756614"
+    },
+    {
+      "time": "22:48:16 23/09/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 44000,
+      "before": 0,
+      "after": 44000,
+      "txid": "FT26267818196578",
+      "note": "TRAN MANH DUNG MBVCB.16199577318.203084.NAP1101611684.CT tu 9968123007 TRAN MANH DUNG toi 0000032377312 HOANG PHU MINH tai MB- Ma GD ACSP/ mb203084"
+    }
+  ],
+  "lang": "vi"
+}

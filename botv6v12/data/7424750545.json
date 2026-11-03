@@ -1,0 +1,45 @@
+{
+  "id": 7424750545,
+  "username": "batu4404",
+  "full_name": "Bá Tú",
+  "created_at": "21/04/2026",
+  "last_seen": "14:42:44 16/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 60000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERF7B1AE0C1777880813",
+      "product_name": "LINK - Gemini AI Pro 18 Tháng | BH 4M",
+      "quantity": 1,
+      "total_money": 60000,
+      "created_time": "14:46:53 04/05/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "14:46:50 04/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 60000,
+      "before": 60000,
+      "after": 0,
+      "note": "Thanh toán 1 x LINK - Gemini AI Pro 18 Tháng | BH 4M"
+    },
+    {
+      "time": "14:46:16 04/05/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 60000,
+      "before": 0,
+      "after": 60000,
+      "txid": "FT26124000704974",
+      "note": "NGUYEN BA TU MBVCB.14064475851.911700.NAP7424750545.CT tu 9964700502 NGUYEN BA TU toi 0000032377312 HOANG PHU MINH tai MB- Ma GD ACSP/ zj911700"
+    }
+  ],
+  "lang": "vi"
+}

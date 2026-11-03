@@ -1,0 +1,15 @@
+{
+  "id": 5790070516,
+  "username": "Phongz22",
+  "full_name": "Thanh Phog",
+  "created_at": "04/05/2026",
+  "last_seen": "09:24:22 06/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

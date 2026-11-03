@@ -1,0 +1,15 @@
+{
+  "id": 7494455509,
+  "username": "wolfvendor",
+  "full_name": "Wolf Vendor",
+  "created_at": "28/06/2026",
+  "last_seen": "00:06:04 28/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

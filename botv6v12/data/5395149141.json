@@ -1,0 +1,16 @@
+{
+  "id": 5395149141,
+  "username": "vvaris01",
+  "full_name": "Vu Thang",
+  "created_at": "09/04/2026",
+  "last_seen": "12:08:30 06/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

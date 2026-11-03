@@ -1,0 +1,15 @@
+{
+  "id": 1854587509,
+  "username": "cuadev",
+  "full_name": "Cua",
+  "created_at": "22/04/2026",
+  "last_seen": "01:54:51 03/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

@@ -1,0 +1,165 @@
+{
+  "id": 5495666214,
+  "username": "Owenjiger",
+  "full_name": "Owen Micheal",
+  "created_at": "15/04/2026",
+  "last_seen": "14:36:29 14/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 16,
+    "done_orders": 14,
+    "total_spent": 342830
+  },
+  "orders": [
+    {
+      "order_code": "ORDER1046D31E1787986024",
+      "product_name": "YTB PREMIUM 1 THÁNG AUTO",
+      "quantity": 1,
+      "total_money": 14500,
+      "created_time": "13:47:28 29/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF305CDB91787985491",
+      "product_name": "YTB PREMIUM 1 THÁNG AUTO",
+      "quantity": 1,
+      "total_money": 14500,
+      "created_time": "13:38:33 29/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF07E10051785227146",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "15:26:04 28/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER16A32EA21785226234",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "15:11:25 28/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA9F5B4A01784686920",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "09:22:17 22/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER66A752791784429846",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "09:57:44 19/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER61632DCF1784338202",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "08:30:02 18/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER16A78CAC1784098904",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 17760,
+      "created_time": "14:02:18 15/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6A0A89591784098413",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 5,
+      "total_money": 88800,
+      "created_time": "13:54:23 15/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7562750D1784020595",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 17760,
+      "created_time": "16:17:33 14/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4273C4601784020377",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 17760,
+      "created_time": "16:13:27 14/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA28804421782063032",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "00:31:12 22/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDEREFEFB1F61779520780",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "14:20:29 23/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDE7280D31779388056",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "01:28:14 22/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDEREDCFAAE01776824218",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 1,
+      "total_money": 33000,
+      "created_time": "09:17:24 22/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB3ADB4E51776766261",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "17:11:44 21/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "08:30:02 18/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 18000,
+      "before": 18000,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "00:08:31 18/07/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 18000,
+      "delta": 18000,
+      "before": 0,
+      "after": 18000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

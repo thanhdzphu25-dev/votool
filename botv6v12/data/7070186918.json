@@ -1,0 +1,16 @@
+{
+  "id": 7070186918,
+  "username": null,
+  "full_name": "TeIegram",
+  "created_at": "03/09/2026",
+  "last_seen": "16:52:32 13/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

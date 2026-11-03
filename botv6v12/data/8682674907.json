@@ -1,0 +1,16 @@
+{
+  "id": 8682674907,
+  "username": "AIMasters_Admin",
+  "full_name": "AIMasters Admin",
+  "created_at": "29/06/2026",
+  "last_seen": "04:16:26 03/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "en"
+}

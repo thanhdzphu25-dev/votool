@@ -1,0 +1,73 @@
+{
+  "id": 813559603,
+  "username": "Id09st",
+  "full_name": "Elotte Man",
+  "created_at": "08/07/2026",
+  "last_seen": "09:47:29 04/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 7,
+    "done_orders": 7,
+    "total_spent": 198720
+  },
+  "orders": [
+    {
+      "order_code": "ORDER41970D241788337884",
+      "product_name": "Link Gemini Pro 18 tháng ( Sale Dùng Ngay )",
+      "quantity": 7,
+      "total_money": 84000,
+      "created_time": "15:31:45 02/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1B177CC41788337012",
+      "product_name": "Link Gemini Pro 18 tháng ( Sale Dùng Ngay )",
+      "quantity": 1,
+      "total_money": 12000,
+      "created_time": "15:17:11 02/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3FFD9F801788335383",
+      "product_name": "Link Gemini Pro 18 tháng ( Sale Dùng Ngay )",
+      "quantity": 1,
+      "total_money": 12000,
+      "created_time": "14:49:59 02/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER909F39E31783578820",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 2,
+      "total_money": 36480,
+      "created_time": "13:34:06 09/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER26C3EC5A1783578661",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18240,
+      "created_time": "13:31:28 09/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9B1033A61783513606",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "19:27:18 08/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER430B5A031783513471",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "19:25:04 08/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

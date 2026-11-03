@@ -1,0 +1,22 @@
+{
+  "order_code": "ORDER54F0160B1785816859",
+  "user_id": 6946370351,
+  "reason": "Acc bị die",
+  "photo_file_id": "AgACAgUAAxkBAAEH_6Nqd9ns3dJ4Z0I3zrg2MSriHzk1FQACBhFrG1towVc2H6_cK0tpLQEAAwIAA3cAAz0E",
+  "created_time": "08:38:40 09/08/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "11:39:14 09/08/2026",
+      "sender": "admin:8101416491",
+      "text": "Nhắn ad"
+    },
+    {
+      "time": "18:58:53 09/08/2026",
+      "sender": "user:6946370351",
+      "text": "Hỗ trợ mình với b"
+    }
+  ]
+}

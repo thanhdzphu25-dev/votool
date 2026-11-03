@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER39468F781779384234",
+  "user_id": 7716491589,
+  "reason": "Tài khoản chưa được kích hoạt bảo hành",
+  "photo_file_id": "AgACAgUAAxkBAAEDPeZqD0fGbignpG1_zK8RtTLACiJC5QACxRhrGxCreFRZMPEumjqlugEAAwIAA3kAAzsE",
+  "created_time": "00:58:37 22/05/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "00:59:28 22/05/2026",
+      "sender": "admin:8101416491",
+      "text": "Gửi tk mình mai đổi cho nhé @thanhtr789"
+    }
+  ]
+}

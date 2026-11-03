@@ -1,0 +1,16 @@
+{
+  "id": 7807447595,
+  "username": "thienandz123",
+  "full_name": "Thiên Ân dz",
+  "created_at": "25/09/2026",
+  "last_seen": "15:18:37 25/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,80 @@
+{
+  "id": 564647401,
+  "username": "baonguyen1912",
+  "full_name": "Bao Nguyen",
+  "created_at": "05/04/2026",
+  "last_seen": "08:35:57 20/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 103150
+  },
+  "orders": [
+    {
+      "order_code": "ORDER440CB1881785639034",
+      "product_name": "CHATGPT PLUS 1 THÁNG BH7D - Trâu",
+      "quantity": 1,
+      "total_money": 59150,
+      "created_time": "09:51:08 02/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA417FBE91776321863",
+      "product_name": "Veo 3 Ultra + Anti(No Watermark) BH 24h",
+      "quantity": 1,
+      "total_money": 22000,
+      "created_time": "13:44:23 16/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERAB2889061776135785",
+      "product_name": "Veo 3 Ultra + AntiGravity 25K Credit BH24H",
+      "quantity": 1,
+      "total_money": 22000,
+      "created_time": "10:03:05 14/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "13:44:23 16/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 22000,
+      "before": 22000,
+      "after": 0,
+      "note": "Thanh toán 1 x Veo 3 Ultra + Anti(No Watermark) BH 24h"
+    },
+    {
+      "time": "10:50:00 14/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 22000,
+      "delta": 22000,
+      "before": 0,
+      "after": 22000,
+      "reason": ""
+    },
+    {
+      "time": "10:03:05 14/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 22000,
+      "before": 22000,
+      "after": 0,
+      "note": "Thanh toán 1 x Veo 3 Ultra + AntiGravity 25K Credit BH24H"
+    },
+    {
+      "time": "10:02:34 14/04/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 22000,
+      "before": 0,
+      "after": 22000,
+      "txid": "FT26104301357928",
+      "note": "CONG TY CO PHAN DICH VU DI DONG TRU125217170301-NAP564647401-CHUYEN TI EN-OQCH0009vldv-MOMO125217170301MOM O. TU: M SERVICE JSC"
+    }
+  ],
+  "lang": "vi"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7843676768,
+  "username": "wuanle",
+  "full_name": "Wuanle",
+  "created_at": "03/09/2026",
+  "last_seen": "23:00:52 17/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 0,
+    "total_spent": 15000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER788D08D21789660637",
+      "product_name": "YouTube Premium 1 Tháng (Không BH)",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "22:57:44 17/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

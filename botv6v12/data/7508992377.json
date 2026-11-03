@@ -1,0 +1,25 @@
+{
+  "id": 7508992377,
+  "username": null,
+  "full_name": "Phoi Wa",
+  "created_at": "23/09/2026",
+  "last_seen": "23:28:09 26/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 97500
+  },
+  "orders": [
+    {
+      "order_code": "ORDERAF48D4171790440052",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 5,
+      "total_money": 97500,
+      "created_time": "23:28:09 26/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

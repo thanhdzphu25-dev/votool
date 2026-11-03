@@ -1,0 +1,45 @@
+{
+  "id": 8818080325,
+  "username": null,
+  "full_name": "Be La",
+  "created_at": "07/07/2026",
+  "last_seen": "16:58:52 25/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 37440
+  },
+  "orders": [
+    {
+      "order_code": "ORDERFDB9F7EE1783440064",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 2,
+      "total_money": 37440,
+      "created_time": "23:01:04 07/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "23:01:04 07/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 37440,
+      "before": 37440,
+      "after": 0,
+      "note": "Thanh toán 2 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "22:21:17 07/07/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 37440,
+      "delta": 37440,
+      "before": 0,
+      "after": 37440,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

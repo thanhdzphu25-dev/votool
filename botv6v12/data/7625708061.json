@@ -1,0 +1,258 @@
+{
+  "id": 7625708061,
+  "username": null,
+  "full_name": "Nguyn Zux",
+  "created_at": "18/03/2026",
+  "last_seen": "20:25:13 25/09/2026",
+  "balance": 5500,
+  "stats": {
+    "total_orders": 24,
+    "done_orders": 24,
+    "total_spent": 254500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER221E03CD1786636122",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "22:49:13 13/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER2640871B1784387170",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "22:06:47 18/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE052E32F1783685377",
+      "product_name": "Voucher Tạo Stk Đẹp Mbbank 25m",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "19:10:16 10/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8E54B6FE1783580108",
+      "product_name": "Voucher Tạo Stk Đẹp Mbbank 25m",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "13:55:36 09/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB6ED41AD1780495717",
+      "product_name": "CapCut Pro 7d Sale",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "21:09:03 03/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE60A18691780485184",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "18:13:04 03/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB40EF8C21779001835",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "14:11:13 17/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER65D3E4251778995500",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 14500,
+      "created_time": "12:25:00 17/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER23C1C56E1778832550",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "15:09:43 15/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9781DC4F1778551612",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "09:07:20 12/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER2861C2D81778121438",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "09:37:44 07/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5032B03B1777862830",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "09:47:33 04/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFE3082AF1776489019",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7000,
+      "created_time": "12:10:48 18/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9D6B21961776405033",
+      "product_name": "Voucher Tạo Stk Đẹp Mbbank 25m",
+      "quantity": 1,
+      "total_money": 12000,
+      "created_time": "12:50:53 17/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF2A379B91776235134",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "13:39:08 15/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7388D53D1776190798",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "01:20:47 15/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER544B7D451774582855",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "10:41:17 27/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA95F07821774447814",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "21:11:02 25/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERAE6B755B1774439466",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 40000,
+      "created_time": "18:51:55 25/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER650995201774276743",
+      "product_name": "Voucher Tạo Stk Đẹp Mbbank 25m",
+      "quantity": 1,
+      "total_money": 14000,
+      "created_time": "21:39:36 23/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7B8A696D1774078021",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "14:27:27 21/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7ECF18EF1774073952",
+      "product_name": "ChatGpt Plus 1 Tháng l BH7D",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "13:19:35 21/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER556BA1341773977857",
+      "product_name": "Slot Chatgpt Bussines 1 Tháng",
+      "quantity": 1,
+      "total_money": 4000,
+      "created_time": "10:38:11 20/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8696EC621773832419",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "18:15:04 18/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "18:13:04 03/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 10000,
+      "before": 15500,
+      "after": 5500,
+      "note": "Thanh toán 1 x Canva Pro Edu 1 Năm ( Tk Chính Chủ)"
+    },
+    {
+      "time": "22:51:14 20/05/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 15000,
+      "delta": 15000,
+      "before": 500,
+      "after": 15500,
+      "reason": ""
+    },
+    {
+      "time": "12:24:56 17/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 14500,
+      "before": 15000,
+      "after": 500,
+      "note": "Thanh toán 1 x Capcut Pro Team 30-35D | BHF"
+    },
+    {
+      "time": "12:24:45 17/05/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 5000,
+      "before": 10000,
+      "after": 15000,
+      "txid": "FT26138849006094",
+      "note": "CUSTOMER NAP7625708061. TU: CAO NGUYEN VU"
+    },
+    {
+      "time": "22:06:44 07/05/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 10000,
+      "delta": 10000,
+      "before": 0,
+      "after": 10000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

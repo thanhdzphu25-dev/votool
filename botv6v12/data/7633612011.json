@@ -1,0 +1,15 @@
+{
+  "id": 7633612011,
+  "username": "CDKclaude",
+  "full_name": "CDK all APP",
+  "created_at": "11/05/2026",
+  "last_seen": "02:03:41 13/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

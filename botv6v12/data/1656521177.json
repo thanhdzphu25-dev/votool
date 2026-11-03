@@ -1,0 +1,15 @@
+{
+  "id": 1656521177,
+  "username": "ash99_1995",
+  "full_name": "99 Ash",
+  "created_at": "09/05/2026",
+  "last_seen": "10:59:49 11/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

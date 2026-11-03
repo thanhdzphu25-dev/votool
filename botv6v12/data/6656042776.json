@@ -1,0 +1,25 @@
+{
+  "id": 6656042776,
+  "username": "Fosez145",
+  "full_name": "Fosez⚖️",
+  "created_at": "13/07/2026",
+  "last_seen": "16:26:18 22/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 50000
+  },
+  "orders": [
+    {
+      "order_code": "ORDERE3A2BE511783908576",
+      "product_name": "CapCut Pro 1 Tháng Nâng Chính Chủ BHF",
+      "quantity": 1,
+      "total_money": 50000,
+      "created_time": "09:10:56 13/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

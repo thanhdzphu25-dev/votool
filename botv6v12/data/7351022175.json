@@ -1,0 +1,65 @@
+{
+  "id": 7351022175,
+  "username": "kandesfx",
+  "full_name": "Kandes",
+  "created_at": "21/09/2026",
+  "last_seen": "22:06:08 26/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 6,
+    "done_orders": 6,
+    "total_spent": 140700
+  },
+  "orders": [
+    {
+      "order_code": "ORDER9DBF4DD61790435102",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 19500,
+      "created_time": "22:06:08 26/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDEREC24940A1790434406",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 19500,
+      "created_time": "21:54:13 26/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER2A81B7471790389116",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 19500,
+      "created_time": "09:19:28 26/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER52A273611790305573",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 22500,
+      "created_time": "10:06:45 25/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDB59146A1790302745",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 22500,
+      "created_time": "09:19:58 25/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9BFF3FBE1790007543",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 2,
+      "total_money": 37200,
+      "created_time": "23:20:49 21/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

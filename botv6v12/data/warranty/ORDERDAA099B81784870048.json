@@ -1,0 +1,42 @@
+{
+  "order_code": "ORDERDAA099B81784870048",
+  "user_id": 7907136203,
+  "reason": "Khách gửi ảnh bảo hành (không kèm caption).",
+  "photo_file_id": "AgACAgUAAxkBAAEGVlFqY23ll1sO825mUtQN5L6lpleelQACgxRrG5e3IFcpkre4d5TB_AEAAwIAA3gAAz0E",
+  "created_time": "20:51:42 24/07/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "22:11:02 24/07/2026",
+      "sender": "admin:8101416491",
+      "text": "B dịch dòng đó ra đi, không phải do gói"
+    },
+    {
+      "time": "22:17:55 24/07/2026",
+      "sender": "user:7907136203",
+      "text": "vậy là kh được bảo hành đk á, với bị phát là mình mua luôn gói mới rồi nên cũng kệ-))) hỏi thử cho biết lần sau đỡ thắc mắc í"
+    },
+    {
+      "time": "22:19:07 24/07/2026",
+      "sender": "admin:8101416491",
+      "text": "Này thường do log nhiều mail hoặc mail mới nó yếu ấy b"
+    },
+    {
+      "time": "22:19:39 24/07/2026",
+      "sender": "admin:8101416491",
+      "text": "Chứ gói này die thì chỉ mất gói thôi k mất acc"
+    },
+    {
+      "time": "22:24:35 24/07/2026",
+      "sender": "user:7907136203",
+      "text": "log nhiều acc khác cũng bị hả ad"
+    },
+    {
+      "time": "23:07:51 24/07/2026",
+      "sender": "admin:8101416491",
+      "text": "Hên xui"
+    }
+  ]
+}

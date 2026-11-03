@@ -1,0 +1,24 @@
+{
+  "id": 6813298245,
+  "username": "me_come8u",
+  "full_name": "Admin 08",
+  "created_at": "04/04/2026",
+  "last_seen": "12:08:05 10/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 15000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER92EC50951781068002",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "12:07:32 10/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": []
+}

@@ -1,0 +1,193 @@
+{
+  "id": 7306890891,
+  "username": "LIT2451",
+  "full_name": "TeIegram",
+  "created_at": "14/04/2026",
+  "last_seen": "15:57:14 19/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 22,
+    "done_orders": 21,
+    "total_spent": 797260
+  },
+  "orders": [
+    {
+      "order_code": "ORDER215F5D271789658095",
+      "product_name": "YouTube Premium 1 Tháng (BH Full)",
+      "quantity": 1,
+      "total_money": 25000,
+      "created_time": "22:15:35 17/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8904E1E01786797066",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 2,
+      "total_money": 28500,
+      "created_time": "19:31:48 15/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER859D7A5C1783926473",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 13500,
+      "created_time": "14:08:38 13/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER539C30691783918767",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 17760,
+      "created_time": "12:00:09 13/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER763645F21782541420",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 24000,
+      "created_time": "13:23:56 27/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA819654F1782528580",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "09:50:05 27/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB4F90F641782380684",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 25000,
+      "created_time": "16:46:06 25/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBB3743441782044944",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 28000,
+      "created_time": "19:29:30 21/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDEREBB40EF41781942890",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "15:08:44 20/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6070A3F41780299240",
+      "product_name": "CapCut Pro 7d Sale",
+      "quantity": 1,
+      "total_money": 8500,
+      "created_time": "14:35:13 01/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF24BB2F81779026919",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 14500,
+      "created_time": "21:09:20 17/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB2B3D5511778950095",
+      "product_name": "CHATGPT PLUS 1M - Trâu BHF",
+      "quantity": 1,
+      "total_money": 160000,
+      "created_time": "23:50:43 16/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER59F4DFE11778730219",
+      "product_name": "LINK - Gemini AI Pro 18 Tháng | BH 4M",
+      "quantity": 2,
+      "total_money": 120000,
+      "created_time": "10:44:03 14/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8EDCD5061778503983",
+      "product_name": "CHATGPT PLUS 1M KBH",
+      "quantity": 5,
+      "total_money": 32500,
+      "created_time": "19:53:27 11/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF93D3C961778503920",
+      "product_name": "CHATGPT PLUS 1M KBH",
+      "quantity": 5,
+      "total_money": 32500,
+      "created_time": "19:52:33 11/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6E1AC2FE1778413126",
+      "product_name": "CHATGPT PLUS 1M KBH",
+      "quantity": 2,
+      "total_money": 18000,
+      "created_time": "18:39:14 10/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB3AFBC7F1777822155",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "22:29:54 03/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE1D03E901777698278",
+      "product_name": "Chatgpt Plus 1 Tháng BH 36H",
+      "quantity": 1,
+      "total_money": 23000,
+      "created_time": "12:05:15 02/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBE0344A31777698200",
+      "product_name": "Chatgpt Plus 1 Tháng BH 36H",
+      "quantity": 2,
+      "total_money": 46000,
+      "created_time": "12:04:04 02/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB243172B1776655539",
+      "product_name": "Nâng Chatgpt Go 1 Năm Chính Chủ KBH",
+      "quantity": 1,
+      "total_money": 58000,
+      "created_time": "10:27:09 20/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER966E68431776445590",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 1,
+      "total_money": 32000,
+      "created_time": "00:07:48 18/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF42196791776239955",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 1,
+      "total_money": 34000,
+      "created_time": "14:59:43 15/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

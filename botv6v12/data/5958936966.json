@@ -1,0 +1,313 @@
+{
+  "id": 5958936966,
+  "username": "LaVanTruongTOOL",
+  "full_name": "Văn Trường Lã",
+  "created_at": "17/03/2026",
+  "last_seen": "19:56:52 15/09/2026",
+  "balance": 100,
+  "stats": {
+    "total_orders": 24,
+    "done_orders": 21,
+    "total_spent": 297400
+  },
+  "orders": [
+    {
+      "order_code": "ORDER1DCBD2E81789476920",
+      "product_name": "Canva Pro Edu 1 Năm",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "19:56:52 15/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1BD0B2891789133031",
+      "product_name": "Canva Pro Edu 1 Năm",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "20:25:24 11/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF2F963851788792768",
+      "product_name": "Canva Pro Edu 1 Năm",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "21:53:09 07/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9D48AEC51784641946",
+      "product_name": "[KEY] HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "20:53:09 21/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4120B3C41782827250",
+      "product_name": "CapCut Pro 6-7D BHF",
+      "quantity": 1,
+      "total_money": 5400,
+      "created_time": "20:47:30 30/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4C1F84931780929626",
+      "product_name": "CDK Chatgpt Plus ( BH 12h )",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "21:42:20 08/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER44C7DAEF1780474341",
+      "product_name": "CapCut Pro 7d Sale",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "15:16:08 03/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0F5A2D651780400574",
+      "product_name": "CapCut Pro 7d Sale",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "18:45:05 02/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER688B35131777737388",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "22:58:46 02/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER350816211777176254",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "11:06:36 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER32B5001D1776756655",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "14:32:43 21/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1CA6776C1776441328",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 1,
+      "total_money": 32000,
+      "created_time": "22:58:17 17/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER2F67CA441776214246",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 1,
+      "total_money": 34000,
+      "created_time": "07:50:46 15/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3ABA29311776175389",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "21:05:14 14/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA53DDC601776171457",
+      "product_name": "Nâng Chatgpt Plus 1Th Chính Chủ KBH",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "20:00:40 14/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER15F5403C1776094902",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "22:43:20 13/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERDA66507C1775647506",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "18:25:42 08/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER57A85AD51775481771",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "20:22:51 06/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6FA07D611775104954",
+      "product_name": "Grok Super 23-28 Ngày | KBH",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "11:42:34 02/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3387A2E81775051837",
+      "product_name": "Grok Heavy 1 Năm | KBH",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "20:57:17 01/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER57CFE94C1774796285",
+      "product_name": "Slot Chatgpt Bussines 1 Tháng",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "21:58:05 29/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDEREBEB5E2B1774232502",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "09:21:42 23/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1695F11A1774191395",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "21:57:19 22/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB579DB881774178092",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "18:18:10 22/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "20:47:30 30/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 5400,
+      "before": 5500,
+      "after": 100,
+      "note": "Thanh toán 1 x CapCut Pro 6-7D BHF"
+    },
+    {
+      "time": "07:50:46 15/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 34000,
+      "before": 39500,
+      "after": 5500,
+      "note": "Thanh toán 1 x Chatgpt Plus 1Th Auto Bh Gói"
+    },
+    {
+      "time": "00:09:30 15/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 35000,
+      "delta": 35000,
+      "before": 4500,
+      "after": 39500,
+      "reason": ""
+    },
+    {
+      "time": "20:22:48 06/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 4500,
+      "before": 9000,
+      "after": 4500,
+      "note": "Thanh toán 1 x Key HMA Android/PC 20-30 Ngày"
+    },
+    {
+      "time": "11:42:33 02/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6000,
+      "before": 15000,
+      "after": 9000,
+      "note": "Thanh toán 1 x Grok Super 23-28 Ngày | KBH"
+    },
+    {
+      "time": "20:57:15 01/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 35000,
+      "before": 50000,
+      "after": 15000,
+      "note": "Thanh toán 1 x Grok Heavy 1 Năm | KBH"
+    },
+    {
+      "time": "14:48:29 01/04/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 30000,
+      "before": 20000,
+      "after": 50000,
+      "txid": "FT26091891115068",
+      "note": "CUSTOMER NAP5958936966. TU: NGUYEN PHUC TIENMINH"
+    },
+    {
+      "time": "21:27:41 30/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 20000,
+      "before": 0,
+      "after": 20000,
+      "txid": "FT26089849786942",
+      "note": "CUSTOMER NAP5958936966. TU: NGUYEN PHUC TIENMINH"
+    },
+    {
+      "time": "21:58:05 29/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 10000,
+      "before": 10000,
+      "after": 0,
+      "note": "Thanh toán 1 x Slot Chatgpt Bussines 1 Tháng"
+    },
+    {
+      "time": "09:21:42 23/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 10000,
+      "before": 20000,
+      "after": 10000,
+      "note": "Thanh toán 1 x Canva Pro Edu 1 Năm ( Tk Chính Chủ)"
+    },
+    {
+      "time": "09:18:30 23/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 20000,
+      "before": 0,
+      "after": 20000,
+      "txid": "FT26082120880405",
+      "note": "CUSTOMER NAP5958936966. TU: NGUYEN PHUC TIENMINH"
+    }
+  ],
+  "lang": "vi"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 387036553,
+  "username": "realOreo",
+  "full_name": "Oreo",
+  "created_at": "01/07/2026",
+  "last_seen": "00:04:26 02/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

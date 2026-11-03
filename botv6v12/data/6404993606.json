@@ -1,0 +1,16 @@
+{
+  "id": 6404993606,
+  "username": "anhphat2k6",
+  "full_name": "Phát Lê Anh",
+  "created_at": "16/03/2026",
+  "last_seen": "22:32:17 21/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7113937912,
+  "username": null,
+  "full_name": "Nhật Trần",
+  "created_at": "20/09/2026",
+  "last_seen": "16:48:50 24/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 19200
+  },
+  "orders": [
+    {
+      "order_code": "ORDER41A4C62F1789897709",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 19200,
+      "created_time": "16:49:32 20/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

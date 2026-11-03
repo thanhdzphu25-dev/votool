@@ -1,0 +1,184 @@
+{
+  "id": 5352645770,
+  "username": "Kaiztun",
+  "full_name": "Ứng Xuân Bắc",
+  "created_at": "15/03/2026",
+  "last_seen": "23:42:53 17/09/2026",
+  "balance": 600,
+  "stats": {
+    "total_orders": 16,
+    "done_orders": 16,
+    "total_spent": 226800
+  },
+  "orders": [
+    {
+      "order_code": "ORDER388A5DEC1789663373",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 25200,
+      "created_time": "23:42:53 17/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA109E2861788317840",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "09:58:06 02/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC56CB2621788263950",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 12800,
+      "created_time": "18:59:10 01/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER88B11F9E1788104490",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 12800,
+      "created_time": "22:42:27 30/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6F8991471775154444",
+      "product_name": "Grok Super 1 Tháng | KBH",
+      "quantity": 1,
+      "total_money": 11500,
+      "created_time": "01:28:01 03/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE8B86AE41775154337",
+      "product_name": "Chatgpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "01:26:09 03/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDEREC64C3B61775136799",
+      "product_name": "Grok Super 1 Tháng | KBH",
+      "quantity": 1,
+      "total_money": 12500,
+      "created_time": "20:33:41 02/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA3787EB51775136007",
+      "product_name": "Grok Super 1 Tháng | KBH",
+      "quantity": 1,
+      "total_money": 12500,
+      "created_time": "20:20:27 02/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER21910B541774971690",
+      "product_name": "Grok Super 30-50 NGÀY BHF",
+      "quantity": 1,
+      "total_money": 25000,
+      "created_time": "22:42:10 31/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF857A4D81774925427",
+      "product_name": "Grok Super 30-50 NGÀY BHF",
+      "quantity": 1,
+      "total_money": 28000,
+      "created_time": "09:50:58 31/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD75F18CF1774920096",
+      "product_name": "Grok Super 30-50 NGÀY BHF",
+      "quantity": 1,
+      "total_money": 28000,
+      "created_time": "08:22:09 31/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER351724F71774346719",
+      "product_name": "Chatgpt Bussines 1 Tháng 5 Slot KBH",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "17:06:48 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER876529D11773856606",
+      "product_name": "ChatGpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "00:57:21 19/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB5EACB291773796037",
+      "product_name": "ChatGpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "08:07:57 18/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER807A1AEC1773670817",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "21:20:51 16/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3D1AE8671773664859",
+      "product_name": "ChatGpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "19:41:44 16/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "23:42:53 17/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 25200,
+      "before": 25800,
+      "after": 600,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng"
+    },
+    {
+      "time": "23:41:56 17/09/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 13000,
+      "before": 12800,
+      "after": 25800,
+      "txid": "FT26261533570128",
+      "note": "LE HOANG VANNAP5352645770 Q2M5BCFV/753340"
+    },
+    {
+      "time": "18:59:10 01/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 12800,
+      "before": 25600,
+      "after": 12800,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH8H"
+    },
+    {
+      "time": "14:19:28 01/09/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 25600,
+      "delta": 25600,
+      "before": 0,
+      "after": 25600,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

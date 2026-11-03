@@ -1,0 +1,25 @@
+{
+  "id": 8413561470,
+  "username": null,
+  "full_name": "Bùi Văn Kim Tấn",
+  "created_at": "25/09/2026",
+  "last_seen": "10:05:32 27/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 19500
+  },
+  "orders": [
+    {
+      "order_code": "ORDERDA6874F01790358357",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 19500,
+      "created_time": "00:46:35 26/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

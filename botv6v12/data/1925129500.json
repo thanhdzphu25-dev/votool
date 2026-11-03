@@ -1,0 +1,117 @@
+{
+  "id": 1925129500,
+  "username": "the_silent_disruptor",
+  "full_name": "The Disruptor",
+  "created_at": "03/09/2026",
+  "last_seen": "11:19:44 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 10,
+    "done_orders": 10,
+    "total_spent": 262500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER1C0DE1F91789619879",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 25500,
+      "created_time": "11:38:48 17/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE7818AE71789550161",
+      "product_name": "[BH30D] Capcut Team 30D",
+      "quantity": 1,
+      "total_money": 46500,
+      "created_time": "16:16:01 16/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6E645BC81789349888",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 16200,
+      "created_time": "08:42:25 14/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER21DF17411789094901",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18900,
+      "created_time": "09:48:44 11/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER239E45A61789091966",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18900,
+      "created_time": "09:00:24 11/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8BD9F7EC1789091695",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18900,
+      "created_time": "08:55:11 11/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9D3D3A5E1788450607",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 29400,
+      "created_time": "22:58:10 03/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD0BE23211788450208",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 29400,
+      "created_time": "22:46:52 03/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF52FC18C1788449543",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 29400,
+      "created_time": "22:34:18 03/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER06387C141788449013",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 29400,
+      "created_time": "22:25:41 03/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "16:16:00 16/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 46500,
+      "before": 46500,
+      "after": 0,
+      "note": "Thanh toán 1 x [BH30D] Capcut Team 30D"
+    },
+    {
+      "time": "16:15:07 16/09/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 46500,
+      "delta": 46500,
+      "before": 0,
+      "after": 46500,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

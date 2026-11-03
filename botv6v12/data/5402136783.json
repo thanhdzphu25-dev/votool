@@ -1,0 +1,117 @@
+{
+  "id": 5402136783,
+  "username": "kyngodev",
+  "full_name": "century",
+  "created_at": "23/03/2026",
+  "last_seen": "10:38:20 26/09/2026",
+  "balance": 3500,
+  "stats": {
+    "total_orders": 10,
+    "done_orders": 10,
+    "total_spent": 562900
+  },
+  "orders": [
+    {
+      "order_code": "ORDER594651531786506187",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18400,
+      "created_time": "10:43:31 12/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0ABFAF401783306774",
+      "product_name": "CHATGPT PLUS 1 THÁNG ( TUT SEPA ) — Trâu - BH3D",
+      "quantity": 1,
+      "total_money": 50000,
+      "created_time": "10:00:01 06/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC88F74DC1779446844",
+      "product_name": "Chatgpt Plus 1 Tháng BH24H",
+      "quantity": 1,
+      "total_money": 26000,
+      "created_time": "17:47:47 22/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB8DCA8EB1778950028",
+      "product_name": "CHATGPT PLUS 1M - Trâu BHF",
+      "quantity": 1,
+      "total_money": 160000,
+      "created_time": "23:50:44 16/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFF29C1171778886324",
+      "product_name": "CHATGPT PLUS 1M - Trâu BHF",
+      "quantity": 1,
+      "total_money": 160000,
+      "created_time": "06:06:19 16/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCDD6EFBA1776330313",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 1,
+      "total_money": 33000,
+      "created_time": "16:05:57 16/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFA9960A71776225827",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 1,
+      "total_money": 34000,
+      "created_time": "11:04:20 15/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0B201F941776161943",
+      "product_name": "Nâng Chatgpt Plus 1Th Chính Chủ KBH",
+      "quantity": 1,
+      "total_money": 36000,
+      "created_time": "17:19:40 14/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERAF7D744F1775805878",
+      "product_name": "Chatgpt Go 3 Tháng KBH",
+      "quantity": 1,
+      "total_money": 39000,
+      "created_time": "14:25:05 10/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA39632751774340867",
+      "product_name": "ChatGpt Plus 1 Tháng l BH7D",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "15:27:47 24/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "15:27:47 24/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 10000,
+      "after": 3500,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng l BH7D"
+    },
+    {
+      "time": "15:27:09 24/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 10000,
+      "before": 0,
+      "after": 10000,
+      "txid": "FT26083143649888",
+      "note": "NGO THE KY MBVCB.13495968271.540718.NAP5402136783.CT tu 0501000209498 NGO THE KY toi 0000032377312 HOANG PHU MINH ta i MB- Ma GD ACSP/ di540718"
+    }
+  ],
+  "lang": "vi"
+}

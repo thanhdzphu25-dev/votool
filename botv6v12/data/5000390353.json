@@ -1,0 +1,16 @@
+{
+  "id": 5000390353,
+  "username": "taolatkhoa",
+  "full_name": "Thanh Khoa",
+  "created_at": "17/08/2026",
+  "last_seen": "23:37:20 19/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

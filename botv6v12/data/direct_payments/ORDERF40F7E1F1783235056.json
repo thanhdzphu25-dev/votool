@@ -1,0 +1,12 @@
+{
+  "order_code": "ORDERF40F7E1F1783235056",
+  "user_id": 5753932859,
+  "product_id": "sp_1783233073760",
+  "product_name": "CDK Chatgpt Plus Tut Sepa",
+  "qty": 1,
+  "unit_price": 34000,
+  "total": 34000,
+  "created_at": "14:04:16 05/07/2026",
+  "expires_at_unix": 1783235656,
+  "payment_desc": "NAP5753932859 ORDERF40F7E1F1783235056"
+}

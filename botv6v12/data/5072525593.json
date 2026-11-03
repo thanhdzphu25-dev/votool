@@ -1,0 +1,15 @@
+{
+  "id": 5072525593,
+  "username": "xbringx",
+  "full_name": "Bring",
+  "created_at": "06/06/2026",
+  "last_seen": "13:40:29 07/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

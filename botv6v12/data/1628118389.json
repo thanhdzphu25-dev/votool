@@ -1,0 +1,16 @@
+{
+  "id": 1628118389,
+  "username": "Kuteno1",
+  "full_name": "Huỳnh Tấn Lâm Chung",
+  "created_at": "12/09/2026",
+  "last_seen": "08:04:41 12/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

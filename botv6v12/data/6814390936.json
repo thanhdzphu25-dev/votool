@@ -1,0 +1,45 @@
+{
+  "id": 6814390936,
+  "username": "johnnychuenguyen",
+  "full_name": "God. Darkness.",
+  "created_at": "15/08/2026",
+  "last_seen": "00:00:09 24/09/2026",
+  "balance": 1800,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18200
+  },
+  "orders": [
+    {
+      "order_code": "ORDERD59070111786816679",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18200,
+      "created_time": "00:57:59 16/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "00:57:59 16/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 18200,
+      "before": 20000,
+      "after": 1800,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "14:16:41 15/08/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 20000,
+      "before": 0,
+      "after": 20000,
+      "txid": "FT26227091047018",
+      "note": "NGUYEN THANH TRUNGNAP6814390936- MaGD ACSP/ va568232"
+    }
+  ],
+  "lang": "vi"
+}

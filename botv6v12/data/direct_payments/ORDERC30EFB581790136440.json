@@ -1,0 +1,13 @@
+{
+  "order_code": "ORDERC30EFB581790136440",
+  "user_id": 1917915534,
+  "product_id": "sp_1788782663491",
+  "product_name": "YouTube Premium 1 Tháng (BH Full)",
+  "qty": 1,
+  "unit_price": 25000,
+  "total": 25000,
+  "created_at": "11:07:20 23/09/2026",
+  "expires_at_unix": 1790137040,
+  "payment_desc": "NAP1917915534 ORDERC30EFB581790136440",
+  "customer_email": "nvu806101@gmail.com"
+}

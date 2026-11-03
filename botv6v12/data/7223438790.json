@@ -1,0 +1,16 @@
+{
+  "id": 7223438790,
+  "username": "noshimori2",
+  "full_name": "Noshimori Tagawaa",
+  "created_at": "02/07/2026",
+  "last_seen": "03:19:00 02/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "en"
+}

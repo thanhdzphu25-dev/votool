@@ -1,0 +1,16 @@
+{
+  "id": 5812658762,
+  "username": "thanhlux",
+  "full_name": "Thanh Lux",
+  "created_at": "07/06/2026",
+  "last_seen": "09:47:18 31/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

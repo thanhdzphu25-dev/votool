@@ -1,0 +1,71 @@
+{
+  "id": 7289224417,
+  "username": "g0zelov",
+  "full_name": "Sabuhi Gozalov",
+  "created_at": "16/04/2026",
+  "last_seen": "22:19:30 27/04/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 157000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER0D4875A11776858112",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 2,
+      "total_money": 124000,
+      "created_time": "18:41:52 22/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1B29E9F21776769871",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 1,
+      "total_money": 33000,
+      "created_time": "18:11:11 21/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "18:41:52 22/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 124000,
+      "before": 124000,
+      "after": 0,
+      "note": "Thanh toán 2 x Chatgpt Plus 1Th Auto Bh Gói"
+    },
+    {
+      "time": "18:40:01 22/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 124000,
+      "delta": 124000,
+      "before": 0,
+      "after": 124000,
+      "reason": ""
+    },
+    {
+      "time": "18:11:11 21/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 33000,
+      "before": 33000,
+      "after": 0,
+      "note": "Thanh toán 1 x Chatgpt Plus 1Th Auto Bh Gói"
+    },
+    {
+      "time": "18:10:08 21/04/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 33000,
+      "delta": 33000,
+      "before": 0,
+      "after": 33000,
+      "reason": ""
+    }
+  ]
+}

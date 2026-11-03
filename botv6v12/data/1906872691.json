@@ -1,0 +1,16 @@
+{
+  "id": 1906872691,
+  "username": null,
+  "full_name": "Ngủ kiểu Pháp",
+  "created_at": "13/09/2026",
+  "last_seen": "11:08:54 18/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

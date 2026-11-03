@@ -1,0 +1,85 @@
+{
+  "id": 7764466387,
+  "username": "Juan_Sheng",
+  "full_name": "Juan Sheng",
+  "created_at": "15/03/2026",
+  "last_seen": "17:15:56 05/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 6,
+    "done_orders": 6,
+    "total_spent": 119500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER9A11A5351777957354",
+      "product_name": "Gemini Pro + 5Tb 1 năm Pixel Trâu KBH",
+      "quantity": 1,
+      "total_money": 55000,
+      "created_time": "12:03:03 05/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3141C3831775983081",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "15:38:33 12/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER14BC89121775838238",
+      "product_name": "Chatgpt Go 3 Tháng KBH",
+      "quantity": 1,
+      "total_money": 39000,
+      "created_time": "23:24:47 10/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9F5F1D9D1774019781",
+      "product_name": "ChatGpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 7000,
+      "created_time": "22:17:18 20/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER527170571773842813",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "21:07:59 18/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCDB2ADC41773588690",
+      "product_name": "ChatGpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "22:31:30 15/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "22:31:30 15/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 5000,
+      "before": 5000,
+      "after": 0,
+      "note": "Thanh toán 1 x ChatGpt Plus 1 Tháng KBH"
+    },
+    {
+      "time": "22:30:52 15/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 5000,
+      "before": 0,
+      "after": 5000,
+      "txid": "FT26075363950184",
+      "note": "CUSTOMER NAP7764466387. TU: HOANG MINH"
+    }
+  ],
+  "lang": "vi"
+}

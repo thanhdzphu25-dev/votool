@@ -1,0 +1,16 @@
+{
+  "id": 1714879241,
+  "username": null,
+  "full_name": "Fufu Fu",
+  "created_at": "03/07/2026",
+  "last_seen": "07:49:14 03/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

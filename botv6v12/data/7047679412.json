@@ -1,0 +1,125 @@
+{
+  "id": 7047679412,
+  "username": "mtedrop",
+  "full_name": "M Meshchain.Ai| Drops💧",
+  "created_at": "22/03/2026",
+  "last_seen": "16:26:01 17/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 11,
+    "done_orders": 11,
+    "total_spent": 219500
+  },
+  "orders": [
+    {
+      "order_code": "ORDERCF02BFF71778154632",
+      "product_name": "CHATGPT PLUS 1M KBH",
+      "quantity": 1,
+      "total_money": 12000,
+      "created_time": "18:51:17 07/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC53387081777388222",
+      "product_name": "ChatGPT Plus | KBH | HÀNG DỄ DIE",
+      "quantity": 2,
+      "total_money": 16000,
+      "created_time": "21:57:45 28/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER00675D911776831170",
+      "product_name": "Gemini Pro + 5Tb 1 năm Pixel Trâu KBH",
+      "quantity": 1,
+      "total_money": 60000,
+      "created_time": "11:13:43 22/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD058A4581776733666",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "08:08:49 21/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD5BD436B1776699389",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 1,
+      "total_money": 28500,
+      "created_time": "22:37:23 20/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER04235CE31776693663",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "21:02:31 20/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1C72C8D11776492812",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7000,
+      "created_time": "13:14:23 18/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA72E4EBA1775981872",
+      "product_name": "Chatgpt Bussines 5sl BH3D",
+      "quantity": 1,
+      "total_money": 20000,
+      "created_time": "15:18:43 12/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB1A5FB271775133630",
+      "product_name": "ChatGpt Bussines 5sl KBH",
+      "quantity": 1,
+      "total_money": 22000,
+      "created_time": "19:41:11 02/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER24514DA81775033895",
+      "product_name": "Admin Chatgpt Bussines 5sl KBH",
+      "quantity": 1,
+      "total_money": 25000,
+      "created_time": "15:59:11 01/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE117FD581774204206",
+      "product_name": "Chatgpt Bussines 1 Tháng 5 Slot KBH",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "01:30:06 23/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "01:30:06 23/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 9000,
+      "before": 9000,
+      "after": 0,
+      "note": "Thanh toán 1 x Chatgpt Bussines 1 Tháng 5 Slot KBH"
+    },
+    {
+      "time": "22:17:50 22/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 9000,
+      "before": 0,
+      "after": 9000,
+      "txid": "FT26082907124570",
+      "note": "PHAN MINH TAN MBVCB.13476069793.343496.NAP7047679412.CT tu 1039599478 PHAN MINH TAN toi 0000032377312 HOANG PHU MINH ta i MB- Ma GD ACSP/ fc343496"
+    }
+  ],
+  "lang": "vi"
+}

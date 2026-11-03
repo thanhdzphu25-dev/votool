@@ -1,0 +1,79 @@
+{
+  "id": 2014417723,
+  "username": "HieuMedia07",
+  "full_name": "Nguyễn Minh Hiếu | Hỗ Trợ FB",
+  "created_at": "29/03/2026",
+  "last_seen": "14:31:23 06/08/2026",
+  "balance": 3500,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 16500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER0B74F5BF1786001483",
+      "product_name": "[KEY] HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 5000,
+      "created_time": "14:31:23 06/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCF9A16C11777188335",
+      "product_name": "Key HMA Android/PC 20-30 Ngày",
+      "quantity": 1,
+      "total_money": 4500,
+      "created_time": "14:25:35 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER337DE84E1776674928",
+      "product_name": "CapCut Pro 35D",
+      "quantity": 1,
+      "total_money": 7000,
+      "created_time": "15:48:48 20/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "14:31:16 06/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 5000,
+      "before": 8500,
+      "after": 3500,
+      "note": "Thanh toán 1 x [KEY] HMA Android/PC 20-30 Ngày"
+    },
+    {
+      "time": "14:25:31 26/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 4500,
+      "before": 13000,
+      "after": 8500,
+      "note": "Thanh toán 1 x Key HMA Android/PC 20-30 Ngày"
+    },
+    {
+      "time": "15:48:48 20/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 7000,
+      "before": 20000,
+      "after": 13000,
+      "note": "Thanh toán 1 x CapCut Pro 35D"
+    },
+    {
+      "time": "09:29:12 31/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 20000,
+      "before": 0,
+      "after": 20000,
+      "txid": "FT26090083402277",
+      "note": "CUSTOMER NAP2014417723. TU: NGUYEN MINH HIEU"
+    }
+  ],
+  "lang": "vi"
+}

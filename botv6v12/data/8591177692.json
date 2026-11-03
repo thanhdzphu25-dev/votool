@@ -1,0 +1,16 @@
+{
+  "id": 8591177692,
+  "username": "wizeraven",
+  "full_name": "Sơ Lóc Hôm",
+  "created_at": "23/03/2026",
+  "last_seen": "09:11:56 24/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

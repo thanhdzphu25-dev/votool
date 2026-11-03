@@ -1,0 +1,16 @@
+{
+  "id": 5738805143,
+  "username": null,
+  "full_name": "Thang Chu",
+  "created_at": "21/09/2026",
+  "last_seen": "13:43:34 22/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 5595783249,
+  "username": "HQUAN98",
+  "full_name": "cin",
+  "created_at": "21/04/2026",
+  "last_seen": "07:48:26 26/09/2026",
+  "balance": 1800,
+  "stats": {
+    "total_orders": 6,
+    "done_orders": 6,
+    "total_spent": 136200
+  },
+  "orders": [
+    {
+      "order_code": "ORDER0987664F1787499876",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 16400,
+      "created_time": "22:44:36 23/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0D9E33181786874538",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18200,
+      "created_time": "17:03:08 16/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER42687D711786865098",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18200,
+      "created_time": "14:25:15 16/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6FDC67FD1786678961",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18400,
+      "created_time": "10:44:35 14/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6BA6D0641777215795",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 5,
+      "total_money": 32500,
+      "created_time": "22:03:40 26/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4E6A58311776917337",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 5,
+      "total_money": 32500,
+      "created_time": "11:09:21 23/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "22:44:36 23/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 16400,
+      "before": 18200,
+      "after": 1800,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH8H"
+    },
+    {
+      "time": "17:52:55 16/08/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 18200,
+      "delta": 18200,
+      "before": 0,
+      "after": 18200,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

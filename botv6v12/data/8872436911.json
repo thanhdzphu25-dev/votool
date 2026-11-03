@@ -1,0 +1,25 @@
+{
+  "id": 8872436911,
+  "username": "anchilll",
+  "full_name": "Tạp Hoá Anchilll",
+  "created_at": "06/07/2026",
+  "last_seen": "05:12:23 21/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 14250
+  },
+  "orders": [
+    {
+      "order_code": "ORDER37E034B21784246902",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "07:09:00 17/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1738433660,
+  "username": null,
+  "full_name": "Vũ Thiên Cơ",
+  "created_at": "03/09/2026",
+  "last_seen": "16:24:06 04/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

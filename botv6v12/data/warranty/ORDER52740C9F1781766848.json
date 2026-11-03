@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER52740C9F1781766848",
+  "user_id": 1778264865,
+  "reason": "acc mới log lần đầu bị xác minh sdt luôn r",
+  "photo_file_id": "AgACAgUAAxkBAAED_yJqM9vMQhyQkj_o9SBSfLoS4fRengACyxFrG4JSoFWn1iM0lB_VvgEAAwIAA3kAAzwE",
+  "created_time": "18:51:55 18/06/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "19:55:06 18/06/2026",
+      "sender": "admin:8101416491",
+      "text": "Dùng sdt mình để xác minh hoặc ib mình cho số nhé"
+    }
+  ]
+}

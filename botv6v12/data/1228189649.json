@@ -1,0 +1,89 @@
+{
+  "id": 1228189649,
+  "username": "ducanh98x",
+  "full_name": "David",
+  "created_at": "23/09/2026",
+  "last_seen": "20:39:00 26/09/2026",
+  "balance": 5200,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 94800
+  },
+  "orders": [
+    {
+      "order_code": "ORDER049DCD0B1790429940",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 2,
+      "total_money": 39000,
+      "created_time": "20:39:00 26/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF1391F3B1790138362",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 18600,
+      "created_time": "11:39:22 23/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0E9C2CD21790136282",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 2,
+      "total_money": 37200,
+      "created_time": "11:04:42 23/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "20:39:00 26/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 39000,
+      "before": 44200,
+      "after": 5200,
+      "note": "Thanh toán 2 x Link Gemini Pro 18 Tháng"
+    },
+    {
+      "time": "11:39:22 23/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 18600,
+      "before": 62800,
+      "after": 44200,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng"
+    },
+    {
+      "time": "11:38:40 23/09/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 50000,
+      "before": 12800,
+      "after": 62800,
+      "txid": "FT26266391036973",
+      "note": "NGUYEN DUC ANH NAP1228189649 02W8KLNZ/726410"
+    },
+    {
+      "time": "11:04:42 23/09/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 37200,
+      "before": 50000,
+      "after": 12800,
+      "note": "Thanh toán 2 x Link Gemini Pro 18 Tháng"
+    },
+    {
+      "time": "11:04:19 23/09/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 50000,
+      "before": 0,
+      "after": 50000,
+      "txid": "FT26266016300311",
+      "note": "NGUYEN DUC ANHNAP1228189649 02W8U6B3/508198"
+    }
+  ],
+  "lang": "vi"
+}

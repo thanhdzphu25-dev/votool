@@ -1,0 +1,33 @@
+{
+  "id": 6143031851,
+  "username": "ShopeeVANTINH",
+  "full_name": "𝙋𝙀𝘼 - 𝙃𝙄𝙃𝙄",
+  "created_at": "06/06/2026",
+  "last_seen": "14:25:49 13/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 32490
+  },
+  "orders": [
+    {
+      "order_code": "ORDER81D55EE41784623610",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 14250,
+      "created_time": "15:47:26 21/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER35873D4B1783612476",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18240,
+      "created_time": "22:55:11 09/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

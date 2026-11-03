@@ -1,0 +1,33 @@
+{
+  "id": 6312165231,
+  "username": null,
+  "full_name": "Russhi Trần",
+  "created_at": "03/09/2026",
+  "last_seen": "03:15:33 26/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 34800
+  },
+  "orders": [
+    {
+      "order_code": "ORDER3225CED91789305592",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 15600,
+      "created_time": "20:20:46 13/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCE2C41C11788838883",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 19200,
+      "created_time": "10:42:35 08/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

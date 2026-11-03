@@ -1,0 +1,41 @@
+{
+  "id": 1933968152,
+  "username": "Ken_Wyckoff_VSA",
+  "full_name": "KenBi",
+  "created_at": "02/05/2026",
+  "last_seen": "23:52:38 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 2,
+    "total_spent": 47700
+  },
+  "orders": [
+    {
+      "order_code": "ORDERD72995261789801941",
+      "product_name": "Canva Pro Edu 2 Năm",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "14:13:20 19/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERAE5104521789476989",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 14700,
+      "created_time": "19:57:21 15/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER3F5951891778333912",
+      "product_name": "CHATGPT PLUS 1M KBH",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "20:39:35 09/05/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

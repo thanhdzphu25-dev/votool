@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDERCD10BB781783655574",
+  "user_id": 7638450976,
+  "reason": "Không liên lạc được với người này",
+  "photo_file_id": "AgACAgUAAxkBAAEFmWFqUH5jIWc93i_e7TSPgfyoeoj76AAChxdrGwcfgVaWwVSheSAbQgEAAwIAA3kAAzwE",
+  "created_time": "12:09:28 10/07/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "12:11:15 10/07/2026",
+      "sender": "admin:8101416491",
+      "text": "Gửi email"
+    }
+  ]
+}

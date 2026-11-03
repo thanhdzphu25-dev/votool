@@ -1,0 +1,41 @@
+{
+  "id": 6265978937,
+  "username": "Kmanh1",
+  "full_name": "Manh Khac",
+  "created_at": "12/05/2026",
+  "last_seen": "17:32:00 26/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 171500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER603ADF531781700479",
+      "product_name": "Chatgpt Plus 1 Tháng UPI BH7D",
+      "quantity": 1,
+      "total_money": 75000,
+      "created_time": "19:49:00 17/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC648E3A21779006538",
+      "product_name": "Capcut Pro Team 30-35D | BHF",
+      "quantity": 1,
+      "total_money": 14500,
+      "created_time": "15:29:50 17/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFE1EC7681778548594",
+      "product_name": "Grok Super 1 Tháng | BHF",
+      "quantity": 1,
+      "total_money": 82000,
+      "created_time": "08:17:24 12/05/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,96 @@
+{
+  "id": 5645279587,
+  "username": "Alexdinh07",
+  "full_name": "Alex dinh",
+  "created_at": "22/03/2026",
+  "last_seen": "17:21:40 12/09/2026",
+  "balance": 33500,
+  "stats": {
+    "total_orders": 4,
+    "done_orders": 4,
+    "total_spent": 166500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER53A087E11779167152",
+      "product_name": "CHATGPT PLUS 1M - Trâu BHF",
+      "quantity": 1,
+      "total_money": 149000,
+      "created_time": "12:05:52 19/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB2E8748B1778503846",
+      "product_name": "CHATGPT PLUS 1M KBH",
+      "quantity": 1,
+      "total_money": 6500,
+      "created_time": "19:50:46 11/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERE8138D0C1777943851",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 3500,
+      "created_time": "08:17:31 05/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFEE72C5E1775409674",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "00:21:14 06/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "12:05:52 19/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 149000,
+      "before": 182500,
+      "after": 33500,
+      "note": "Thanh toán 1 x CHATGPT PLUS 1M - Trâu BHF"
+    },
+    {
+      "time": "19:50:46 11/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6500,
+      "before": 189000,
+      "after": 182500,
+      "note": "Thanh toán 1 x CHATGPT PLUS 1M KBH"
+    },
+    {
+      "time": "08:17:29 05/05/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 3500,
+      "before": 192500,
+      "after": 189000,
+      "note": "Thanh toán 1 x CapCut Pro Team 7D | BHF"
+    },
+    {
+      "time": "00:21:14 06/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 7500,
+      "before": 200000,
+      "after": 192500,
+      "note": "Thanh toán 1 x Capcut Pro 35d BHF"
+    },
+    {
+      "time": "21:06:51 04/04/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 200000,
+      "before": 0,
+      "after": 200000,
+      "txid": "FT26094964161359",
+      "note": "CUSTOMER NAP5645279587. TU: DINH VAN HAI"
+    }
+  ],
+  "lang": "vi"
+}

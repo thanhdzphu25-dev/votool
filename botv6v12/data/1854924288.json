@@ -1,0 +1,16 @@
+{
+  "id": 1854924288,
+  "username": "danieltaz",
+  "full_name": "Daniel Talor",
+  "created_at": "08/06/2026",
+  "last_seen": "07:36:32 09/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

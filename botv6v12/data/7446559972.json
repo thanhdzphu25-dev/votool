@@ -1,0 +1,41 @@
+{
+  "id": 7446559972,
+  "username": "vphungd",
+  "full_name": "Vinh Phung",
+  "created_at": "01/07/2026",
+  "last_seen": "12:14:52 03/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 3,
+    "done_orders": 3,
+    "total_spent": 62400
+  },
+  "orders": [
+    {
+      "order_code": "ORDERD751EA3D1783510263",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "18:31:20 08/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9BBC51C71782976353",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 20400,
+      "created_time": "14:14:41 02/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC0E0D9031782872354",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 24000,
+      "created_time": "09:19:47 01/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

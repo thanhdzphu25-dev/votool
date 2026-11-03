@@ -1,0 +1,27 @@
+{
+  "order_code": "ORDER66F9929A1776860004",
+  "user_id": 369787541,
+  "reason": "Vào flow báo lỗi",
+  "photo_file_id": "AgACAgUAAxkBAAEB8Mhp7gUJAoSxuGcYYP0CS0lH-uVryAAC4Q9rG_RicFeR1eApz2vLTAEAAwIAA3kAAzsE",
+  "created_time": "19:29:44 26/04/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "19:30:42 26/04/2026",
+      "sender": "admin:8101416491",
+      "text": "Dùng tab ẩn danh"
+    },
+    {
+      "time": "23:54:43 26/04/2026",
+      "sender": "user:369787541",
+      "text": "Mới mua. Vào flow dùng veo 3 báo lỗi Google Workspace account has been suspended"
+    },
+    {
+      "time": "23:57:05 26/04/2026",
+      "sender": "admin:8101416491",
+      "text": "Gửi ảnh với tk qua tele mình b"
+    }
+  ]
+}

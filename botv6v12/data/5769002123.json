@@ -1,0 +1,32 @@
+{
+  "id": 5769002123,
+  "username": "dtuanddepxau",
+  "full_name": "_NACS_",
+  "created_at": "17/03/2026",
+  "last_seen": "21:24:17 24/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 12000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER0ABA067E1774183629",
+      "product_name": "Chatgpt Bussines 1 Tháng 5 Slot KBH",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "19:47:26 22/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERF96C495E1774181930",
+      "product_name": "Slot Chatgpt Bussines 1 Tháng l BH7D l Trâu",
+      "quantity": 1,
+      "total_money": 3000,
+      "created_time": "19:19:07 22/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": []
+}

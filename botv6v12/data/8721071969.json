@@ -1,0 +1,25 @@
+{
+  "id": 8721071969,
+  "username": null,
+  "full_name": "Minh Quang",
+  "created_at": "01/08/2026",
+  "last_seen": "09:05:25 01/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18200
+  },
+  "orders": [
+    {
+      "order_code": "ORDER863FC9E21787059930",
+      "product_name": "LINK GEMINI PRO 18 THÁNG BH6H",
+      "quantity": 1,
+      "total_money": 18200,
+      "created_time": "20:32:42 18/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

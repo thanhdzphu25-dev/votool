@@ -1,0 +1,16 @@
+{
+  "id": 5001719703,
+  "username": "boss1841990",
+  "full_name": "BOSS",
+  "created_at": "29/07/2026",
+  "last_seen": "11:05:06 06/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

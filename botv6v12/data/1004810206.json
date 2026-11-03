@@ -1,0 +1,16 @@
+{
+  "id": 1004810206,
+  "username": "pvdatdn",
+  "full_name": "Đạt Dng",
+  "created_at": "02/07/2026",
+  "last_seen": "13:55:22 28/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

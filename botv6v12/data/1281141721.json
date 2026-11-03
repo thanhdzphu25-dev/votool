@@ -1,0 +1,25 @@
+{
+  "id": 1281141721,
+  "username": "hipitutu",
+  "full_name": "Hipitutu",
+  "created_at": "03/09/2026",
+  "last_seen": "10:16:19 18/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 28700
+  },
+  "orders": [
+    {
+      "order_code": "ORDER8E3E2AD21788476867",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 28700,
+      "created_time": "06:08:27 04/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

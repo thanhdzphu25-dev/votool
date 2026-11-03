@@ -1,0 +1,16 @@
+{
+  "id": 7935528709,
+  "username": null,
+  "full_name": "gp kimi",
+  "created_at": "23/09/2026",
+  "last_seen": "10:03:42 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

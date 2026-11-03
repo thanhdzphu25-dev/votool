@@ -1,0 +1,16 @@
+{
+  "id": 8820538436,
+  "username": null,
+  "full_name": "Vinh Rau",
+  "created_at": "14/08/2026",
+  "last_seen": "22:15:44 14/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

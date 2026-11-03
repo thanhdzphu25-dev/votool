@@ -1,0 +1,25 @@
+{
+  "id": 8657662643,
+  "username": "haotickblue",
+  "full_name": "Hào Tích Xanh",
+  "created_at": "21/04/2026",
+  "last_seen": "22:36:57 25/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 19000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER8C3C515C1777353062",
+      "product_name": "Grok Super 10-15D | BH 24H",
+      "quantity": 1,
+      "total_money": 19000,
+      "created_time": "12:11:58 28/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

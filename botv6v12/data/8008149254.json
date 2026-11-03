@@ -1,0 +1,33 @@
+{
+  "id": 8008149254,
+  "username": "namhanee",
+  "full_name": "Bingo",
+  "created_at": "22/09/2026",
+  "last_seen": "22:36:08 23/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 68700
+  },
+  "orders": [
+    {
+      "order_code": "ORDER5BABC43D1790177755",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 22200,
+      "created_time": "22:36:08 23/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA501EA331790174586",
+      "product_name": "[BH30D] Capcut Team 30D",
+      "quantity": 1,
+      "total_money": 46500,
+      "created_time": "21:43:46 23/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

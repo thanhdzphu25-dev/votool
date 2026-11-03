@@ -1,0 +1,25 @@
+{
+  "id": 6379003515,
+  "username": "iamdungg",
+  "full_name": "Nguyen Trung Dung",
+  "created_at": "24/09/2026",
+  "last_seen": "01:13:36 27/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 19200
+  },
+  "orders": [
+    {
+      "order_code": "ORDER97F9E2541790446385",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 19200,
+      "created_time": "01:13:36 27/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

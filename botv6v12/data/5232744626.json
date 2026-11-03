@@ -1,0 +1,117 @@
+{
+  "id": 5232744626,
+  "username": "ruacon498",
+  "full_name": "Khầy Hoàng",
+  "created_at": "08/04/2026",
+  "last_seen": "14:30:19 25/08/2026",
+  "balance": 1000,
+  "stats": {
+    "total_orders": 10,
+    "done_orders": 10,
+    "total_spent": 282800
+  },
+  "orders": [
+    {
+      "order_code": "ORDER9A7F351F1786427764",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "12:57:09 11/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCED5E5441786329792",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18200,
+      "created_time": "09:43:44 10/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCD945B231783157229",
+      "product_name": "CapCut Pro 6-7D BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "16:27:59 04/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER95EBA8C11782795883",
+      "product_name": "CapCut Pro 6-7D BHF",
+      "quantity": 1,
+      "total_money": 5400,
+      "created_time": "12:05:12 30/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER64D33C971782147815",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 24000,
+      "created_time": "00:04:01 23/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBD74F9D01782100541",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 28000,
+      "created_time": "10:56:11 22/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER2C58F6921779209775",
+      "product_name": "Youtube Premium 1 Tháng",
+      "quantity": 1,
+      "total_money": 15000,
+      "created_time": "23:56:48 19/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB912553A1779184920",
+      "product_name": "CapCut Pro Team 7D | BHF",
+      "quantity": 1,
+      "total_money": 4200,
+      "created_time": "17:02:35 19/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERAEDB0DDB1778559972",
+      "product_name": "CHATGPT PLUS 1M - Trâu BHF",
+      "quantity": 1,
+      "total_money": 145000,
+      "created_time": "11:26:44 12/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER44F7E96B1777285388",
+      "product_name": "Grok Super 10-15D | BH 24H",
+      "quantity": 1,
+      "total_money": 19000,
+      "created_time": "17:23:08 27/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "17:23:06 27/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 19000,
+      "before": 20000,
+      "after": 1000,
+      "note": "Thanh toán 1 x Grok Super 10-15D | BH 24H"
+    },
+    {
+      "time": "17:21:02 27/04/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 20000,
+      "before": 0,
+      "after": 20000,
+      "txid": "FT26117150898204",
+      "note": "HA DUY HOANG NAP5232744626- Ma GD ACSP/ ai520305"
+    }
+  ],
+  "lang": "vi"
+}

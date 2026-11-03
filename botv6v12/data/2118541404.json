@@ -1,0 +1,96 @@
+{
+  "id": 2118541404,
+  "username": "anandbo111",
+  "full_name": "NP An",
+  "created_at": "09/06/2026",
+  "last_seen": "13:57:04 21/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 5,
+    "done_orders": 5,
+    "total_spent": 269440
+  },
+  "orders": [
+    {
+      "order_code": "ORDER4B55D1421785643422",
+      "product_name": "[BH25D] CapCut Pro 1 Tháng",
+      "quantity": 1,
+      "total_money": 56000,
+      "created_time": "11:04:26 02/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER704FD43A1784253318",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 2,
+      "total_money": 36000,
+      "created_time": "08:55:43 17/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB606D5221783268841",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 2,
+      "total_money": 37440,
+      "created_time": "23:27:21 05/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0E36C38F1782536702",
+      "product_name": "Chatgpt Plus Gmail ApplePay-Card ( BH9D )",
+      "quantity": 1,
+      "total_money": 90000,
+      "created_time": "12:05:28 27/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDEREFC761571780986919",
+      "product_name": "Gemini Pro + 5Tb 1 năm Pixel Trâu KBH",
+      "quantity": 1,
+      "total_money": 50000,
+      "created_time": "13:35:19 09/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "23:27:21 05/07/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 37440,
+      "before": 37440,
+      "after": 0,
+      "note": "Thanh toán 2 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "20:17:27 05/07/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 37440,
+      "delta": 37440,
+      "before": 0,
+      "after": 37440,
+      "reason": ""
+    },
+    {
+      "time": "13:35:19 09/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 50000,
+      "before": 50000,
+      "after": 0,
+      "note": "Thanh toán 1 x Gemini Pro + 5Tb 1 năm Pixel Trâu KBH"
+    },
+    {
+      "time": "12:17:39 09/06/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 50000,
+      "delta": 50000,
+      "before": 0,
+      "after": 50000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

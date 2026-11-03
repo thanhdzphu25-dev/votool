@@ -1,0 +1,44 @@
+{
+  "id": 7212007662,
+  "username": "anthonytran0902",
+  "full_name": "KTV ANTHONY TRAN",
+  "created_at": "29/03/2026",
+  "last_seen": "19:16:00 20/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 6000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER370AE34B1774753857",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "10:10:57 29/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "10:10:55 29/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6000,
+      "before": 6000,
+      "after": 0,
+      "note": "Thanh toán 1 x CapCut Pro Team 35D | BHF"
+    },
+    {
+      "time": "10:10:06 29/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 6000,
+      "before": 0,
+      "after": 6000,
+      "txid": "FT26089784455974",
+      "note": "CUSTOMER NAP7212007662   Ma giao dich  Trace195126 Trace 195126"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "order_code": "ORDER460B6AC01778418790",
+  "user_id": 2008610696,
+  "reason": "tài khoản lỗi đăng nhập",
+  "photo_file_id": "AgACAgUAAxkBAAECwSNqAAGIqbhjhpGvHkGMP6a19G2ns14AAvsSaxuvNAlU1DWIeSbCtYcBAAMCAAN5AAM7BA",
+  "created_time": "20:33:27 10/05/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "20:35:41 10/05/2026",
+      "sender": "admin:8101416491",
+      "text": "Do mạng , b log web thử"
+    }
+  ]
+}

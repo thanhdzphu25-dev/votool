@@ -1,0 +1,15 @@
+{
+  "id": 6557029298,
+  "username": null,
+  "full_name": "Mahesh",
+  "created_at": "06/06/2026",
+  "last_seen": "21:03:26 06/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

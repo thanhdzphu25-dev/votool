@@ -1,0 +1,15 @@
+{
+  "id": 1837584052,
+  "username": null,
+  "full_name": "KY 宝哥",
+  "created_at": "04/05/2026",
+  "last_seen": "02:51:24 04/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

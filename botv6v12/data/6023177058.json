@@ -1,0 +1,25 @@
+{
+  "id": 6023177058,
+  "username": "duongas4",
+  "full_name": "Dươngas Phạm",
+  "created_at": "13/07/2026",
+  "last_seen": "22:40:08 03/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 17760
+  },
+  "orders": [
+    {
+      "order_code": "ORDERF02841C61783933445",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 17760,
+      "created_time": "16:04:45 13/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

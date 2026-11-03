@@ -1,0 +1,25 @@
+{
+  "id": 5782397969,
+  "username": null,
+  "full_name": "Võ Thi",
+  "created_at": "17/09/2026",
+  "last_seen": "07:05:26 18/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 25500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER8E5255271789625812",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 25500,
+      "created_time": "13:18:18 17/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

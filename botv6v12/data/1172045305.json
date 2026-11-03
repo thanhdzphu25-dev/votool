@@ -1,0 +1,25 @@
+{
+  "id": 1172045305,
+  "username": "tuanhien",
+  "full_name": "Tuấn Hiển",
+  "created_at": "22/06/2026",
+  "last_seen": "19:39:44 21/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 20000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER5562D3A01782120275",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 2,
+      "total_money": 20000,
+      "created_time": "16:25:18 22/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

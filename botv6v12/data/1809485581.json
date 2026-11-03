@@ -1,0 +1,25 @@
+{
+  "id": 1809485581,
+  "username": "locs113",
+  "full_name": "John Felix",
+  "created_at": "16/07/2026",
+  "last_seen": "20:35:59 03/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 17760
+  },
+  "orders": [
+    {
+      "order_code": "ORDERDAEEE4071784649939",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 17760,
+      "created_time": "23:06:47 21/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

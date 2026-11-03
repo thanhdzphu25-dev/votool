@@ -1,0 +1,165 @@
+{
+  "id": 5911305918,
+  "username": "VietHung010107",
+  "full_name": "Nguyễn Việt Hùng",
+  "created_at": "13/07/2026",
+  "last_seen": "12:22:09 27/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 16,
+    "done_orders": 16,
+    "total_spent": 317500
+  },
+  "orders": [
+    {
+      "order_code": "ORDERC3B569791789737444",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 21000,
+      "created_time": "20:18:54 18/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7DD49C4A1789529683",
+      "product_name": "[BH30D] Capcut Team 30D",
+      "quantity": 1,
+      "total_money": 46500,
+      "created_time": "10:35:19 16/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER8F6048D01788151046",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 12800,
+      "created_time": "11:38:00 31/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA767B1341788072391",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 13000,
+      "created_time": "13:47:14 30/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0954FFAA1787678421",
+      "product_name": "Capcut Pro Acc Cấp 30D",
+      "quantity": 1,
+      "total_money": 48000,
+      "created_time": "00:20:51 26/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCEF434D91787413231",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "22:41:02 22/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER64224DAE1786823447",
+      "product_name": "Voucher Tạo Stk Đẹp Mbbank 25m",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "02:51:21 16/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBA93473D1786766471",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "11:01:42 15/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER63D4062A1786592936",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18200,
+      "created_time": "10:49:35 13/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFBD8E8411786160210",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18600,
+      "created_time": "10:37:27 08/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4F9C3E741786153061",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18600,
+      "created_time": "08:38:24 08/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERBFBC7E451786080695",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18800,
+      "created_time": "12:32:07 07/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER5DB8432D1786002798",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18800,
+      "created_time": "14:53:47 06/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERFB62F5981785776335",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 19200,
+      "created_time": "23:58:55 03/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER1E5B8C831784266998",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "12:47:07 17/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0385B1A41784266638",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18000,
+      "created_time": "12:37:48 17/07/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "23:58:55 03/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 19200,
+      "before": 19200,
+      "after": 0,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "23:58:35 03/08/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 19200,
+      "delta": 19200,
+      "before": 0,
+      "after": 19200,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

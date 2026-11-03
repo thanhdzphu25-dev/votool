@@ -1,0 +1,25 @@
+{
+  "id": 8113060948,
+  "username": "tungcua",
+  "full_name": "Vinh Trần",
+  "created_at": "30/06/2026",
+  "last_seen": "09:25:32 25/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 9000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER6F70F68F1786986663",
+      "product_name": "Voucher Tạo Stk Đẹp Mbbank 25m",
+      "quantity": 1,
+      "total_money": 9000,
+      "created_time": "00:11:52 18/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

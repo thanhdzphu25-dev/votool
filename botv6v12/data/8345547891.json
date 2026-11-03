@@ -1,0 +1,104 @@
+{
+  "id": 8345547891,
+  "username": "tr_hung16",
+  "full_name": "𝙏𝙧𝙤̣𝙣𝙜 𝙃𝙪̀𝙣𝙜",
+  "created_at": "25/03/2026",
+  "last_seen": "13:03:24 23/05/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 5,
+    "done_orders": 5,
+    "total_spent": 42500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER920F705D1776230581",
+      "product_name": "Voucher Tạo Stk Đẹp Mbbank 25m",
+      "quantity": 1,
+      "total_money": 12000,
+      "created_time": "12:23:01 15/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9B4AAEE21775989450",
+      "product_name": "Capcut Pro 35d BHF",
+      "quantity": 1,
+      "total_money": 7500,
+      "created_time": "17:24:43 12/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER90CFF5231775566187",
+      "product_name": "Grok Super 1 Tháng | KBH",
+      "quantity": 1,
+      "total_money": 11000,
+      "created_time": "19:50:57 07/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER99ED29311774628611",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "23:23:31 27/03/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC052CA501774628410",
+      "product_name": "CapCut Pro Team 35D | BHF",
+      "quantity": 1,
+      "total_money": 6000,
+      "created_time": "23:20:10 27/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "12:23:01 15/04/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 12000,
+      "before": 12000,
+      "after": 0,
+      "note": "Thanh toán 1 x Voucher Tạo Stk Đẹp Mbbank 25m"
+    },
+    {
+      "time": "12:22:44 15/04/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 5000,
+      "before": 7000,
+      "after": 12000,
+      "txid": "FT26105736297610",
+      "note": "CONG TY CO PHAN DICH VU DI DONG TRU125366664961-NAP8345547891-CHUYEN T IEN-OQCH0009zckQ-MOMO125366664961MO MO. TU: M SERVICE JSC"
+    },
+    {
+      "time": "23:23:29 27/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6000,
+      "before": 13000,
+      "after": 7000,
+      "note": "Thanh toán 1 x CapCut Pro Team 35D | BHF"
+    },
+    {
+      "time": "23:20:08 27/03/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 6000,
+      "before": 19000,
+      "after": 13000,
+      "note": "Thanh toán 1 x CapCut Pro Team 35D | BHF"
+    },
+    {
+      "time": "23:19:45 27/03/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 19000,
+      "before": 0,
+      "after": 19000,
+      "txid": "FT26086424520963",
+      "note": "CUSTOMER NAP8345547891. TU: DOAN TRONG HUNG"
+    }
+  ]
+}

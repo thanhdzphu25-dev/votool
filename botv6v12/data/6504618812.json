@@ -1,0 +1,73 @@
+{
+  "id": 6504618812,
+  "username": "vannang3001",
+  "full_name": "Năng Văn",
+  "created_at": "19/03/2026",
+  "last_seen": "03:19:03 27/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 7,
+    "done_orders": 7,
+    "total_spent": 297400
+  },
+  "orders": [
+    {
+      "order_code": "ORDER6E27DFF51783199409",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 2,
+      "total_money": 38400,
+      "created_time": "04:11:52 05/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER73E107FB1780329770",
+      "product_name": "Link Gemini Pro 18 Tháng KBH",
+      "quantity": 1,
+      "total_money": 48000,
+      "created_time": "23:03:13 01/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD1D1EB941778230076",
+      "product_name": "LINK - Gemini AI Pro 18 Tháng | BH 4M",
+      "quantity": 1,
+      "total_money": 60000,
+      "created_time": "15:48:53 08/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER159FEC841778144851",
+      "product_name": "LINK - Gemini AI Pro 18 Tháng | BH 4M",
+      "quantity": 1,
+      "total_money": 60000,
+      "created_time": "16:08:17 07/05/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA3540EE51775821335",
+      "product_name": "Veo 3 Ultra 25k Credit BH24H",
+      "quantity": 1,
+      "total_money": 26000,
+      "created_time": "18:43:27 10/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER9761D9411775618374",
+      "product_name": "Grok Heavy 1 Year KBH",
+      "quantity": 2,
+      "total_money": 30000,
+      "created_time": "10:20:29 08/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER7F2688691775051646",
+      "product_name": "Grok Heavy 1 Năm | KBH",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "20:55:00 01/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

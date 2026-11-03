@@ -1,0 +1,24 @@
+{
+  "id": 1380344648,
+  "username": "duybanit",
+  "full_name": "Duy Ban",
+  "created_at": "27/05/2026",
+  "last_seen": "08:17:12 26/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 10000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER1AB5EEA51779872704",
+      "product_name": "Canva Pro Edu 1 Năm ( Tk Chính Chủ)",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "16:06:01 27/05/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": []
+}

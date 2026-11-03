@@ -1,0 +1,33 @@
+{
+  "id": 6211658128,
+  "username": null,
+  "full_name": "Phong bị ám 👻",
+  "created_at": "30/06/2026",
+  "last_seen": "23:25:43 25/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 56120
+  },
+  "orders": [
+    {
+      "order_code": "ORDER3880A1541782797121",
+      "product_name": "ChatGpt Plus Hàng Icloud Trâu KBH",
+      "quantity": 1,
+      "total_money": 35000,
+      "created_time": "12:26:16 30/06/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4539C04C1782796017",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 21120,
+      "created_time": "12:08:18 30/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

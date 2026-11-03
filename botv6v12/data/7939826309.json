@@ -1,0 +1,15 @@
+{
+  "id": 7939826309,
+  "username": "NanoError",
+  "full_name": "Minivirus",
+  "created_at": "06/06/2026",
+  "last_seen": "22:37:53 06/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

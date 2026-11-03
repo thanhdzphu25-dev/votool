@@ -1,0 +1,16 @@
+{
+  "id": 251118681,
+  "username": "KienTrinh",
+  "full_name": "Kien Trinh",
+  "created_at": "16/07/2026",
+  "last_seen": "15:20:54 05/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

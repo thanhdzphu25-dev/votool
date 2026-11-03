@@ -1,0 +1,25 @@
+{
+  "id": 7524985999,
+  "username": null,
+  "full_name": "john",
+  "created_at": "05/09/2026",
+  "last_seen": "18:11:43 06/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 66400
+  },
+  "orders": [
+    {
+      "order_code": "ORDER3CC9CC9E1788590094",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 2,
+      "total_money": 66400,
+      "created_time": "13:35:20 05/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

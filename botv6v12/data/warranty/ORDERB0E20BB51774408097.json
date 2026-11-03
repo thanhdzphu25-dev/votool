@@ -1,0 +1,19 @@
+{
+  "order_code": "ORDERB0E20BB51774408097",
+  "user_id": 5177742071,
+  "reason": "mã dùng 1 lần ở đâu",
+  "photo_file_id": "AgACAgUAAxkBAAJbeWnDUjamPEWUcR_c-3TPnORoNB2EAAK_DWsb5gEZVrfMYCD7jZ05AQADAgADeAADOgQ",
+  "created_time": "10:11:12 25/03/2026",
+  "status": "pending",
+  "closed": true,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "10:14:55 25/03/2026",
+      "sender": "admin:8101416491",
+      "text": "check tin nhắn của ad nhé"
+    }
+  ],
+  "closed_time": "10:15:16 25/03/2026",
+  "closed_by": 8101416491
+}

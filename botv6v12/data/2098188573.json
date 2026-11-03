@@ -1,0 +1,16 @@
+{
+  "id": 2098188573,
+  "username": "nhin_cai_gi_ma_nhin_ha",
+  "full_name": "Vance Blank",
+  "created_at": "03/09/2026",
+  "last_seen": "16:31:59 10/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

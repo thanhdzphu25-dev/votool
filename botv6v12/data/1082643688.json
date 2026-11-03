@@ -1,0 +1,25 @@
+{
+  "id": 1082643688,
+  "username": "Annd67",
+  "full_name": "An Nguyễn",
+  "created_at": "10/08/2026",
+  "last_seen": "18:21:32 26/08/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 18200
+  },
+  "orders": [
+    {
+      "order_code": "ORDER434412251786329822",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18200,
+      "created_time": "09:45:42 10/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

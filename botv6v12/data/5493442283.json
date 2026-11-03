@@ -1,0 +1,25 @@
+{
+  "id": 5493442283,
+  "username": "hungits",
+  "full_name": "Hùng Nguyễn Trọng",
+  "created_at": "16/09/2026",
+  "last_seen": "16:46:53 22/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 25500
+  },
+  "orders": [
+    {
+      "order_code": "ORDER8427DEF31789619665",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 1,
+      "total_money": 25500,
+      "created_time": "11:35:16 17/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

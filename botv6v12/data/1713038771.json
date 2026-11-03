@@ -1,0 +1,72 @@
+{
+  "id": 1713038771,
+  "username": "nmdung9x",
+  "full_name": "Dung Nguyen",
+  "created_at": "07/08/2026",
+  "last_seen": "17:02:31 10/09/2026",
+  "balance": 4200,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 55800
+  },
+  "orders": [
+    {
+      "order_code": "ORDER0990928C1786591964",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 1,
+      "total_money": 18200,
+      "created_time": "10:32:44 13/08/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER0C0EBA121786071080",
+      "product_name": "Link Gemini Pro 18 Tháng BH12H",
+      "quantity": 2,
+      "total_money": 37600,
+      "created_time": "09:51:20 07/08/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "10:32:44 13/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 18200,
+      "before": 22400,
+      "after": 4200,
+      "note": "Thanh toán 1 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "10:32:24 13/08/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 10000,
+      "before": 12400,
+      "after": 22400,
+      "txid": "FT26225833738569",
+      "note": "NGUYEN MANH DUNGNAP1713038771- Ma GD ACSP/ zi358434"
+    },
+    {
+      "time": "09:51:19 07/08/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 37600,
+      "before": 50000,
+      "after": 12400,
+      "note": "Thanh toán 2 x Link Gemini Pro 18 Tháng BH12H"
+    },
+    {
+      "time": "09:50:45 07/08/2026",
+      "type": "credit",
+      "source": "mbbank_api",
+      "amount": 50000,
+      "before": 0,
+      "after": 50000,
+      "txid": "FT26219103400744",
+      "note": "NGUYEN MANH DUNG MBVCB.15460883620.167681.NAP1713038771.CT tu 1066355968 NGUYEN MANH DUNG toi 0000032377312 HOANG PHU MINH tai MB- Ma GD ACSP/ fn167681"
+    }
+  ],
+  "lang": "vi"
+}

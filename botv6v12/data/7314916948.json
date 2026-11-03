@@ -1,0 +1,16 @@
+{
+  "id": 7314916948,
+  "username": "Cris9999999",
+  "full_name": "Cris",
+  "created_at": "22/09/2026",
+  "last_seen": "14:05:44 25/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,72 @@
+{
+  "id": 7481176582,
+  "username": "Patrick_Tech_Fullapp",
+  "full_name": "Anh Phú Patrick Tech",
+  "created_at": "23/03/2026",
+  "last_seen": "14:57:59 07/06/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 7,
+    "done_orders": 7,
+    "total_spent": 199000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER295ABA791775977699",
+      "product_name": "Veo 3 Ultra + AntiGravity 25K Credit BH24H",
+      "quantity": 1,
+      "total_money": 25000,
+      "created_time": "14:10:05 12/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER4140C5BA1775154505",
+      "product_name": "Chatgpt Plus 1 Tháng KBH",
+      "quantity": 1,
+      "total_money": 10000,
+      "created_time": "01:28:51 03/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERD67B2BB51775154402",
+      "product_name": "Chatgpt Plus Date 27/04 KBH",
+      "quantity": 2,
+      "total_money": 10000,
+      "created_time": "01:27:42 03/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERCE1642991775125059",
+      "product_name": "Grok Super 23-28 Ngày | KBH",
+      "quantity": 2,
+      "total_money": 12000,
+      "created_time": "17:18:54 02/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER2647F8B41775117363",
+      "product_name": "Grok Super 23-28 Ngày | KBH",
+      "quantity": 2,
+      "total_money": 12000,
+      "created_time": "15:10:29 02/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER18CD3C3F1775034085",
+      "product_name": "Grok Heavy 1 Năm | KBH",
+      "quantity": 2,
+      "total_money": 70000,
+      "created_time": "16:02:07 01/04/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERA347A97E1774765942",
+      "product_name": "Chatgpt Bussines 5 Slot KBH",
+      "quantity": 2,
+      "total_money": 60000,
+      "created_time": "13:33:26 29/03/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": []
+}

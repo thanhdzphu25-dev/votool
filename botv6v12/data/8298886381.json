@@ -1,0 +1,69 @@
+{
+  "id": 8298886381,
+  "username": "kendeveloper6789",
+  "full_name": "Ken Developer",
+  "created_at": "06/06/2026",
+  "last_seen": "19:34:43 17/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 4,
+    "done_orders": 4,
+    "total_spent": 433000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER9E0A8CD81784470191",
+      "product_name": "ChatGpt Plus 1 Tháng BHF - Trâu",
+      "quantity": 1,
+      "total_money": 117000,
+      "created_time": "21:10:34 19/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER6122B38A1783915394",
+      "product_name": "ChatGpt Plus 1 Tháng BHF - Trâu",
+      "quantity": 1,
+      "total_money": 150000,
+      "created_time": "11:03:51 13/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERB2B73FC81783782913",
+      "product_name": "ChatGpt Plus 1 Tháng BHF - Trâu",
+      "quantity": 1,
+      "total_money": 120000,
+      "created_time": "22:16:07 11/07/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDER04450D481781619450",
+      "product_name": "Gemini Pro Pixel 12 Tháng + 5TB KBH",
+      "quantity": 1,
+      "total_money": 46000,
+      "created_time": "21:17:30 16/06/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [
+    {
+      "time": "21:17:30 16/06/2026",
+      "type": "debit",
+      "source": "wallet_pay",
+      "amount": 46000,
+      "before": 46000,
+      "after": 0,
+      "note": "Thanh toán 1 x Gemini Pro Pixel 12 Tháng + 5TB KBH"
+    },
+    {
+      "time": "21:16:41 16/06/2026",
+      "admin_id": 8101416491,
+      "type": "cong",
+      "amount": 46000,
+      "delta": 46000,
+      "before": 0,
+      "after": 46000,
+      "reason": ""
+    }
+  ],
+  "lang": "vi"
+}

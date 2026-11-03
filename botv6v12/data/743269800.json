@@ -1,0 +1,33 @@
+{
+  "id": 743269800,
+  "username": "bradleytran",
+  "full_name": "BradleyTran",
+  "created_at": "03/09/2026",
+  "last_seen": "02:56:29 18/09/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 2,
+    "done_orders": 2,
+    "total_spent": 63600
+  },
+  "orders": [
+    {
+      "order_code": "ORDERB0E008371789196582",
+      "product_name": "Link Gemini Pro 18 Tháng",
+      "quantity": 2,
+      "total_money": 32400,
+      "created_time": "14:03:32 12/09/2026",
+      "status": "✅ Đã hoàn thành"
+    },
+    {
+      "order_code": "ORDERC86F72101788704921",
+      "product_name": "Link Gemini Pro 18 Tháng BH8H",
+      "quantity": 1,
+      "total_money": 31200,
+      "created_time": "21:29:04 06/09/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

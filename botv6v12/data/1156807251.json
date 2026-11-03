@@ -1,0 +1,15 @@
+{
+  "id": 1156807251,
+  "username": "tienbar3",
+  "full_name": "tom crius",
+  "created_at": "27/03/2026",
+  "last_seen": "17:12:49 27/03/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 0,
+    "done_orders": 0,
+    "total_spent": 0
+  },
+  "orders": [],
+  "wallet_logs": []
+}

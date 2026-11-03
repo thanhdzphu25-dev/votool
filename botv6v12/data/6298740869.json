@@ -1,0 +1,25 @@
+{
+  "id": 6298740869,
+  "username": "trahoa2610",
+  "full_name": "Tra Hoa",
+  "created_at": "16/03/2026",
+  "last_seen": "13:16:28 28/07/2026",
+  "balance": 0,
+  "stats": {
+    "total_orders": 1,
+    "done_orders": 1,
+    "total_spent": 33000
+  },
+  "orders": [
+    {
+      "order_code": "ORDER3F732CCA1776785402",
+      "product_name": "Chatgpt Plus 1Th Auto Bh Gói",
+      "quantity": 1,
+      "total_money": 33000,
+      "created_time": "22:30:50 21/04/2026",
+      "status": "✅ Đã hoàn thành"
+    }
+  ],
+  "wallet_logs": [],
+  "lang": "vi"
+}

@@ -1,0 +1,22 @@
+{
+  "order_code": "ORDER3FF006631788341027",
+  "user_id": 6521863361,
+  "reason": "e log có đt và máy tính thì bị này, bác ktra giúp e",
+  "photo_file_id": "AgACAgUAAxkBAAEKFgpqmCkgdXDEkK-qoIBqR2Bq4R7Z2AACSBVrG2XJyFQOtMROXY6kBwEAAwIAA3kAAz0E",
+  "created_time": "20:48:20 02/09/2026",
+  "status": "pending",
+  "closed": false,
+  "close_reason": "",
+  "chat_messages": [
+    {
+      "time": "21:14:02 02/09/2026",
+      "sender": "admin:8101416491",
+      "text": "Log những gì r b"
+    },
+    {
+      "time": "21:18:14 02/09/2026",
+      "sender": "user:6521863361",
+      "text": "mình log 1 máy tính 1 điện thoại. Tổng 2 thiết bị"
+    }
+  ]
+}
