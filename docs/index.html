@@ -1,0 +1,1006 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<title>Votol Loli — Direct BT</title>
+<style>
+/* ── Variables ── */
+:root{--bg:#000000;--bg2:#0a0a0a;--bg3:#161616;--bg4:#222222;
+--acc:#00ff88;--acc2:#ffb300;--red:#ff3b30;--blue:#0a84ff;--purple:#bf5af2;
+--txt:#f2f2f2;--txt2:#8e8e93;--border:#2c2c2c}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}
+body{background:var(--bg);color:var(--txt);font-family:'Consolas','Courier New',monospace;font-size:12px}
+
+/* ── Header ── */
+#wp-bg-layer{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-1;
+  background-size:cover;background-position:center;background-repeat:no-repeat;
+  pointer-events:none}
+.hdr{background:var(--panel-bg,var(--bg2));border-bottom:1px solid var(--border);padding:5px 12px;
+  display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.hdr-logo{font-size:14px;font-weight:700;color:var(--acc);letter-spacing:2px}
+.sw-ver{font-size:10px;color:var(--txt2);margin-left:auto}
+#prog-bar{height:2px;background:var(--bg3)}
+#prog-fill{height:100%;background:var(--acc);width:0%;transition:width .3s}
+
+/* ── Connection row ── */
+.conn-row{display:flex;align-items:center;gap:6px;flex-wrap:wrap;padding:5px 10px;
+  background:var(--panel-bg3,var(--bg3));border-bottom:1px solid var(--border)}
+.conn-dot{width:8px;height:8px;border-radius:50%;background:var(--red);flex-shrink:0;transition:.3s}
+.conn-dot.ok{background:var(--acc);box-shadow:0 0 6px var(--acc)}
+.statusbar{background:var(--bg);border:1px solid var(--border);border-radius:3px;
+  padding:2px 8px;font-size:11px;min-height:20px;color:var(--txt2);flex:1;min-width:120px;
+  overflow-wrap:anywhere;word-break:break-word;white-space:normal}
+.statusbar.ok{color:var(--acc)}.statusbar.err{color:var(--red)}
+
+/* ── BT Panel ── */
+.bt-panel-title{color:var(--acc2);font-size:10px;font-weight:700;letter-spacing:1px;
+  text-transform:uppercase;margin-bottom:6px}
+.bt-actions{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}
+.bt-device-list{display:flex;flex-direction:column;gap:3px;max-height:220px;overflow-y:auto}
+.bt-item{display:flex;align-items:center;justify-content:space-between;
+  background:var(--bg3);border:1px solid var(--border);border-radius:4px;padding:5px 9px;cursor:pointer;
+  width:100%;box-sizing:border-box;font:inherit;text-align:left;color:inherit;-webkit-appearance:none;appearance:none}
+.bt-item-priority{border-color:var(--red)}
+.bt-item-priority .bt-name{color:var(--red)}
+.bt-item:hover,.bt-item.selected{border-color:var(--acc)}
+.bt-item:active{border-color:var(--acc);background:#00e67615}
+.bt-item.selected{background:#00e67610}
+.bt-item.selected .bt-name{color:var(--acc)}
+.bt-item-info{display:flex;flex-direction:column;gap:1px}
+.bt-select-hint{pointer-events:none}
+.bt-name{font-size:12px;font-weight:700;color:var(--txt)}
+.bt-addr{font-size:10px;color:var(--txt2)}
+.bt-scanning,.bt-empty{color:var(--txt2);font-size:11px;padding:4px 0}
+.bt-badge{font-size:9px;font-weight:700;border:1px solid;border-radius:3px;padding:1px 5px;
+  white-space:nowrap;flex-shrink:0}
+.baud-box{margin-top:10px;background:var(--panel-bg3,var(--bg3));border-radius:4px;padding:8px 9px;
+  font-size:10px;color:var(--txt2);transition:opacity .25s}
+.baud-box.locked{opacity:.45;pointer-events:none}
+.baud-select{background:var(--bg3);border:1px solid var(--border);color:var(--txt);
+  padding:4px 8px;border-radius:3px;font-family:inherit;font-size:12px;font-weight:700;
+  width:130px;transition:.15s;cursor:pointer}
+.baud-select:focus{outline:none;border-color:var(--acc)}
+.baud-select:not(:disabled):hover{border-color:var(--acc)}
+@keyframes spin{to{transform:rotate(360deg)}}
+.spin{display:inline-block;animation:spin 1s linear infinite}
+
+/* ── Color Picker tùy chỉnh ── */
+.color-picker-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:6px}
+.color-row{display:flex;align-items:center;gap:8px;padding:6px 8px;
+  background:var(--bg3);border:1px solid var(--border);border-radius:5px}
+.color-row label{color:var(--txt2);font-size:11px;flex:1;min-width:0}
+.color-swatch{width:28px;height:28px;border-radius:4px;border:2px solid var(--border);
+  cursor:pointer;flex-shrink:0;position:relative;overflow:hidden;transition:.15s}
+.color-swatch:hover{border-color:var(--acc);transform:scale(1.1)}
+.color-swatch input[type=color]{
+  position:absolute;top:-4px;left:-4px;width:calc(100%+8px);height:calc(100%+8px);
+  opacity:0;cursor:pointer;border:none;padding:0}
+.custom-theme-note{font-size:10px;color:var(--txt2);margin-top:6px;line-height:1.5}
+
+/* ── Tabs ── */
+.tabs{display:flex;background:var(--panel-bg,var(--bg2));border-bottom:2px solid var(--border);overflow-x:auto}
+.tab{padding:7px 13px;cursor:pointer;color:var(--txt2);border-bottom:3px solid transparent;
+  transition:.15s;font-size:11px;font-weight:700;letter-spacing:.5px;white-space:nowrap;flex-shrink:0}
+.tab:hover{color:var(--txt);background:var(--bg3)}
+.tab.active{color:var(--acc);border-bottom-color:var(--acc)}
+
+/* ── Pages ── */
+.page{display:none;padding:8px 10px}
+.page.active{display:block}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+@media(max-width:550px){.row2{grid-template-columns:1fr}}
+.sect{background:var(--panel-bg,var(--bg2));border:1px solid var(--border);border-radius:5px;padding:7px 9px;margin-bottom:7px}
+.sect-title{color:var(--acc2);font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;
+  margin-bottom:6px;padding-bottom:3px;border-bottom:1px solid var(--border)}
+
+/* ── Fields ── */
+.field{display:flex;align-items:center;margin-bottom:4px;gap:5px}
+.field label{color:var(--txt2);min-width:130px;flex-shrink:0;font-size:11px}
+.field-w label{min-width:170px}
+.field input[type=number],.field input[type=text],.field select{
+  background:var(--bg3);border:1px solid var(--border);color:var(--txt);
+  padding:2px 6px;border-radius:3px;font-family:inherit;font-size:12px;width:85px;transition:.15s}
+.field input:focus,.field select:focus{outline:none;border-color:var(--acc)}
+.field input[readonly]{background:var(--bg);color:var(--txt2)}
+.field .unit{color:var(--txt2);font-size:10px}
+.field input[type=checkbox]{accent-color:var(--acc);width:13px;height:13px;cursor:pointer}
+.field .rg{display:flex;gap:8px}
+.field .rg label{min-width:0;cursor:pointer;display:flex;align-items:center;gap:3px;color:var(--txt)}
+.field input[type=radio]{accent-color:var(--acc);cursor:pointer}
+.field select{width:110px}
+
+/* ── Tip Tool (gợi ý tham số) ── */
+.tip-ic{display:none;align-items:center;justify-content:center;width:15px;height:15px;
+  border-radius:50%;background:var(--acc2);color:#000;font-weight:700;font-size:10px;
+  font-style:normal;cursor:pointer;flex-shrink:0;margin:0 2px;line-height:1;user-select:none}
+body.tips-on .tip-ic{display:inline-flex}
+.tip-ic:active{transform:scale(.88)}
+.tiptool-toggle{accent-color:var(--acc);width:14px;height:14px;cursor:pointer}
+.tip-modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,.65);display:none;
+  align-items:center;justify-content:center;z-index:9999;padding:22px}
+.tip-modal-overlay.show{display:flex}
+.tip-modal{background:var(--bg2);border:1px solid var(--acc2);border-radius:8px;
+  padding:12px 14px;max-width:340px;width:100%;max-height:70vh;overflow-y:auto;
+  box-shadow:0 8px 30px rgba(0,0,0,.6)}
+.tip-modal-head{display:flex;align-items:center;justify-content:space-between;gap:8px;
+  margin-bottom:8px;padding-bottom:6px;border-bottom:1px solid var(--border)}
+.tip-modal-title{color:var(--acc2);font-weight:700;font-size:12px;line-height:1.4}
+.tip-modal-x{cursor:pointer;color:var(--txt2);font-size:20px;line-height:1;padding:0 3px;flex-shrink:0}
+.tip-modal-x:hover{color:var(--red)}
+.tip-modal-body{font-size:12px;color:var(--txt);line-height:1.65;white-space:pre-line}
+.usb-dlg{background:var(--bg2);border:1px solid var(--acc2);border-radius:8px;
+  width:100%;max-width:340px;max-height:80vh;overflow-y:auto}
+.usb-dlg-title{color:var(--acc2);font-weight:700;font-size:12px;padding:14px 16px;border-bottom:1px solid var(--border)}
+.usb-dlg-item{display:flex;align-items:center;justify-content:space-between;
+  padding:13px 16px;font-size:13px;color:var(--txt);cursor:pointer;border-top:1px solid var(--border)}
+.usb-dlg-item:first-child{border-top:none}
+.usb-dlg-item:hover{background:var(--bg3)}
+.usb-dlg-radio{width:16px;height:16px;border-radius:50%;border:2px solid var(--border);flex-shrink:0}
+.usb-dlg-item.selected{color:var(--acc)}
+.usb-dlg-item.selected .usb-dlg-radio{border-color:var(--acc);
+  box-shadow:inset 0 0 0 3px var(--bg2), inset 0 0 0 5px var(--acc)}
+
+/* ── Buttons ── */
+.btn{padding:4px 12px;border:none;border-radius:3px;cursor:pointer;font-family:inherit;
+  font-size:11px;font-weight:700;transition:.15s;letter-spacing:.5px;flex-shrink:0}
+.btn-acc{background:var(--acc);color:#000}.btn-acc:hover{filter:brightness(1.1)}
+.btn-warn{background:var(--acc2);color:#000}.btn-warn:hover{filter:brightness(1.1)}
+.btn-red{background:var(--red);color:#fff}.btn-red:hover{filter:brightness(1.1)}
+.btn-blue{background:var(--blue);color:#000}.btn-blue:hover{filter:brightness(1.1)}
+.btn-ghost{background:transparent;border:1px solid var(--border);color:var(--txt2)}
+.btn-ghost:hover{border-color:var(--acc);color:var(--acc)}
+.btn-sm{padding:2px 8px;font-size:10px}
+.btn:disabled{opacity:.4;cursor:not-allowed;pointer-events:none}
+
+/* ── Display gauges ── */
+.gauge-row{display:flex;gap:8px;margin-bottom:8px;flex-wrap:wrap}
+.gauge{background:var(--bg2);border:1px solid var(--border);border-radius:5px;
+  padding:8px;flex:1;min-width:90px;text-align:center}
+.gauge-val{font-size:28px;font-weight:700;line-height:1;margin:3px 0}
+.gauge-lbl{font-size:9px;color:var(--txt2);letter-spacing:1px;text-transform:uppercase}
+.gauge-unit{font-size:11px;color:var(--txt2)}
+.gauge.rpm  .gauge-val{color:var(--acc)}
+.gauge.volt .gauge-val{color:var(--blue)}
+.gauge.cur  .gauge-val{color:var(--acc2)}
+.gauge.temp .gauge-val{color:var(--purple)}
+.gauge.speed .gauge-val{color:var(--acc)}
+
+/* ── Scope: đồ thị cuộn theo thời gian, gộp chung 1 lưới (Volt/Cur/Power/RPM) ── */
+.scope-wrap{display:flex;gap:10px;align-items:stretch}
+.scope-legend{display:flex;flex-direction:column;gap:12px;min-width:106px;flex-shrink:0;justify-content:center}
+.scope-legend-item{line-height:1.3}
+.scope-val{font-size:16px;font-weight:700;font-variant-numeric:tabular-nums}
+.scope-lbl{font-size:9px;color:var(--txt2);letter-spacing:.3px;margin-top:1px}
+.scope-range{font-size:9px;color:var(--txt2);opacity:.7;font-variant-numeric:tabular-nums;margin-top:1px}
+.scope-legend-item[data-ch=volt]  .scope-val{color:var(--blue)}
+.scope-legend-item[data-ch=cur]   .scope-val{color:var(--acc2)}
+.scope-legend-item[data-ch=power] .scope-val{color:var(--red)}
+.scope-legend-item[data-ch=rpm]   .scope-val{color:var(--acc)}
+.scope-graph{flex:1;min-width:0;background:var(--bg);border:1px solid var(--border);border-radius:4px;overflow:hidden}
+.scope-canvas-main{width:100%;height:230px;display:block}
+@media(max-width:480px){
+  .scope-wrap{flex-direction:column}
+  .scope-legend{flex-direction:row;flex-wrap:wrap;gap:8px 16px;min-width:0}
+  .scope-canvas-main{height:190px}
+}
+
+/* ── Fault list ── */
+.fault-list{display:grid;grid-template-columns:1fr 1fr;gap:2px}
+.fault-item{padding:2px 6px;border-radius:3px;border:1px solid var(--border);
+  font-size:10px;display:flex;align-items:center;gap:4px}
+.fault-item.active{background:#f8514922;border-color:var(--red);color:var(--red)}
+.fault-item .dot{width:5px;height:5px;border-radius:50%;background:var(--border);flex-shrink:0}
+.fault-item.active .dot{background:var(--red)}
+
+/* ── Stat / Gear ── */
+.stat-badge{display:inline-block;padding:1px 8px;border-radius:3px;font-size:12px;
+  font-weight:700;border:1px solid var(--border);background:var(--bg3);color:var(--txt2)}
+.stat-badge.run  {background:#00e67622;border-color:var(--acc);color:var(--acc)}
+.stat-badge.fault{background:#f8514922;border-color:var(--red);color:var(--red)}
+.stat-badge.brake{background:#ffab0022;border-color:var(--acc2);color:var(--acc2)}
+.gear-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:3px;margin-top:5px}
+.gear-btn{background:var(--bg3);border:1px solid var(--border);border-radius:3px;
+  padding:3px;text-align:center;font-weight:700;font-size:12px;color:var(--txt2)}
+.gear-btn.active{background:#00e67622;border-color:var(--acc);color:var(--acc)}
+
+/* ── Port Settings ── */
+.pin-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}
+@media(max-width:700px){.pin-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:400px){.pin-grid{grid-template-columns:1fr}}
+.pin-card{background:var(--bg2);border:1px solid var(--border);border-radius:4px;padding:6px}
+.pin-name{color:var(--blue);font-size:10px;font-weight:700;margin-bottom:4px}
+.pin-row{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:3px}
+.pin-cb{display:flex;align-items:center;gap:2px;font-size:10px;color:var(--txt2);cursor:pointer}
+.pin-cb input{accent-color:var(--acc);width:11px;height:11px}
+.pin-mode{display:flex;gap:6px;margin-bottom:3px}
+.pin-mode label{font-size:10px;color:var(--txt2);cursor:pointer;display:flex;align-items:center;gap:2px}
+.pin-mode input[type=radio]{accent-color:var(--acc2);width:11px;height:11px}
+.pin-func select{background:var(--bg3);border:1px solid var(--border);color:var(--txt);
+  padding:2px 4px;border-radius:3px;font-family:inherit;font-size:10px;width:100%}
+.pin-func select:focus{outline:none;border-color:var(--acc)}
+
+.port-view-toggle{display:flex;gap:6px;margin-bottom:8px}
+.port-view-btn{flex:1;padding:6px 4px;text-align:center;font-size:10px;font-weight:700;
+  letter-spacing:.3px;border:1px solid var(--border);border-radius:4px;cursor:pointer;
+  color:var(--txt2);background:var(--bg3)}
+.port-view-btn.active{border-color:var(--acc);color:var(--acc);background:#00e67615}
+.jack-housing{display:none;background:transparent;border:0;padding:0;margin-bottom:8px}
+.jack-housing.show{display:block}
+.jack-cluster{margin-bottom:14px;text-align:center}
+.jack-cluster-title{color:var(--blue);font-weight:700;font-size:11px;
+  text-align:center;margin-bottom:8px;letter-spacing:.4px}
+.jack-cluster-box{background:var(--bg2);border:1px solid var(--border);
+  border-radius:12px;padding:10px;display:inline-grid;gap:7px;
+  --jack-sq:34px}
+.jack-num{position:relative;width:var(--jack-sq);height:var(--jack-sq);
+  border-radius:8px;display:flex;
+  align-items:center;justify-content:center;font-size:14px;font-weight:800;
+  color:#fff;text-shadow:0 1px 2px rgba(0,0,0,.55);cursor:pointer;
+  border:2px solid transparent;box-sizing:border-box}
+.jack-num:hover{border-color:var(--acc)}
+.jack-num.selected{border-color:var(--acc);box-shadow:0 0 0 2px var(--acc)}
+.jack-num.na{cursor:default;opacity:.35}
+.jack-num.na:hover{border-color:transparent}
+.jack-num.assigned::after{content:'';position:absolute;top:3px;right:3px;
+  width:6px;height:6px;border-radius:50%;background:var(--acc2);
+  box-shadow:0 0 0 1.5px rgba(0,0,0,.45)}
+@media(max-width:380px){.jack-cluster-box{--jack-sq:28px}.jack-num{font-size:12px}}
+.jack-caption{background:var(--bg3);border:1px solid var(--border);border-radius:6px;
+  padding:8px;font-size:11px;color:var(--txt);text-align:center;margin-bottom:10px;
+  min-height:14px}
+.jack-hint{color:var(--txt2);font-size:9px;text-align:center;margin-top:2px;line-height:1.6}
+#pin-grid.jack-mode{display:block}
+#pin-grid.jack-mode .pin-card{display:none}
+#pin-grid.jack-mode .pin-card.jack-shown{display:block}
+
+/* ── Remote Control (Ga ảo) ── */
+#sect-remote{border-color:var(--acc2)}
+#sect-remote.active{box-shadow:0 0 0 1px var(--acc2) inset}
+
+/* Slider Throttle — to, dễ kéo, mượt */
+.rc-slider{
+  flex:1; -webkit-appearance:none; appearance:none;
+  height:14px; border-radius:7px;
+  background:linear-gradient(90deg, var(--acc) 0%, var(--acc) var(--rc-pct,0%), var(--bg3) var(--rc-pct,0%), var(--bg3) 100%);
+  outline:none; touch-action:none; cursor:pointer;
+}
+.rc-slider::-webkit-slider-thumb{
+  -webkit-appearance:none; appearance:none;
+  width:30px; height:30px; border-radius:50%;
+  background:var(--acc); cursor:pointer;
+  border:3px solid var(--bg2);
+  box-shadow:0 2px 6px rgba(0,0,0,.5);
+  transition:transform .1s;
+}
+.rc-slider::-webkit-slider-thumb:active{ transform:scale(1.15); }
+.rc-slider::-moz-range-thumb{
+  width:30px; height:30px; border-radius:50%;
+  background:var(--acc); cursor:pointer;
+  border:3px solid var(--bg2);
+  box-shadow:0 2px 6px rgba(0,0,0,.5);
+}
+.rc-slider::-moz-range-track{ height:14px; border-radius:7px; background:var(--bg3); }
+#rc-body:not([style*="pointer-events:none"]) .rc-slider::-webkit-slider-thumb{ cursor:grab; }
+
+/* Settings tab */
+.sett-card{background:var(--bg2);border:1px solid var(--border);border-radius:5px;
+  padding:12px;max-width:480px;margin:0 auto}
+.sett-card .field label{min-width:140px}
+.sett-note{background:#ffab0015;border:1px solid var(--acc2);border-radius:4px;
+  padding:8px 10px;font-size:11px;color:var(--acc2);margin-top:10px;line-height:1.7}
+.lang-btn{min-width:120px;padding:7px 10px;font-size:12px}
+.lang-btn.active{background:var(--acc);color:#000;border-color:var(--acc)}
+.unit-btn{min-width:120px;padding:7px 10px;font-size:12px}
+.unit-btn.active{background:var(--acc);color:#000;border-color:var(--acc)}
+
+/* Theme picker */
+.theme-swatch{
+  display:flex;flex-direction:column;align-items:center;gap:6px;
+  padding:8px 4px;border-radius:6px;border:2px solid var(--border);
+  background:var(--bg3);cursor:pointer;transition:.15s}
+.theme-swatch:active{transform:scale(.96)}
+.theme-swatch.active{border-color:var(--acc)}
+.theme-swatch-preview{
+  width:100%;height:32px;border-radius:4px;display:flex;overflow:hidden;
+  border:1px solid rgba(255,255,255,.08)}
+.theme-swatch-preview span{flex:1}
+.theme-swatch-name{font-size:10px;color:var(--txt2);font-weight:700}
+.theme-swatch.active .theme-swatch-name{color:var(--acc)}
+</style>
+</head>
+<body>
+<div id="wp-bg-layer"></div>
+
+<!-- ══ HEADER ══ -->
+<div class="hdr">
+  <span class="hdr-logo">&#x26A1; VOTOL LOLI</span>
+  <span style="color:var(--blue);font-size:10px">Direct BT</span>
+  <span class="sw-ver" id="sw-ver">SW: -- | HW: --</span>
+</div>
+<div id="prog-bar"><div id="prog-fill"></div></div>
+
+<!-- ══ CONNECTION ROW ══ -->
+<div class="conn-row">
+  <div class="conn-dot" id="conn-dot"></div>
+  <span id="conn-txt" style="font-size:10px;color:var(--txt2)" data-i18n="conn_none">Chưa kết nối</span>
+  <button class="btn btn-acc"   id="btn-read"  onclick="cmdRead()"   disabled style="display:none"><span data-i18n="btn_read">&#x1F50C; Đọc</span></button>
+  <button id="btn-esp32c3-baud-read" class="btn btn-acc" disabled onclick="cmdReadAfterBaud()">
+   <span data-i18n="btn_esp32c3_read">&#x1F4E5; Đọc tham số</span></button>
+  <button class="btn btn-warn"  id="btn-write" onclick="cmdWrite()"  disabled><span data-i18n="btn_write">&#x270E; Ghi</span></button>
+  <button class="btn btn-ghost" id="btn-poll"  onclick="togglePoll()" style="display:none"><span data-i18n="btn_live">&#x1F4E1; Live</span></button>
+  <div class="statusbar" id="statusbar" data-i18n="status_wait_bt">Chờ Bluetooth...</div>
+</div>
+
+<!-- ══ BLUETOOTH PANEL ══ -->
+<!-- ══ TABS ══ -->
+<div class="tabs">
+  <div class="tab active" onclick="showTab('p1')" data-i18n="tab_p1">PAGE 1</div>
+  <div class="tab" onclick="showTab('p2')" data-i18n="tab_p2">PAGE 2</div>
+  <div class="tab" onclick="showTab('p3')" data-i18n="tab_p3">PAGE 3</div>
+  <div class="tab" onclick="showTab('port')" data-i18n="tab_port">PORT</div>
+  <div class="tab" onclick="showTab('disp')" data-i18n="tab_disp">DISPLAY</div>
+  <div class="tab" onclick="showTab('sett')"><span data-i18n="tab_sett">&#x1F4F1; BT/Setting</span></div>
+</div>
+
+<!-- ══════════════ PAGE 1 ══════════════ -->
+<div class="page active" id="tab-p1">
+<div class="row2">
+ <div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p1_basic">Cài đặt cơ bản</div>
+   <div class="field"><label data-i18n="p1_model">Model:</label>
+    <select id="f_model" onchange="encPkt()">
+     <option value="5">EM-30s</option><option value="10">EM-50s</option>
+     <option value="20" selected>EM-100s</option><option value="30">EM-150s</option>
+     <option value="40">EM-200s</option>
+    </select></div>
+   <div class="field"><label data-i18n="p1_batv">Điện áp pin:</label>
+    <select id="f_batv" onchange="encPkt()">
+     <option value="0">48V</option><option value="1">60V</option>
+     <option value="2">72V</option><option value="3">84V</option>
+     <option value="4" selected>96V</option>
+    </select></div>
+   <div class="field"><label data-i18n="p1_ovv">Quá áp (V):</label><input type="number" id="f_ovv" step="0.1" onchange="encPkt()"><span class="unit">V</span></div>
+   <div class="field"><label data-i18n="p1_uv">Thiếu áp (V):</label><input type="number" id="f_uv" step="0.1" onchange="encPkt()"><span class="unit">V</span></div>
+   <div class="field"><label data-i18n="p1_suv">Thiếu áp mềm:</label><input type="number" id="f_suv" step="0.1" onchange="encPkt()"><span class="unit">V</span></div>
+   <div class="field"><label data-i18n="p1_uvvar">Biến đổi thiếu áp:</label><input type="number" id="f_uvvar" step="0.1" onchange="encPkt()"><span class="unit">V</span></div>
+   <div class="field"><label data-i18n="p1_regen">Dòng tái sinh (A):</label><input type="number" id="f_regen" onchange="encPkt()"><span class="unit">A</span></div>
+   <div class="field"><label data-i18n="p1_phase">Dòng pha:</label><input type="number" id="f_phase" onchange="encPkt()"></div>
+  </div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p1_cal">Hiệu chuẩn</div>
+   <div class="field"><label data-i18n="p1_volcal">Hiệu chuẩn áp (1120):</label><input type="number" id="f_volcal" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p1_curcal">Hiệu chuẩn dòng (225):</label><input type="number" id="f_curcal" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p3_wfcal">Weak flux cal:</label><input type="number" id="f_wfcal" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p1_swver">SW | HW:</label>
+    <input type="text" id="f_swver" readonly style="width:48px">
+    <input type="text" id="f_hwver" readonly style="width:48px">
+   </div>
+  </div>
+ </div>
+ <div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p1_throttle_v">Điện áp tay ga (max 5.5V)</div>
+   <div class="field"><label data-i18n="p1_thlp">Bảo vệ thấp:</label><input type="number" id="f_thlp" step="0.01" onchange="encPkt()"><span class="unit">V</span></div>
+   <div class="field"><label data-i18n="p1_thst">Điện áp bắt đầu:</label><input type="number" id="f_thst" step="0.01" onchange="encPkt()"><span class="unit">V</span></div>
+   <div class="field"><label data-i18n="p1_then">Điện áp kết thúc:</label><input type="number" id="f_then" step="0.01" onchange="encPkt()"><span class="unit">V</span></div>
+   <div class="field"><label data-i18n="p1_thhp">Bảo vệ cao:</label><input type="number" id="f_thhp" step="0.01" onchange="encPkt()"><span class="unit">V</span></div>
+  </div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p1_startup">Cài đặt khởi động</div>
+   <div class="field"><label data-i18n="p1_strtq">Mô men khởi động:</label><input type="number" id="f_strtq" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p1_combtq">Mô men kết hợp:</label><input type="number" id="f_combtq" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p1_rise">Tỷ lệ tăng:</label><input type="number" id="f_rise" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p1_decline">Tỷ lệ giảm:</label><input type="number" id="f_decline" onchange="encPkt()"></div>
+  </div>
+ </div>
+</div>
+</div>
+
+<!-- ══════════════ PAGE 2 ══════════════ -->
+<div class="page" id="tab-p2">
+<div class="row2">
+ <div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p2_current">Dòng điện / Suy yếu từ thông</div>
+   <div class="field"><label data-i18n="p2_maxcur">Dòng tối đa (A):</label><input type="number" id="f_maxcur" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p2_fluxw">Suy yếu từ thông:</label>
+    <input type="number" id="f_fluxw" style="width:60px" onchange="encPkt()">
+    <span style="color:var(--txt2);font-size:10px">KI</span>
+    <span class="tip-ic" data-tip-key="p2_ki" onclick="openTipModal('p2_ki')">!</span>
+    <input type="number" id="f_ki" style="width:60px" onchange="encPkt()">
+   </div>
+   <div class="field"><label data-i18n="p2_kp">KP - Mô men:</label><input type="number" id="f_kp" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p2_kd">KD / Vượt giới hạn (%):</label><input type="number" id="f_kd" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p2_stph">Dòng pha khởi động:</label><input type="number" id="f_stph" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p2_limph">Giới hạn dòng pha:</label><input type="number" id="f_limph" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p2_limtm">Thời gian bảo vệ (s):</label><input type="number" id="f_limtm" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p2_mtpa">MTPA ~15 hub motor:</label><input type="number" id="f_mtpa" onchange="encPkt()"></div>
+  </div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p2_hhc">Tốc độ không đổi / HHC</div>
+   <div class="field"><label data-i18n="p2_hhc_en">Bật HHC (giữ dốc):</label><input type="checkbox" id="f_hhc" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p2_hdc">Tốc độ không đổi (HDC):</label><input type="checkbox" id="f_hdc" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p2_maxrpm">Giới hạn RPM:</label><input type="number" id="f_maxrpm" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p2_sportoff">Tự thoát số S:</label><input type="checkbox" id="f_sportoff" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p2_logout">Thời gian thoát (s):</label><input type="number" id="f_logout" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p2_recovery">Thời gian phục hồi (s):</label><input type="number" id="f_recovery" onchange="encPkt()"></div>
+  </div>
+ </div>
+ <div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p2_3spd">Ba tốc độ</div>
+   <div class="field"><label data-i18n="p2_low_rpm">Low RPM (%):</label>
+    <input type="number" id="f_low_rpm" style="width:55px" onchange="encPkt()">
+    <span style="color:var(--txt2);font-size:10px">Cur%</span>
+    <span class="tip-ic" data-tip-key="p2_low_cur" onclick="openTipModal('p2_low_cur')">!</span>
+    <input type="number" id="f_low_cur" style="width:50px" onchange="encPkt()">
+   </div>
+   <div class="field"><label data-i18n="p2_mid_rpm">Mid RPM (%):</label>
+    <input type="number" id="f_mid_rpm" style="width:55px" onchange="encPkt()">
+    <span style="color:var(--txt2);font-size:10px">Cur%</span>
+    <span class="tip-ic" data-tip-key="p2_mid_cur" onclick="openTipModal('p2_mid_cur')">!</span>
+    <input type="number" id="f_mid_cur" style="width:50px" onchange="encPkt()">
+   </div>
+   <div class="field"><label data-i18n="p2_high_rpm">High RPM (%):</label><input type="number" id="f_high_rpm" style="width:55px" onchange="encPkt()"></div>
+  </div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p2_btn_sw">Nút / Công tắc 3 tốc độ</div>
+   <div class="field"><label data-i18n="p2_ctrl_type">Kiểu điều khiển:</label>
+    <div class="rg">
+     <label><input type="radio" name="btnswitch" value="0" id="f_btn3spd" onchange="encPkt()"> <span data-i18n="p2_btn">Nút</span></label>
+     <label><input type="radio" name="btnswitch" value="1" id="f_sw3spd"  onchange="encPkt()"> <span data-i18n="p2_sw">Công tắc</span></label>
+    </div>
+   </div>
+  </div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p2_defgear">Số mặc định / Giới hạn tốc độ</div>
+   <div class="field"><label data-i18n="p2_defgear_lbl">Số mặc định:</label>
+    <div class="rg">
+     <label><input type="radio" name="defgear" value="8" id="f_gl" onchange="encPkt()"> <span data-i18n="gear_low">Thấp</span></label>
+     <label><input type="radio" name="defgear" value="4" id="f_gm" onchange="encPkt()"> <span data-i18n="gear_mid">Trung</span></label>
+     <label><input type="radio" name="defgear" value="2" id="f_gh" onchange="encPkt()"> <span data-i18n="gear_high">Cao</span></label>
+    </div>
+   </div>
+   <div class="field"><label data-i18n="p2_splim">Bật giới hạn tốc độ:</label><input type="checkbox" id="f_splim" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p2_spratio">Tỷ lệ tốc độ (%):</label><input type="number" id="f_spratio" onchange="encPkt()"></div>
+  </div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p2_softst">Khởi động mềm</div>
+   <div class="field"><label data-i18n="p2_softst_en">Bật khởi động mềm:</label><input type="checkbox" id="f_softst" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p2_ssg">Cấp khởi động mềm:</label>
+    <select id="f_ssg" onchange="encPkt()">
+     <option value="1">1</option><option value="2">2</option><option value="3">3</option>
+     <option value="4">4</option><option value="6">6</option><option value="8">8</option>
+     <option value="10">10</option><option value="12">12</option><option value="16">16</option>
+    </select>
+   </div>
+  </div>
+ </div>
+</div>
+</div>
+
+<!-- ══════════════ PAGE 3 ══════════════ -->
+<div class="page" id="tab-p3">
+<div class="row2">
+ <div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p3_motor">Cài đặt động cơ</div>
+   <div class="field"><label data-i18n="p3_dir">Chiều quay:</label>
+    <div class="rg">
+     <label><input type="radio" name="fwdrev" value="0" id="f_fwd" onchange="encPkt()"> <span data-i18n="p3_fwd">Thuận</span></label>
+     <label><input type="radio" name="fwdrev" value="1" id="f_rev" onchange="encPkt()"> <span data-i18n="p3_rev">Ngược</span></label>
+    </div>
+   </div>
+   <div class="field"><label data-i18n="p3_mtype">Loại động cơ:</label>
+    <div class="rg">
+     <label><input type="radio" name="mtype" value="0" id="f_surface" onchange="encPkt()"> <span data-i18n="p3_surface">Sao</span></label>
+     <label><input type="radio" name="mtype" value="1" id="f_vtype"   onchange="encPkt()"> <span data-i18n="p3_vtype">V-Tam giác</span></label>
+    </div>
+   </div>
+   <div class="field"><label data-i18n="p3_poles">Số cặp cực:</label><input type="number" id="f_poles" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p3_hall">Góc lệch pha (°):</label><input type="number" id="f_hall" min="-99" max="99" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p3_exchall">Đổi dây hall (V-XD):</label><input type="checkbox" id="f_exchall"  onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p3_excphase">Đổi dây pha (XD-XL):</label><input type="checkbox" id="f_excphase" onchange="encPkt()"></div>
+  </div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p3_temp">Nhiệt độ</div>
+   <div class="field"><label data-i18n="p3_tinit">Nhiệt độ ban đầu (°C):</label><input type="number" id="f_tinit" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p3_tover">Quá nhiệt (°C):</label><input type="number" id="f_tover" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p3_tmax">Nhiệt độ tối đa (°C):</label><input type="number" id="f_tmax" onchange="encPkt()"></div>
+   <div class="field field-w"><label data-i18n="p3_tc1">TC1 (giới hạn pha):</label><input type="number" id="f_tc1" onchange="encPkt()"></div>
+   <div class="field field-w"><label data-i18n="p3_tc2">TC2 (hệ số cản):</label><input type="number" id="f_tc2" onchange="encPkt()"></div>
+   <div class="field field-w"><label data-i18n="p3_tc3">TC3 (độ nhạy cảm biến):</label><input type="number" id="f_tc3" onchange="encPkt()"></div>
+  </div>
+ </div>
+ <div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p3_rev_ebs">Lùi / EBS</div>
+   <div class="field"><label data-i18n="p3_revspd">Giới hạn tốc độ lùi (%):</label><input type="number" id="f_revspd" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p3_ebs">Phanh tái sinh EBS (%):</label><input type="number" id="f_ebs" onchange="encPkt()"></div>
+  </div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p3_mvb">Hỗ trợ di chuyển (MVB)</div>
+   <div class="field"><label data-i18n="p3_mvb_en">Bật MVB:</label><input type="checkbox" id="f_mvb" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p3_mvbspd">Tỷ lệ tốc độ (%):</label><input type="number" id="f_mvbspd" step="0.1" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p3_mvbtq">Mô men hỗ trợ:</label><input type="number" id="f_mvbtq" onchange="encPkt()"></div>
+  </div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p3_spdo">Đồng hồ tốc độ / Khác</div>
+   <div class="field"><label data-i18n="p3_spdo_lbl">Đồng hồ tốc độ:</label>
+    <div class="rg">
+     <label><input type="radio" name="outtype" id="f_onelin"  onchange="encPkt()"> One-Lin</label>
+     <label><input type="radio" name="outtype" id="f_hallspd" onchange="encPkt()"> Hall</label>
+    </div>
+   </div>
+   <div class="field"><label data-i18n="p3_noise">Giảm tiếng ồn:</label><input type="checkbox" id="f_noise" onchange="encPkt()"></div>
+  </div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p3_wheel">Bánh xe (tính tốc độ thực tế)</div>
+   <div class="field"><label data-i18n="p3_wheel_tire">Thông số bánh (vd 90/90-10):</label><input type="text" id="f_wheel_tire" placeholder="90/90-10" onchange="onWheelTireChange()"></div>
+   <div class="field"><label data-i18n="p3_wheel_circ">Chu vi bánh (mm):</label><input type="number" id="f_wheel_circ" step="1" min="1" onchange="onWheelCircChange()"></div>
+   <div class="field"><label data-i18n="p3_wheel_ratio">Tỷ số truyền (motor:bánh):</label><input type="number" id="f_wheel_ratio" step="0.01" min="0.01" value="1" onchange="onWheelRatioChange()"></div>
+   <div style="color:var(--txt2);font-size:10px;margin-top:4px" data-i18n="p3_wheel_note">
+    Điền thông số bánh in trên vỏ lốp (dạng rộng/tỷ lệ-vành, vd 90/90-10) để tự tính chu vi, hoặc điền thẳng chu vi đo thực tế nếu biết. Tỷ số truyền = 1 nếu là hub motor (motor gắn liền bánh); nếu là mid-drive qua hộp số/xích thì điền số vòng motor quay ứng với 1 vòng bánh. Dùng để quy đổi RPM sang tốc độ (km/h) ở tab DISPLAY. Lưu riêng trên máy, không ghi vào Votol.
+   </div>
+  </div>
+  <div class="sect">
+   <div class="sect-title" data-i18n="p3_adv">Nâng cao</div>
+   <div class="field"><label data-i18n="p3_secboot">Secure boot:</label><input type="checkbox" id="f_secboot" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p3_cruise">Cruise control:</label><input type="checkbox" id="f_cruise2" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p3_dvolt">Double voltage:</label><input type="checkbox" id="f_dvolt" onchange="encPkt()"></div>
+   <div class="field"><label data-i18n="p3_dvlvl">DV level:</label>
+    <div class="rg">
+     <label><input type="radio" name="dvlvl" id="f_dvlow"  onchange="encPkt()"> Low</label>
+     <label><input type="radio" name="dvlvl" id="f_dvhigh" onchange="encPkt()"> High</label>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+</div>
+
+<!-- ══════════════ PORT SETTINGS ══════════════ -->
+<div class="page" id="tab-port">
+<div class="sect" style="margin-bottom:6px">
+ <div class="sect-title" style="display:flex;align-items:center;gap:5px">
+  <span data-i18n="port_title">Cài đặt cổng GPIO (Packet 5 &amp; 6)</span>
+  <span class="tip-ic" data-tip-key="port_title" onclick="openTipModal('port_title')">!</span>
+ </div>
+ <div style="color:var(--txt2);font-size:10px;margin-bottom:6px" data-i18n="port_legend">
+  IO=IO mode | SW=Switch | LA=Logic active | F=Float | U=Pull-up | D=Pull-down
+ </div>
+
+ <div class="port-view-toggle">
+  <div class="port-view-btn" id="pv-btn-list" onclick="setPortView('list')" data-i18n="port_view_list">📋 Danh sách</div>
+  <div class="port-view-btn" id="pv-btn-jack" onclick="setPortView('jack')" data-i18n="port_view_jack">🔌 Sơ đồ jack</div>
+ </div>
+
+ <div class="jack-housing" id="jack-housing">
+  <div class="jack-caption" id="jack-caption" data-i18n="port_jack_caption_default">Chạm vào 1 chân để xem chi tiết</div>
+
+  <div class="jack-cluster">
+   <div class="jack-cluster-title">L1 · MAIN FUNCTION (16-PIN)</div>
+   <div class="jack-cluster-box" id="jack-grid-l1"></div>
+  </div>
+
+  <div class="jack-cluster">
+   <div class="jack-cluster-title">L3 · BURGLAR &amp; SAFETY (8-PIN)</div>
+   <div class="jack-cluster-box" id="jack-grid-l3"></div>
+  </div>
+
+  <div class="jack-cluster">
+   <div class="jack-cluster-title">L2 · MOTOR HALL (6-PIN)</div>
+   <div class="jack-cluster-box" id="jack-grid-l2"></div>
+  </div>
+
+  <div class="jack-hint" data-i18n="port_jack_hint">
+   Vị trí, số thứ tự &amp; màu dây theo sơ đồ gốc Votol (EM-30S/50/100/150). L1 (16 chân) là đầu nối cấu hình được qua app — bấm vào 1 số để chỉnh bên dưới; ô mờ trong L1 là chân cố định (nguồn/GND/UART/tín hiệu ga). L3 (Báo động) và L2 (Hall động cơ) chỉ mang tính tham khảo dây, không cấu hình được qua app này. Chấm cam = chân đã gán chức năng. 7 chân MCU khác app hỗ trợ (JTCK, SWD, PA11, PC15, PA15, PB2, PD15) không nằm trên đầu nối L1 chuẩn — xem ở chế độ Danh sách. Đối chiếu màu dây thực tế trên xe trước khi đấu, vì có thể khác theo đời IC/dòng xe.
+  </div>
+ </div>
+
+ <div class="pin-grid" id="pin-grid"></div>
+</div>
+</div>
+
+<!-- ══════════════ DISPLAY ══════════════ -->
+<div class="page" id="tab-disp">
+<div class="gauge-row">
+ <div class="gauge rpm"> <div class="gauge-lbl">RPM</div><div class="gauge-val" id="d_rpm">--</div></div>
+ <div class="gauge volt"><div class="gauge-lbl">VOL</div><div class="gauge-val" id="d_volt">--</div><div class="gauge-unit">V</div></div>
+ <div class="gauge cur"> <div class="gauge-lbl">CUR</div><div class="gauge-val" id="d_cur">--</div><div class="gauge-unit">A</div></div>
+ <div class="gauge temp"><div class="gauge-lbl" data-i18n="disp_ctl_temp">CTL°C</div><div class="gauge-val" id="d_ict">--</div></div>
+ <div class="gauge temp"><div class="gauge-lbl" data-i18n="disp_mot_temp">MOT°C</div><div class="gauge-val" id="d_mot">--</div></div>
+ <div class="gauge speed"><div class="gauge-lbl" data-i18n="disp_speed">TỐC ĐỘ</div><div class="gauge-val" id="d_speed">--</div><div class="gauge-unit" id="d_speed_unit">km/h</div></div>
+</div>
+<div class="row2">
+ <div class="sect">
+  <div class="sect-title" data-i18n="disp_fault">Hiển thị lỗi</div>
+  <div class="fault-list">
+   <div class="fault-item" id="fd_brake">    <span class="dot"></span>0x001 <span data-i18n="fd_brake">Tay Phanh</span></div>
+   <div class="fault-item" id="fd_hwoc">     <span class="dot"></span>0x002 <span data-i18n="fd_hwoc">Quá Tải</span></div>
+   <div class="fault-item" id="fd_underv">   <span class="dot"></span>0x004 <span data-i18n="fd_underv">Thấp áp</span></div>
+   <div class="fault-item" id="fd_motorhall"><span class="dot"></span>0x008 <span data-i18n="fd_motorhall">Mất Hall</span></div>
+   <div class="fault-item" id="fd_overv">    <span class="dot"></span>0x010 <span data-i18n="fd_overv">Quá áp</span></div>
+   <div class="fault-item" id="fd_hall">     <span class="dot"></span>0x080 <span data-i18n="fd_hall">Tay Ga</span></div>
+   <div class="fault-item" id="fd_eeprom">   <span class="dot"></span>0x200 EEPROM</div>
+   <div class="fault-item" id="fd_outctrl">  <span class="dot"></span>0x800 <span data-i18n="fd_outctrl">RPM mất KS</span></div>
+   <div class="fault-item" id="fd_overheat"> <span class="dot"></span>0x1000 <span data-i18n="fd_overheat">Quá nhiệt IC</span></div>
+   <div class="fault-item" id="fd_brkerr">   <span class="dot"></span>0x20000 Brake Err</div>
+   <div class="fault-item" id="fd_mcuchip">  <span class="dot"></span>0x800000 MCU ERR!</div>
+   <div class="fault-item" id="fd_motoheat"> <span class="dot"></span>0x8000000 <span data-i18n="fd_motoheat">Motor°C</span></div>
+  </div>
+  <div style="margin-top:6px;display:flex;gap:6px;align-items:center">
+   <span style="color:var(--txt2);font-size:10px">Fault:</span>
+   <code id="d_fault" style="color:var(--red);background:var(--bg3);padding:1px 6px;border-radius:3px;font-size:11px">0x00000000</code>
+  </div>
+ </div>
+</div>
+
+<!-- ── GA ẢO (Remote Control) ── -->
+<div class="sect" id="sect-remote">
+ <div class="sect-title" style="display:flex;align-items:center;justify-content:space-between">
+  <span data-i18n="rc_title">&#x1F3AE; Ga ảo (Remote Control)</span>
+  <label style="display:flex;align-items:center;gap:5px;cursor:pointer;text-transform:none;font-weight:400">
+   <input type="checkbox" id="rc_enable" onchange="onRemoteToggle()">
+   <span style="color:var(--txt2);font-size:10px" data-i18n="rc_on">Bật</span>
+  </label>
+ </div>
+ <div id="rc-body" style="opacity:.4;pointer-events:none;transition:.2s">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">
+   <span style="color:var(--txt2);font-size:11px;min-width:55px" data-i18n="rc_throttle_lbl">Throttle</span>
+   <input type="range" id="rc_throttle" class="rc-slider" min="0" max="5.5" step="0.01" value="0"
+     oninput="onRemoteChange()">
+   <span id="rc_throttle_val" style="color:var(--acc);font-size:15px;font-weight:700;min-width:58px;text-align:right">0.00 V</span>
+  </div>
+  <div style="display:flex;justify-content:space-between;color:var(--txt2);font-size:9px;margin-bottom:10px;padding:0 63px 0 55px">
+   <span id="rc_scale_min">0V</span><span id="rc_scale_mid">2.75V</span><span id="rc_scale_max">5.5V</span>
+  </div>
+  <div class="field">
+   <label data-i18n="rc_gear_lbl">Gear:</label>
+   <div class="rg">
+    <label><input type="radio" name="rc_gear" value="0" id="rc_gl" checked onchange="onRemoteChange()"> L</label>
+    <label><input type="radio" name="rc_gear" value="1" id="rc_gm" onchange="onRemoteChange()"> M</label>
+    <label><input type="radio" name="rc_gear" value="2" id="rc_gh" onchange="onRemoteChange()"> H</label>
+    <label><input type="radio" name="rc_gear" value="3" id="rc_gs" onchange="onRemoteChange()"> S</label>
+   </div>
+  </div>
+  <div class="field">
+   <label></label>
+   <div class="rg" style="gap:14px">
+    <label><input type="checkbox" id="rc_brake" onchange="onRemoteChange()"> Brake</label>
+    <label><input type="checkbox" id="rc_lock"  onchange="onRemoteChange()"> Lock</label>
+   </div>
+  </div>
+ </div>
+</div>
+
+<div class="row2">
+ <div class="sect">
+  <div class="sect-title" data-i18n="disp_ic_status">Trạng thái IC</div>
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
+   <span style="color:var(--txt2);font-size:10px">Status:</span>
+   <span class="stat-badge" id="d_stat">IDLE</span>
+  </div>
+  <div class="gear-grid">
+   <div class="gear-btn" id="g_L" data-i18n="gear_low">Thấp</div>
+   <div class="gear-btn" id="g_M" data-i18n="gear_mid">Trung</div>
+   <div class="gear-btn" id="g_H" data-i18n="gear_high">Cao</div>
+   <div class="gear-btn" id="g_S">Sport</div>
+  </div>
+  <div style="display:flex;gap:4px;margin-top:4px;flex-wrap:wrap">
+   <div class="gear-btn" style="flex:1;text-align:center" id="g_R">R</div>
+   <div class="gear-btn" style="flex:1;text-align:center" id="g_P">P</div>
+   <div class="gear-btn" style="flex:1;text-align:center" id="g_Brake">Brake</div>
+   <div class="gear-btn" style="flex:1;text-align:center" id="g_ANT">ANT</div>
+   <div class="gear-btn" style="flex:1;text-align:center" id="g_Side">Side</div>
+   <div class="gear-btn" style="flex:1;text-align:center" id="g_Regen">Regen</div>
+  </div>
+ </div>
+</div>
+
+<!-- ── Đồ thị theo thời gian: Điện áp / Dòng điện / Công suất / Vòng tua ── -->
+<div class="sect">
+ <div class="sect-title" data-i18n="disp_scope_title">&#x1F4C8; Đồ thị theo thời gian</div>
+ <div class="scope-wrap">
+  <div class="scope-legend">
+   <div class="scope-legend-item" data-ch="volt">
+    <div class="scope-val" id="sc_volt_val">--</div>
+    <div class="scope-lbl" data-i18n="disp_sum_volt">Điện áp (V)</div>
+    <div class="scope-range" id="sc_volt_range">0 – 100</div>
+   </div>
+   <div class="scope-legend-item" data-ch="cur">
+    <div class="scope-val" id="sc_cur_val">--</div>
+    <div class="scope-lbl" data-i18n="disp_sum_cur">Dòng điện (A)</div>
+    <div class="scope-range" id="sc_cur_range">0 – 100</div>
+   </div>
+   <div class="scope-legend-item" data-ch="power">
+    <div class="scope-val" id="sc_power_val">--</div>
+    <div class="scope-lbl" data-i18n="disp_sum_power">Công suất (W)</div>
+    <div class="scope-range" id="sc_power_range">0 – 10000</div>
+   </div>
+   <div class="scope-legend-item" data-ch="rpm">
+    <div class="scope-val" id="sc_rpm_val">--</div>
+    <div class="scope-lbl" data-i18n="disp_sum_rpm">Vòng tua (RPM)</div>
+    <div class="scope-range" id="sc_rpm_range">0 – 1000</div>
+   </div>
+  </div>
+  <div class="scope-graph">
+   <canvas class="scope-canvas-main" id="sc_main_cv"></canvas>
+  </div>
+ </div>
+ <div class="custom-theme-note" data-i18n="disp_scope_note">Đồ thị tự cuộn theo thời gian khi đang Live, các đường bắt đầu từ 0 và chạy dần sang phải — mỗi thông số được quy về % theo dải giá trị riêng của nó (xem số bên cạnh).</div>
+</div>
+</div>
+
+
+<!-- ══════════════ INFO / SETTINGS ══════════════ -->
+<div class="page" id="tab-sett">
+
+<!-- ── 1. Bluetooth Kết nối ── -->
+<div class="sect" style="margin-bottom:8px">
+ <div class="sect-title" data-i18n="bt_panel_title">&#x1F4F1; Bluetooth — tự nhận diện SPP/BLE</div>
+
+ <!-- Dot trạng thái + tên thiết bị -->
+ <div style="display:flex;align-items:center;gap:7px;margin-bottom:8px;
+  background:var(--bg3);border-radius:4px;padding:6px 9px">
+  <div id="conn-dot-sett" style="width:9px;height:9px;border-radius:50%;
+   background:var(--red);flex-shrink:0;transition:.3s"></div>
+  <span id="conn-txt-sett" style="font-size:12px;font-weight:700;flex:1;color:var(--txt)"
+   data-i18n="conn_none">Chưa kết nối</span>
+  <button class="btn btn-sm btn-ghost" style="color:var(--red);border-color:var(--red)"
+   id="btn-bt-disc" onclick="anyDisconnect()" disabled>
+   <span data-i18n="btn_disconnect">&#x274C; Ngắt</span>
+  </button>
+ </div>
+
+ <!-- Nút Quét / Kết nối -->
+ <div style="display:flex;gap:6px;margin-bottom:8px">
+  <button class="btn btn-blue" id="btn-bt-scan" onclick="btScan()"><span data-i18n="btn_scan">&#x1F50D; Quét BT</span></button>
+  <button class="btn btn-acc" id="btn-bt-connect" onclick="btConnect()" disabled>
+   <span data-i18n="btn_connect">&#x1F517; Kết nối</span>
+  </button>
+ </div>
+
+ <!-- Danh sách thiết bị -->
+ <div id="bt-device-list" class="bt-device-list">
+  <span class="bt-empty" data-i18n="bt_empty_hint">Bấm "Quét BT" để tìm JDY-31/33, JDY-23, HC-05/06, HM-10...</span>
+ </div>
+
+ <!-- Info thiết bị đã kết nối -->
+ <div style="margin-top:8px;display:flex;flex-wrap:wrap;gap:10px;font-size:10px;color:var(--txt2)">
+  <div><span data-i18n="sett_bt_device">Thiết bị:</span>
+   <span id="cur-bt-name" style="color:var(--acc);margin-left:3px">--</span></div>
+  <div><span data-i18n="sett_bt_mac">MAC:</span>
+   <span id="cur-bt-addr" style="color:var(--blue);margin-left:3px">--</span></div>
+  <div><span data-i18n="sett_fw_ver">FW:</span>
+   <span id="sw-ver2" style="color:var(--txt2);margin-left:3px">--</span></div>
+ </div>
+
+ <!-- Đổi baudrate UART — chỉ mở khoá khi nhận diện ESP32-C3 Super Mini -->
+ <div id="esp32c3-baud-box" class="baud-box locked">
+  <div id="esp32c3-baud-hint" data-i18n="esp32c3_baud_locked">
+   &#x1F512; Đổi baudrate UART — chỉ khả dụng khi kết nối ESP32-C3 Super Mini
+  </div>
+  <div style="display:flex;align-items:center;gap:8px;margin-top:6px">
+   <span data-i18n="esp32c3_baud_label" style="font-size:11px;color:var(--txt2)">Baudrate:</span>
+   <select id="esp32c3-baud-select" class="baud-select" disabled onchange="setEsp32C3Baud(this.value,this)">
+    <option value="" selected disabled>-- chọn --</option>
+    <option value="9600">9600</option>
+    <option value="19200">19200</option>
+    <option value="115200">115200</option>
+    <option value="256000">256000</option>
+   </select>
+  </div>
+ </div>
+
+ <div style="margin-top:8px">
+  <button class="btn btn-sm btn-ghost" style="color:var(--red);border-color:var(--red)"
+   onclick="cmdReset()"><span data-i18n="btn_reset_votol">&#x26A0; Reset Votol</span></button>
+ </div>
+</div>
+
+<!-- ── 1a. USB OTG — kết nối trực tiếp qua UART TTL (không qua BT) ── -->
+<div class="sect" style="margin-bottom:8px">
+ <div class="sect-title" data-i18n="usb_panel_title">&#x1F50C; USB TO SERIAL TTL (OTG)</div>
+ <div class="custom-theme-note" data-i18n="usb_hint" style="margin-bottom:8px">
+  Nối thẳng cáp OTG + mạch chuyển USB-TTL (CH340/CP210x/FT232/PL2303) vào chân UART của IC Votol — không cần module BT.
+ </div>
+
+ <!-- USB DEVICE — chọn driver (AUTO tự dò, hoặc ép cụ thể) -->
+ <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;
+  background:var(--bg3);border-radius:4px;padding:8px 10px;cursor:pointer" onclick="usbOpenDriverDialog()">
+  <span style="font-size:11px;color:var(--txt2);flex:1" data-i18n="usb_device_lbl">USB DEVICE</span>
+  <span id="usb-driver-label" style="font-size:12px;color:var(--txt)">AUTO</span>
+  <span style="color:var(--txt2)">&rsaquo;</span>
+ </div>
+
+ <!-- Baud Rate — preset hoặc gõ tay số khác -->
+ <div style="display:flex;align-items:center;gap:8px;margin-bottom:10px">
+  <span data-i18n="usb_baud_lbl" style="font-size:11px;color:var(--txt2)">Baud Rate</span>
+  <select id="usb-baud-select" class="baud-select" onchange="usbOnBaudSelectChange(this)"></select>
+  <input type="number" id="usb-baud-custom" class="baud-select" style="display:none;width:90px"
+   min="50" step="1" placeholder="9600">
+ </div>
+
+ <button class="btn btn-acc" id="btn-usb-connect" onclick="usbConnect()">
+  <span data-i18n="btn_usb_connect">&#x1F50C; Kết nối USB</span></button>
+</div>
+
+<!-- Dialog chọn USB driver -->
+<div class="tip-modal-overlay" id="usb-driver-dialog" style="display:none" onclick="usbCloseDriverDialog(event)">
+ <div class="usb-dlg" onclick="event.stopPropagation()">
+  <div class="usb-dlg-title" data-i18n="usb_dialog_title">USB DEVICE</div>
+  <div id="usb-driver-list"></div>
+ </div>
+</div>
+
+<!-- ── 1b. Backup / Khôi phục thông số IC (.bin) ── -->
+<div class="sect" style="margin-bottom:8px">
+ <div class="sect-title" data-i18n="sett_binbackup_title">&#x1F4BE; Sao lưu / Khôi phục thông số (.bin)</div>
+ <div style="display:flex;gap:6px;flex-wrap:wrap">
+  <button class="btn btn-sm btn-acc" onclick="exportParamBin()">
+   <span data-i18n="btn_bin_export">&#x1F4E4; Xuất file .bin</span></button>
+  <button class="btn btn-sm btn-ghost" onclick="pickParamBin()">
+   <span data-i18n="btn_bin_import">&#x1F4E5; Nạp file .bin</span></button>
+  <input type="file" id="bin-file-input" accept=".bin,application/octet-stream" style="display:none" onchange="onParamBinFile(event)">
+ </div>
+ <div class="custom-theme-note" data-i18n="sett_binbackup_note">
+  Xuất toàn bộ 7 gói tham số IC hiện tại ra file .bin để lưu dự phòng hoặc nạp cho Votol khác cùng loại IC. File sẽ lưu vào thư mục Download của máy (Android) hoặc Documents (iOS) — mở app Files/Quản lý file để tìm. Cần đọc tham số (hoặc nạp file .bin) trước khi bấm Ghi để lưu vào IC.
+ </div>
+</div>
+
+<!-- ── 1c. Nạp firmware IC (.bin) qua YModem ── -->
+<div class="sect" style="margin-bottom:8px">
+ <div class="sect-title" data-i18n="sett_fwupdate_title">&#9889; Nạp firmware IC (.bin)</div>
+ <div style="display:flex;gap:6px;flex-wrap:wrap;align-items:center">
+  <button class="btn btn-sm btn-ghost" onclick="pickFwBinFile()">
+   <span data-i18n="btn_fw_pick">&#x1F4C2; Chọn file .bin</span></button>
+  <span id="fw-file-name" style="font-size:11px;color:var(--txt2)">--</span>
+  <input type="file" id="fw-file-input" accept=".bin,application/octet-stream" style="display:none" onchange="onFwBinFile(event)">
+ </div>
+ <div id="fw-progress-box" style="margin-top:8px;display:none">
+  <div style="display:flex;align-items:center;gap:8px">
+   <div style="flex:1;height:4px;background:var(--bg3);border-radius:2px;overflow:hidden">
+    <div id="fw-prog-fill" style="height:100%;background:var(--acc);width:0%;transition:width .2s"></div>
+   </div>
+   <span id="fw-prog-pct" style="font-size:11px;color:var(--txt2);min-width:32px;text-align:right">0%</span>
+  </div>
+ </div>
+ <div style="margin-top:8px">
+  <button class="btn btn-sm btn-ghost" style="color:var(--red);border-color:var(--red)"
+   id="btn-fw-upload" onclick="cmdUploadFirmware()" disabled>
+   <span data-i18n="btn_fw_upload">&#9889; Nạp firmware vào IC</span></button>
+ </div>
+ <div class="custom-theme-note" style="margin-top:6px;color:var(--red)" data-i18n="sett_fwupdate_note">
+  &#9888; CHỨC NĂNG THỬ NGHIỆM — nạp sai file hoặc mất kết nối giữa chừng có thể khiến IC không khởi động được, cần mạch nạp riêng (ST-Link/ISP) để phục hồi. Không tắt app, không tắt Bluetooth, không rời xa board trong lúc đang nạp. Chỉ dùng đúng file .bin dành cho đúng loại IC.
+ </div>
+</div>
+
+<!-- ── 1d. Tip Tool — gợi ý tham số ── -->
+<div class="sect" style="margin-bottom:8px">
+ <div class="sect-title" data-i18n="sett_tiptool_title">&#x1F4A1; Tip Tool — Gợi ý tham số</div>
+ <label style="display:flex;align-items:center;gap:8px;cursor:pointer;margin-bottom:6px">
+  <input type="checkbox" id="tip_tool_toggle" class="tiptool-toggle" onchange="onTipToolToggle(this)">
+  <span data-i18n="tiptool_toggle_lbl" style="font-size:12px">Bật gợi ý (!) bên cạnh mỗi tham số</span>
+ </label>
+ <div class="custom-theme-note" data-i18n="tiptool_note">
+  Khi bật, mỗi tham số ở PAGE 1 / PAGE 2 / PAGE 3 / PORT sẽ có một nút tròn nhỏ (!) — bấm vào để xem giải thích ý nghĩa của tham số đó.
+ </div>
+</div>
+
+<!-- ── 2. Ngôn ngữ ── -->
+<div class="sect" style="margin-bottom:8px">
+ <div class="sect-title" style="margin-bottom:8px" data-i18n="sett_lang_title">&#x1F310; Ngôn ngữ / Language</div>
+ <div style="display:flex;gap:8px">
+  <button class="btn btn-ghost lang-btn" id="lang-vi" onclick="setLanguage('vi')">&#x1F1FB;&#x1F1F3; Tiếng Việt</button>
+  <button class="btn btn-ghost lang-btn" id="lang-en" onclick="setLanguage('en')">&#x1F1EC;&#x1F1E7; English</button>
+ </div>
+</div>
+
+<!-- ── 2b. Đơn vị tốc độ ── -->
+<div class="sect" style="margin-bottom:8px">
+ <div class="sect-title" style="margin-bottom:8px" data-i18n="sett_speedunit_title">&#x1F3CE; Đơn vị tốc độ</div>
+ <div style="display:flex;gap:8px">
+  <button class="btn btn-ghost unit-btn" id="speedunit-kmh" onclick="setSpeedUnit('kmh')">km/h</button>
+  <button class="btn btn-ghost unit-btn" id="speedunit-mph" onclick="setSpeedUnit('mph')">mph</button>
+ </div>
+</div>
+
+<!-- ── 3. Giao diện / Theme ── -->
+<div class="sect" style="margin-bottom:8px">
+ <div class="sect-title" style="margin-bottom:8px" data-i18n="sett_theme_title">&#x1F3A8; Giao diện</div>
+
+ <div style="color:var(--txt2);font-size:10px;margin-bottom:6px" data-i18n="sett_theme_desc">Màu có sẵn</div>
+ <div id="theme-grid" style="display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-bottom:12px"></div>
+
+ <div style="color:var(--txt2);font-size:10px;margin-bottom:6px" data-i18n="sett_custom_color">Tùy chỉnh màu</div>
+ <div class="color-picker-grid">
+  <div class="color-row">
+   <label data-i18n="color_bg">Nền chính</label>
+   <div class="color-swatch" id="sw_bg"><input type="color" id="cp_bg" oninput="onColorPick('--bg',this.value)"></div>
+  </div>
+  <div class="color-row">
+   <label data-i18n="color_bg2">Nền phụ</label>
+   <div class="color-swatch" id="sw_bg2"><input type="color" id="cp_bg2" oninput="onColorPick('--bg2',this.value)"></div>
+  </div>
+  <div class="color-row">
+   <label data-i18n="color_acc">Màu nhấn</label>
+   <div class="color-swatch" id="sw_acc"><input type="color" id="cp_acc" oninput="onColorPick('--acc',this.value)"></div>
+  </div>
+  <div class="color-row">
+   <label data-i18n="color_acc2">Màu phụ</label>
+   <div class="color-swatch" id="sw_acc2"><input type="color" id="cp_acc2" oninput="onColorPick('--acc2',this.value)"></div>
+  </div>
+  <div class="color-row">
+   <label data-i18n="color_txt">Chữ chính</label>
+   <div class="color-swatch" id="sw_txt"><input type="color" id="cp_txt" oninput="onColorPick('--txt',this.value)"></div>
+  </div>
+  <div class="color-row">
+   <label data-i18n="color_border">Viền</label>
+   <div class="color-swatch" id="sw_border"><input type="color" id="cp_border" oninput="onColorPick('--border',this.value)"></div>
+  </div>
+ </div>
+ <div style="display:flex;gap:6px;margin-top:8px">
+  <button class="btn btn-sm btn-ghost" onclick="resetCustomColors()" data-i18n="btn_reset_colors">&#x21A9; Đặt lại</button>
+  <button class="btn btn-sm btn-ghost" onclick="saveCustomColors()"
+   style="color:var(--acc);border-color:var(--acc)" data-i18n="btn_save_colors">&#x1F4BE; Lưu màu</button>
+ </div>
+ <div class="custom-theme-note" data-i18n="color_note">Chọn màu tùy ý. Bấm "Lưu màu" để giữ lại khi tắt app.</div>
+
+ <!-- ── Ảnh nền (Wallpaper) ── -->
+ <div style="color:var(--txt2);font-size:10px;margin:12px 0 6px" data-i18n="sett_wallpaper_title">&#x1F5BC; Ảnh nền</div>
+ <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px">
+  <div id="wp-preview" style="width:52px;height:52px;border-radius:6px;border:1px solid var(--border);
+   background:var(--bg3) center/cover no-repeat;flex-shrink:0;display:flex;align-items:center;justify-content:center;
+   color:var(--txt2);font-size:8px;text-align:center;line-height:1.2;padding:2px">
+   <span id="wp-preview-txt" data-i18n="sett_wallpaper_none">Chưa có</span>
+  </div>
+  <div style="display:flex;flex-direction:column;gap:5px;flex:1;min-width:0">
+   <div style="display:flex;gap:6px;flex-wrap:wrap">
+    <button class="btn btn-sm btn-acc" onclick="pickWallpaper()">
+     <span data-i18n="btn_wallpaper_pick">&#x1F5BC; Chọn ảnh</span></button>
+    <button class="btn btn-sm btn-ghost" style="color:var(--red);border-color:var(--red)" id="btn-wp-remove"
+     onclick="removeWallpaper()" disabled><span data-i18n="btn_wallpaper_remove">&#x1F5D1; Xoá</span></button>
+   </div>
+   <input type="file" id="wp-file-input" accept="image/*" style="display:none" onchange="onWallpaperFile(event)">
+  </div>
+ </div>
+ <div class="field" style="margin-bottom:0">
+  <label data-i18n="sett_wallpaper_opacity" style="min-width:130px">Độ rõ khung</label>
+  <input type="range" id="wp-opacity" min="40" max="100" value="85" style="flex:1" oninput="onWallpaperOpacity(this.value)">
+  <span class="unit" id="wp-opacity-val">85%</span>
+ </div>
+ <div class="custom-theme-note" data-i18n="wallpaper_note">Ảnh lưu trên máy, chỉ áp dụng cho app này.</div>
+</div>
+
+<!-- ── 4. Ghi chú kết nối (SPP/BLE) ── -->
+<div class="sect" style="margin-bottom:8px">
+ <div class="sett-note" id="sett-note-text"></div>
+</div>
+
+</div>
+
+<!-- ══ TIP MODAL (popup gợi ý tham số) ══ -->
+<div class="tip-modal-overlay" id="tip-modal-overlay" onclick="closeTipModal()">
+ <div class="tip-modal" onclick="event.stopPropagation()">
+  <div class="tip-modal-head">
+   <span class="tip-modal-title" id="tip-modal-title"></span>
+   <span class="tip-modal-x" onclick="closeTipModal()">&times;</span>
+  </div>
+  <div class="tip-modal-body" id="tip-modal-body"></div>
+ </div>
+</div>
+
+<!-- ══ SCRIPTS ══ -->
+<script src="cordova.js"></script>
+<script src="js/bt-transport.js"></script>
+<script src="js/usb-transport.js"></script>
+<script src="js/votol_protocol.js"></script>
+<script src="js/votol_fw_update.js"></script>
+<script src="js/votol.js"></script>
+<script src="js/tip_tool.js"></script>
+</body>
+</html>
